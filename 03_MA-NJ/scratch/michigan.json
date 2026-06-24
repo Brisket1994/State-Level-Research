@@ -1,0 +1,291 @@
+{
+  "state": "Michigan",
+  "fields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found. Michigan statute does not impose a maximum term on a school district contract with a private student-transportation contractor. The Revised School Code (Act 451 of 1976) authorizes school boards to enter contracts with independent contractors and to enter agreements with public or private entities (MCL 380.11a) and specifically authorizes school district contracts with private persons to furnish transportation for nonresident pupils (MCL 380.1324). The Pupil Transportation Act (Act 187 of 1990) authorizes contracts with licensed motor carriers for occasional transport to school-related events and preserves prior MDE-authorized regular-route motor-bus uses (MCL 257.1810a). None of these specify a maximum award term. The general school-district procurement statute (MCL 380.1274) on its face reaches only 'supplies, materials, and equipment' (not services); the parallel ISD procurement statute (MCL 380.623a) is also limited to supplies/materials/equipment; and the construction-bidding statute (MCL 380.1267) reaches only construction/repair/renovation of school buildings — none sets a term cap for transportation-services contracts. The only express multi-year contract-duration cap in the procurement area applies to lease-purchase / title-retaining contracts for heating and cooking equipment (10 years) under MCL 380.1274(6) and to energy-conservation / operational-improvement lease-purchase agreements (20 years) under MCL 380.1274a — neither reaches transportation services. Term is otherwise left to local board discretion, subject to the board's general contracting authority under MCL 380.11a.",
+      "citation": "MCL 380.11a; MCL 380.1321; MCL 380.1324; MCL 257.1810a; MCL 380.1274 (does not reach services); MCL 380.623a (does not reach services); MCL 380.1267 (limited to construction)."
+    },
+    "rebidRequired": {
+      "value": "Not required by state statute. Michigan has no statute that requires a public school district to rebid a student-transportation services contract at term-end. The state-law competitive-bidding mandates apply to (i) construction, repair or renovation of school buildings (MCL 380.1267) and (ii) the purchase of 'supplies, materials, and equipment' over an annually adjusted threshold (MCL 380.1274 for school districts and PSAs; MCL 380.623a for ISDs; FY 2024-25 threshold $30,512 per MDE memo dated Oct. 10, 2024) — neither expressly reaches contracts for transportation services. The Michigan School Business Officials' (MSBO) 'Legal Overview of School Purchasing' states expressly: 'Procurement of Services — No express legal requirement under State law to seek competitive bids for services. However, exceptions apply: Federal funding used to pay or support services (ESSER & Food Service Contracts). Privatizing or outsourcing non-instructional service with \"unionized workforce\" - must give union the \"opportunity to bid on an equal basis as other bidders.\"' Federal procurement standards (2 CFR Part 200, the Uniform Guidance) attach only when federal funds pay for or support the service contract. CORRECTION TO STAGE 1: 2023 PA 115 and 2023 PA 143, each effective Feb. 13, 2024, REPEALED the prior MCL 423.215 prohibition on bargaining over a public school employer's decision to contract with a third party for noninstructional support services (e.g., transportation). The current MCL 423.215(3)(f) addresses 'the use of volunteers in providing services at its schools' — it does NOT bar bargaining over outsourcing transportation. The decision to outsource noninstructional services is therefore now a permissible subject of bargaining; the outsourcing district must allow the existing unionized workforce the opportunity to bid on an equal basis as other bidders (per MSBO guidance reflecting current PERA). None of this imposes a state-law competitive-bidding mandate on the transportation-services contract itself.",
+      "citation": "MCL 380.1267 (construction only); MCL 380.1274 (supplies/materials/equipment only); MCL 380.623a (ISD supplies/materials/equipment only); MCL 423.215 (current text after 2023 PA 115 and 2023 PA 143, both Eff. Feb. 13, 2024 — outsourcing of noninstructional services no longer a prohibited subject of bargaining); MDE, 'FY 2024-25 Thresholds for Competitive Bids, Posting Travel Expenses, and Value of Awards' (Oct. 10, 2024); MSBO, 'Legal Overview of School Purchasing' (Dec. 2022)."
+    },
+    "renewalMechanics": {
+      "value": "N/A under state statute. Michigan statute is silent on renewal mechanics for school-district student-transportation services contracts: no statute requires or authorizes a specific renewal mechanism (one-year extension, CPI/index escalator, fuel escalator, automatic rollover, mutual written agreement, agency approval, or board approval) for transportation services. Renewal terms are accordingly governed by the contract itself, local board policy, and the board's general contracting authority under MCL 380.11a. (For comparison, the statute does prescribe a specific renewal mechanic for an unrelated procurement category — energy-conservation / operational-improvement lease-purchase agreements under MCL 380.1274a, which the section authorizes as a 'multiyear contractual obligation that provides for automatic renewal unless positive action is taken by the board' to terminate — but that provision does not apply to transportation services.) Where district policy or RFPs in practice provide for one-year extensions or a fixed number of renewal options (e.g., 3-year initial term + 2 one-year extensions in observed district RFPs), that is district practice, not a state-law rule.",
+      "citation": "MCL 380.11a; MCL 380.1321; MCL 380.1324; MCL 257.1810a (state-law silence on transportation-service renewal mechanics); MCL 380.1274a (renewal mechanic exists only for energy-conservation/operational-improvement lease-purchase agreements, not transportation)."
+    },
+    "statutoryCitation": {
+      "value": "Primary authority — silence on contract term, rebid, and renewal for student-transportation services: Revised School Code, Act 451 of 1976: MCL 380.11a (general powers of school district; authority to hire, contract for, or terminate independent contractors and to enter agreements with public or private entities); MCL 380.1267 (construction-bidding statute — limited to construction/repair/renovation of school buildings); MCL 380.1274 (procurement of 'supplies, materials, and equipment' by school districts/PSAs — does not reach services; the 10-year heating/cooking lease-purchase cap is in subsection (6)); MCL 380.623a (ISD procurement of supplies/materials/equipment — does not reach services); MCL 380.1274a (energy-conservation/operational-improvement lease-purchase agreements — 20-year max, auto-renewal absent positive board action; does not reach transportation services); MCL 380.1321 (district duty to transport resident pupils); MCL 380.1324 (authority to contract with private persons to furnish transportation for nonresident pupils; not-less-than-actual-cost price floor); MCL 380.1751 (special-education contracts — content requirements; no term/bidding cap). Pupil Transportation Act, Act 187 of 1990: MCL 257.1810a (school may contract with licensed motor carrier for occasional transport; preserves prior MDE authorizations for regular-route motor-bus use). Public Employment Relations Act (PERA): MCL 423.215 (after 2023 PA 115 and 2023 PA 143, both Eff. Feb. 13, 2024, the prior prohibition on bargaining over a public school employer's decision to contract with a third party for noninstructional support services no longer appears; current subsection (3)(f) addresses use of volunteers).",
+      "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1274"
+    },
+    "districtVariance": {
+      "value": "Yes. Because state statute does not fix a maximum term, mandate a rebid, or prescribe renewal mechanics for transportation-services contracts, contract structure varies district-by-district. Districts that retain transportation in-house do not procure under these rules at all; districts that outsource set their own RFP terms, renewal options, and rebid cycles via local board policy (commonly via Thrun-drafted or MASB-supplied model purchasing policies adopted under MCL 380.11a). Observed district practice includes multi-year initial terms with one-year discretionary extensions; these are contractual, not statutory. CORRECTION TO STAGE 1: The Mackinac Center 'School Privatization Primer' is dated 2007; in its underlying 2006 survey, only about 23 conventional districts (~4.2 percent) contracted with private firms for bus services in Michigan — the 'roughly one-third outsource' figure cannot be sourced to Mackinac. Current outsourcing share for Michigan pupil transportation has not been verified from an authoritative source in this validation pass. No statewide MDE rule, AG opinion, or auditor finding was located requiring uniform application of a term, rebid, or renewal rule for transportation services contracts."
+    }
+  },
+  "specialEducation": {
+    "value": "No separate state-law contract-term, rebid, or renewal regime for special-education student transportation. MCL 380.1751 requires that special-education contracts (whether between districts/ISDs or with approved private providers) specify the buildings, equipment, personnel, transportation/room-and-board (as required under MCL 380.1756 and 380.1757), the sending district's financial contribution, and 'other matters the parties consider appropriate' — but it imposes no maximum term, no competitive-bidding requirement, and no renewal mechanic for special-education transportation. The Michigan Administrative Rules for Special Education (MARSE, R 340.1701-340.1873), including R 340.1810 (reimbursement of special-education transportation), address program/funding requirements rather than contract-procurement procedure. The IDEA-based federal duty to provide transportation as a 'related service' when required by the IEP affects the duty to transport, not the state-law contracting/procurement rules — i.e., it does not change the absence of a state-law term cap, rebid duty, or renewal mechanic. If federal funds (e.g., IDEA flow-through) pay for or support the contract, federal Uniform Guidance procurement standards (2 CFR Part 200) attach.",
+    "citation": "MCL 380.1751; MCL 380.1756; MCL 380.1757; MARSE (Mich. Admin. Code R 340.1701-340.1873), including R 340.1810; IDEA, 34 CFR 300.34 (related services include transportation); 2 CFR Part 200 (when federally funded).",
+    "verdict": "confirmed"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "statutoryCitation": "refuted",
+    "districtVariance": "refuted",
+    "specialEducation": "confirmed"
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term — 'No statutory maximum found.' Stage 1 read all relevant statutes and concluded none caps a transportation-services contract term.",
+      "disconfirmingHypothesis": "There may be a maximum term, a renewal-option cap, an annual-termination requirement, or an exception (e.g., 'notwithstanding,' 'may renew,' 'extension,' 'option,' 'successive,' 'multi-year,' 'not exceed,' 'annual termination') somewhere in the Revised School Code, Pupil Transportation Act, or another applicable statute that Stage 1 missed.",
+      "challengeSearches": "Re-opened MCL 380.1267, 380.1274, 380.1274a, 380.11a, 380.1321, 380.1324, 380.1751, 257.1810a, and Pupil Transportation Act PDF (Compiled Through PA 16 of 2026) directly. Searched for 'term', 'years', 'duration', 'not exceed', 'maximum', 'renewal', 'extension', 'option'. Web-searched 'Michigan school district transportation contract term length statute maximum years private contractor 2024 2025 2026' and 'Michigan AG opinion school transportation contract bid renewal'.",
+      "result": "No statute or AG opinion found capping the term of a school-district transportation-services contract. The 10-year cap in MCL 380.1274(6) applies to heating/cooking equipment title-retaining contracts; the 20-year cap in MCL 380.1274a is for energy-conservation/operational-improvement lease-purchase agreements. Neither reaches transportation services. Finding HOLDS.",
+      "state": "Michigan",
+      "confidenceImpact": "Verdict: confirmed. Confidence remains High on this field."
+    },
+    {
+      "findingChallenged": "Rebid Required at Term-End — 'Not required by state statute.' Stage 1 relied on MCL 380.1267/1274 limited scopes, MSBO guidance, and MCL 423.215(3)(f) as a managerial-right provision.",
+      "disconfirmingHypothesis": "(a) A mandatory-bidding requirement may exist in a school, procurement, public-contract, or district-purchasing statute that Stage 1 missed; (b) MCL 423.215(3)(f) may not say what Stage 1 claims; (c) the rule may have been amended after the Stage 1 code-currency date.",
+      "challengeSearches": "Re-opened MCL 380.1267, 380.1274, 380.623a, 423.215 directly (official PDFs and section pages). Re-opened MSBO 'Legal Overview of School Purchasing' PDF and confirmed the 'No express legal requirement under State law to seek competitive bids for services' quote at lines 153-157. Pulled MDE 'FY 2024-25 Thresholds' memo. Searched for 2023-2026 amendments to PERA.",
+      "result": "Substantive finding (no state-law rebid mandate on transportation services) HOLDS. BUT Stage 1's reliance on MCL 423.215(3)(f) is REFUTED. The current MCL 423.215(3)(f) reads 'The use of volunteers in providing services at its schools.' 2023 PA 115 and 2023 PA 143 (each Eff. Feb. 13, 2024) repealed the prior provisions that made the decision to contract with a third party for noninstructional support services a prohibited subject of bargaining. The decision to outsource is now bargainable; the union must be given the opportunity to bid on an equal basis as other bidders. None of this creates a competitive-bidding mandate on the contract itself. Threshold figure also corrected: FY 2024-25 threshold is $30,512 (not $29,572 — that was FY 2023-24). Substantive verdict on the rebid field: confirmed. Citation/reasoning correction adopted.",
+      "state": "Michigan",
+      "confidenceImpact": "Substantive finding confidence: High. Confidence reduced for Stage 1's PERA-based reasoning chain; corrected citation substituted."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics — 'N/A under state statute.' Stage 1 found no statute-prescribed renewal mechanic for transportation services contracts.",
+      "disconfirmingHypothesis": "There may be a CPI cap, fuel adjustment, board/state approval, annual appropriation, termination notice, or public-hearing requirement somewhere in school, procurement, or administrative code that prescribes a renewal mechanic for transportation services.",
+      "challengeSearches": "Re-opened MCL 380.11a, 380.1321, 380.1324, 257.1810a, 380.1274, 380.1274a, 380.1267, and 380.1751 directly. Reviewed Pupil Transportation Act PDF (Compiled Through PA 16 of 2026) section by section for any renewal-mechanic language for school-district contracts.",
+      "result": "No statute prescribing a renewal mechanic for student-transportation services contracts was located. The auto-renewal mechanic in MCL 380.1274a is confined to energy-conservation/operational-improvement lease-purchase agreements and does not reach transportation services. Finding HOLDS.",
+      "state": "Michigan",
+      "confidenceImpact": "Verdict: confirmed. Confidence remains High."
+    },
+    {
+      "findingChallenged": "Statutory Citation — Stage 1's compilation of primary authorities, particularly the use of MCL 423.215(3)(f) for the proposition that outsourcing is a prohibited subject of bargaining / managerial right; and the asserted last-amendment dates.",
+      "disconfirmingHypothesis": "(a) MCL 423.215(3)(f) may not be the right citation for the proposition stated; (b) statute may have been amended since Stage 1's code-currency check; (c) last-amendment dates Stage 1 reported for MCL 380.11a (2019 PA 142) may be wrong.",
+      "challengeSearches": "Pulled the official MCL 423.215 PDF (compiled through PA 16 of 2026); identified the current subsection (3)(f) as 'The use of volunteers in providing services at its schools' and the history line showing 2023 PA 115 and 2023 PA 143 (both Eff. Feb. 13, 2024). Re-opened MCL 380.11a — last amendment listed is 2016 PA 192 (not 2019 PA 142 as Stage 1 stated). Verified MCL 380.1274 subsection numbering — heating/cooking 10-year lease-purchase cap is in subsection (6), not (7). Confirmed MDE FY 2024-25 threshold is $30,512, not $29,572.",
+      "result": "Citation infrastructure REFUTED in three respects: (1) MCL 423.215(3)(f) does NOT support the 'outsourcing is a prohibited subject of bargaining' proposition (current text addresses volunteers; the prior prohibitions were repealed by 2023 PA 115 and 2023 PA 143, Eff. Feb. 13, 2024); (2) MCL 380.11a's last amendment per the official section page is 2016 PA 192, not 2019 PA 142; (3) the MCL 380.1274 heating/cooking 10-year provision is in subsection (6), not (7), and the FY 2024-25 competitive-bidding threshold is $30,512 (not $29,572 — that was FY 2023-24). Corrected statutory-citation text and accompanying field language adopted.",
+      "state": "Michigan",
+      "confidenceImpact": "Verdict: refuted on the cited-citation details (corrected findings adopted). Confidence in the corrected statutory-citation block: High."
+    },
+    {
+      "findingChallenged": "Special-Education Differentiation — Stage 1 concluded no separate state-law contract-term, rebid, or renewal regime for special-education student transportation.",
+      "disconfirmingHypothesis": "Specific provisions may exist for special-education, IEP, McKinney-Vento, foster-care, homeless-student, alternative, or disability transportation contracts that impose different rules.",
+      "challengeSearches": "Re-opened MCL 380.1751 directly. Downloaded and grepped MARSE PDF (R 340.1701 - R 340.1873) for 'transportation', 'contract', and 'R 340.1810'. Confirmed R 340.1810 is purely a reimbursement rule. Reviewed PTA and Revised School Code indexes for special-education-specific transportation contracting provisions.",
+      "result": "No separate state-law contract-procurement regime for special-education transportation located. R 340.1810 governs reimbursement of specialized transportation under the State School Aid Act, not contract term/bidding/renewal. Finding HOLDS.",
+      "state": "Michigan",
+      "confidenceImpact": "Verdict: confirmed. Confidence High."
+    },
+    {
+      "findingChallenged": "District Variance — Stage 1 concluded Yes, citing Mackinac Center for 'roughly one-third' outsourcing share.",
+      "disconfirmingHypothesis": "(a) Stage 1's 'roughly one-third' figure may not appear in the Mackinac source; (b) statewide uniformity (e.g., via MDE guidance, AG opinion, or auditor finding) may exist.",
+      "challengeSearches": "Re-fetched Mackinac S2007-07 — the 2006 survey it cites shows ~4.2 percent (23 districts) outsourced bus services, not one-third. Searched MDE website and AG-opinion materials for any binding statewide transportation-contracting rule.",
+      "result": "Substantive 'Yes' (district variance exists, given absence of state-law uniformity rule) HOLDS. BUT Stage 1's quantitative attribution ('roughly one-third for transportation, though figures vary by year and source') is REFUTED with respect to the Mackinac source — its underlying figure is ~4.2 percent (2006). Current statewide outsourcing share is not verified in this validation pass. Corrected language adopted (quantitative figure removed; variance conclusion retained).",
+      "state": "Michigan",
+      "confidenceImpact": "Verdict: refuted (corrected to remove unsupported quantitative claim). Substantive variance conclusion confidence: Medium-High."
+    },
+    {
+      "findingChallenged": "Currentness — Whether the cited sections have been amended, repealed, renumbered, or superseded after Stage 1's code-currency check.",
+      "disconfirmingHypothesis": "Recent (2024-2026) amendments may have changed the rules.",
+      "challengeSearches": "Pulled the official Pupil Transportation Act PDF (Compiled Through PA 16 of 2026, rendered June 9, 2026). Pulled MCL 423.215 PDF (Compiled Through PA 16 of 2026, rendered June 10, 2026). Web-searched for 2024 PA 163, 2024 PA 120, 2023 PA 115, 2023 PA 143, 2023 PA 9, and 2023 PA 147.",
+      "result": "Identified material currency corrections: 2023 PA 9, 2023 PA 115, and 2023 PA 143 (all Eff. Feb. 13, 2024) materially amended MCL 423.215. 2024 PA 163 (Eff. Apr. 2, 2025) amended MCL 257.1820 (stop-arm cameras), not MCL 257.1810a. MCL 257.1810a's last amendment remains 2006 PA 107. MCL 380.11a last amendment is 2016 PA 192 (not 2019 PA 142 as Stage 1 reported). 2024 PA 120 (school aid appropriations) does not amend Revised School Code transportation-contracting rules. No 2024-2026 amendment imposes a transportation-contract term cap, competitive-bidding mandate, or renewal mechanic.",
+      "state": "Michigan",
+      "confidenceImpact": "Currentness corrections adopted. Substantive findings unaffected. Confidence High on substantive holding; specific cited last-amendment dates corrected."
+    }
+  ],
+  "sourcesReVerified": [
+    "MCL 380.1267 (https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1267) — verified: construction/repair/renovation of school buildings only; threshold annually adjusted",
+    "MCL 380.1274 (https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1274) — verified: supplies/materials/equipment only; 10-year heating/cooking lease-purchase in subsection (6) (Stage 1 said (7) — corrected)",
+    "MCL 380.1274a (https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1274a) — verified: energy-conservation/operational-improvement lease-purchase; 20-year cap; auto-renewal absent positive board action; does not reach transportation services",
+    "MCL 380.11a (https://legislature.mi.gov/Laws/MCL?objectName=MCL-380-11A) — verified: general powers including authority to contract for and terminate independent contractors and to enter agreements with public/private entities; last amendment per section page is 2016 PA 192 (Stage 1's '2019 PA 142' corrected)",
+    "MCL 380.1321 (https://legislature.mi.gov/Laws/MCL?objectName=mcl-380-1321) — verified: district duty to transport; no contract term/bidding/renewal language; last amendment 2016 PA 428",
+    "MCL 380.1324 (https://legislature.mi.gov/Laws/MCL?objectName=mcl-380-1324) — verified: authorization to contract with private persons for nonresident-pupil transportation; not-less-than-actual-cost price floor; last amendment 1994 PA 416",
+    "MCL 257.1810a (https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-1810a and official PTA PDF https://www.legislature.mi.gov/documents/mcl/pdf/mcl-Act-187-of-1990.pdf) — verified: school may contract with licensed motor carrier for occasional transport; prior MDE regular-route authorizations preserved; last amendment 2006 PA 107 (web summary that 2024 PA 163 amended this section is wrong — 2024 PA 163 amended MCL 257.1820)",
+    "MCL 423.215 (https://www.legislature.mi.gov/documents/mcl/pdf/mcl-423-215.pdf) — verified: current subsection (3)(f) is 'The use of volunteers in providing services at its schools'; 2023 PA 115 and 2023 PA 143 (Eff. Feb. 13, 2024) removed the prior prohibitions; Stage 1's reading REFUTED",
+    "MCL 380.1751 (https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-380-1751) — verified: special-education contract content requirements; no term/bidding/renewal mandate",
+    "MARSE PDF (https://ars.apps.lara.state.mi.us/AdminCode/DownloadAdminCodeFile?FileName=R+340.1701+to+R+340.1873.pdf) — verified: R 340.1810 is reimbursement of special-education transportation; no contract term/bidding/renewal mandate",
+    "MDE FY 2024-25 Thresholds memo (https://www.michigan.gov/mde/-/media/Project/Websites/mde/Memos/2024/10/FY-2024-25-Thresholds.pdf) — verified: FY 2024-25 threshold for MCL 380.1267, 380.1274, 380.623a is $30,512 (Stage 1 said $29,572 — that was FY 2023-24; corrected)",
+    "MSBO 'Legal Overview of School Purchasing' (Dec. 2022) (https://www.msbo.org/wp-content/uploads/2022/12/Final-Presentation-Purchasing-Overview.pdf) — verified: contains the verbatim 'Procurement of Services — No express legal requirement under State law to seek competitive bids for services' statement; lists Transportation among services",
+    "MCL 380.623a (https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-380-623a) — verified (added in validation): ISD procurement statute; supplies/materials/equipment only",
+    "Mackinac Center S2007-07 (https://www.mackinac.org/S2007-07) — verified as 2007 publication; 2006 survey shows ~4.2 percent of conventional districts outsourced transportation (Stage 1's 'roughly one-third' attribution corrected)"
+  ],
+  "sourcesUnreachable": [],
+  "sourceLedger": [
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute (Revised School Code)",
+      "citation": "MCL 380.11a — General powers of school district (authority to contract for services and to enter cooperative arrangements).",
+      "officialUrl": "https://legislature.mi.gov/Laws/MCL?objectName=MCL-380-11A",
+      "codeCurrency": "Michigan Legislature site is current publishing authority; last amendment on section page: 2016 PA 192 (Eff. June 21, 2016) — Stage 1's 2019 PA 142 attribution corrected.",
+      "fieldsSupported": "Max Contract Term; Renewal Mechanics; Rebid; Statutory Citation",
+      "relevantText": "Authorizes 'Hiring, contracting for, scheduling, supervising, or terminating … independent contractors' and entering 'agreements, contracts, or other cooperative arrangements with other entities, public or private.' No term cap, bidding requirement, or renewal mechanic set in this section.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute",
+      "citation": "MCL 380.1267 — Competitive bidding for construction of school buildings.",
+      "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1267",
+      "codeCurrency": "Current on Michigan Legislature site as of 2026-06-24; threshold annually adjusted ($30,512 FY 2024-25 per MDE memo). Last amendment 2008 PA 540.",
+      "fieldsSupported": "Rebid (negative — scope does not reach transportation services); Statutory Citation",
+      "relevantText": "'Before commencing construction of a new school building, or addition to or repair or renovation of an existing school building … the board … shall obtain competitive bids on all the material and labor required for the complete construction …' Does not reach service contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute",
+      "citation": "MCL 380.1274 — Procurement of supplies, materials, and equipment (school districts and PSAs).",
+      "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1274",
+      "codeCurrency": "Current; threshold annually adjusted (FY 2024-25 threshold $30,512 per MDE memo dated Oct. 10, 2024).",
+      "fieldsSupported": "Max Contract Term; Rebid (negative — services excluded); Renewal Mechanics; Statutory Citation",
+      "relevantText": "Requires written procurement policy and competitive bids over the inflation-adjusted threshold for 'supplies, materials, and equipment.' Subsection (6) authorizes title-retaining contracts for heating and cooking equipment for not more than 10 years. Services (including transportation) are not within the statute's enumerated scope. (Stage 1's reference to subsection (7) corrected to (6).)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute",
+      "citation": "MCL 380.1274a — Energy conservation / operational improvements; lease-purchase agreements (up to 20 years; may auto-renew unless positive board action).",
+      "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-380-1274a",
+      "codeCurrency": "Current.",
+      "fieldsSupported": "Renewal Mechanics (negative — provision exists only for energy/operational lease-purchase, not transportation services); Max Contract Term (negative — 20-year cap not applicable to transportation)",
+      "relevantText": "Authorizes a 'multiyear contractual obligation that provides for automatic renewal unless positive action is taken by the board … to terminate that contract' for energy-conservation and operational-improvement lease-purchase agreements (up to 20 years). Does not reach transportation services.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute",
+      "citation": "MCL 380.623a — Intermediate school district procurement of supplies, materials, and equipment.",
+      "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-380-623a",
+      "codeCurrency": "Current; threshold annually adjusted (FY 2024-25 threshold $30,512 per MDE memo).",
+      "fieldsSupported": "Rebid (negative — services excluded); Statutory Citation",
+      "relevantText": "Parallel ISD procurement statute: requires written policy and competitive bids for supplies, materials, and equipment over the inflation-adjusted threshold. Does not reach services or transportation contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute",
+      "citation": "MCL 380.1321 — Transportation for pupils; district duty; payment.",
+      "officialUrl": "https://legislature.mi.gov/Laws/MCL?objectName=mcl-380-1321",
+      "codeCurrency": "Current; last amendment 2016 PA 428 (Eff. Apr. 4, 2017).",
+      "fieldsSupported": "Statutory Citation; (negative — no contract term/bid/renewal language)",
+      "relevantText": "Sets duty to transport resident pupils (public and nearest approved nonpublic) when the district provides transportation; addresses cost-free transport, distance exemptions, and out-of-district transport — does NOT address contract terms, bidding, or renewal.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute",
+      "citation": "MCL 380.1324 — Contracts to furnish transportation for nonresident pupils.",
+      "officialUrl": "https://legislature.mi.gov/Laws/MCL?objectName=mcl-380-1324",
+      "codeCurrency": "Current; last amended 1994 PA 416 (Eff. Mar. 30, 1995).",
+      "fieldsSupported": "Statutory Citation; District Variance",
+      "relevantText": "Authorizes school district board or PSA board to 'enter into a contract … with private persons to furnish transportation' for nonresident pupils, with a 'not less than actual cost' price floor. No term, rebid, or renewal mechanic prescribed.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute (Pupil Transportation Act)",
+      "citation": "MCL 257.1810a — Contract with motor carrier; authorization.",
+      "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-1810a",
+      "codeCurrency": "Current per section page and official PTA PDF (Compiled Through PA 16 of 2026, rendered June 9, 2026); last amendment 2006 PA 107 (Eff. Aug. 15, 2006). 2024 PA 163 amended MCL 257.1820 (stop-arm cameras) in the same act, NOT 1810a.",
+      "fieldsSupported": "Statutory Citation (transportation-specific authority); (negative — no term/bid/renewal cap)",
+      "relevantText": "'A school may contract with a licensed motor carrier of passengers for a motor bus to be used for occasional transportation of pupils to or from school-related events. A school shall not directly operate a motor bus for the use of pupil transportation to and from school or school-related events.' Prior MDE authorizations of regular-route motor-bus use remain effective for their authorized periods. No term cap, bidding, or renewal mechanic.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute (Pupil Transportation Act, Act 187 of 1990)",
+      "citation": "MCL 257.1801 et seq. — Pupil Transportation Act (regulates equipment, maintenance, operation, and use of school buses).",
+      "officialUrl": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-Act-187-of-1990.pdf",
+      "codeCurrency": "Official PDF compiled through PA 16 of 2026, rendered June 9, 2026.",
+      "fieldsSupported": "Statutory Citation (negative — no transportation-services contracting term/bid/renewal regime located)",
+      "relevantText": "Scope is bus equipment, driver qualifications, operations, and enforcement. Reviewed each section in PDF; no section imposes a contract term cap, mandates competitive bidding, or prescribes renewal mechanics for school-district contracts with private transportation contractors.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute (Public Employment Relations Act)",
+      "citation": "MCL 423.215 — Collective bargaining; prohibited subjects between public school employer and bargaining representative.",
+      "officialUrl": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-423-215.pdf",
+      "codeCurrency": "Official PDF compiled through PA 16 of 2026, rendered June 10, 2026. History line shows 2023 PA 9, 2023 PA 115, and 2023 PA 143, all Eff. Feb. 13, 2024.",
+      "fieldsSupported": "Rebid (corrects Stage 1's reasoning); District Variance",
+      "relevantText": "Current subsection (3)(f): 'The use of volunteers in providing services at its schools.' Current (3) does NOT include any prohibition on bargaining over a public school employer's decision to contract with a third party for noninstructional support services. 2023 PA 143 (Eff. Feb. 13, 2024) repealed the prior prohibition. The decision to outsource noninstructional services (e.g., transportation) is therefore now a permissible (not prohibited) subject of bargaining. None of this creates a state-law competitive-bidding requirement on the services contract itself.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 1 — Codified state statute (Revised School Code; special education)",
+      "citation": "MCL 380.1751 — Special education programs; contract content.",
+      "officialUrl": "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-380-1751",
+      "codeCurrency": "Current.",
+      "fieldsSupported": "Special-Education Differentiation",
+      "relevantText": "Requires special-education contracts to include buildings/equipment/personnel, transportation/room-and-board (per §§1756, 1757), the sending district's financial contribution, and other matters the parties consider appropriate. No max term, competitive-bidding rule, or renewal mechanic specific to special-education transportation contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 2 — State administrative rules (MARSE)",
+      "citation": "Mich. Admin. Code R 340.1701-340.1873 (Michigan Administrative Rules for Special Education), including R 340.1810 (reimbursement of special-education transportation).",
+      "officialUrl": "https://ars.apps.lara.state.mi.us/AdminCode/DownloadAdminCodeFile?FileName=R+340.1701+to+R+340.1873.pdf",
+      "codeCurrency": "MARSE PDF as published by MDE/LARA; rule numbering current; R 340.1810 history: 1980 AACS; 2002 AACS; 2008 AACS.",
+      "fieldsSupported": "Special-Education Differentiation",
+      "relevantText": "R 340.1810 (Rule 110): 'Specialized transportation or additional transportation, or both, as required in the individualized education program for a person with a disability to receive a free appropriate public education in the least restrictive educational environment, shall be reimbursable as authorized by 1979 PA 94, MCL 388.1601 et seq.' Reimbursement rule only; does not establish term/bid/renewal mandates for special-education transportation services contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 4 — Official MDE guidance / annual threshold memo",
+      "citation": "Michigan Department of Education, 'FY 2024-25 Thresholds for Competitive Bids, Posting Travel Expenses, and Value of Awards' (memo dated Oct. 10, 2024).",
+      "officialUrl": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Memos/2024/10/FY-2024-25-Thresholds.pdf",
+      "codeCurrency": "FY 2024-25.",
+      "fieldsSupported": "Rebid (threshold context)",
+      "relevantText": "Publishes inflation-adjusted competitive-bidding thresholds under MCL 380.1267 (construction), MCL 380.1274 (school district/PSA supplies/materials/equipment), and MCL 380.623a (ISD supplies/materials/equipment) — each $30,512 for FY 2024-25. Confirms statutory thresholds operate on construction and supplies/materials/equipment, not services. (Stage 1's $29,572 figure was the FY 2023-24 figure; corrected.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 5 — School-business-officials guidance (cites binding authority)",
+      "citation": "Michigan School Business Officials (MSBO), 'Legal Overview of School Purchasing — Managing Effective Procurements' (Dec. 2022 presentation).",
+      "officialUrl": "https://www.msbo.org/wp-content/uploads/2022/12/Final-Presentation-Purchasing-Overview.pdf",
+      "codeCurrency": "Dec. 2022 (still reflects current statutory framework on services; pre-dates 2023 PA 115/143 changes to PERA, but those changes do not affect the bidding-mandate point).",
+      "fieldsSupported": "Rebid; District Variance",
+      "relevantText": "Confirmed verbatim at slide-level text: 'Procurement of Services — No express legal requirement under State law to seek competitive bids for services. However, exceptions apply: Federal funding used to pay or support services (ESSER & Food Service Contracts). Privatizing or outsourcing non-instructional service with \"unionized workforce\" - must give union the \"opportunity to bid on an equal basis as other bidders.\" Required by Board Policy.' Confirms transportation services are not covered by the §1267 / §1274 bidding mandates.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Michigan",
+      "sourceTier": "Tier 5 — Practitioner / think-tank source (background only)",
+      "citation": "Mackinac Center, 'A School Privatization Primer' (S2007-07), citing MCL 423.215(3) and 1994 PA 112.",
+      "officialUrl": "https://www.mackinac.org/S2007-07",
+      "codeCurrency": "Published June 26, 2007 (16+ years old; pre-dates 2023 PA 115 and 2023 PA 143 amendments to PERA).",
+      "fieldsSupported": "District Variance (background — corrected; the source's underlying figure is ~4.2 percent of conventional districts outsourced transportation in 2006, not 'roughly one-third')",
+      "relevantText": "Source describes the post-1994 PA 112 PERA framework that made outsourcing of noninstructional services a prohibited subject of bargaining — that framework was repealed by 2023 PA 143 (Eff. Feb. 13, 2024). The source reports a 2006 outsourcing rate of ~4.2 percent (23 districts).",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "queriesThatMattered": [
+      "Re-fetch of MCL 380.1267, 380.1274, 380.1274a, 380.11a, 380.1321, 380.1324, 380.1751, 380.623a, 257.1810a, 423.215 via legislature.mi.gov (section pages and official PDFs)",
+      "Direct download and grep of Pupil Transportation Act PDF (Compiled Through PA 16 of 2026)",
+      "Direct download and grep of MCL 423.215 PDF (Compiled Through PA 16 of 2026)",
+      "Direct download and grep of MSBO 'Legal Overview of School Purchasing' (Dec. 2022) for the verbatim 'No express legal requirement under State law to seek competitive bids for services' quote",
+      "Direct download of MDE FY 2024-25 Thresholds memo (Oct. 10, 2024) for current threshold figure",
+      "Direct download and grep of MARSE PDF for R 340.1810 contents",
+      "Web search: '2023 PA 115' '2023 PA 143' PERA Michigan school outsourcing transportation noninstructional services bargaining repealed",
+      "Web search: '2024 PA 163' Michigan pupil transportation MCL 257.1810a motor carrier amendment",
+      "Web search: Michigan attorney general opinion school district transportation contract competitive bid renewal"
+    ],
+    "codeCurrency": "Michigan Compiled Laws sections accessed directly via legislature.mi.gov on 2026-06-24. Official PDFs of MCL 423.215 and Pupil Transportation Act (Act 187 of 1990) confirm 'Compiled Through PA 16 of 2026' currency (rendered June 9-10, 2026). Section pages on the Michigan Legislature site for MCL 380.11a, 380.1267, 380.1274, 380.1274a, 380.1321, 380.1324, 380.1751, 380.623a, 257.1810a re-opened directly.",
+    "adminCodeCurrency": "MARSE compilation (R 340.1701 - R 340.1873) accessed via LARA on 2026-06-24. R 340.1810 history line: 1980 AACS; 2002 AACS; 2008 AACS. No special-education transportation contracting term/bid/renewal rule located.",
+    "sessionLawCheck": "Identified material session-law activity since Stage 1: (1) 2023 PA 9, 2023 PA 115, and 2023 PA 143 (all Eff. Feb. 13, 2024) amended MCL 423.215 — the prior prohibition on bargaining over outsourcing noninstructional support services was repealed; (2) 2024 PA 163 (Eff. Apr. 2, 2025) amended MCL 257.1820 (stop-arm cameras), NOT MCL 257.1810a as some web summaries suggested; (3) 2024 PA 120 (school aid appropriations) does not amend Revised School Code transportation-contracting rules. No 2024-2026 amendment imposes a transportation-contract term cap, competitive-bidding mandate, or renewal mechanic on school-district student-transportation services contracts.",
+    "negativeSearchPaths": [
+      "Searched the entire Pupil Transportation Act PDF (sections 257.1801-257.1877) for any contract term cap, bidding mandate, or renewal mechanic for school-district contracts with private transportation contractors — none located. Sections 1865 (use of school bus for transporting persons other than pupils) and 1867 (contract for use of school bus by government) addressed but do not impose term/bid/renewal mandates on the district's procurement contract with private contractor.",
+      "Searched MCL 380.1267, 380.1274, 380.1274a, 380.623a, 380.11a, 380.1321 through 380.1324, 380.1751, 257.1801-257.1877, 423.215 for any explicit application to transportation SERVICES contracts — only generic contracting authority found; bidding mandates expressly limited to construction (1267) and supplies/materials/equipment (1274, 623a).",
+      "Searched MDE official site (michigan.gov/mde) and MDE Office of State Aid and School Finance materials for any binding pupil-transportation contracting guidance (term, rebid, renewal); only funding/reporting guidance, threshold memos, and FAQ found.",
+      "Searched Michigan AG opinions for any opinion fixing a max term, requiring a rebid, or prescribing renewal mechanics for school-district student-transportation services contracts — none located; AG Opinions on competitive bidding (e.g., 3303 of 1959) address §1267 construction context.",
+      "Searched MARSE (R 340.1701-340.1873), including R 340.1810, for special-education-specific transportation contracting rules — none impose term/bid/renewal mandates."
+    ],
+    "conflictChecks": "Substantive conclusions (no state-law max term, no state-law rebid mandate, no state-law renewal mechanic for transportation services contracts) are corroborated by: (i) the official text of MCL 380.1267, 380.1274, 380.623a, 380.11a, 380.1321, 380.1324, 380.1274a, 257.1810a, and the full Pupil Transportation Act; (ii) the MDE FY 2024-25 Thresholds memo (statutory thresholds expressly limited to construction and supplies/materials/equipment); (iii) the MSBO 'Legal Overview of School Purchasing' verbatim statement 'No express legal requirement under State law to seek competitive bids for services.' Material refutations of Stage 1's reasoning chain: (a) MCL 423.215(3)(f) does not currently support 'outsourcing is a prohibited subject of bargaining' (current text addresses volunteers; 2023 PA 115 and 2023 PA 143 effective Feb. 13, 2024 repealed the prior prohibitions) — corrected; (b) MCL 380.1274 heating/cooking 10-year provision is in subsection (6), not (7) — corrected; (c) FY 2024-25 threshold is $30,512, not $29,572 (which was FY 2023-24) — corrected; (d) MCL 380.11a last amendment per section page is 2016 PA 192, not 2019 PA 142 — corrected; (e) Mackinac 'roughly one-third' attribution is not supported by the Mackinac source (which reports ~4.2 percent in 2006) — corrected."
+  },
+  "finalConfidence": "High",
+  "scratchWritten": true,
+  "scratchPath": "/Users/zabrisket/Documents/Summit_School_Services_MASTER/State-Level Research/03_MA-NJ/scratch/michigan.json"
+}

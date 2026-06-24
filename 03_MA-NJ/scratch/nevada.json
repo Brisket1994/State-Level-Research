@@ -1,0 +1,286 @@
+{
+  "state": "Nevada",
+  "fields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found. Nevada law contains no statute or administrative regulation capping the term of a school district contract with a private student-transportation contractor. NRS 386.790, 386.795 and 386.800 — the school-district transportation statutes that authorize trustees to furnish transportation and to contract with common/private carriers and private vehicle operators — are silent on contract duration. The Local Government Purchasing Act (NRS Chapter 332), which applies to school districts because they are 'local government' under NRS 332.015(1)(a), likewise contains no general maximum-term provision for service contracts; the only express duration cap in Chapter 332 is NRS 332.380 (performance contracts for operating cost-savings measures: 'a term not to exceed 25 years'), which is not applicable to pupil-transportation services contracts. NRS 333.705 (a 2-year service-contract guideline) applies only to STATE agency procurement (Chapter 333 is 'Purchasing: State') and does not reach school district contracts. Multi-year and renewal terms are therefore a matter of district practice subject to annual appropriation, not state-law cap.",
+      "citation": "NRS 386.790; NRS 386.795; NRS 386.800; NRS 332.015(1)(a); NRS 332.380 (performance contracts only). Official URLs: https://www.leg.state.nv.us/nrs/nrs-386.html ; https://www.leg.state.nv.us/nrs/nrs-332.html"
+    },
+    "rebidRequired": {
+      "value": "Conditional. NRS Chapter 332 (Local Government Purchasing Act) governs school-district procurement and requires competitive solicitation triggered by dollar thresholds rather than by contract expiration: NRS 332.063 requires solicitation of responses from two or more persons for contracts more than $50,000 but not more than $100,000 (advertisement permissive); NRS 332.065 requires advertisement for contracts over $100,000, with award to the lowest responsive and responsible bidder (or by RFP best-value). However, NRS 332.135(1) provides that 'Nothing in this chapter prohibits a governing body or its authorized representative from contracting for interstate or intrastate carriage of persons or property with a certificated common or contract carrier at the rates set forth in the officially approved tariff of such carrier,' and NRS 332.135(2) authorizes solicitation of 'informal rate quotations' — providing an avenue for school district transportation contracts with carriers certificated by the Nevada Transportation Authority (as referenced in NRS 386.800(2)(a)) to be entered into outside the formal advertising/competitive-bidding regime of NRS 332.063 and 332.065. Additional exceptions in NRS 332.112 (emergencies) and NRS 332.115 (contracts not adapted to competitive solicitation, including sole-source and professional services) may also apply in particular circumstances. NRS 332.195 permits joinder/piggybacking on solicitations conducted by other governmental entities or cooperative purchasing organizations. There is no school-transportation-specific Nevada statute that, by its terms, requires rebidding upon expiration of a transportation services contract.",
+      "citation": "NRS 332.063; NRS 332.065; NRS 332.135; NRS 332.112; NRS 332.115; NRS 332.195; NRS 386.800. Official URL: https://www.leg.state.nv.us/nrs/nrs-332.html"
+    },
+    "renewalMechanics": {
+      "value": "Statute silent — no Nevada statute or administrative regulation establishes specific renewal mechanics, CPI/index adjustments, fuel escalators, automatic rollover/evergreen renewal, or a required board/agency approval for renewal of a school district pupil-transportation services contract. Renewals occur under generally applicable Chapter 332 procurement authority and individual school district policy. NRS 332.135 expressly preserves the authority to contract with certificated common or contract carriers at officially approved tariff rates and to use informal rate quotations, which functions as a renewal/extension pathway outside formal rebidding. NRS 332.195 authorizes joinder on or use of another governmental entity's or cooperative purchasing organization's solicitation (piggybacking), which districts may use in lieu of issuing their own new solicitation. The only statutory 'renewal/term' framework in Chapter 332 — NRS 332.380's 25-year cap and amortization-period rule — applies only to performance contracts for operating cost-savings measures and not to pupil-transportation services.",
+      "citation": "NRS 332.135; NRS 332.195; NRS 332.380 (performance contracts only — not transportation services); NRS 386.800. Official URL: https://www.leg.state.nv.us/nrs/nrs-332.html"
+    },
+    "statutoryCitation": {
+      "value": "Primary school-district transportation authority: NRS 386.790 (trustees may furnish transportation; regulations; includes pupils assigned to special schools or programs); NRS 386.795 (use of transportation funds for procuring vehicles, drivers and insurance); NRS 386.800 (transportation by common and private carrier; contracts and insurance — '...by motor vehicles or otherwise, by contract or such other arrangement as the board of trustees finds most economical, expedient and feasible and for the best interests of the school district,' with carriers holding a certificate of public convenience and necessity issued by the Nevada Transportation Authority). General procurement authority that reaches school districts: NRS 332.015(1)(a) (defining 'local government' to include school districts); NRS 332.063 (contracts more than $50,000 but not more than $100,000); NRS 332.065 (contracts over $100,000); NRS 332.135 (carrier/tariff exception and informal rate quotations); NRS 332.112 (emergency contracts); NRS 332.115 (contracts not adapted to competitive solicitation); NRS 332.195 (joinder/cooperative purchasing). Performance-contract duration cap (not applicable to bus contracts): NRS 332.380.",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-386.html"
+    },
+    "districtVariance": {
+      "value": "Unknown — no official statewide guidance from the Nevada Department of Education was located addressing variance in interpretation of these statutes across districts, and no Nevada Attorney General opinion construing the pupil-transportation contracting authority was located. Operational reality varies in form rather than statutory interpretation: the two largest Nevada districts (Clark County School District and Washoe County School District, the latter operating a 358-bus in-house fleet) operate their pupil transportation fleets in-house, while smaller and more rural districts more commonly use private contractors (and specialized alternative student transportation vendors such as EverDriven serve students with IEPs, 504 plans, foster-care and homeless students) — but that pattern reflects district choice under the permissive 'by contract or such other arrangement as the board of trustees finds most economical' language of NRS 386.800(1)(a), not divergent legal interpretation. No school-boards-association procurement manual or state-auditor report was located describing differing district interpretations of contract-term, rebid, or renewal rules. Negative-search-path documented in verification notes."
+    }
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "statutoryCitation": "confirmed",
+    "districtVariance": "confirmed",
+    "specialEducation": "confirmed"
+  },
+  "specialEducation": {
+    "value": "No separate Nevada statutory or regulatory framework was located governing contract term, rebid, or renewal mechanics for special-education, IEP-mandated, McKinney-Vento, foster-care, or alternative student transportation as distinct from regular-route transportation. NRS 386.790(1) expressly authorizes school districts to furnish transportation 'for all resident children of school age in the school district attending a public school, including pupils assigned to special schools or programs pursuant to NRS 388.417 to 388.469, inclusive, or 388.5251 to 388.5267, inclusive' — i.e., pupils with disabilities are folded into the same trustee transportation authority, and the same NRS 386.795/386.800 funding and contracting framework applies. Procurement of special-education transportation services is therefore governed by the same NRS Chapter 332 procurement rules (with the NRS 332.135 carrier-tariff exception, NRS 332.115 sole-source/professional-services exceptions, and NRS 332.112 emergency exception potentially available). Federal IDEA and the federal McKinney-Vento Homeless Assistance Act establish the duty to transport eligible students but do not impose state contract-term, rebid, or renewal rules. NAC 386 (school bus safety standards) does not impose separate procurement rules for special-education transportation.",
+      "citation": "NRS 386.790(1) (express inclusion of pupils in special schools/programs); NRS 386.795; NRS 386.800; NRS Chapter 332. Official URLs: https://www.leg.state.nv.us/nrs/nrs-386.html ; https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "verdict": "confirmed"
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term: 'No statutory maximum found'",
+      "disconfirmingHypothesis": "A Nevada statute outside NRS 386 and 332 (or a hidden subsection within them) imposes a maximum term — perhaps via the state purchasing chapter NRS 333 (e.g., NRS 333.705's 2-year service-contract guideline), via NRS Chapter 277 (cooperative agreements), or via local-government public-works restrictions in NRS 338.",
+      "challengeSearches": "Re-opened NRS 332 sections .015, .063, .065, .112, .115, .135, .195, .380 via leg.state.nv.us; re-opened NRS 386.790, .795, .800 via leg.state.nv.us and nevada.public.law; searched 'NRS 332 contract term limit service contract multi-year' and 'Nevada school district pupil transportation contract term limit maximum years statute'; opened NRS 333.705 to confirm scope.",
+      "result": "Confirmed. NRS Chapter 332 contains no general maximum-term cap for service contracts; NRS 332.380 is the only duration cap and is expressly limited to performance contracts for operating cost-savings measures. NRS 333.705's 2-year guideline applies only to STATE agency procurement under Chapter 333 ('Purchasing: State') and does not reach school district contracts (which fall under Chapter 332). NRS 386.790/.795/.800 are silent on term.",
+      "confidenceImpact": "No change — finding holds at High; added clarifying note about NRS 333.705 scope to the field value."
+    },
+    {
+      "findingChallenged": "Rebid Required at Term-End: 'Conditional' (triggered by dollar threshold and subject to carrier-tariff exception)",
+      "disconfirmingHypothesis": "A school-transportation-specific Nevada statute mandates competitive rebidding at the expiration of a transportation services contract, regardless of dollar amount; or NRS 332.135's carrier exception does not actually reach pupil-transportation services because school transportation contractors are not 'certificated common or contract carriers.'",
+      "challengeSearches": "Searched for 'Nevada school district transportation contract RFP renewal extension years award'; re-opened NRS 332.063, .065, .112, .115, .135, .195 verbatim via leg.state.nv.us; re-opened NRS 386.800 to confirm it references Nevada Transportation Authority-certificated carriers in subsection (2)(a); checked for Nevada AG opinions construing NRS 386.800.",
+      "result": "Confirmed. No school-transportation-specific rebid statute exists. NRS 332.135 verbatim text confirmed: 'Nothing in this chapter prohibits a governing body or its authorized representative from contracting for interstate or intrastate carriage of persons or property with a certificated common or contract carrier at the rates set forth in the officially approved tariff of such carrier.' NRS 386.800(2)(a) confirms that pupil-transportation carriers hold a certificate of public convenience and necessity from the Nevada Transportation Authority, bringing them within NRS 332.135. Conditional verdict stands.",
+      "confidenceImpact": "No change — holds at High."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics: 'Statute silent'",
+      "disconfirmingHypothesis": "Chapter 332 or Chapter 386 contains specific renewal procedures (CPI/fuel escalators, automatic rollover, max-renewals cap, board/state-agency approval) that Stage 1 missed; or NAC 386 imposes renewal rules.",
+      "challengeSearches": "Re-reviewed NAC 386 full chapter contents via leg.state.nv.us; re-reviewed NRS 332 table of contents; checked for CPI/escalator/renewal terms in NRS 332.063, .065, .115, .135, .195, .380; checked Nevada State Purchasing Local Government Regulations page.",
+      "result": "Confirmed. NAC 386 contains only charter school, driver training, school bus safety, and interscholastic activities provisions — no procurement-renewal rules. NRS 332.380's 25-year cap and amortization rule applies only to NRS 332.300–.440 performance contracts (operating cost-savings measures), NOT to pupil-transportation services. NRS 332.135 (carrier-tariff exception) and NRS 332.195 (joinder/piggyback) function as alternative procurement pathways but are not 'renewal mechanics' per se.",
+      "confidenceImpact": "No change — holds at High."
+    },
+    {
+      "findingChallenged": "Statutory Citation: NRS 386.790, .795, .800 + NRS 332.015, .063, .065, .112, .115, .135, .195, .380",
+      "disconfirmingHypothesis": "One or more of these citations does not say what Stage 1 claimed; the section numbers were hallucinated or paraphrased inaccurately; the threshold in NRS 332.063 ($50,001–$100,000) was wrong.",
+      "challengeSearches": "Re-opened every cited NRS section directly via leg.state.nv.us anchor links (#NRS332Sec015, Sec063, Sec065, Sec112, Sec115, Sec135, Sec195, Sec380) and via nevada.public.law for NRS 386.790, .800, 332.135, .115, .195; verbatim text confirmed for each.",
+      "result": "Confirmed with one wording refinement: NRS 332.063 threshold reads 'more than $50,000 but not more than $100,000' (Stage 1 wrote '$50,001–$100,000', which is functionally equivalent; updated to the verbatim statutory phrasing in the reconciled field). All other citations verified verbatim. NRS 332.015(1)(a) confirmed to include school districts in 'local government.' NRS 332.380 confirmed performance-contract-only. NRS 386.800 confirmed silent on term/rebid/renewal.",
+      "confidenceImpact": "No change — holds at High; threshold phrasing tightened to verbatim statutory language."
+    },
+    {
+      "findingChallenged": "Special-Education Differentiation: 'No separate framework'",
+      "disconfirmingHypothesis": "A separate Nevada statute or NAC chapter governs procurement of special-education, IEP, McKinney-Vento, foster-care, or alternative pupil transportation; or NRS 388 special-ed provisions impose different contract rules.",
+      "challengeSearches": "Searched 'Nevada special education transportation IEP contract NRS procurement statute separate'; re-confirmed NRS 386.790(1) inclusion language ('pupils assigned to special schools or programs pursuant to NRS 388.417 to 388.469, inclusive, or 388.5251 to 388.5267, inclusive'); checked NDE Office of Comprehensive Student Services policies page; checked NAC 386 for any special-ed-specific procurement rules.",
+      "result": "Confirmed. NRS 386.790(1) folds pupils with disabilities into the same trustee transportation authority used for regular-route students. No separate procurement statute or NAC chapter for special-ed transportation contracting was located. Federal IDEA and McKinney-Vento create a duty to transport but do not impose state contract-term/rebid/renewal rules. Alternative-student-transportation vendors (e.g., EverDriven) operate under the same NRS 332 framework.",
+      "confidenceImpact": "No change — holds at High."
+    },
+    {
+      "findingChallenged": "District Variance: 'Unknown'",
+      "disconfirmingHypothesis": "An official statewide source (NDE bulletin, AG opinion, auditor report, Nevada Association of School Boards manual) addresses or documents variance in how districts interpret NRS 386.790/.800 or NRS 332.135.",
+      "challengeSearches": "Searched 'Nevada attorney general opinion school district transportation contract NRS 386.800'; checked NDE Pupil Transportation Office page; checked Nevada State Purchasing Local Government Regulations directory; searched for Clark County and Washoe County transportation practices.",
+      "result": "Confirmed. No statewide official source addressing differing district interpretations of pupil-transportation contract-term/rebid/renewal rules was located. The observed pattern (large districts in-house, smaller/rural districts contract out) reflects district choice under the permissive NRS 386.800(1)(a) language ('most economical, expedient and feasible'), not divergent statutory interpretation. 'Unknown' verdict appropriate — absence of any statewide guidance prevents affirmatively confirming uniform application.",
+      "confidenceImpact": "No change — holds at Medium-High (Unknown is itself the documented finding)."
+    },
+    {
+      "findingChallenged": "Currentness — whether the cited sections were amended after the code-currency date (2025 sessions and 2026 effective-date provisions).",
+      "disconfirmingHypothesis": "A 2025 or 2026 amendment changed the substantive content of NRS 386.790/.795/.800 or NRS 332.063/.065/.112/.115/.135/.195/.380 in a way affecting term, rebid, or renewal rules.",
+      "challengeSearches": "Searched 'Nevada AB 533 2025 NRS 386.790 pupil transportation amendment grant program'; reviewed AB 533 (2025) Third Reprint; checked NRS chapter currency stamps (Rev. 4/15/2026 reflecting 2025 amendments).",
+      "result": "Confirmed. AB 533 (2025) amended NRS 386.790 (effective July 1, 2026) to direct the Department of Education to administer a grant program for out-of-zone pupil transportation. This expands trustee discretion to fund optional transportation but does NOT add contract-term, rebid, or renewal rules. No 2025-session amendment to NRS 332.135, .063, .065, .115, .195, .380, or NRS 386.795/.800 affecting the five fields was located.",
+      "confidenceImpact": "No change — holds at High; current-law check documented."
+    }
+  ],
+  "sourcesReVerified": [
+    "NRS 386.790 (via leg.state.nv.us and nevada.public.law) — special-schools/programs inclusion language confirmed; AB 533 (2025) amendment effective July 1, 2026 confirmed as non-substantive for the five fields",
+    "NRS 386.795 (via leg.state.nv.us) — title and scope confirmed; silent on term/renewal/rebid",
+    "NRS 386.800 (via nevada.public.law and leg.state.nv.us) — subsection structure 1(a)/(b), 2(a)/(b) confirmed; verbatim language 'by motor vehicles or otherwise, by contract or such other arrangement as the board of trustees finds most economical, expedient and feasible and for the best interests of the school district' confirmed; no term/rebid/renewal provisions",
+    "NRS 332.015(1)(a) (via leg.state.nv.us) — 'local government' definition explicitly includes school districts",
+    "NRS 332.063 (via leg.state.nv.us) — verbatim threshold 'more than $50,000 but not more than $100,000' confirmed; advertisement permissive",
+    "NRS 332.065 (via leg.state.nv.us) — over-$100,000 threshold, mandatory advertisement, lowest-responsive-responsible-bidder award, Israel-boycott certification confirmed",
+    "NRS 332.112 (via leg.state.nv.us) — emergency-contracts exception verbatim confirmed",
+    "NRS 332.115 (via leg.state.nv.us) — sole-source/professional-services and other exception categories confirmed",
+    "NRS 332.135 (via leg.state.nv.us) — carrier-tariff exception in subsection (1) and informal-rate-quotations authority in subsection (2) verbatim confirmed",
+    "NRS 332.195 (via leg.state.nv.us) — cooperative-purchasing / piggyback authority and Chapter 624 contractor-license exclusion confirmed",
+    "NRS 332.380 (via leg.state.nv.us) — 25-year cap confirmed as applicable ONLY to performance contracts for operating cost-savings measures (NRS 332.300–.440)",
+    "NRS 333.705 (via nevada.public.law) — confirmed to apply ONLY to state agency procurement (Chapter 333 = 'Purchasing: State'); does NOT reach school districts (Chapter 332)",
+    "NAC Chapter 386 (via leg.state.nv.us) — confirmed to contain only charter-school, school-bus-safety, driver-training, and interscholastic-activities provisions; no procurement/term/renewal rules",
+    "NDE Pupil Transportation Office page (https://doe.nv.gov/offices/osrle/pupil-transportation/) — confirmed silent on contract administration; cites NRS 386.790 as authority"
+  ],
+  "sourcesUnreachable": [],
+  "sourceLedger": [
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 386.790 — Transportation for pupils may be furnished by trustees; regulations; optional provision of transportation to certain pupils enrolled in school outside zone of attendance (eff. July 1, 2026)",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-386.html",
+      "codeCurrency": "Current through 2025 Regular and Special Sessions of the 83rd Nevada Legislature (with provisions effective July 1, 2026 noted via AB 533); page Rev. 4/15/2026.",
+      "fieldsSupported": "Field 1 (no term cap), Field 4 (citation), Special Education (inclusion of special-schools/programs pupils)",
+      "relevantText": "'The board of trustees of any school district may furnish transportation for all resident children of school age in the school district attending a public school, including pupils assigned to special schools or programs pursuant to NRS 388.417 to 388.469, inclusive, or 388.5251 to 388.5267, inclusive ...' Silent on contract term, rebid, or renewal.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 386.795 — Use of certain money for procuring vehicles, drivers and insurance",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-386.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 4 (citation); context for Field 1/3",
+      "relevantText": "Authorizes trustees to use transportation funds for purchase, rent, hire and use of vehicles; necessary repairs; employment and compensation of drivers; insurance. Silent on contract term/renewal/rebid.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 386.800 — Transportation by common and private carrier; purchase of bus tickets for certain pupils; contracts and insurance",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-386.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Fields 1, 2, 3, 4",
+      "relevantText": "Subsection 1(a): '...arranging and paying for transportation ... by motor vehicles or otherwise, by contract or such other arrangement as the board of trustees finds most economical, expedient and feasible and for the best interests of the school district.' Subsection 2(a) permits contracting with railroad, bus, or other licensed common carrier holding a certificate of public convenience and necessity from the Nevada Transportation Authority; 2(b) permits contracting with private vehicle owners/operators. No term limit, renewal procedure, or rebid requirement. (Verbatim text also republished at https://nevada.public.law/statutes/nrs_386.800)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.015(1)(a) — 'Local government' defined (includes school districts)",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 4 (definitional anchor — confirms Chapter 332 procurement law reaches school district contracts)",
+      "relevantText": "'Local government' means '[e]very political subdivision or other entity which has the right to levy or receive money from ad valorem taxes or other taxes or from any mandatory assessments, including counties, cities, towns, school districts and other districts ...'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.063 — Contracts more than $50,000 but not more than $100,000: Solicitation of responses; permissive advertisement; award",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 2 (Conditional rebid: solicitation rules triggered by dollar threshold)",
+      "relevantText": "'[I]f the estimated annual amount required to perform a contract is more than $50,000 but not more than $100,000, the governing body or its authorized representative: (a) Shall solicit responses from two or more persons capable of performing the contract, if such persons are available; and (b) May advertise the contract in the manner prescribed in NRS 332.045.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.065 — Contracts over $100,000: Advertisement required; permissive solicitation; award; boycott certification",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 2 (rebid trigger by dollar threshold)",
+      "relevantText": "'The governing body ... shall advertise the contract' over $100,000; advertisement per NRS 332.045; award to lowest responsive and responsible bidder evaluated on price, conformance to specifications, qualifications, equipment adequacy, past performance, delivery schedule, total cost of ownership, and public interest. Includes Israel-boycott certification requirement.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.135 — Contracts with carriers; solicitation of informal rate quotations; voluntary use of state Purchasing Division",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 2 (Conditional rebid — carrier-tariff exception), Field 3 (alternative to rebidding)",
+      "relevantText": "Subsection 1: 'Nothing in this chapter prohibits a governing body or its authorized representative from contracting for interstate or intrastate carriage of persons or property with a certificated common or contract carrier at the rates set forth in the officially approved tariff of such carrier.' Subsection 2: 'Nothing in this section prohibits a governing body or its authorized representative from soliciting informal rate quotations.' Subsection 3: voluntary use of state Purchasing Division per NRS 333.470.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.112 — Emergency contracts",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 2 (Conditional — emergency exception)",
+      "relevantText": "Defines 'emergency' as disaster (fire, flood, hurricane, riot, power outage, disease) or condition that may lead to impairment of public health, safety or welfare if not immediately attended to. Permits contracts 'without complying with the requirements of this chapter' upon governing-body or authorized-representative determination; subsequent report to governing body required.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.115 — Contracts not adapted to award by competitive solicitation",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 2 (Conditional — sole-source/professional-services exceptions)",
+      "relevantText": "Enumerated exceptions to competitive solicitation include sole-source items, professional services, equipment maintenance, compatible equipment, perishable goods, insurance, computer hardware/software, books, undercover-vehicle fuel, forensic equipment, personal safety equipment, hospital-commonly-used goods, and other categories.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.195 — Entering into contract pursuant to solicitation by other governmental entities or cooperative purchasing organizations",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 2 (Conditional — joinder/piggyback), Field 3 (alternative procurement path)",
+      "relevantText": "A governing body may enter into a contract pursuant to a solicitation by (a) another governmental entity within or outside the state with vendor authorization, (b) the State of Nevada or another state with vendor authorization, or (c) a cooperative purchasing organization. Subsection 2 prohibits use where a NRS Chapter 624 contractor's license is required for any portion of the work.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute",
+      "citation": "NRS 332.380 — Period over which payments become due (performance contracts)",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-332.html",
+      "codeCurrency": "Current through 83rd (2025) Session; Rev. 4/15/2026",
+      "fieldsSupported": "Field 1 negative context (the only Chapter 332 contract-duration cap, and it does NOT apply to transportation services)",
+      "relevantText": "A performance contract for operating cost-savings measures 'may extend for a term not to exceed 25 years.' Applies only to NRS 332.300–332.440 performance contracts, not to general service contracts or pupil-transportation contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Codified state statute (cross-reference / negative)",
+      "citation": "NRS 333.705 — Contracts for services: Limitations and requirements (STATE agency procurement only)",
+      "officialUrl": "https://www.leg.state.nv.us/nrs/nrs-333.html",
+      "codeCurrency": "Effective January 1, 2026 version reviewed",
+      "fieldsSupported": "Field 1 negative — confirms the 2-year service-contract guideline applies only to STATE agency procurement under Chapter 333 ('Purchasing: State') and does NOT reach school districts (which fall under Chapter 332)",
+      "relevantText": "Requires using agencies to 'make every effort to limit' service contracts exceeding 2 years and valued under $1,000,000; references State Board of Examiners and Interim Finance Committee oversight; references Nevada System of Higher Education. Chapter 333 is 'Purchasing: State.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "2 - State administrative code",
+      "citation": "NAC Chapter 386 — Local Administrative Organization (charter schools, school bus driver training, school bus standards, interscholastic activities)",
+      "officialUrl": "https://www.leg.state.nv.us/nac/nac-386.html",
+      "codeCurrency": "Nevada Administrative Code, current online compilation",
+      "fieldsSupported": "Negative: NAC 386 contains no provisions on transportation-contract term, renewal, or rebid",
+      "relevantText": "NAC 386.010–.472 cover charter schools; NAC 386.500–.530 cover school bus driver training; NAC 386.550–.555 cover school bus standards (adopting Nevada School Bus Standards); NAC 386.600–.886 cover interscholastic activities. Silent on procurement, contracting term, or renewal for pupil transportation services.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "4 - Official state-education-department guidance",
+      "citation": "Nevada Department of Education — Pupil Transportation Office page",
+      "officialUrl": "https://doe.nv.gov/offices/osrle/pupil-transportation/",
+      "codeCurrency": "Accessed 2026-06-24; references NRS 386.790 as the operative grant of trustee authority",
+      "fieldsSupported": "Field 4 (confirms NRS 386.790 is the operative state statute); Field 5 negative (silent on variance)",
+      "relevantText": "Confirms NDE oversight, school bus specifications, driver certification, and resources for transportation teams. Page contains no statements about contract term limits, renewal procedures, rebidding, or procurement rules. Directs route questions to district transportation teams.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nevada",
+      "sourceTier": "1 - Session law (currentness check)",
+      "citation": "AB 533 (2025), Third Reprint — amendment to NRS 386.790 effective July 1, 2026 (Department of Education grant program for out-of-zone pupil transportation)",
+      "officialUrl": "https://archive.leg.state.nv.us/Session/83rd2025/Bills/AB/AB533_R3.pdf",
+      "codeCurrency": "2025 Regular Session (83rd Nevada Legislature)",
+      "fieldsSupported": "Currentness check: confirms no 2025 session law added contract-term, rebid, or renewal rules for pupil-transportation services",
+      "relevantText": "Authorizes NDE-administered grant program for districts providing optional out-of-zone pupil transportation. Does not impose term, rebid, or renewal rules on transportation contracts.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "queriesThatMattered": [
+      "Nevada Revised Statutes school district pupil transportation contract private contractor",
+      "NRS 386.800 'by motor vehicles or otherwise' Nevada pupil transportation",
+      "NRS 332 contract term limit 'service contract' multi-year Nevada local government",
+      "NRS 332.135 carriers transportation Nevada local government",
+      "NRS 332.115 Nevada exceptions advertising competitive bid local government",
+      "NRS 332.195 cooperative purchasing Nevada",
+      "NAC 386 Nevada Administrative Code pupil transportation school bus contract procurement",
+      "Nevada AB 533 2025 NRS 386.790 pupil transportation amendment grant program",
+      "Nevada special education transportation IEP contract NRS procurement statute separate",
+      "Nevada attorney general opinion school district transportation contract NRS 386.800",
+      "Nevada rural school district transportation contract private contractor bus services bid",
+      "Clark County School District Washoe County pupil transportation in-house contractor outsource"
+    ],
+    "codeCurrency": "NRS Chapter 386 and Chapter 332 confirmed current through the 83rd (2025) Nevada Legislative Session via leg.state.nv.us with page revision stamp 'Rev. 4/15/2026'. The Nevada Legislature publishes NRS at https://www.leg.state.nv.us/nrs/. Nevada.public.law mirror refreshed 2025-05-26.",
+    "adminCodeCurrency": "NAC Chapter 386 reviewed at https://www.leg.state.nv.us/nac/nac-386.html — addresses school bus safety standards, driver training, charter schools, and interscholastic activities; no procurement-term/renewal/rebid provisions located.",
+    "sessionLawCheck": "Reviewed 2025 (83rd) regular session bills via archive.leg.state.nv.us — AB 533 (2025), Third Reprint, amended NRS 386.790 (effective July 1, 2026) to direct NDE to administer a grant program for out-of-zone pupil transportation; this amendment expands trustee discretion but does NOT add contract-term, rebid, or renewal rules. No 2025-session amendment to NRS 332.135, 332.063, 332.065, 332.115, 332.195, 332.380, or NRS 386.795/386.800 affecting the five fields was located.",
+    "negativeSearchPaths": [
+      "For Field 1 (max term): Searched NRS Chapter 332 full table of contents (sections 332.005 through 332.830) — no general term cap for service contracts; only NRS 332.380 caps performance contracts at 25 years (inapplicable to pupil-transportation services). Searched NRS Chapter 386 (sections 386.790, 386.795, 386.800, 386.810, 386.815, 386.820, 386.835, 386.839) — silent on contract term. Searched Nevada Department of Education Pupil Transportation guidance — silent on term. Searched NAC Chapter 386 — silent on term. Cross-checked NRS 333.705 (Chapter 333 'Purchasing: STATE') and confirmed it does not reach school districts.",
+      "For Field 3 (renewal mechanics): Searched NRS Chapter 332 sections on renewal, extension, evergreen, CPI, escalator — no provisions specific to pupil-transportation or general service contracts. NRS 332.135 (carrier-tariff exception) and NRS 332.195 (joinder/piggyback) function as alternative procurement paths but are not 'renewal mechanics' per se. Searched NAC 386 — no renewal provisions.",
+      "For Field 5 (district variance): Searched for Nevada AG opinions on school district transportation contracting, Nevada Association of School Boards procurement guidance, Nevada Department of Education bulletins, and state auditor reports — no source addressing varying district interpretations of NRS 386.790/.800 or NRS 332.135 was located. Field marked Unknown rather than No because the absence of any statewide guidance on these specific procurement questions means uniformity cannot be affirmatively confirmed.",
+      "For Special Education: Searched 'Nevada special education transportation IEP contract NRS procurement statute separate' — no separate state procurement statute or NAC chapter for special-ed transportation contracting located. NRS 386.790(1) verbatim confirmed to fold pupils with disabilities into the same trustee transportation authority."
+    ],
+    "conflictChecks": "Examined whether NRS 386.800 (school-district transportation by contract) and NRS Chapter 332 (Local Government Purchasing Act) conflict on contracting authority. They are complementary: NRS 386.800 supplies substantive authority and identifies eligible counterparties (PUC- and Nevada Transportation Authority-certificated carriers, plus private vehicle owners/operators); NRS Chapter 332 supplies the procurement-procedure overlay because NRS 332.015(1)(a) expressly includes school districts in 'local government.' NRS 332.135 specifically resolves any tension by exempting carriage contracts with certificated common/contract carriers at tariff rates from Chapter 332's formal competitive requirements. Examined whether NRS 333.705's 2-year service-contract guideline reaches school districts — it does not (Chapter 333 = 'Purchasing: State'). No conflict between authoritative sources surfaced."
+  },
+  "finalConfidence": "High",
+  "scratchWritten": true,
+  "scratchPath": "/Users/zabrisket/Documents/Summit_School_Services_MASTER/State-Level Research/03_MA-NJ/scratch/nevada.json"
+}

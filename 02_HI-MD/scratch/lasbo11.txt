@@ -1,0 +1,1388 @@
+Understanding Public Bid Law
+        La. R.S. 38:2211-2293
+
+
+
+       BRETT ROBINSON
+
+    ASSISTANT ATTORNEY GENERAL
+     LOUISIANA DEPARTMENT OF
+              JUSTICE
+Understanding Public Bid Law
+           La. R.S. 38:2211-2293
+
+
+
+ This presentation will cover some of the
+ basics of the Louisiana Public Bid Law and
+ provide a broad overview of its use.
+     What is the Public Bid Law?
+
+ Haughton Elevator Div. v. State. – Louisiana
+ Supreme Court
+
+ Public Bid Law: is a prohibitory law founded on public
+ policy.
+
+ “It was enacted in the interest of the taxpaying citizen
+ and has for its purpose their protection against
+ contracts of public officials entered into because of
+ favoritism and possibly involving exorbitant and
+ extortionate prices.”
+     What is the Public Bid Law?
+
+ The purpose of the Public Bid law is to ensure that
+ public entities are receiving the best possible price
+ when expending public funds.
+
+ The public bid law governs:
+  (1) Contracts for public works
+
+  (2) Purchases of materials and supplies
+   Who does the Public Bid Law apply to?
+
+                            Depends…
+ (1) Public works
+  All public entities must follow the public bid law for public
+   works in excess of the contract threshold amount.
+
+ (2) Materials and supplies
+  Political subdivisions and local government -- follow the
+   public bid law for the purchase of materials and supplies.
+
+  The  State executive branch, and any State agencies,
+   boards, and commissions -- follow the Louisiana
+   Procurement Code for the purchase of materials and supplies.
+
+  Louisiana    Legislature/Judiciary -- follow the public bid
+   law for public works only.
+  Who does the Public Bid Law apply to?
+
+                   What is a Public Entity?
+ La. R.S. 38:2211(11)
+
+
+ "Public entity" means and includes the state of Louisiana, or any
+  agency, board, commission, department, or public corporation of the
+  state.
+
+ Also includes:
+   Political subdivisions
+
+   Public housing authorities
+
+   Public school boards
+
+   Any public officers
+  Who does the Public Bid Law apply to?
+
+           La. Atty. Gen. Op. No. 18-0006
+What about a charter school support organization?
+ Charter school leased land from the local school board.
+ Land was subleased to a non-profit foundation (charter school support
+  organization).
+ Charter school support organization constructed the building and
+  leased the land and building back to the charter school for operation.
+
+ M.K.L. Development LLC v. City of New Orleans (4th Circuit): The
+  public bid law does not “follow the building.”
+ Look to who is constructing the public work.
+ Result: A private charter school support organization is not a public
+  entity under the public bid law.
+ Who does the Public Bid Law apply to?
+
+       La. Atty. Gen. Op. No. 15-0080
+
+
+ Is a 501(c)(3) Volunteer Fire Department a
+ public entity?
+  Who does the Public Bid Law apply to?
+
+           La. Atty. Gen. Op. No. 15-0080
+
+ Local Government Budget Act … No
+
+ Public Records Law … Yes, but only to the extent it is performing a
+  governmental function and expending public funds.
+
+ Open Meetings Law … No
+
+ Audit Law … It’s considered a Quasi Public Entity. (So, yes it still
+  must submit audits to the Louisiana Legislative Auditor.)
+
+ Public Bid Law … No
+PUBLIC WORKS
+   Title 38 Chapter 10
+             Public Works
+
+What is a Public Work?
+
+ La. R.S. 38:2211(A)(12) defines public work
+ as:
+  “…    any contract for the erection,
+   construction, alteration, improvement, or
+   repair of any public facility or immovable
+   property owned, used, or leased by a public
+   entity.”
+                     Public Works
+ This includes, but is not limited to, the following:
+   Construction
+
+   Remodeling
+
+   Utilities
+
+   Roads and Bridges
+
+   Improvements
+
+   Demolition?
+     La. Atty. Gen. Op. No. 10-0026 – Contract for demolition is
+      not a public work.
+     Concrete      Busters of LA, Inc. v. The Board of
+      Commissioners of the Port of New Orleans (4th Circuit) –
+      (2010) Contract for demolition is a public work because demolition
+      results in the alteration of immovable property.
+                Public Works
+
+            THRESHOLD AMOUNT:
+
+ The public bid law applies when there is a total
+ project cost of $250,000 or more
+
+
+ Historically, this threshold amount     is adjusted
+ annually by the Office of Facility Planning and
+ Control by an amount not to exceed to Consumer
+ Price Index (CPI). Without legislative approval, this
+ amount will not increase until 2025.
+               Public Works
+
+ Calculating the Total Project Cost:
+
+
+  Labor
+
+  Materials
+
+  Equipment (as per the rates in the Associated
+
+   Equipment Dealers Rental Rate Book)
+  Administrative Overhead not to exceed 15%
+                        Public Works
+
+                          Services:
+ Public Bid Law does not apply to the purchase of
+ Services
+    Professional or Otherwise – (Architects, Engineers,
+     Attorneys, etc.)
+    Insurance services through an insurance agent are
+     professional services, not public works. La. Atty.
+     Gen. Op. No. 16-0153
+    Solid   Waste Management transportation and landfill
+     management are services. However, La. 33:4169.1 would
+     require advertisement and bids when an exclusive franchise
+     agreement is being offered. There is no such requirement on a
+     “time contract.” La. Atty. Gen. Op. No. 94-108
+                   Public Works
+                     Maintenance:
+ Maintenance contracts must be for a fixed annual fee
+ and shall extend for a duration of not less than two (2)
+ years. These contracts are only for the repair and
+ maintenance of public facilities owned, controlled or
+ operated by a public entity.
+ Such contracts shall include a nonappropriation clause.
+ Maintenance contracts are not considered a public work
+ when the above requirements are met.
+ However, materials and supplies over the threshold
+ amount must still be purchased pursuant to the public
+ bid law.
+                         Public Works
+
+ La. Atty. Gen. Op. No. 21-0097
+  “Digging” contract called for the contractor to use a concrete breaker
+   and backhoes to break concrete and digging. The purpose for such
+   work was for Waterworks District personnel to check and repair
+   items such as service connections, valves, suspected leaks, etc.
+  “Labor and Equipment” contract called for the contractor to provide
+   all extraordinary mechanical equipment and labor required for
+   repairs to main waterlines, fire hydrants, and paved streets as well as
+   maintenance to all Waterworks District facilities.
+  No project or repair under either contract would individually reach
+   the threshold limit but combined, each contract would exceed the
+   threshold requirement for letting out for bid. Each contract would
+   annually cost approximately $300,000.
+  Contracts could be let out for bid or negotiated as maintenance
+   contracts if in compliance with the provisions of La. R.S. 38:2212(U).
+                            Public Works
+
+              Public Work or Maintenance?
+ Maintenance:
+   La. Atty. Gen. Op. Nos. 10-0058, 05-0260, 02-0418, 89-276, 88-392
+   Cemetery maintenance
+
+   Routine removal of fallen trees, weeds, and other debris
+
+   Landscaping and grounds keeping
+
+
+
+ A/C and Heating Repair:
+     Maintenance – Tiger Air & Heat, LLC v. Jefferson Parish School Board (5th
+      Circuit)
+
+
+ Dredging near a Port’s docks:
+   Recurring maintenance that does need not be publicly bid.
+   La. Atty. Gen. Op. No. 16-0082
+  What documents must be included in the Bid?
+
+ Bid documents shall only require the following: La. R.S.
+  38:2212(B)(2)
+
+ Louisiana Uniform Bid Form
+   Bid Bond or Bid Security
+   Acknowledgement of Addenda
+
+   Base Bid and alternates, if any
+
+   Signature of Bidder
+
+   Name, Title, and Address of bidder
+
+   Name of Firm or Joint Venture
+
+   Corporate Resolution or written evidence of authority of the person
+    signing the bid
+   Louisiana Contractors License Number (on the envelope)
+
+   Unit price and description for each unit (where unit prices are utilized)
+  What documents must be included in the Bid?
+
+
+ Other documents/info may be requested of the lowest
+  bidder and must be submitted within 10 days of the bid
+  opening. (Attestation Affidavit and E-Verify)
+
+ However, the only documents that a public entity is allowed
+  to require bidders to submit prior to the opening of bids is
+  that which is contained in La. R.S. 38:2212(B)(2).
+What documents must be included in the Bid?
+
+What bidding documents can public entities
+        require bidders to submit?
+
+           La. R.S. 38:2212(B)(1)
+
+                    vs.
+
+           La. R.S. 38:2212(B)(2)
+Durr Heavy Const., L.L.C. v. City of New Orleans
+             (LA Supreme Court)
+
+
+ La. R.S. 38:2212(B)(1):
+  “Theprovisions and requirements of this Section and
+  those stated in the bidding documents shall not be
+  waived by any entity.”
+
+
+ La. R.S. 38:2212(B)(2):
+  “The bidding documents shall require only the following
+  information and documentation to be submitted by a
+  bidder at the time designated in the advertisement for bid
+  opening…”
+ Durr Heavy Const., L.L.C. v. City of New Orleans
+              (LA Supreme Court)
+
+
+ In the Invitation to Bid, the City included a boxed
+  section requiring the sealed envelope bids bear the
+  proposal number.
+ Neither the lowest bidder or the second lowest
+  bidder included the proposal number on the outside
+  of the sealed envelopes.
+ City awarded the contract to the lowest bidder.
+ Durr filed suit alleging the lowest and second lowest
+  bidders were non-responsive.
+ Durr Heavy Const., L.L.C. v. City of New Orleans
+              (LA Supreme Court)
+
+
+ The trial court ruled in favor of the City.
+ However, the appellate court reversed, finding that the
+  requirement to include the proposal number on the front of
+  the envelope was a non-waivable requirement under La.
+  R.S. 38:2212(B)(1).
+ A divided Louisiana Supreme Court (4-3) disagreed and
+  reinstated the trial court’s ruling and awarded the contract
+  to the lowest bidder.
+ The Supreme Court’s holding simply states: “The ruling of
+  the court of appeal is reversed. We hereby reinstate the
+  district court’s order…”
+ Durr Heavy Const., L.L.C. v. City of New Orleans
+              (LA Supreme Court)
+
+
+ C.J. Johnson’s concurrence held that La. R.S.
+  38:2212(B)(2) contains the exclusive list of items that
+  the bidding documents shall require the bidder to
+  submit.
+   Essentially, public entities cannot require bidders submit anything
+    more than what is required in La. R.S. 38:2212(B)(2).
+
+ However, J. Crichton’s dissent stated that La. R.S.
+  38:2212(B)(1) clearly prohibits public entities from
+  waiving any requirements in the bid documents.
+   La. R.S. 38:2212(B)(1) has an “and” for a reason.
+   “The provisions and requirements of this Section [i.e., those in La.
+    R.S. 38:2212(B)(2)] and those stated in the bidding documents [any
+    others required by the public entity] shall not be waived by any
+    entity.”
+What documents must be included in the Bid?
+
+What bidding documents can public entities
+        require bidders to submit?
+
+
+
+                  Current Law:
+   Only those stated in La. R.S. 38:2212(B)(2)
+  What documents must be included in the Bid?
+
+         La. Atty. Gen. Op. No. 15-0139
+
+ Can a municipality require a bidder to submit the:
+   American Institute of Architects (“AIA”) Document
+    A305?
+   Engineers  Joint Contract Documents Committee
+    (“EJDC”) Qualifications Statement C-451?
+
+ YES – But only after opening bids! (10 days)
+What documents must be included in the Bid?
+
+Contractor’s number on the sealed envelope?
+La. Atty. Gen. Op. No. 17-0105
+ The failure of the low bidder to include its contractors license
+  number on the sealed envelope does render its bid non-
+  responsive.
+ Must answer the question: Is the requirement in La. R.S.
+  38:2212(B)(2)?
+ If YES, then the requirement cannot be waived.
+ Hamp’s Construction, LLC v. City of New Orleans (LA Supreme
+  Court): “A public entity does not have the discretion to
+  determine, after bids have been submitted, whether a
+  requirement is substantive or non-substantive, waivable or non-
+  waivable.”
+  What documents must be included in the Bid?
+
+    Written evidence of the authority of the
+            person signing the bid
+
+ Ryan Gootee General Contractors, LLC v. Plaquemines
+  Parish School Board & One Construction, Inc. (5th Circuit)
+
+ Dynamic Constructors, L.L.C. v. Plaquemines Parish
+  Government (4th Circuit)
+
+ LeBlanc Marin, LLC v. Division of Administration, Office
+  of Facility Planning and Control (Supreme Court)
+Ryan Gootee General Contractors, LLC v. Plaquemines Parish
+     School Board & One Construction, Inc. (5th Circuit)
+
+
+ La. R.S. 38:2212(B)(5):
+   Written evidence of the authority of the person signing the bid for public
+    works shall be submitted at the time of bidding.
+   The authority of the signature of the person submitting the bid shall be
+    deemed sufficient and acceptable if any of the following conditions are
+    met:
+     (a) The signature on the bid is that of any corporate officer,
+      or of any member of a partnership, LLC, LLP, or other legal
+      entity on file with the secretary of state.
+     (b) The signature on the bid is that of an authorized representative as
+      documented by the legal entity certifying the authority of the person.
+     (c) The legal entity has filed in the appropriate records of the secretary
+      of state of this state, an affidavit or resolution indicating the names of
+      all parties authorized to submit bids for public contracts.
+Ryan Gootee General Contractors, LLC v. Plaquemines Parish
+     School Board & One Construction, Inc. (5th Circuit)
+
+
+
+ The low bid in this case was signed by a managing
+  member of the LLC.
+ The Fifth Circuit held that the second sentence of La.
+  R.S. 38:2212(B)(5) does not exempt bidders from
+  complying with the first sentence.
+ Essentially, all bids must be accompanied by written
+  evidence of the authority of the person signing the
+  bid.
+Dynamic Constructors, L.L.C. v. Plaquemines Parish
+             Government (4th Circuit)
+
+
+ Is simply stating that you are the owner of the firm sufficient?
+
+
+ The owner of Dynamic Constructors, L.L.C signed the bid as
+  “First Name – Last Name, Owner”
+
+ NOT sufficient.
+
+
+ The Public Bid Law requires the bidder to present some form of
+  written evidence or documentation substantiating that the signer
+  of the bid had the requisite authority to sign on the bidder’s
+  behalf.
+         LeBlanc Marine, LLC v. Division of
+          Administration (Supreme Court)
+
+ State’s bidding instructions limited bidders to only two of
+  the types of evidence for proof of authority rather than
+  including all three methods of evidence of proof.
+
+ State’s bidding instructions were facially invalid and
+  must yield to the mandatory statutory requirements in
+  the Public Bid Law.
+
+ Bidding instructions which conflict with, rather than
+  merely exceed, the statutory requirements and
+  procedures set forth in the Public Bid Law are not valid.
+          Advertising: Public Works
+ All advertisements shall occur once a week for Three (3) Different
+  Weeks in the newspaper of the locality
+   First ad must appear at least 25 days before bid opening date
+   First ad cannot begin on a Saturday, Sunday, or legal holiday
+
+
+ Advertisement must indicate time and place of any mandatory pre-
+  bid conference and must state when and where bids will be opened
+
+ If a public entity is required by law to provide bidders with the option
+  of submitting their bids electronically, the public entity must also
+  publish a copy of the bid documents on the website accepting the
+  electronic bids.
+
+ All bidding documents and complete plans/specifications must be
+  available on the date of 1st advertisement and remain so until 24
+  hours before bidding.
+                  Advertising: Addendum
+
+ Addenda are use to make changes to the bid documents
+
+
+ The bid period may be extended up to 30 days through the issuance of an
+  addendum without the requirement of re-advertising;
+
+HOWEVER:
+
+ If addendum is issued within 7 days of the bid opening, the public entity must
+  transmit a copy of the addendum within 24 hours to all prime bidders who
+  have requested bid documents
+   If the addendum cannot be transmitted, bid opening must postponed at least
+     7 days
+ If addendum is issued within 72 hours of the advertised time of bid opening:
+   Entity must extend the opening of bids at least 7 but no more than 21
+     working days
+              Advertising: Addendum
+
+ Can the public entity require bidders to include the
+                  addendum date?
+La. Atty. Gen. Op. No. 17-0175
+ The failure of the low bidder to insert the addendum date on the
+  Uniform Public Bid Form does NOT render the bid non-responsive.
+ Public entity issued two addenda for a bulkhead project requiring
+  each bidder to acknowledge receipt of the addenda by placing each
+  addendum number and date in the space provided.
+ Low bidder placed the number of each addendum but not the date.
+ La. R.S. 38:2212(B)(2): “Acknowledgment of Addenda”
+ Public entities cannot require bidders to provide anything beyond
+  what is required in La. R.S. 38:2212(B)(2) for initial bids.
+               How are Bids delivered?
+
+ Delivery in one of three ways:
+   (1) Hand delivered by bidder or agent
+     Written receipt given to bidder
+
+   (2) May be sent through registered or certified mail with
+    return receipt requested
+   (3) Submitted electronically (if applicable)
+
+
+
+ Public entities cannot accept any bids on days
+  recognized as holidays by United States Postal
+  Service
+   This includes hand delivered bids
+                  Electronic Bidding
+
+ Public entities shall provide a uniform and secure
+  electronic interactive system for the submittal of bids
+  for both public works and the purchase of materials
+  and supplies requiring competitive bidding.
+ Public entities may require that all bids be
+  submitted electronically.
+ Standards set by the L.A.C. 4:XV.701
+ Exceptions:
+  Public entities without available high speed internet access
+  Any parish with a police jury form of government and a
+   population of less than 20,000
+         Opening of Bids
+   Bids must be publicly opened and read aloud at the
+    time and place in the advertisement.
+   Late bids should be marked with the time and date
+    and returned to the bidder unopened.
+   Bids become public records – 14 days after bid
+    opening or recommendation of award, whichever is
+    sooner.
+   No comment should be made at bid opening about
+    the low bid or about award.
+                Bid Evaluation
+ La. R.S. 38:2212(A)(1)
+
+
+
+
+   Public works contracts are awarded to the
+    lowest responsible and responsive
+                   bidder.
+            Bid Evaluation
+
+“Responsibility”
+  Refers to the character or quality of the
+  bidder
+  Past experience with bidder?
+  Are you safe doing business with this
+    contractor?
+           Bid Evaluation
+
+“Responsiveness”
+
+    Has bidder offered you what you ask
+     for?
+                  Bid Evaluation
+ Rejection as a Non-Responsible bidder requires
+ the following:
+
+  Written notice to bidder including the reasons for disqualification
+
+  An opportunity for hearing within 5 days of the notice of
+   disqualification
+    Hearing acts as a condition precedent to any action by the bidder
+      against the public entity.
+  Public entity will issue a written ruling within 5 days of the hearing
+
+  Contract cannot be awarded to another bidder until ruling has been
+   sent
+           Bid Evaluation
+
+ Rejection for Non-Responsive
+  Notify bidder of reason why rejected
+
+  Award to next lowest responsible and
+
+  responsive bidder
+      ATTORNEY GENERAL OPINIONS
+
+             La. Atty. Gen. Op. No. 15-0139
+*Remember:
+
+ La. R.S. 38:2212(B)(3)(a): (10-day requirement)
+
+     “If the apparent low bidder does not submit the proper
+      information or documentation as required by the bidding
+      documents within the ten-day period, such bidder shall be
+      declared non-responsive…”
+
+ Next lowest bidder has 10 days from the date the lowest bidder is disqualified
+  to submit the required information.
+                   Canceling Bid
+       The public entity may cancel solicitation for bids for
+        any reason before bid opening
+
+       Must have just cause after bids opened to cancel
+        solicitation.
+
+       Just Cause includes:
+         Lack of sufficient funds for the project
+         Failure of any bidder to submit a bid within pre-
+          construction estimates (i.e., all bids are over budget)
+         Substantial change in scope or design of project
+         Decision to not go forward with the project for at least 12
+          months from the opening of bids.
+        Ballay v. Cormier (4th Circuit)
+ Plaquemine Parish advertised bidding for the renovation of the Parish’s
+  District Attorneys office. One of the plaintiffs, CDW Services, LLC,
+  provided the lowest bid and was awarded the project.
+ However, between the time bidding was announced by the interim
+  president and the documents were finalized, a new parish president
+  was sworn in and he rejected the bid.
+ This was done so under the claim that the parish did not have the
+  adequate funding, and was still waiting on federal funding for the
+  project.
+ Both CDW and the DA (Mr. Ballay) filed:
+   (1) Writs of Mandamus to compel the president to sign the
+    finalized contract; and
+   (2) Petition for a Temporary Restraining
+    Order/Preliminary Injunction to prohibit the Parish from
+    alienating or encumbering the funds appropriated for the project.
+         Ballay v. Cormier (4th Circuit)
+
+ The Fourth Circuit upheld the issuing of the writ of
+ mandamus stating:
+
+ “Once the public entity has exercised its option and
+ accepted a lowest responsible bid, it cannot reject all bids
+ and re-advertise the project.”
+                Withdrawing a Bid
+
+
+ Must be done within 48 hours of bid opening
+
+
+ Must be done by affidavit
+
+
+ Only for “patently obvious, unintentional and substantial
+  mechanical, clerical or mathematical errors, or errors of
+  unintentional omission of a substantial quantity of work, labor,
+  material, or services”
+                  Withdrawing a Bid
+
+ Barriere Construction Co, LLC v. Parish of Tangipahoa (First Circuit
+  2018)
+
+ Lowest bidder’s base bid total contained a clerical error as its unit
+  prices extended would have increased the base bid
+
+ Letter sent from the lowest bidder to the parish clarified its base bid
+  total based on the unit prices extended as per La. R.S. 38:2212(B)(6)(c)
+  (increase in amount) and still maintained its lowest bid status
+
+ Court held that the lowest bidder was not required to withdraw their
+  bid as per La. R.S. 38:2214(C) or (D) for the error as the specific
+  provision in 2212(B)(6)(c) recently enacted controlled and the parish
+  was not waiving or acting in noncompliance with the PBL.
+                  Awarding the Contract
+                            -- Timeline --
+
+ (1) Award
+   Within 45 days of opening of bids the public entity must award the
+    contract to the lowest bidder or:
+         Reject bids for just cause; or
+         Extend the deadline with consent of lowest bidder
+ (2) Execute
+   Within 60 days of award, the public entity must execute the contract.
+
+
+ (3) Notice to Proceed
+   Within 30 days of the execution of the contract, Notice to
+    Proceed must be given, subject to mutual consent of the parties.
+
+ These provisions do not apply when the public entity is
+  financing the project through the sale of bonds. (other time
+  delays…Bond Commission approval, going to market, etc.)
+    Amending the Contract after Execution
+
+ All public work contracts shall contain provisions authorizing the
+  issuance of change orders within the scope of the contract.
+
+ “Change order” means any contract modification that includes an
+  alteration, deviation, addition, or omission as to a preexisting public
+  work contract, which authorizes an adjustment in the contract price,
+  contract time, or an addition, deletion, or revision of work.
+
+ All change orders must be in writing or in electronic format if the
+  public entity has the capability to receive change orders
+  electronically.
+
+ Public entity must pay the contractor for the change order within 60
+  days of approving the application for change order.
+                     Change Orders
+
+ “Change      order within the scope of the
+  contract” means a change order which does not
+  alter the nature of the thing to be constructed and
+  which is an integral part of the project objective.
+ Any change order within the scope of the contract
+  must be negotiated in the public entity’s best interest
+  or let out for bid.
+  As a best practice for the use of public funds, change orders
+   above the threshold amount should be let out for bid.
+                   Change Orders
+
+ “Change order outside the scope of the contract”
+ means a change order which alters the nature of the
+ thing to be constructed or which is not an integral part of
+ the project objective.
+
+ Any change order outside the scope of the contract in
+ excess of the threshold amount (currently $250,000)
+ shall be let out for public bid.
+
+ La. Atty. Gen. Op. No. 03-0263: Additional public
+ works outside the scope of the contract should not be
+ performed through a change order.
+                  Change Orders
+
+
+ Where the change order is negotiated, the public
+ entity shall require that such change order be fully
+ documented and itemized as to costs.
+
+ Where certain unit prices are contained in the initial
+ contract, no deviations shall be allowed in computing
+ negotiated change order costs.
+                      Change Orders
+
+                          Recordation
+ If the change order:
+  Adds an amount of 10% or more of the original contract amount and
+   is at least $10,000; or
+  All change orders to a contract aggregating to an amount of 20% or
+   more of the original contract amount and is at least $10,000, then
+ The change order shall be recorded by the public entity in
+  the mortgage records in the parish where the work is to
+  be done not later than 30 days after the date of the
+  change order which requires that the recordation take
+  place.
+ In addition, the original contract shall be recorded
+  together with the change orders if not previously
+  recorded.
+MATERIALS AND
+  SUPPLIES
+    Purchases of Materials and Supplies
+
+
+ Equipment
+
+ Vehicles
+
+ Supplies
+
+ All Other Movable
+ Property
+ Some Exceptions
+       Purchases of Materials and Supplies
+
+ For Political Subdivisions and Local
+ Government (Executive Branch entities follow the LPC)
+ Below $10K –
+    No procedure specified
+ $10K to $30K –
+    At least 3 quotes via telephone, fax, email, or other printable electronic form
+    If telephone quotes are received, a written confirmation of the accepted offers
+     shall be obtained and made a part of the purchase file.
+    If quotations lower than the accepted quotation are received, the reasons for
+     their rejection shall be recorded in the file.
+ $30K and Above –
+    Advertise for sealed bids
+     Advertising: Materials and Supplies
+
+ All advertisements shall occur Two (2) times in the newspaper of the
+  locality.
+   First ad must appear 15 days before bid opening date
+   First ad cannot begin on a Saturday, Sunday, or legal holiday
+
+
+ All bidding documents and complete plans/specifications must be available
+  on the date of 1st advertisement and remain so until 24 hours before bid
+  opening date.
+
+ Must include the time and place for delivery of bids and the time and place
+  where bids will be publicly opened.
+
+ Cannot accept any bids on days recognized as holidays by United States
+  Postal Service
+   This includes hand delivery
+                Specifications
+ Alternates:
+
+  Maximum of 3 alternates
+
+  Alternate bid by any other name still an alternate
+
+  Alternates, if accepted, shall be accepted in the
+   order that they are listed on the bid form, unless
+   accepting them out of order does not change the
+   determination of the low bidder.
+           Specifications
+
+
+
+
+Do you have to provide an alternate
+     bid if one is requested?
+                        Specifications
+
+            La. Atty. Gen. Op. No. 15-0052
+ Municipality sought bids to replace a storage tank at its water
+  treatment facility
+ The Base Bid was for an “epoxy-coated steel tank”
+ Alternate Bid No.1 was for a “glass-to-steel fused tank” in lieu of an
+  epoxy-coated tank.
+ When bids were opened, the apparent bidder on the base bid provided
+  “No Price” in the space provided for Alternate Bid No. 1
+ Instructions stated to complete all spaces on the bid form
+ Great Lakes Dredge & Dock Co., LLC v. State (1st Circuit): Failure to
+  supply a price for an alternate renders the bid non-responsive.
+ The AG’s office opined: “… the apparent low bidder’s failure to
+  complete all blanks renders their bid non-responsive and warrants a
+  mandatory rejection.”
+               Specifications
+ Particular Brand:
+
+  Public entities may specify a particular brand,
+   make, or manufacturer using the model or
+   catalog number
+
+  Equivalent products may be accepted (subject to
+   similar quality standards)
+   Professional Services
+
+
+
+
+Is it Materials & Supplies
+            or
+  Professional Services?
+                    Professional Services
+
+                                  14-0217
+ A   contract for the design and preparation of an
+  informational report between a sheriff’s office and a private
+  entity is a contract for services and not subject to the public
+  bid law.
+ However…
+   The printing of the report is subject to the public bid law
+   La. R.S. 38:2255:
+
+       “… such contracts shall be let to the lowest responsible bidder who
+        is a Louisiana firm, who will comply with the terms of this statute,
+        unless the bid submitted by any firm outside the State of Louisiana
+        is at least three per cent lower than the lowest bid submitted by a
+        Louisiana firm.”
+                Professional Services
+
+                           14-0142
+ A Parish Hospital Service District and a food vendor executed an
+  agreement which stated that the food service vendor would
+  prepare food for patients and visitors as well as supply
+  equipment and décor for the Parish Medical Center
+ The AG’s office opined that this agreement was likely for
+  materials & supplies and therefore subject to the public bid law
+
+ La. Atty. Gen. Op. No. 07-0278 – A factual determination
+  must be made as to the predominant component of the
+  transaction. Is it predominantly “materials & supplies” or
+  predominantly “services”?
+EXCEPTIONS
+              Piggybacking
+
+What is piggybacking?
+
+ The State, levee districts, levee drainage districts,
+ municipalities, and parishes, or other political
+ subdivisions may purchase materials, supplies, vehicles
+ or equipment through an existing public contract of
+ another political subdivision within one (1) year of the
+ opening of bids, provided certain conditions are met.
+                         Piggybacking
+                                  La. R.S. 38:321.1
+Conditions:
+ The original contract was bid in compliance with the public bid law.
+ The total purchase on the contract does not exceed 2x what was purchased
+    on the original contract.
+   The public entity obtains the written consent of the entity which bid the
+    original contract, as well as the contract number and resolution accepting
+    the contract.
+   The vendor agrees to the additional purchase.
+   The vendor, product, materials, supplies, vehicles, or equipment are
+    identical to those specified in the original contract, and
+   Price is the same as the original contract price.
+*A public entity may rely on the certificate of the Office of State Procurement or the political
+subdivision who entered into the original contract that the contract was made in compliance
+with the public bid law.
+                   Piggybacking
+ Political Subdivisions may still utilize the Local Services
+  Law (La. R.S. 33:1324) to piggyback off of public contracts
+  procured by other public entities. La. Atty. Gen. Op. No. 17-
+  0152
+ Must do the following:
+   Verify that the original contract was made in compliance with State
+    law.
+   Verify that the contract is still active, fresh, or viable.
+   Obtain the written consent or approval of the public entity which bid
+    the original contract, as well as the contract number and resolution
+    accepting the contract.
+   Confirm that the vendor and the product, services, materials, supplies
+    or equipment are the same and that the price is the same or lower.
+                       Piggybacking
+
+           La. Atty. Gen. Op. No. 15-0018
+
+ A National Joint Powers Alliance (“NJPA”) contract is not a
+  competitively bid contract…thus, piggy backing is not permitted.
+
+ If an NJPA contract were adopted by the Office of State
+  Procurement, it would become a “state contract” under the
+  Procurement Code which would allow municipalities and
+  parishes to purchase directly from the NJPA or a local vendor.
+                Surplus Equipment
+
+ Article VII, Section 14(E) authorizes the donation or
+  exchange of surplus movable property between
+  political subdivisions whose functions include public
+  safety. This is a rare exception that does not require
+  the receipt of fair market value in return for the
+  equipment.
+ Otherwise, the transfer may be done through a direct
+  sale/cooperative endeavor/intergovernmental
+  agreement where both entities receive equal value on
+  each side of the transaction (appraisal).
+      Cooperative Purchasing
+Hospitals and Schools:
+
+ Hospitals and schools are authorized to enter into agreements with one
+  or more qualified group purchasing organizations for the
+  purpose of obtaining bids for the purchase of materials or supplies.
+
+ Hospitals -- Qualified group purchasing organization means an
+  organization, for profit or not for profit, that has contracts for the sale of
+  materials or supplies with at least 15 hospitals within the United States.
+
+ Schools --     Qualified group purchasing organization means an
+  organization, for profit or not for profit, of which at least 2 or more
+  public school districts are members.
+               Reverse Auctions
+Definition:
+ A competitive online solicitation process for materials, supplies, services,
+  products, or equipment in which vendors compete against each other online
+  in real time in an open and interactive environment.
+
+Notice Requirements:
+ Similar notice requirements
+
+
+Policies and Procedures:
+ May include vendor registration and prequalification
+ Must designate an opening and a closing date
+ Must continue to accept bids and allow bidders to lower their bids until the
+  closing date
+ Must not reveal bidders’ identities
+ All bids shall be electronic and updated in real time
+                    Emergencies
+Emergency:
+  An unforeseen mischance bringing with it destruction or injury of life
+   or property or the imminent threat of such destruction or injury.
+  An order by a judicial body to take any immediate action that
+   requires construction or repairs absent compliance with the
+   formalities of the public bid law, because of insufficient time to follow
+   the advertising requirements.
+
+Extreme Emergency:
+   A catastrophic event that causes the loss of ability to obtain a quorum
+    of the members necessary to certify the emergency prior to making
+    the expenditure to acquire materials or supplies or to make repairs
+    necessary for the protection of life, property, or continued function of
+    the public entity.
+                  Emergencies
+Procedures:
+ The emergency must be certified by the public entity at a public
+  meeting.
+ Notice of the emergency must published in the official journal
+  within 10 days of declaring the emergency.
+ Public Bid Law may be waived
+
+Documentation:
+ Every contract entered into under this provision shall be
+  supported by written documentation (i.e., must evidence verbal
+  offers with written confirmation).
+              Procurement Code
+What is the LA State Procurement Code?
+ Must be followed by executive branch agencies when purchasing materials and
+  supplies.
+ Administered through the Office of State Procurement with a list of state-
+  approved vendors.
+
+What about local government?
+ Local governments and political subdivisions may adopt by ordinance or
+  resolution all or part of the procurement code.
+ Any public entity may still purchase materials and supplies under the
+  procurement code without formally adopting it.
+
+Purchasing from a local vendor at the State contract price:
+ May pay the costs for shipping, preparation, and delivery of the item, as long as
+  these costs do not exceed the State contract price by:
+        7% on purchases up to $10,000
+        5% on purchases over $10,000 and up to $20,000
+        3% on purchases over $20,000
+     Data Processing and Telecommunications
+
+
+ Public entities may lease, rent, or purchase
+ telecommunications or data processing systems,
+ including equipment and related services, through a
+ Request for Proposal (RFP).
+  Computers, phones, software, etc.
+
+  The criteria must be set forth and point valued in the RFP.
+
+
+
+ Public entities may still use the public bid law or
+ purchase from State contract.
+                     Homeland Security
+
+
+ Notwithstanding any other provision of law to the
+  contrary, any public procurement unit may procure
+  materials, supplies, equipment, and services related
+  to homeland security from federal General Services
+  Administration (GSA) supply schedules.
+ Such purchases shall:
+  (1) Utilize a Louisiana distributor.
+
+  (2) Use the competitive ordering procedures of the GSA.
+
+  (3) Receive prior approval from the director of the GOHSEP,
+   or his designee
+              Bonds and Recordation
+
+ Public works contracts of $5,000 or more must be in
+ writing as per La. R.S. 38:2241 and 38:2216(A)(1).
+  When   an emergency is declared, the threshold requiring the
+   contract be in writing is $50,000.
+ Public works contracts of $25,000 or more shall require a
+ bond of not less than 50% of the contract price and must be
+ recorded in the mortgage records in the parish where the
+ work is to be done.
+  Not later than thirty days after the work has begun
+
+ A public entity may require the successful bidder of a
+ materials and supplies contract to furnish a bond of not
+ less than 50% for the faithful performance of his duties.
+         Bonds and Recordation (cont.)
+
+ Small businesses are only required to furnish one half
+ of the bond amount as called or in the bid of public
+ contracts of $200,000 or less. In order to qualify for
+ this requirement the bidder shall have the following
+ characteristics:
+  Qualifies as a small business as certified by the Department of
+   Economic Development and has been certified by the director
+   of the Department of Economic Development;
+  Is a responsible bidder (capable to provide goods and services
+   in accordance with the terms of the contract, no documented
+   record of arbitration or litigation where fault was found, etc.);
+  Has been operating the same business for a continuous period
+   of at least three years; and
+  Has been denied guaranteed bond by the SBA or performance
+   bond by and established security firm for reasons other than a
+   previous history of performance default.
+         Bonds and Recordation (cont.)
+
+ On   public contracts of $50,000 or less, a
+ performance bond can be waived by the public entity
+ for a contractor or subcontractor who:
+  Meets the definition of responsible bidder,
+  Has  been operating as the same business for a continuous
+   period of at least three years,
+  Has been denied a performance bond by an established security
+   firm, for reasons other than a previous history of performance
+   default, and
+  Provides an irrevocable letter of credit, property bond, or other
+   authorized form of security that is acceptable to the public
+   entity and is in an amount not less than the amount of the
+   contract, for the faithful performance of his duties.
+ The public entity may adopt rules and regulations to
+ effectuate these provisions.
+    The Exchange of Public Property between 2 Public
+                       Entities
+
+            La. Atty. Gen. Op. No. 14-0005
+ The exchange of public property between two public
+  entities is authorized under the Local Services Law (La. R.S.
+  33:1324) and does not have to be competitively bid.
+
+ However….
+   The transaction must comport with La. Const. art. VII, Section 14
+    regarding the prohibited donation of public funds.
+                    Local Hiring Preferences
+
+                 La. Atty. Gen. Op. No. 16-0020
+ Public Bid Law does not permit a local hiring preference
+ HireNOLA program established by city ordinance
+ Under the ordinance, contractors and subcontractors were
+  required to make a good faith effort to have a certain percentage
+  of “work hours” performed by “local workers.”
+   La. R.S. 38:2225(B) explicitly prohibits hiring preference as it relates to in-state
+    workers.
+   However, La. R.S. 38:2225(A) provides:
+         If a nonresident contractor bidding on public work in the state of Louisiana is domiciled
+          in a state that provides a percentage preference in favor of contractors domiciled in that
+          state over Louisiana resident contractors for the same type of work, then every Louisiana
+          resident contractor shall be granted the same preference over contractors domiciled in
+          the other state favoring contractors domiciled therein whenever the nonresident
+          contractor bids on public work in Louisiana.
+PROHIBITIONS
+       Division of Contracts
+ Division or separation of any purchase to avoid
+ the public bid law is illegal
+
+  Ex. Buying 3 generators separately to avoid the $30,ooo threshold.
+
+  Ex. Separating an attachment from a tractor.
+
+  Purchases of like commodities during a fiscal year must be
+   aggregated (La. Atty. Gen. Op. No. 02-0122)
+ Bids from Convicted Felons
+ Public entities may reject the lowest bid from a business in which
+  any individual with an ownership interest of at least 5% is a
+  convicted felon for a crime committed in the solicitation or
+  execution of a public contract.
+
+ Responsibility is on the contractor. There is no duty on behalf of the
+  public entity to perform background checks.
+
+ The company whose bid was rejected shall be responsible to the
+  public entity for the costs of rebidding, increased costs of awarding
+  to the next highest bidder, or forfeiture of the bid bond.
+ Compliance with Audit Law
+ Public entities that have failed to comply with the Audit Law (La.
+  R.S. 24:513) are prohibited from letting any public contracts that
+  utilize state funds, whether through a direct appropriation or a
+  transfer from another public entity.
+
+ “State funds” includes any federal funds, including grants, that
+  are passed through the state.
+
+ Must receive written confirmation of compliance from the
+  Legislative Audit Advisory Council (LAAC)
+ENFORCEMENT
+             Enforcement
+
+            Two separate remedies:
+
+ La. R.S. 38:2220
+
+
+ La. R.S. 38:2220.1-2220.4
+                  Enforcement
+
+ (1) La. R.S. 38:2220 (Mostly for DAs and the AG)
+   (1) District attorney in whose district the violation occurs
+    the
+   (2) Attorney general
+
+   (3) Any interested party
+
+ Nullify the contract or an Injunction
+ If brought by the AG or DA:
+   Court may award a civil penalty up to $50,000 against
+    each offending member of the governing authority of the
+    public entity who authorized the violation.
+                  Enforcement
+
+ (2) La. R.S. 38:2220.1-2220.4 (For private entities)
+   Any person or entity with direct knowledge of an alleged
+    violation of the public bid law may institute a civil action
+    against the public entity to seek a declaration that such
+    violation has occurred. The information upon which the
+    action is based shall be obtained independently and shall
+    NOT be based upon any of the following:
+     (1) Criminal, civil, or administrative hearing
+     (2) Governmental audit report or investigation
+     (3) News media, unless person has independent knowledge of
+      the alleged violation.
+                   Enforcement
+                              Process:
+   Prior to initiation of the civil action, the complainant shall inform
+    the attorney general and provide all direct information he
+    possesses regarding the alleged violation.
+     Complaint must be sent to the attorney general by certified mail
+       within 15 days from the date of discovery.
+   If the attorney general does not initiate a civil action within 30
+    days, the complainant may initiate a civil action.
+   The attorney general shall maintain the confidentiality of all
+    information provided by the complainant.
+ The winning party is entitled to attorney’s fees.
+ If the court finds fraudulent conduct by the public
+  entity, the plaintiff shall be awarded twice the amount
+  of attorney’s fees.
+                   Enforcement
+ Airline Construction Co. v. Ascension
+  Parish School Board (LA Supreme Court)
+   A construction company challenged the bidding process regarding
+    the award of a public works contract.
+   Court said: An unsuccessful bidder must seek injunctive relief at a
+    time when the alleged violation…
+     (1) Was known or knowable and
+     (2) when corrective action as a practical matter can be taken
+      by the public body.
+       Timeliness depends on several factors laid out by the court.
+
+
+ Supreme Court ultimately held that an action filed 8
+  months after the violation was untimely.
+                      Summary
+ Publicbid law applies to public entities when
+ expending public funds on:
+  (1) Public Works
+  (2) Materials and Supplies
+ Current threshold amounts are:
+   Public Works: $250,000
+   Materials and Supplies: $30,000
+ The only documents a public entity may require
+  bidders to submit prior to the opening of bids are
+  those listed in La. R.S. 38:2212(B)(2) … Louisiana
+  Uniform Bid Form
+ Public bid law does not apply to professional services
+          Recent Acts and New Opinions
+
+ La. Atty. Gen. Op. No. 20-00990
+▪   La. Const. art. VII, §14(B) creates an exception to the
+    prohibition against gratuitous alienation of property by a
+    political subdivision by authorizing political subdivisions to
+    donate the “use” of their public equipment and personnel
+    upon the request of and pursuant to a written agreement
+    with another political subdivision.
+▪   This amendment is intended to avoid duplicative
+    expenditures by taxpayers.
+▪   The donation of use of the equipment and personnel may not
+    be for general use but is permissible for a particular defined
+    use, purpose, or activity. Compliance with La. R.S.
+    33:4712.18 is required (time, employees, etc.)
+          Recent Acts and New Opinions
+
+ La. Atty. Gen. Op. No. 20-0118
+▪ Legislature realized that extreme emergencies might require
+    quicker solutions than bid law compliance could allow. The
+    emergency exemption allows political subdivisions to enter
+    into contracts for public works without having to go through
+    a formal bid process.
+▪   In order for a public entity to utilize the emergency
+    provisions within La. R.S. 38:2212(P), the public entity must
+    certify that an emergency exists and provide notice of the
+    emergency to the public through its official journal within
+    ten days of an emergency certification.
+▪   Every contracted negotiated under the emergency authority
+    must be supported by a written determination and findings
+    justifying use of this authority.
+ Act No. 288 of 2021 Procurement of Telecommunications or
+ Video Surveillance Equipment or Services by State Agencies
+               and Certain Educational Entities
+
+
+ All public elementary, secondary, or postsecondary education
+  schools, institutions, and governing authorities or nonpublic schools
+  that receive state funds are prohibited from procuring
+  telecommunications or video surveillance equipment produced by:
+
+ Huawei Technologies Company,
+ ZTE Corporation,
+ Hyrtera Communications Corporation,
+ Hangzhou Hikvision Digital Technology Company,
+ Dahua Technology Company, or
+ Any Subsidiaries of such companies.
+
+ Also may not purchase equipment or services from an entity found
+  to be owned, controlled or connected to the Chinese Government.
+ Act No. 288 of 2021 Procurement of Telecommunications or Video
+ Surveillance Equipment or Services by State Agencies and Certain
+                        Educational Entities
+
+ This prohibition extends to any product or equipment,
+  regardless of manufacturer, containing component parts in
+  any video surveillance or telecommunications equipment.
+
+ It is extended to the following:
+1) Computers or other equipment containing a component which
+   enables any form of network connectivity or telecommunications
+   regardless of whether the equipment is regularly connected to a
+   network.
+2) Building automation, environmental controls, access controls, or
+   facility management and monitoring systems
+3) Voting machines, elections systems
+4) Any services provided using any equipment from the above.
+                       Act 288
+
+ Prior to the purchase of telecommunications or
+ video surveillance equipment or services, the
+ vendor must provide an affidavit that the
+ equipment or services to be procured are not
+ prohibited by La. R.S. 39:1753.1.
+
+ No procurement can be made from a vendor or
+ other entity who fails to provide the affidavit.
+                      Acts 48 and 477
+
+ Act No. 48-    Changes the provision in La. R.S. 37:2163(B) by
+  removing the requirement that an agency may only provide
+  proposal forms or specifications to a licensed contractor who
+  holds an active license or his authorized representative. The
+  provision now provides that proposal forms may not be issued later
+  than twenty-four (24) hours prior to the hour and date set for
+  receiving proposals. Generally, a project may not be awarded to
+  contractors who do not hold an active contractor’s license; however,
+  there are exceptions to this provision.
+
+ Act No. 477- Established La. R.S. 51:2370.14. GUMBO (Granting
+  Unserved Municipalities Broadband Opportunities) grants or awards
+  are not subject to the provisions of the Louisiana Procurement Code
+  or the Public Bid Law. This program is set up to provide broadband
+  service to homes, businesses, educational facilities, healthcare
+  facilities and community anchor points not currently served.
+                        Act 272
+
+ Provides for an exception to the Ethics prohibition
+ preventing a spouse of a public servant who is
+ employed by a person/business who is seeking a
+ business or financial relationship with the agency of
+ the public servant from remaining employed by that
+ prohibited source. The exception details the specific
+ requirements of not being an owner in the company,
+ being employed for a year or longer prior to the date of
+ the contract, their compensation being unaffected,
+ public servant disqualifies themselves from
+ participation in the transaction, and filing and reporting
+ within ten business days of start of the contract.
+                       Act 205
+
+ Provides that public entities shall promptly pay all
+ obligations including approved change orders and
+ change orders shall be processed and issued by the
+ public entity no later than forty (40) days following the
+ final execution of the change order.
+
+ This Act also requires that any timely change by a
+ bidder to a the bid prior to submission of the bid shall
+ be scratched through and initialed by the bidder or the
+ person who submits the bid. The change as initialed
+ shall be binding. For the purposes of bids submitted
+ electronically, the last timely bid submission by each
+ and any bidder shall be binding.
+                       Act 205
+
+ Requires a Notice of Acceptance be executed upon
+ the recommendation of the design professional whose
+ recommendation must be made within thirty calendar
+ days after the date of completion or substantial
+ completion of the public work.
+
+ A public entity cannot take, use, or occupy the public
+ work or us or occupy a specified area of the public
+ work for which it as intended until the substantial
+ completion has been filed, unless an approved
+ agreement of partial occupancy is executed between
+ the public entity, the design profession of record, and
+ the contractor.
+        Contact Information
+Brett A Robinson
+Assistant Attorney General
+Post Office Box 94005
+Baton Rouge, Louisiana 70804
+Robinsonbr@ag.Louisiana.gov
+Phone: (225) 326-6083
+

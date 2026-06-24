@@ -1,0 +1,5 @@
+[Skip to content](https://education.alaska.gov/elearning/procurtrngformal#main_content) [Back to Top](https://education.alaska.gov/elearning/procurtrngformal#)
+
+This training session is designed to provide an overview of formal procurement requirements. Proper procurement methods are required for all program participants in the National School Lunch Program, Child and Adult Care Food Program, and Summer Food Service Program. This training will provide an overview of the two formal procurement methods allowed: competitive bids (IFB) and competitive proposals (RFP), provide information on fixed-price contracts and cost-reimbursable contracts from the solicitation to contract execution stage, and provide an overview of the federally required terms, conditions, and provisions.
+
+[Login Here](http://eedelearning.asentialms.com/)

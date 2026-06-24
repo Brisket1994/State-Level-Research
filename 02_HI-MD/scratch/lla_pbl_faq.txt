@@ -1,0 +1,3622 @@
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+
+
+                               Public Bid Law
+                               R.S. 38:2211, et seq.
+
+
+                                    Overview
+
+       This document discusses the general principles and guidelines concerning
+Louisiana’s Public Bid Law using a frequently asked questions (FAQ) format. The FAQ also
+contains Attorney General Opinions and case law to aid understanding of this area of the
+law. While the document is fairly detailed, remember that every situation is unique and that
+each situation deserves careful individual review.
+
+
+       Note when working with federal contracts and FEMA reimbursements, the federal
+government requires a competitive process for procurement of materials and supplies and
+public works, particularly for FEMA disaster reimbursements. When considering
+procurement after a disaster, always follow the stricter law to ensure a competitive process
+and successful reimbursement.
+
+
+       To facilitate your use of this document, numerous links within the summary will
+direct your attention to related areas within the document and to documents posted on the
+Louisiana Legislative Auditor’s website and on external websites. For example, under the
+Table of Contents section, you may go directly to any area of the FAQ by clicking the title
+of the section that you wish to view.
+
+
+
+
+                                                                                Page 1 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+                                         INDEX
+I. Public Bid Law
+
+Q.1.    What is the Public Bid Law?
+
+Q.2.    Does the Public Bid Law apply to procurement by my public entity?
+
+Q.3.    What types of contracts are covered by Louisiana’s Public Bid Law?
+
+
+II. Public Works
+
+Q.4.    What are public works?
+
+Q.5.    Are contracts for routine maintenance considered public work contracts?
+
+Q.6.    Are contracts for demolition considered public works?
+
+Q.7.    What are the procedures for executing contracts for public works?
+
+Q.8.    What is the dollar threshold, or contract limit (minimum), for contracts for
+        public works?
+
+Q.9.    When will the threshold, or contract limit, for Public Works resume annual
+        changes?
+
+Q.10. What items must be included to determine whether a public works contract
+      must be bid?
+
+Q.11. May a public entity construct a public work using its own employees without
+      bidding?
+
+Q.12. Is there a different contract limit for public works related to drainage projects to be
+      done by regular maintenance employees of the St. Charles Parish governing
+      authority?
+
+        A. Design Phase
+
+Q.13. Is a local public entity required to bid out a contract for design services (i.e.
+      architect/engineer) for a public works project?
+
+Q.14. What preparations must the public entity make before advertising for a public
+      work?
+
+Q.15.   What limitations apply to a consultant competing for contracts?
+
+
+
+
+                                                                                Page 2 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+      B. Advertisement
+
+Q.16. What are the requirements regarding the advertisement of bids for public works?
+
+Q.17. May the advertisement for bids pre-qualify certain individuals and thereby
+      disqualify others?
+
+Q.18. What are addenda?
+
+Q.19. What are the requirements for addenda?
+
+Q.20. May a public entity require bidders attend a prebid conference?
+
+Q.21. May the requirements of R.S. 38:2212 be waived?
+
+      C. Bidding
+
+Q.22. What documents must be included with a bid?
+
+Q.23. How are bids delivered?
+
+Q.24. What is electronic bidding?
+
+Q.25. Who is exempt from the electronic bidding requirement under the Public Bid Law?
+
+Q.26. When is the bid opening and what must occur?
+
+Q.27. Can a public entity extend the time for submitting bids?
+
+      D. Bid Selection
+
+Q.28. May the public entity reject all bids?
+
+Q.29. What is a responsible and responsive bidder?
+
+Q.30. Who is a responsive bidder?
+
+Q.31. What happens if a bidder is not a “responsible bidder”?
+
+Q.32. Does the apparent low bidder who is disqualified as non-responsive/non-
+      responsible have any recourse?
+
+      D. Execution of Contract
+
+Q.33. What is the time period for awarding public works contracts?
+
+Q.34. May changes be made to the contract after the contract has been executed?
+
+
+
+
+                                                                           Page 3 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+      E. Change Orders
+
+Q.35. What is a change order?
+
+Q.36. What is a change order that is within the scope of the contract?
+
+Q.37. What is a change order that is outside the scope of the contract?
+
+Q.38. What are the requirements for a change order?
+
+      F. Miscellaneous
+
+Q.39. What are recent definitions added to the public bid requirements for public
+      works?
+
+Q.40. May construction managers or other third party consultants employed by a public
+      entity manage a construction project as a general contractor or act in the role of a
+      general contractor?
+
+Q.41. What is the A+B method to determine the lowest responsive bidder for public works
+      contracts?
+
+Q.42. Are there any special provisions for public works projects by local government
+      entities that receive State funds and enter into contracts with third-party entities?
+
+III. Materials and Supplies
+
+Q.43. What are materials and supplies?
+
+
+Q.44. Are all contracts for the purchase of materials and supplies subject to the Public
+      Bid Law?
+
+      A. Contract Limits
+
+Q.45. What is the threshold, or contract limit (minimum) for purchases of materials and
+      supplies by local political subdivisions?
+
+Q.46. Does an exception to this threshold exist for purchase by a local
+      governmental unit of a used or new motor vehicle for conversion into a law
+      enforcement vehicle?
+
+Q.47. May a public entity purchase a fleet of law enforcement vehicles without bidding if
+      each vehicle is below the $70,000 threshold?
+
+Q.48. What procedures exist for procurement of Materials and Supplies?
+
+
+
+
+                                                                               Page 4 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+      B. Advertisement
+
+Q.49. What requirements exist for the advertisement of bids?
+
+Q.50. May a public entity specify alternates?
+
+Q.51. May a public entity specify a particular brand?
+
+      C. Bidding
+
+Q.52. What is electronic bidding?
+
+Q.53. Who is exempt from the electronic bidding requirement under the Public Bid Law?
+
+Q.54. When is the bid opening and what must occur?
+
+Q.55. What are the rules on the opening of bids?
+
+      D. Bid Selection
+
+Q.56. May the public entity reject all bids?
+
+Q.57. What is a responsible and responsive bidder?
+
+Q.58. What happens if a bidder is not a “responsible bidder”?
+
+      E. Exceptions
+
+Q.59. What are the exceptions to bidding requirements for contracts for materials and
+      supplies?
+
+Q.60. Does the Public Bid Law apply to a procurement transaction between two
+      public entities?
+
+             1. Piggybacking
+
+Q.61. When may public entities piggyback on other public entities’ contracts under
+      R.S. 38:321.1?
+
+Q.62. With enactment of R.S. 38:321.1 can parishes, municipalities and political
+      subdivisions still “piggyback” using the Local Services Law?
+
+             2. Qualified Group Purchasing
+
+Q.63. May hospitals engage in qualified group purchasing?
+
+Q.64. May school districts and schools engage in qualified group purchasing?
+
+
+
+
+                                                                          Page 5 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+Q.65. May public safety departments, such as municipal police departments and
+      municipal and parish fire departments, engage in cooperative purchasing?
+
+             3. Reverse Auctions
+
+
+Q.66. May electronic bidding be used for “reverse auctions”?
+
+
+Q.67. What are the notice requirements for a “reverse auction”?
+
+             4. Other Exceptions
+
+Q.68. How do political subdivisions procure computers and software?
+
+Q.69. What are the rules for purchases from the federal government related to
+      homeland security?
+
+Q.70. What requirements exist for purchases made by a public safety agency spending
+      federal grant dollars?
+
+Q.71. Are there any exceptions that allow procurement without bidding of specialized
+      cranes and replacement parts for port commissions and port, harbor, and terminal
+      districts?
+
+IV. Emergencies
+
+Q.72. Are there exceptions to the Public Bid Law for emergencies?
+
+      A. Emergency
+
+Q.73. What is an emergency?
+
+Q.74. When is the emergency exception applied?
+
+Q.75. What special documentation is required for purchases under the emergency
+      exception?
+
+      B. Extreme Emergency
+
+Q.76. What is an extreme emergency?
+
+Q.77. How is the extreme emergency exception applied?
+
+Q.78. What documentation is required for purchases under the extreme emergency
+      exception?
+
+V. Prohibitions
+
+
+
+                                                                          Page 6 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+Q.79. May public entities who are not in compliance with the Audit Law let contracts for
+      Public Works and Materials and Supplies?
+
+Q.80. May public entities split public works projects or purchases of materials and
+      supplies into several smaller projects/purchases to avoid the Public Bid Law?
+
+Q.81. What provisions in the Public Bid Law address rejecting bids from convicted
+      felons?
+
+Q.82. May a commission, fee or other consideration be split or shared?
+
+Q.83. May public entities disqualify a bidder if they are not registered with the Louisiana
+      Secretary of State?
+
+Q.84. May an entity trade in surplus equipment for credit as part of the purchase of new
+      materials, supplies, or equipment?
+
+Q.85. May a public entity disqualify a potential vendor that discriminates against firearm
+      and ammunition industries?
+
+VI. Professional Services
+
+Q.86. How are professional services for executive branch entities defined?
+
+Q.87. Are the professional services sought by local political subdivisions and other local
+      entities subject to the Public Bid Law?
+
+Q.88. Are other types of contracts for services subject to the Public Bid Law?
+
+Q.89. What laws apply to other contracts by executive branch agencies?
+
+Q.90. Are garbage contracts professional services contracts?
+
+VII. Louisiana Procurement Code (LPC)
+
+Q.91. What is the LPC?
+
+Q.92. May a public entity that is subject to the Public Bid Law choose to be subject to the
+      LPC?
+
+Q.93. May a local governmental entity purchase an item on the state contract?
+
+Q.94. May a local governmental entity purchase an item from a local vendor at the
+      state bid price?
+
+VIII. Retainage
+
+Q.95. Is a public works contract required to contain a retainage fee?
+
+
+
+                                                                               Page 7 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+
+
+IX. Enforcement of Payments under Contract
+
+Q.96. What actions may a contractor take to enforce payments by public entities
+      which are due and payable under the public contract?
+
+X. Telecommunications or Video Surveillance Equipment
+
+Q.97. Are there any additional restrictions/requirements on the procurement of
+      telecommunications or video surveillance equipment and services?
+
+XI. CMAR
+
+Q.98. What is CMAR and how can it be used?
+
+
+XII. Procurement Training
+
+Q.99. What annual training requirements are there for municipal elected officials and
+      employees on the Public Bid Law?
+
+XIII. Additional Legal Sources
+Relevant Attorney General Opinions (Click Here)
+
+XIV. Case Law
+
+CASE LAW – (CLICK HERE)
+
+
+XV. Additional Guidance (Flowcharts)
+
+
+
+
+                                                                          Page 8 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+                     Frequently Asked Questions
+I. Public Bid Law                                                             R.S. 38:2211, et seq.
+
+
+Q.1.   What is the Public Bid Law?
+
+A.1.   The Public Bid Law is the set of laws that governs contracts for public works and the
+       purchase of materials and supplies by public entities that meet certain threshold
+       requirements called the “contract limit” (minimum). This limit is $60,000 for materials
+       and supplies, and $260,000* for public works. The purpose of the public bid law is to
+       ensure that public entities receive the best possible price when using public funds for the
+       procurement of materials and supplies or public works. The Public Bid Law is a prohibitory
+       law founded on public policy and therefore public entities must strictly comply with its
+       provisions absent express exception in law.
+
+       Procurement rules for state executive branch entities are contained in the Louisiana
+       Procurement Code (LPC). State executive branch entities (the legislative and judicial
+       branches are exempt) are required to use the LPC for the purchase of materials and
+       supplies. They are, however, required to use the Public Bid Law for public works projects.
+
+       Local governmental and political subdivisions are required to follow the Public Bid Law for
+       the procurement of materials and supplies and public works projects. They may however,
+       use the LPC for the procurement of materials and supplies when best interest dictates.
+       They may choose by ordinance or resolution to adopt the LPC in part or in its entirety.
+       They may also purchase from vendors that have been pre-approved by the Office of State
+       Procurement (OSP). Purchasing off the state contract allows agencies to purchase items
+       that have been pre-bid by OSP.
+
+       *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+Q.2.   Does the Public Bid Law apply to procurement by “my” public entity?
+
+A.2.   “Public entity” is defined in R.S. 38:2211(A)(12) as the state of Louisiana, or any agency,
+       board, commission, department, or public corporation of the state, created by the
+       constitution or statute or pursuant thereto, or any political subdivision of the state, including
+       but not limited to any political subdivision as defined in Article VI Section 44 of the
+       Constitution of Louisiana, and any public housing authority, public school board, or any
+       public officer whether or not an officer of a public corporation or political subdivision.
+
+       All public entities are required to follow either the Public Bid Law or the Louisiana
+       Procurement Code. Absent a specific exception, all public entities must follow the Public
+       Bid Law for contracts related to public works. Political subdivisions and local governmental
+       entities must use the Public Bid Law for the purchase of materials and supplies, unless
+       they choose to follow the LPC or purchase goods off the state contract. State executive
+       branch entities must use the LPC for the purchase of materials and supplies.
+
+
+
+
+                                                                                          Page 9 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+
+Q.3.   What types of contracts are covered by Louisiana’s Public Bid Law?
+
+A.3.   For State Agencies, Boards and Commissions:
+
+          ➢ All contracts for public works (defined in [Q.4]) are governed by the Public Bid Law.
+
+          ➢ Contracts by State Agencies for professional services by architects, engineers,
+            and landscape architects for projects estimated to cost greater than $1,000,000*
+            are subject to the Public Bid Law. R.S. 38:2310, et seq. See [Q.86]
+
+       For Local Entities:
+
+          ➢ Contracts for the purchase of materials and supplies are governed by the Public
+            Bid Law unless the political subdivision has elected to follow the State
+            Procurement Code.
+
+          ➢ All contracts for public works (defined in [Q.4] ) are governed by the Public Bid
+            Law.
+
+          ➢ Contracts for Printing Services, other than certain specialized printing, as defined
+            in R.S. 38:2255 are required to comply with the same thresholds and bidding
+            requirements as contracts for materials and supplies under R.S. 38:2212.1. See
+            AG Op. No. 14-0217 for additional information on the requirements for printing
+            service contracts under the Public Bid Law.
+
+II. Public Works                                                          R.S. 38:2211
+
+
+Q.4.   What are public works?
+
+A.4.   Public work, as defined in R.S. 38:2211(A)(13), includes any contract for the erection,
+       construction, alteration, improvement, or repair of any public facility or immovable
+       property owned, used, or leased by a public entity. These contracts also include labor
+       and materials.
+
+Q.5.   Are contracts for routine maintenance considered public work contracts?
+
+A.5.   Routine maintenance is specifically exempted from the definition of “public works” and
+       contracts for routine maintenance are not required to be publicly bid unless the contract
+       exceeds two years in duration. R.S. 38:2212(U) and (W)(1)
+
+       The difference between routine maintenance and a “repair” (and therefore a public work)
+       is a fact specific determination that is made on a case by case basis. Examples of routine
+       maintenance are replacing shingles on a roof; preservative repainting of a building; and
+       the preventative dredging of a port’s finger pier and docks. See, AG Op. No. 16-0082.
+
+Q.6.   Are contracts for demolition considered public works?
+
+
+
+
+                                                                                  Page 10 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+A.6.   There is not unanimous agreement as to the answer to this question, as noted below.
+       However, public entities can ensure that their contracts for demolition are properly let by
+       bidding them out through the Public Bid Law.
+
+       The Attorney General (AG) in AG Op. No.10-0026 opined that a contract for demolition
+       was not a public work as demolition was not included in the definition of a public work (i.e.
+       erection, construction, alteration, improvement or repair), and therefore not subject to the
+       provisions of the Public Bid Law. The AG stated that a contract for demolition should be
+       treated as a contract for services. The AG has not formally withdrawn this opinion.
+
+       In 2011, the Fourth Circuit Court of Appeal in Concrete Busters of Louisiana, Inc. v. The
+       Board of Commissioners of the Port of New Orleans held that a contract for demolition
+       was a public work, as demolition would result in an alteration of the immovable property
+       of the public entity. Alteration is included within the definition of a public work. The
+       Supreme Court and the other Appellate Courts have not issued a published opinion
+       regarding the status of a contract for demolition being considered a public work. The
+       Fourth Circuit’s decision, while persuasive, is not binding on public entities in other
+       Louisiana Appellate Circuits.
+
+       The Fourth Circuit’s decision in Concrete Busters was mentioned by the AG in
+       AG Op. No. 12-0066, but was not fully addressed by the AG. In this opinion, the AG
+       opinioned that, when a public entity elects to utilize the bid process to execute a contract
+       for demolition, it must comply with the requirements set forth in its bid documents. The AG
+       did not address whether a contract for demolition is a public work in AG Op. No. 12-0066,
+       as the contract for demolition at question was valued below the contract threshold for a
+       public works.
+
+       Given these differing determinations, it is possible that another appellate court may
+       ultimately hold that a public entity’s contract for demolition is not a public work, or may
+       instead choose to adopt the reasoning of the Fourth Circuit and hold that it is a public
+       work. Public entities should consult with their legal counsel to review these AG opinions
+       and court decision to determine how it should proceed with any contract for demolition.
+
+Q.7.   What are the procedures for executing contracts for public works?
+                                                                       R.S. 38:2212(A)
+
+A.7.   All contracts for public works exceeding the current contract threshold of $260,000* must
+       be advertised for bid and let for contract with the lowest responsible and responsive bidder.
+
+       The Legislative Auditor recommends that contracts for public works valued at $260,000*
+       or less, be administered through a Request for Proposal (RFP) process and/or solicitation
+       of at least three bids, even though the statute does not require them to be bid.
+
+       *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+       Public entities through their employees may undertake contracts for public works projects
+       costing less than the contractual limit. All materials and supplies used in the construction
+       must, however, be purchased in accordance with the Public Bid Law pursuant to
+       R.S. 38:2212.1. AG Op. No. 04-0079                                         R.S. 38:2212(N)
+
+
+
+
+                                                                                     Page 11 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       All contracts for public works by public entities must use the Louisiana Uniform Public
+       Work Bid Form established by the Office of Facility Planning and Control.
+                                                                            R.S. 38:2212(B)(2)
+
+       Any timely changes by a bidder to the bid prior to submission of the bid shall be scratched
+       through and initialed by the bidder or the person who submits the bid. The change as
+       initialed shall be binding.
+                                                                               R.S. 38:2212(B)(2)
+
+       For the purpose of bids submitted electronically, the last timely bid submission by each
+       and any bidder shall be binding.
+                                                                              R.S. 38:2212(E)(1)
+
+       The Louisiana Uniform Public Work Bid Form is published in the Louisiana Administrative
+       Code under Title 34, Government Contracts, Procurement and Property Control, Part III.
+       Facility Planning and Control, Chapter 3.
+
+                               Louisiana Uniform Public Work Bid Form.
+
+Q.8.   What is the dollar threshold, or contract limit (minimum), for contracts for public
+       works?
+
+A.8.   The threshold, or contract limit, is currently set at $260,000*.
+
+       *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+       Changes in the 2014 Legislative Session, added an annual Consumer Price Index (CPI)
+       calculation to the threshold. Act 111 of the 2020 Regular Session amended the contract
+       limit to $250,000 and delayed any further CPI modifications until after February 1, 2025.
+       The office of facility planning and control (OFPC) within the Division of Administration
+       published an increase in contract limit based upon the CPI in the January 2026 Louisiana
+       Register. The contract limit will increase to $260,000, effective February 1, 2026.
+
+
+Q.9.   When will the threshold, or contract limit, for Public Works resume annual
+       changes?                                                     R.S. 38:2212(C)
+
+A.9.   In February 2025, the Office of Facility Planning and Control (OFPC) was required to
+       resume annually adjusting the contract limit for public works by an amount not to exceed
+       the previous year’s increase in the Consumer Price Index (CPI). The CPI is commonly
+       used when it is necessary to adjust prices or costs to account for the effect of inflation on
+       the real value of various costs.
+
+       The office of facility planning and control (OFPC) within the Division of Administration
+       published an increase in contract limit based upon the CPI in the January 2026 Louisiana
+       Register. The contract limit will increase to $260,000, effective February 1, 2026.
+
+
+Q.10. What items must be included to determine whether a public works contract
+      must be bid?
+
+
+
+
+                                                                                     Page 12 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+       A.10.   R.S. 38:2212(C)(1) provides that the following shall be included:
+          •    Labor;
+          •    Materials;
+          •    Equipment, as per rates in the latest edition of the Associated Equipment Dealers Rental
+               Rate book; and
+          •    Administrative overhead, not to exceed fifteen percent.
+
+
+       Q.11. May a public entity construct a public work using its own employees without
+             bidding?                                                    R.S. 38:2212(N)
+
+       A.11. Public works that are estimated to cost less than the contract limit may be undertaken by
+             the public entity with its own employees. Any materials or supplies purchased in
+             connection with the project must be procured in accordance with R.S. 38:2212.1. (See,
+             AG Op. No. 04-0079) Those contracts let by any public entity for public works estimated
+             to cost more than the contract limit shall be advertised and let by contract to the lowest
+             responsible and responsive bidder.
+
+       Q.12. Is there a different contract limit for public works related to drainage projects to be
+             done by regular maintenance employees of the St. Charles Parish governing
+             authority?                                                           R.S. 38:2212(C)(4)
+
+       A.12.    The Legislature, through Act 201 of the 2019 Regular Session enacted
+               R.S. 38:2212(C)(4), which created an exception to the general contract limit for public
+               works related to drainage projects to be done by regular maintenance employees of the
+               St. Charles Parish governing authority. For such Public Works projects, the contract limit
+               is $250,000 per project, including labor, materials, and equipment, with administrative
+               overhead not to exceed 15%. This provision terminated on December 31, 2020.
+
+               Act 111 of the 2020 Regular Session (effective July 1, 2020) subsequently increased
+               the general contract limit for public works contracts to $250,000. As the specific provision
+               for St Charles Parish has now terminated, the general public works contract limit of
+               $260,000* now applies.
+
+               *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+
+               A. Design Phase
+
+       Q.13. Is a local public entity required to bid out a contract for design services
+             (i.e. architect/engineer) for a public works project?
+
+       A.13. No. Contracts for design services by a local public entity are not required to be bid.
+
+               In addition, R.S. 38:2318.1* requires that public entities select providers of design services
+NEW
+               on a basis of competence and qualifications for a fair and reasonable price. Public
+2025           entities, or persons they contract through, are prohibited under R.S. 38:2318.1 from
+               selecting providers of design services where price or price-related information is a factor
+               in selecting an architect, engineer, or other design professional for public works projects
+
+
+
+
+                                                                                              Page 13 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+        using State or local funding. Therefore, price should not be utilized to evaluate or rank the
+        qualifications of potential providers of design services.
+
+        Public entities, or persons that they contract through, should utilize a Request For
+        Qualifications (RFQ) process to seek and select the most qualified provider of design
+        services. Once this determination has been made, the public entity may then attempt to
+        negotiate a price with the provider selected as most qualified. If the public entity is unable
+        to come to terms and execute a contract with the firm/design professional that is ranked
+        most qualified based on the established criteria under the RFQ, the public entity may then
+        begin negotiations with the next rated/qualified firm until it can come to terms with and
+        execute a contract. See R.S. 38:2318.1(B)
+
+        * As amended by Act 190 of the 2025 Regular Session (eff. August 1, 2025).
+
+Q.14. What preparations must the public entity make before advertising for a public
+      work?                                                         R.S. 38:2212(H)
+
+A.14. Every public entity intending to advertise a public work for bids is required to estimate the
+      probable construction costs of such public work or obtain an estimate from the project
+      designer prior to advertising the public work for bids.
+
+        No public entity shall advertise a public work for bids unless the public entity has
+        budgeted funds that meet or exceed the estimate of the probable construction costs for
+        the project.
+
+        The estimate of probable construction costs for the project shall be made available at the
+        time of bid opening, either by posting the estimate electronically or announcing aloud
+        the estimate at the bid opening.
+
+        Any and all bidders' information shall be available upon request, either no sooner than
+        nine working days* following the bid opening or after the recommendation of award by the
+        public entity or the design professional, whichever occurs first. The requester shall pay
+        reasonable reproduction costs.
+
+        These requirements shall not apply to the Department of Transportation and
+        Development.
+
+Q.15.   What limitations apply to a consultant competing for contracts?
+                                                                                     R.S. 38:2212.7
+
+A.15. R.S. 38:2212.7 provides limitations on consultants competing for contracts. Any person
+      contracting with an agency for the purposes of developing bidding documents, requests
+      for proposals, or any other type of solicitation related to a specific procurement shall be
+      prohibited from bidding, proposing, or otherwise competing for award of that
+      procurement. Such persons shall further be prohibited from participating as
+      subcontractors related to the award of that procurement.
+
+        The statute further notes, however, that certain activities are not considered to be
+        “developing bidding documents, requests for proposals, or any other type of
+        solicitation” and would therefore not prevent a consultant from competing.
+
+
+
+                                                                                       Page 14 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+
+                     These activities are:
+
+                     (1) Architectural and engineering programming.
+                     (2) Master planning.
+                     (3) Budgeting.
+                     (4) Feasibility analysis.
+                     (5) Constructability review.
+                     (6) Furnishing specification data or other product information.
+                     (7) Any other services that do not establish selection qualifications or evaluation
+                         criteria for the procurement of an architect or engineer.
+
+              B. Advertisement
+
+       Q.16. What are the requirements regarding the advertisement of bids for public works?
+                                                                                  R.S. 38:2212
+
+       A.16. All advertisements for contracts for public works exceeding the contract limit for public
+             works contracts (currently greater than $260,000*), unless an exception applies, shall
+             be published once a week for 3 different weeks in a newspaper in the locality; the first
+             advertisement shall appear at least 25 days before the opening of bids and not occur on
+             a Saturday, Sunday, or other legal holiday R.S. 38:2212(G).
+
+              *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+
+                 ➢   Although the word ‘locality’ is not defined, the AG has interpreted it to mean the
+                     area where the political subdivision is located AG Op. No. 83-0720.
+
+                         ➢ Contracts by a public entity for any project to restore or rehabilitate a levee
+                           that is not maintained with federal funds nor undertaken by the public
+                           entity with its own resources and employees must be advertised for bid if
+                           they exceed $1.5 million dollars. Additionally, public entities utilizing this
+                           provision shall annually submit reports to the Joint Committee on
+                           Transportation, Highways and Public Works. This exception for a
+                           heightened contract limit is slated to expire on June 30, 2036*
+                           R.S. 38:2212(C)(3).
+NEW
+2025                 * As amended by Act 117 of the 2025 Regular Session (eff. August 1, 2025)
+
+                 ➢ Bidding documents shall be available to bidders on the day of the first
+                   advertisement and until 24 hours before the bid opening date R.S. 38:2212(G)(2).
+
+                 ➢ Contractor certification - R.S. 37:2165* provides that all architects, engineers, and
+                   awarding authorities shall place in their bid specifications the requirement that a
+                   contractor shall certify that he holds an active license by displaying his license
+                   number on the bid envelope. In the case of an electronic bid proposal, a contractor
+                   may submit an authentic digital signature on the electronic bid proposal
+                   accompanied by the contractor's license number in order to meet the requirements
+                   of this Paragraph. If the bid does not display the contractor’s license number the
+
+
+
+                                                                                           Page 15 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+               bid shall be automatically rejected, the bid shall be returned to the bidder marked
+               “Rejected,” and shall not be read aloud. Any bid that does not require the contractor
+               to hold an active license shall state the exemption on the bid envelope and shall
+               be treated as a lawful bid. Where bids are to be received or forms furnished by the
+               the awarding authority, no proposal forms or specifications shall be issued to
+               anyone except a licensed contractor who holds an active license or his authorized
+               representative.
+
+               * As amended by Act 422 of the 2025 Regular Session (eff. August 1, 2025).
+
+           ➢ Public entities must include all bid documents as defined in R.S. 38:2211(A)(2), on
+             the electronic website accepting the electronic bids R.S. 38:2212(E)(7).
+
+           ➢ When attendance by bidders is mandated at a pre-bid conference, the date, place,
+             and time of the pre-bid conference shall be stated in the first advertisement
+             R.S. 38:2212(I).
+
+           ➢ If at the end of the contract document phase, it is determined that the designer’s
+             estimate is more than the funds budgeted by the public entity for the project, the
+             project shall not be advertised for bid. The designer’s estimate shall be read aloud
+             upon opening bids R.S. 38:2212(H).
+
+           ➢ The Construction or Contract Document Phase is the coordination of all technical
+             drawings and designs related to the project, the development of the specifications’
+             documents, finalization of details, and an updated statement of probable cost.
+
+           ➢ If political subdivisions are required to, allowed to, or elect to allow for electronic
+             submission of bids, the advertisement shall contain the electronic address of the
+             public entity and shall establish the specific times for public access to the electronic
+             interactive environment for purposes of submission of bids R.S. 38:2212(E).
+
+Please note: Use of the electronic bidding option through services such as Central Bidding does
+not eliminate the newspaper advertising requirements of R.S. 38:2212(G).
+
+
+Q.17. May the advertisement for bids pre-qualify certain individuals and thereby
+      disqualify others?                                             R.S. 38:2215
+
+A.17. No, the general rule is that no pre-qualification may occur. For instance, geographic
+      restrictions limiting the distance between the vendor and the public entity are not allowed.
+      However, the entity may specify a time limit for needed repairs if included in the contract.
+
+       There are a very few exceptions to the general rule. An example of an exception under
+       R.S. 38:2212.5 is that contracts for historic restoration for projects other than bridges and
+       roads may be pre-qualified, due to the specific skills needed for the job.
+
+       Although public entities may not generally pre-qualify bidders, the public entity may still
+       consider any issues that might otherwise prevent a bidder from providing the requested
+       work or materials or suppliers when reviewing whether the bidder is responsive and
+
+
+
+
+                                                                                      Page 16 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       responsible. Any disqualification under this review shall comply with the due process
+       outlined in R.S. 38:2212(X).
+
+Q.18. What are addenda?
+
+A.18. Addenda are used to make changes to the bid documents -- often to extend the bid
+      period. As with change orders, addenda must be within the scope of the project.
+
+Q.19. What are the requirements for addenda?
+
+A.19. The bid period may be extended up to 30 days through the issuance of an addendum
+      without the requirement of re-advertising.
+
+       If, however, the addendum is issued within 72 hours of the advertised time of opening
+       bids, the opening of bids must be extended for at least 7 but not more than 21 working
+       days without the requirement of re-advertising. The addendum shall state the revised time
+       and date of opening of bids.
+
+       If an addendum modifying plans and specifications is issued within 7 days prior to the
+       advertised time for opening bids, the public entity shall transmit -- within 24 hours of the
+       issuance of the addendum -- a copy of the addendum to all prime bidders who have
+       requested bid documents by one of the following methods:
+
+              (1) Facsimile transmission;
+              (2) E-mail; or
+              (3) Hand-delivery.
+
+Q.20. May a public entity require bidders attend a pre-bid conference?
+                                                                                  R.S. 38:2212(I)
+
+A.20. Yes. Public Entities may mandate that prospective bidders on a public works contract
+      attend a pre-bid conference. The public entity shall include notice of this mandate in its
+      advertisement along with the date, time, and location of the pre-bid conference.
+
+       Prospective bidders must remain in attendance for the duration of the conference.
+
+       Prospective bidders who fail to attend the conference or remain for the duration shall be
+       prohibited from submitting a bid for the project.
+
+Q.21. May the requirements of R.S. 38:2212 be waived?                            R.S. 38:2212(B)
+
+A.21. Public entities may not waive the requirements of R.S. 38:2212.
+
+       If a public entity adds any additional requirements for information, unless mandated by
+       State or Federal requirements, the requirements shall be void and not considered in the
+       award of the contract. See R.S. 38:2212(B)(2)
+
+       C. Bidding
+
+Q.22. What documents must be included with a bid?                             R.S. 38:2212(B)(2)
+
+
+
+                                                                                    Page 17 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+A.22. R.S. 38:2212(B)(2) provides that the “bidding documents” shall require only the following
+      to be submitted by a bidder on a public works project:
+
+   •   Completed Louisiana Uniform Bid Form;
+   •   Bid Security or Bid Bond;
+   •   Acknowledgment of Addenda;
+   •   Base Bid;
+   •   Alternates;
+   •   Signature of Bidder,
+   •   Name, Title, and Address of Bidder;
+   •   Name of Firm or Joint Venture;
+   •   Corporate Resolution or written evidence of the authority of the person signing the bid;
+       and
+   •   Louisiana Contractor’s License Number (must also be on the envelope)
+
+   If a public entity adds any additional requirements for information, unless mandated by State
+   or Federal requirements, the requirements shall be void and not considered in the award of
+   the contract. See R.S. 38:2212(B)(2)
+
+Q.23. How are bids delivered?                                                    R.S. 38:2212(B)(6)
+
+A.23. Bids may be delivered one of three ways.
+
+       (1) For bids hand delivered by the bidder or his agent, a written receipt shall be
+           handed to the deliverer;
+       (2) Alternatively, bids shall be sent by registered or certified mail with a return receipt
+           requested; or
+       (3) Shall be submitted electronically.
+
+       The new law removes the stipulation that the requirement that all bids be sent by
+       registered or certified mail shall not apply to bids received by municipal and parochial
+       governing authorities. The current presumption is that these alternative requirements do
+       apply to municipal and parochial governing authorities.
+
+       No public entity shall accept or take any bids, including receiving any hand delivered
+       bids, on days that are recognized as holidays by the United States Postal Service.
+
+
+Q.24. What is electronic bidding?                       R.S. 38:2212(E) and R.S. 38:2212.1(B)(4)
+
+A.24. Public entities shall provide, as an additional bidding option, a uniform and secure
+      electronic interactive system for the submittal of bids for public contracts, both public works
+      and materials and supplies, requiring competitive bidding. Any public entity, (including
+      local entities) providing an electronic system shall follow the standards for the receipt of
+      electronic bids adopted by the office of the governor, division of administration, and the
+      office of information technology (See LAC 4:XV.701 (pg 177 of document), providing that
+      any special condition or requirement for the submission shall be specified in the
+      advertisement for bids).
+
+
+
+
+                                                                                       Page 18 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       Please note: Use of the electronic bidding option through services such as Central Bidding
+       does not eliminate the newspaper advertising requirements of R.S. 38:2212(G) for public
+       works (See, Q.16) or R.S.38:2212.1(B)(1) for materials and supplies (See, Q.48).
+
+Q.25. Who is exempt from the electronic bidding requirement under the Public Bid Law?
+
+A.25. The exemptions from requiring public entities to accept electronic bid submission for
+      public works provided by R.S. 38:2212(E) include:
+
+   •   Public entities that are currently without available high-speed Internet access until high-
+       speed Internet access becomes available;
+
+   •   Any parish with a police jury form of government and a population of less than twenty
+       thousand;
+
+   •   Any city or municipality with a population of less than ten thousand; and,
+   •   Any other public entity that is unable to comply with the law without securing and
+       expending additional funding; and
+
+       Public entities have the option to require that all bids be submitted electronically for any
+       competitive bid let out for public bid.
+
+       Public entities shall include all bidding documents as defined in R.S. 38:2211(A)(2), on the
+       electronic website accepting the electronic bids.
+
+Q.26. When is the bid opening and what must occur?                                 R.S. 38:2214
+
+A.26. The Bid opening shall be held at the date, time, and location noticed in the public
+      entity’s advertisement. The bid opening shall be at least 25 days after the first
+      published advertisement.
+
+       At the bid opening, the public entity shall publicly open the submitted bids and read
+       them aloud.
+
+Q.27. Can a public entity extend the time for submitting bids?
+
+A.27. Yes. A public entity may through the issuance of addendum extend the bid period
+      for up to thirty (30) days, without requiring re-advertisement.
+
+       If the addendum is issued within 72 hours of the advertised time of opening bids, the
+       opening of bids must be extended for at least 7 but not more than 21 working days without
+       the requirement of re-advertising. The addendum shall state the revised time and date of
+       opening of bids. See [Q.19.]
+
+       Notice should be given to ensure that all potential bidders are aware of the extension.
+
+       D. Bid Selection
+
+Q.28. May the public entity reject all bids?                                        R.S. 38:2214
+
+
+
+
+                                                                                    Page 19 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+A.28. R.S. 38:2214(B) provides that the public entity may reject for just cause all bids. The
+      statute does not define “just cause” for materials and supplies, but does define “just
+      cause” for public works, including but not limited to:
+   ➢ The public entity's unavailability of funds sufficient for the construction of the
+      proposed public work;
+
+   ➢ The failure of any bidder to submit a bid within an established threshold of the
+     preconstruction estimates for that public work, as part of the bid specifications;
+
+   ➢ A substantial change by the public entity prior to the award in the scope or design
+     of the proposed public work;
+
+   ➢ A determination by the public entity not to build the proposed public work within
+     twelve months of the date for the public opening and reading of bids; and
+
+   ➢ The disqualification by the public entity of all bidders.
+
+Q.29. What is a responsible and responsive bidder?
+
+A.29. A responsible and responsive bidder, according to R.S. 38:2212(A)(1), is one whose
+      bid meets the requirements set out in the advertised bidding documents and who
+      provides the required documentation within ten days of the bid opening. These
+      documents may be required by statute, the Administrative Code, or the bidding
+      documents.
+          ➢ Contractor certification - R.S. 37:2165 provides that all architects, engineers,
+             and awarding authorities shall place in their bid specifications the requirement that
+             a contractor shall certify that he holds an active license by displaying his license
+             number on the bid envelope. In the case of an electronic bid proposal, a contractor
+             may submit an authentic digital signature on the electronic bid proposal
+             accompanied by the contractor's license number in order to meet the requirements
+             of this Paragraph. If the bid does not display the contractor’s license number the
+             bid shall be automatically rejected, the bid shall be returned to the bidder marked
+             “Rejected,” and shall not be read aloud. Any bid that does not require the contractor
+             to hold an active license shall state the exemption on the bid envelope and shall
+             be treated as a lawful bid.
+
+       The low bidder is required to furnish any other documentation, including the attestation
+       required under R.S. 38:2212.10, within ten days of the bid opening. The governing
+       authority of any publicly owned commercial aviation airport to the Sewerage and Water
+       Board of New Orleans and all agencies of the City of New Orleans including the Regional
+       Transit Authority and the New Orleans Aviation Board are required to have the two lowest
+       bidders furnish any other required documentation and attestations three days after the bid
+       opening.
+
+Q.30. Who is a responsive bidder?                                            R.S. 38:2212(A)(3)
+
+A.30. R.S. 38:2212 adds the word “responsive” to the phrase “responsible bidder” to
+      provide as follows:
+
+
+
+
+                                                                                   Page 20 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       All public work exceeding the contract limit as defined in this Section, including labor and
+       materials, to be done by a public entity shall be advertised and let by contract to the
+       lowest responsible and responsive bidder who had bid according to the bidding
+       documents as advertised, and no such public work shall be done except as provided in
+       this Part.
+
+       The law does not define “responsive bidder” but a reading of the law as to what constitutes
+       a non-responsive bidder demonstrates that a responsive bidder is the apparent low bidder
+       who submits the proper documentation within ten days of the opening of the bids.
+
+       The law provides that the bidding documents shall not require any bidder, other than the
+       apparent low bidder, to furnish any other information or documentation, including the
+       Attestation Affidavit and the E–Verification Form, any sooner than ten days after the date
+       bids are opened; however, the apparent low bidder may submit such information or
+       documentation at any time prior to the expiration of the ten-day period.
+       If the apparent low bidder does not submit the proper information or documentation as
+       required by the bidding documents within the ten-day period, the law states that such
+       bidder shall be declared non-responsive, and the public entity may award the bid to the
+       next lowest bidder, and afford the next lowest bidder not less than ten days from the date
+       the apparent low bidder is declared non-responsive, to submit the proper information and
+       documentation as required by the bidding documents, and may continue such process
+       until the public entity either determines the low bidder or rejects all bids.
+
+       Therefore, by deduction, a responsive bidder is the apparent low bidder who submits the
+       proper documentation within ten days of the opening of the bids.
+
+Q.31. What happens if a bidder is not a “responsible bidder”?                    R.S. 38:2212(X)
+
+A.31. If the public entity letting the contract proposes to disqualify any bidder, either as a
+      potential bidder or as the low bidder, on grounds that such bidder is not a “responsible
+      bidder” the public entity shall:
+
+     ➢ Give written notice of the proposed action to the bidder and include in the written notice
+       all reasons for the proposed action;
+
+     ➢ Give the bidder who is proposed to be disqualified the opportunity to be heard at an
+       informal hearing at which the bidder is afforded the opportunity to refute the reasons
+       for the proposed action.
+
+              ▪ The informal hearing shall be conducted prior to award of the public work.
+
+              ▪ The informal hearing shall be a condition precedent to any action by the bidder
+                adverse to the public entity, its representatives, employees, and designers.
+
+              ▪ The informal hearing shall be conducted by the public entity not later than five
+                business days after the date of the notice of disqualification of the bidder. The
+                public entity shall issue a ruling in writing and deliver it to the affected bidder
+                not later than five business days after the date of the informal hearing.
+
+
+
+
+                                                                                    Page 21 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+               ▪ No award of the contract for the public work shall be made by the public entity
+                 prior to the expiration of at least five working days following the date of
+                 issuance of the decision by the hearing official.
+
+        The disqualified vendor has the right to seek redress in a court of law after exhausting
+        administrative remedies.
+
+        These provisions do not apply to the Department of Transportation and Development.
+
+Q.32. Does the apparent low bidder who is disqualified as non-responsive/non-
+      responsible have any recourse?                                R.S. 38:2212(X)
+
+A.32. If the public entity letting the contract proposes to disqualify any bidder, either as a
+      potential bidder or as the low bidder, on grounds that such bidder is not a "responsible
+      bidder" such public entity shall do all of the following:
+
+        (a) Give written notice of the proposed action to such bidder and include in the written
+            notice all reasons for the proposed action.
+
+        (b) Give the bidder who is proposed to be disqualified the opportunity to be heard at an
+            informal hearing at which such bidder is afforded the opportunity to refute the
+            reasons for the proposed action.
+
+   ➢ The informal hearing shall be conducted prior to award of the public work.
+   ➢ The informal hearing shall be a condition precedent to any action by the bidder adverse
+     to the public entity, its representatives, employees, and designers.
+
+   ➢ The informal hearing shall be conducted by the public entity not later than five business
+     days after the date of the notice of disqualification of such bidder. The public entity shall
+     issue a ruling in writing and deliver it to the affected bidder not later than five business
+     days after the date of the informal hearing.
+
+   ➢ No award of the contract for the public work shall be made by the public entity prior to the
+     expiration of at least five working days following the date of issuance of the decision by
+     the hearing official.
+
+   ➢ The provisions of this Subsection shall not apply to such actions of the Department of
+     Transportation and Development.
+
+   ➢ Although not mentioned in the statute, once a disqualified vendor has exhausted all
+     administrative remedies, that vendor may seek an injunction or further action in the district
+     court.
+
+        D. Execution of Contract
+
+Q.33.   What is the time period for awarding public works contracts?
+                                                                                   R.S. 38:2215
+
+A.33. R.S. 38:2215 provides that a public entity shall act not later than forty-five calendar days
+      after the date of opening bids to award the public works contract to the lowest
+
+
+
+                                                                                     Page 22 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+      responsible and responsive bidder or to reject all bids. If, however, the public entity and
+      the lowest responsible and responsive bidder agree by mutually written consent, the
+      deadline for award may be extended in increments of thirty calendar days.
+
+      If the lowest responsible and responsive bidder has timely provided all documents
+      required by R.S. 38:2212, and no injunction or temporary restraining order is in effect,
+      the lowest responsible and responsive bidder and the public entity shall execute the
+      contract not later than sixty calendar days after the date of the public entity's award of
+      the contract to the lowest responsible and responsive bidder.
+
+      The public entity shall issue to the contractor a notice to proceed with the project or work
+      order not later than thirty calendar days following the date of the second party’s
+      execution of the contract t. However, the public entity and the contractor, upon mutual
+      written consent of both parties, may agree to extend the deadline to issue the notice to
+      proceed.
+
+      The provisions of this law do not apply to contracts to be financed by bonds that are
+      required to be sold after opening of bids on the contract, or when the contract is to be
+      financed in whole or in part by federal or other funds that will not be readily available at
+      the time bids are opened, or on contracts that require a poll of the Legislature of
+      Louisiana before funds are available to fund the contract. This exception shall be
+      mentioned in the bidding documents for the project and in the official advertisement for
+      bids required in accordance with R.S. 38:2212.
+
+      These provisions are not subject to waiver.
+
+Q.34. May changes be made to the contract after the contract has been executed?
+                                                                       R.S. 38:2212(M)
+
+A.34. Yes, the contract may be amended through change orders, if they are within the scope
+      of the contract.
+
+   ➢ All public work contracts shall contain provisions authorizing the issuance of change
+     orders within the scope of the contract.
+
+   ➢ All change orders shall be in writing or in electronic format if the public entity is capable of
+     receiving change orders electronically. All change orders shall be signed by the contractor
+     and the public entity or its design representative.
+
+   ➢ The public entity shall pay the contractor for work performed by change order not later
+     than sixty days after the date the public entity approves the application for payment for
+     completion of the work performed in the change order.
+
+   ➢ Any change order outside the scope of the contract shall be let out for public bid if it
+     exceeds the contract threshold defined herein.
+
+   ➢ Any change order pertaining to public work, not required to be let out for public bid, shall
+     either be negotiated in the best interest of the public entity or let out for public bid. Where
+     the change order is negotiated, the public entity shall require that such change order be
+     fully documented and itemized as to costs, including material quantities, material costs,
+     equipment used, labor, taxes, insurance, employee benefits, other related costs, profit,
+
+
+                                                                                      Page 23 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       and overhead. If certain unit prices are contained in the initial contract, no deviations shall
+       be allowed in computing negotiated change order costs.
+
+   ➢ Where certain unit prices are contained in the initial contract, no deviations shall be
+     allowed in computing the negotiated change order costs unless specified in contract
+     documents. See R.S. 38:2212(M)(5)(a)
+
+       E. Change Orders
+
+Q.35. What is a change order?                                                   R.S. 38:2211(A)(3)
+
+A.35. A change order is any contract modification that includes an alteration, deviation,
+      addition, or omission as to a preexisting public work contract that authorizes an
+      adjustment in the contract price, contract time, or an addition, deletion, or revision of
+      work. Change orders may be either “within the scope of the contract” or “outside the
+      scope of the contract.”
+
+Q.36. What is a change order that is within the scope of the contract?
+                                                                     R.S. 38:2211(A)(3)(c)
+
+A.36. A change order is within the scope of the contract when it does not alter the nature of the
+      thing to be constructed and that is an integral part of the project objective.
+
+Q.37. What is a change order that is outside the scope of the contract?
+                                                                    R.S. 38:2211(A)(3)(b)
+
+A.37. A change order is outside the scope of the contract when it alters the nature of the thing
+      to be constructed or that is not an integral part of the project objective
+      (See the AG Opinion discussed in [Q.38]
+
+Q.38. What are the requirements for a change order?                               R.S.38:2212(M)
+                                                                                     R.S. 38:2222
+
+A.38. All change orders shall be in writing or in electronic format if the public entity is able to
+      receive change orders electronically. All change orders shall be signed by the contractor
+      and the public entity or its design representative.
+
+       The public entity shall pay the contractor for work performed by change order not later
+       than sixty days after the date the public entity approves the application for payment for
+       completion of the work performed in the change order.
+
+           ➢ Change orders within the scope of the contract may be negotiated in the public's
+             best interest or let out for bid. Public entities may wish to consider letting out for
+             bid change orders within the scope which are more than the contract limit as a best
+             use of public funds.
+
+           ➢ Change orders outside of the scope of the contract that exceed the contract limit
+             must be let for bid.
+
+
+
+
+                                                                                       Page 24 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+        ➢ The AG has opined that any additional public work outside of the scope of the
+          existing contract that is below the contract limit should be negotiated or let out for
+          public bid rather than by change order to the existing contract.
+          See AG Op. No. 03-0263
+
+        ➢ Change Orders which require new pricing or a change in unit pricing shall be
+          submitted to the designer or record or in the absence of the designer, the public
+          entity, within 30 days from the date of discovery of the work to be performed by the
+          change order. See R.S. 38:2212(M)(5)(a) & (b)
+
+        ➢ For any change order requiring redesign, the redesign shall not take more than
+          ninety days from the date of notification by the contractor to the designer of record,
+          or in their absence the public entity, of the discovery of work to be performed by
+          the change order. The public entity may grant extensions of time if necessary.
+          Upon completion of the redesign, the contractor shall submit the cost estimate to
+          the designer of record, or in their absence the public entity, within thirty days for
+          the redesigned work under the change order. See R.S. 38:2212(M)(5)(c)
+
+        ➢ For any change order, a public entity shall have forty-five days from the submittal
+          of the changer order to the public entity, to negotiate, and approve or reject the
+          contractor’s proposed cost estimate of the work to be performed by the change
+          order. Extensions of time may be granted by mutual agreement or shall be granted
+          as necessary for the public entity to obtain governmental approval.
+          See R.S. 38:2212(M)(5)(d)
+
+        ➢ Except where a public work does not exceed the contract limit under R.S. 38:2212,
+          the provisions of R.S. 38:2212(M) in regard to change orders shall not be waived
+          by contract. See R.S. 39:2212(M)(5)(e)
+
+        ➢ R.S. 38:2222(A) requires that each change order shall be recorded by the public
+          entity which entered into the contract in the office of the recorder of mortgages in
+          the parish where the work is to be done or if not a public work, where the entity is
+          domiciled, not later than 30 days after the date of the change order which requires
+          that the recordation take place. The requirement applies to:
+
+            o Change order to a public works contract or to a contract for materials and
+              supplies that adds an amount of 10% or more of the original contract amount,
+              if the additional amount is at least $10,000 or
+
+            o All change orders to a contract aggregating to an amount of 20% or more of
+              the original contract amount if the additional amount is at least $10,000.
+
+            o The original contract, if not previously recorded, shall be recorded with the
+              change order.
+
+        ➢ The requirements of R.S. 38:2222(A) do not apply to the office of facility planning
+          and control and the office of state purchasing.
+
+
+
+
+                                                                                 Page 25 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+           ➢ R.S. 38:2222(B), requires that change orders shall be processed and issued by
+             the public entity no later than forty (40) days following final execution of the change
+             order.
+
+       F. Miscellaneous
+
+Q.39. What are recent definitions added to the public bid requirements for public works?
+
+A.39. Recent additions to the definitions section in R.S. 38:2211, include:
+
+           ➢ “Alternate” means an item on the bid form that may either increase or decrease
+             the quantity of work or change the type of work within the scope of the project,
+             material, or equipment specified in the bidding documents, or both.
+
+           ➢ “Change order” means any contract modification that includes an alteration,
+             deviation, addition, or omission as to a preexisting public work contract, which
+             authorizes an adjustment in the contract price, contract time, or an addition,
+             deletion, or revision of work.
+
+           ➢ “Probable construction costs” means the estimate for the cost of the project as
+             designed that is determined by the public entity or the designer.
+
+           ➢ “Working days” for the purposes of this Part (Public Bid Law), means the days
+             Monday through Friday, excluding recognized holidays and declared emergencies.
+
+Q.40. May construction managers or other third party consultants employed by a public
+      entity manage a construction project as the general contractor or act in the role of
+      a general contractor?                                             R.S. 38:2212(L)
+
+A.40. No, the practice of using construction managers to oversee, direct, or otherwise perform
+      the role of a general contractor on a public works project is prohibited
+      AG Op. No. 12-0232. This restriction shall not apply to the initial construction of a hospital,
+      medical facility, or a combination of both, constructed by the Orleans Hospital Service
+      District, but shall apply to the construction of any additions or modifications of a hospital,
+      medical facility, or a combination of both, constructed by the Orleans Hospital Service
+      District following the completion of the initial construction.
+
+Q.41. What is the A+B method to determine the lowest responsive bidder for public works
+      contracts?                                                        R.S. 38:2211.2
+
+A.41. R.S. 38:2211.2 provides for a pilot program to authorize local governmental subdivisions
+      and political subdivisions to use A+B bidding method to determine the lowest responsive
+      bidder on a contract for public works.
+
+       The law defines "A+B bidding" and "owner" as follows:
+
+       (1) "A+B bidding" means cost plus time bidding that factors time plus cost to determine
+       the low bid. Under the A+B method, each submitted bid has two components where "A" is
+       the traditional bid for the contract items and is the dollar amount for all work to be
+       performed under the contract, and "B" is a "bid" of the total number of calendar days
+
+
+                                                                                      Page 26 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+             required to complete the project, as estimated by the bidder. Bid days are multiplied by a
+             user cost, furnished by the project owner, and added to the "A" component to obtain the
+             total bid. The bid for award to the lowest responsive bidder is based on a combination of
+             the bid for the contract items and the associated cost of time.
+
+             (2) "Owner" means a "local governmental subdivision" or a "political subdivision" as
+             defined in La. Const. Art. VI, Sec. 44(1) and (2).
+
+             The pilot program is limited to 15 projects subject to prior approval of the House and
+             Senate committees on transportation, highways, and public works. If the legislative
+             committees approve a project, the owner is required to submit in writing to the chairmen
+             of committees, the name and address of the lowest responsive bidder awarded the
+             contract, together with the bid values of the A+B components. Further, upon completion
+             and acceptance of the project, the owner is required to submit in writing to the chairmen
+             of the committees a project report that includes the final project cost and an evaluation of
+             whether or not contract times were reduced, costs were acceptable, and quality was
+             maintained by use of the A+B bid method.
+
+             The law provides that bidding documents may contain alternates, which allow for different
+             materials or methods of construction, provided that any such alternate materials are
+             currently approved by the local governmental subdivision or political subdivision.
+
+             The law became effective August 1, 2019. It supersedes any conflicting provisions of any
+             law, including the Public Bid Law, but the provisions of the Public Bid Law are otherwise
+             applicable to such contracts.
+
+       Q.42. Are there any special provisions for public works projects by local government
+             entities that receive State funds and enter into contracts with third-party entities?
+
+       A.42. Yes. R.S. 38:2225.6, as enacted by Act 436 of the 2025 Regular Session (eff. June 20,
+             2025), provides for the establishment of Public-Private Contract Protocols.
+
+NEW          All contracts between local government entities and third-party entities shall require a
+2025         preconstruction meeting between:
+
+                 •   The local government entity;
+                 •   The contractor;
+                 •   And the design professional of record.
+
+             Notice of the meeting shall also be afforded to the appropriate State entity. The
+             preconstruction meeting’s purpose is to establish clear expectations of:
+
+                 •   The contract deliverables;
+                 •   Project deadlines;
+                 •   Accountability standards;
+                 •   Payment schedules; and
+                 •   An expedited grievance procedure for complaints.
+
+             The preconstruction meeting shall accomplish the following:
+
+
+
+
+                                                                                          Page 27 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+                  •   Establish a designated person who shall be the point of contact for the local
+                      government entity during the project;
+                  •   Establish a procedure for the payment by electronic fund transfer or an agreed
+                      upon method of payment to contractors; and
+                  •   Establish a procedure whereby the local governmental entity accepts documents
+                      which are digitally signed.
+
+              On or before July 1, 2026, the Division of Administration shall establish and maintain
+              software for local government entities and contractors that receive State funding. The
+              local government entities shall utilize the software to track payments to contractors.
+
+       III. Materials and Supplies                                                     R.S. 38:2212.1
+
+
+       Q.43. What are materials and supplies?
+
+       A.43. Materials and supplies are not defined in the statutes; in this context, however, they are
+             commonly understood to be the movable property necessary to conduct public business,
+             from paper and pens to computers and printers.
+
+              Vehicles, including built to order vessels, are materials and supplies for the purposes of
+              the Public Bid Law. AG Op. No. 24-0151.
+
+       Q.44. Are all contracts for the purchase of materials and supplies subject to the Public
+             Bid Law?
+
+       A.44. Local political subdivisions and local governmental entities are required to use the Public
+             Bid Law for the procurement of materials and supplies if the cost is over the contract limit
+             of $60,000, unless an exception exists. Examples of exceptions include: group purchasing
+             options for hospitals (R.S. 38:2212.1(G)), schools (R.S. 38:2212.1(N)), and Local Public
+             Safety Agencies/Departments (R.S. 38:2212.1(P)); emergency procurements; or buying
+             items off the state contract using the LPC. Transactions between public entities are not
+             subject to the Public Bid Law, as long as a fair price is received for the goods.
+
+              State entities are required to use the LPC for the purchase of materials and supplies, and
+              may purchase off the state contract or bid for items over to the amount provided by the
+              latest small purchase executive order issued in accordance with R.S. 39:1596.         R.S.
+              39:1594*. Executive Order JML 24-114 provides executive branch entities with certain
+              procurement procedures for items $25,000 or under.
+NEW
+2025          * As amended by Act 5 of the 2025 Regular Session (eff. June 11, 2025).
+
+              A. Contract Limits
+
+       Q.45. What is the threshold, or contract limit (minimum), for purchases of materials and
+             supplies by local political subdivisions?
+
+       A.45. Contracts by local political subdivisions and local governmental entities for purchases of
+             materials and supplies with a value of more than $60,000 must be advertised and let for
+             contract with the lowest responsible bidder. Purchases of $30,000 or more, but less than
+
+
+
+                                                                                          Page 28 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       $60,000 dollars, shall be made by obtaining no fewer than 3 quotes by telephone,
+       facsimile, email, or any other printable electronic form. If telephone quotes are received,
+       a written confirmation of the accepted offers shall be obtained and made a part of the
+       purchase file. For purchases less than $30,000, but greater than $1,000, prudent practice
+       suggests obtaining at least 3 written quotes, though the law does not so require.
+
+Q.46. Does an exception to this threshold exist for purchase by a local governmental unit
+      of a used or new motor vehicle for conversion into a law enforcement vehicle?
+      Please explain the meaning of R.S. 38:2212.1(A)(2)(a).
+
+A.46. Generally, the Public Bid Law mandates that public entities shall obtain at least three
+      telephone, fax, email, or other printable electronic form for all purchases of materials and
+      supplies in an amount of $30,000 to $60,000. Public entities are mandated to bid out all
+      purchases of materials and supplies which exceed $60,000, unless another exception
+      applies.
+
+       R.S. 38:2212.1(A)(2)(a) provides an exception to these general requirements for the
+       purchase of materials and supplies for use by local governments to purchase new or used
+       law enforcement vehicles, fire service vehicles, or a fire-fighting or rescue apparatus,
+       which do not exceed $70.000 per vehicle or apparatus. This exception further
+       provides that any such purchase which the sum is in excess of $70,000 per vehicle shall
+       be advertised and let for bid. The law does not provide a definition of fire-fighting or
+       rescue apparatus.
+
+       For purchases of $70,000 or less per vehicle made under the exception provided by
+       R.S. 38:2212.1(A)(2)(a), the statute does not require a specific amount or type of quotes
+       that should be fully documented in the public entity’s contract files. However, the statute
+       appears to require that more than one form of documentation be obtained to support the
+       reasonableness of the purchase and be retained in the contract files of the public entity.
+
+       The purchase of all other vehicles (non-law enforcement or non-fire service) are subject
+       to the general requirements of the Public Bid Law. Public entities making purchases of
+       non-law enforcement and non-fire service vehicles with a cost of $30,000 to $60,000 shall
+       obtain at least three quotes as noted above. Any purchase of a non-law enforcement or
+       non-fire service vehicle with a total cost over $60,000, shall be bid out, unless another
+       exception applies.
+
+       The Public Bid Law prohibits the splitting of purchases into smaller amounts in order to
+       avoid bidding out the purchase.
+
+Q.47. May a public entity purchase a fleet of law enforcement vehicles without bidding if
+      each vehicle is below the $70,000 threshold?
+
+A.47. Yes. The public entity must bid out the purchase if the total cost for any vehicle purchased
+      exceeds $70,000. The exception under R.S. 38:2212.1(A)(2)(a) specifically provides for
+      the $70,000 limit to be per vehicle and not as a total expenditure amount.
+
+Q.48. What procedures exist for procurement of Materials and Supplies?
+
+
+
+
+                                                                                   Page 29 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+A.48. Absent an exception, contracts by local political subdivisions and local governmental
+      entities for the purchase of materials and supplies that exceed the threshold of $60,000
+      must be advertised for bid and let for contract to the lowest responsible bidder.
+
+       Public entities that have contracts for purchases of materials and supplies for less than
+       $60,000 but greater than or equal to $30,000 must, pursuant to R.S. 38:2212.1(A)(1)(b):
+
+               Obtain no less than three quotes by telephone, facsimile, email, or
+               any other printable electronic form; and if telephone quotes are
+               received, a written confirmation of the accepted offers shall be
+               obtained and made a part of the purchase file.
+
+       If a lower bid than the accepted bid is rejected, the reason for the rejection must be noted.
+
+       Although not mandatory, public entities seeking contracts for purchases of materials and
+       supplies for less than $1,000 should consider, as part of a good public policy requiring
+       governmental accountability, obtaining and documenting at least 3 verbal quotes, if
+       possible.
+
+       Public entities seeking contracts for purchases of materials and supplies for less than
+       $30,000, but greater than $1,000, should consider, as part of good public policy requiring
+       governmental accountability, obtaining at least 3 written quotes.
+
+
+       B. Advertisement
+
+Q.49. What requirements exist for the advertisement of bids?
+                                                  R.S. 38:2212.1(B)(1) and R.S. 38:2214
+
+A.49. The advertisement for bids shall be published 2 times in a newspaper in the locality. The
+      word ‘locality’ is not defined; the AG has interpreted it to mean the area where the political
+      subdivision is located AG Op. No. 83-0720.
+
+       The first publication must appear at least 15 days before the opening of the bids and
+       shall not occur on a Saturday, Sunday or legal holiday.
+
+       Plans and specifications shall be available to bidders the day of the first advertisement
+       and until 24 hours before bid opening date.
+
+       R.S. 38:2214(A), states that the advertisement for bids shall include the time and place
+       that the bids will be received and shall at that time and place publicly open the bids and
+       read them aloud. No public entity shall accept or take any bids including hand-delivered
+       bids on days that are recognized as holidays by the United States Postal Service.
+
+Please note: Use of the electronic bidding option through services such as Central Bidding does
+not eliminate the newspaper advertising requirements of R.S. 38:2212.1(B)(1).
+
+Q.50. May a public entity specify alternates?                                R.S. 38:2212.1(B)(3)
+
+
+
+
+                                                                                     Page 30 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+A.50. The public entity may specify no more than three (3) alternates and must accept them in
+      the order they appear on the bid form. Determination of the low bidder shall be on the
+      basis of the sum of the base bid and any alternates accepted. However, the public entity
+      may accept alternates in any order that does not affect determination of the low bidder.
+
+       The Attorney General has opined that public entities are under no obligation to accept an
+       alternate. If the public entity exercises its discretion to accept alternates, they must be
+       accepted in the order in which they are listed, unless it does not affect the determination
+       of the low bidder.                                              See AG Op. No. 15-0052
+
+Q.51. May a public entity specify a particular brand?
+                                                                   R.S. 38:2212.1(C)(1) and (2)
+
+A.51. Yes, if in the public interest, a public entity may specify a particular brand, make, or
+      manufacturer in the specifications using the model or catalog number. These specific
+      brand names denote the quality standard of the product desired and does not restrict
+      prospective bidders; equivalent products must be acceptable.
+
+       C. Bidding
+
+Q.52. What is electronic bidding?                                        R.S. 38:2212.1(B)(4)(a)
+
+A.52. Contractors shall be provided the option to submit bids for public contracts through a
+      uniform and secure electronic interactive system. Political subdivisions shall follow the
+      standards for the receipt of electronic bids adopted by the office of the governor, division
+      of administration, and the office of information technology as provided for in LAC
+      4:XV.701, and shall make the appropriate provisions necessary for the acceptance of
+      electronic bids for all purchases requiring competitive bidding. Any special condition or
+      requirement for the submission shall be specified in the advertisement for bids.
+
+       Please Note: Use of the electronic bidding option through services such as Central Bidding
+       does not eliminate the newspaper advertising requirements of R.S. 38:2212(G) for public
+       works (See, Q.16) or R.S.38:2212.1(B)(1) for materials and supplies (See, Q.48).
+
+Q.53. Who is exempt from the electronic bidding requirement under the Public Bid Law?
+
+A.53. The exemptions from requiring public entities to accept electronic bid submission for
+      materials and supplies provided by R.S. 38:2212.1(B)(4) include:
+
+   ➢ Public entities that are currently without available high-speed Internet access until high-
+     speed Internet access becomes available;
+
+   ➢ Any parish with a police jury form of government and a population of fewer than twenty
+     thousand;
+
+   ➢ Any city or municipality with a population of fewer than ten thousand; and
+
+   ➢ Any special service district created by a police jury form of government that is unable to
+     comply without securing and expending additional funding.
+
+
+
+
+                                                                                   Page 31 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       Public entities shall have the option to require that all bids be submitted electronically
+       for any competitive bid let out for public bid.
+
+Q.54. When is the bid opening and what must occur?
+
+A.54. The Bid opening shall be held at the date, time, and location noticed in the public
+      entity’s advertisement. The bid opening shall be at least 15 days after the first
+      published advertisement.
+
+       At the bid opening, the public entity shall publicly open the submitted bids and read
+       them aloud.
+
+Q.55. What are the rules on the opening of bids?                                    R.S. 38:2214
+
+A.55. R.S. 38:2212.1(J) provides that the opening of bids is governed by the provisions of
+      R.S. 38:2214. This statute requires the public entity to designate the time and place that
+      the bids will be received in the advertisement for bids. It further requires the public entity
+      at that time and place to publicly open the bids and read them aloud. No public entity
+      shall accept or take any bids, including hand-delivered bids, on days that are
+      recognized as holidays by the United States Postal Service.
+
+       D. Bid Selection
+
+Q.56. May the public entity reject all bids?                                         R.S. 38:2214
+
+A.56. R.S. 38:2214(B) provides that the public entity may reject for just cause all bids. The
+      statute does not define “just cause” for materials and supplies, but does define “just
+      cause” for public works, including but not limited to:
+
+   ➢ The public entity's unavailability of funds sufficient for the construction of the
+     proposed public work;
+
+   ➢ The failure of any bidder to submit a bid within an established threshold of the
+     preconstruction estimates for that public work, as part of the bid specifications;
+   ➢ A substantial change by the public entity prior to the award in the scope or design
+     of the proposed public work;
+
+   ➢ A determination by the public entity not to build the proposed public work within
+     twelve months of the date for the public opening and reading of bids; and
+
+   ➢ The disqualification by the public entity of all bidders.
+
+Q.57. What is a responsible and responsive bidder?
+
+A.57. A responsible and responsive bidder is one whose bid meets the requirements set out in
+      the advertised bidding documents.
+
+Q.58. What happens if a bidder is not a “responsible bidder”?
+
+
+
+
+                                                                                     Page 32 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+A.58. While R.S. 38:2212.1 does not provide for a formal process for the disqualification of an
+      apparent low bidder who the public entity determines is not a responsive and responsible
+      bidder, the public entity can utilize the procedures outlined in R.S. 38:2212(X) for public
+      works contracts [Q.31.] to ensure that due process is afforded in the disqualification
+      process. See AG Op. No. 13-0008.
+
+       E. Exceptions
+
+Q.59. What are the exceptions to bidding requirements for contracts for materials and
+      supplies?
+
+A.59. Yes, there are exceptions for certain purchases of materials and supplies. These
+      exceptions include:
+
+       ➢ purchases off the State Contract under cooperative purchasing agreements;
+         R.S. 38:2212.1(F)
+
+       ➢ purchases of surplus materials and supplies from another public entity or the
+         government of the United States or if the particular transaction is governed by the
+         procurement code; R.S. 38:2212.1(D)
+
+       ➢ purchases off of the Federal General Services Administration Lists, provided that the
+         items are not otherwise available cheaper on State Contract and the public entity
+         utilizes a Louisiana licensed dealer or distributor; R.S. 38:2212.1(E)
+
+       ➢ purchases by hospitals service districts under qualified group purchasing
+         organizations; R.S.38:2212.1(G)
+
+       ➢ purchases of used fire and emergency response vehicles, including associated
+         equipment, with a per unit purchase cost of less than one hundred thousand dollars
+         through a request for proposals; R.S. 38:2238.2, * Note: The definition of Fire and
+         Emergency Response Vehicles under R.S. 38:2238.1, expressly excludes sedans,
+         pickup trucks, mobile crime labs, tow trucks, and buses used by law enforcement.
+
+       ➢ lease, rental, or purchases of telecommunications data processing systems,
+         including equipment, and related services, by political subdivisions through a request
+         for proposals; R.S. 38:2237
+
+       ➢ purchases of materials, equipment and supplies by school districts and schools
+         through a qualified group purchasing organization; R.S. 38:2212.1(N)
+
+       ➢ purchases of materials, equipment and supplies by municipal and parish fire
+         departments, volunteer fire departments, fire protection districts, municipal police
+         departments, or related public safety departments or agencies, including but not
+         limited to municipal or parish ambulance services, or ambulance service districts,
+         through a group purchasing organization; R.S. 38:2212.1(P)
+
+       ➢ purchase of materials, supplies, vehicles or equipment by the State, any levee
+         district, levee drainage district, municipality, parish or other political subdivision of the
+
+
+
+
+                                                                                       Page 33 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+           state through an existing public contract of another political subdivision within one
+           year of the opening of bids; R.S. 38:321.1; and
+
+       ➢ purchases of animals trained to perform special task, including but not limited to
+         narcotics detection, bomb detection, arson investigation, and rescue techniques by:
+
+           o   Any local law enforcement agency for the principal purpose of aiding in the
+               detection of criminal activity, enforcement of laws, or apprehension of offenders,
+               and
+           o   Any local public safety agency for the purpose of search and rescue services.
+
+Q.60. Does the Public Bid Law apply to a procurement transaction between two public
+      entities?                                                   R.S. 38:2212.1(D)
+
+A.60. Generally, no, R.S. 38:2212.1(D) provides that the Public Bid Law does not apply to:
+
+       ➢ a public entity purchasing surplus materials and supplies from another public entity;
+         or
+
+       ➢ the government of the United States; or
+
+       ➢ a transaction governed by the procurement code.
+
+               1. Piggybacking
+
+Q.61. When may public entities piggyback on other public entities’ contracts under
+      R.S. 38:321.1?                                                   R.S. 38:321.1
+
+A.61. R.S. 38:321.1 provides an alternative procurement method as a cost-savings alternative
+      for certain purchases. This method, commonly referred to as “piggybacking,” provides
+      that, in addition to the procurement methods available to all political subdivisions, the
+      State, levee districts, levee drainage districts, municipalities, parishes or other political
+      subdivisions of the state may purchase materials, supplies, vehicles or equipment through
+      an existing public contract of another political subdivision within one (1) year of the
+      opening of bids, provided that the following conditions are met:
+
+       (1) The contract was bid in compliance with R.S. 38:2211 et seq.*
+       (2) The total purchases on the contract do not exceed two times what was
+           purchased by the political subdivision bidding the contract.
+       (3) The written consent of the political subdivision which bid the contract is
+           obtained, as well as the contract number, and if applicable, the resolution
+           accepting the contract.
+       (4) The vendor agrees to the additional purchase.
+       (5) The vendor, product, materials, supplies, vehicles, or equipment are identical to
+           those specified in the existing public contract of the other political subdivision,
+           and the price is the same as the original contract price.
+
+
+
+
+                                                                                    Page 34 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       *The State, municipality, parish or other political subdivision of the state may rely on the
+       certificate of the political subdivision that the contract was bid in compliance with State
+       law.
+
+       A state agency or any local government agency may rely on certificates of the office of
+       state procurement (OSP) that the contract was bid in compliance with Title 39
+       (Procurement Code) and was adopted as a statewide cooperative contract pursuant to the
+       cooperative purchase provisions of R.S. 39:1702, et seq., or from a local political
+       subdivision that the contract was bid in compliance with State law. State agencies should
+       consult with OSP prior to utilizing this provision.
+
+       R.S. 38:321.1 is not applicable to contracts for Public Works. AG Op. No. 16-0192
+
+Q.62. With enactment of R.S. 38:321.1, can parishes, municipalities and political
+      subdivisions still “piggyback” using the Local Services Law?
+                                                                    R.S. 33:1324
+
+A.62. Yes. In AG Op. No. 17-0152, the AG opined that R.S. 38:321.1 provides an alternative
+      procurement method for a parish, municipality or political subdivision to piggyback off of a
+      contract procured by another political subdivision. However, these entities may also utilize
+      the Local Services Law (R.S. 33:1324) to piggyback off of a public contract procured by
+      another political subdivision.
+
+       The following steps are necessary for a parish, municipality or other political subdivision
+       to piggyback off of a public contract procured by another political subdivision using the
+       Local Services Law:
+
+          (1) Verify that the contract was bid in compliance with state law.
+          (2) Verify that the contract is still active, fresh or “viable.”
+          (3) Obtain written consent or approval from the other public entity who bid the
+               contract and obtain confirmation as to the contract number and, if necessary, the
+               council resolution accepting the contract/bid.
+          (4) Confirm that the vendor and the product, services, materials, supplies or
+               equipment are the same and that the price is same or lower.
+       Additionally, the Attorney General recommends that entities utilizing the Local Services
+       Law to piggyback off of another political subdivision’s public contract to adopt and
+       advertise an ordinance or resolution setting forth the terms of its purchasing method in
+       accordance with R.S. 33:1325.
+
+       Therefore, a parish, municipality or political subdivision may use either method,
+       R.S. 38:321.1 [Q.61] or R.S. 33:1324 (Local Services Law), to piggyback off of a public
+       contract procured by another political subdivision, as long as all relevant steps are
+       followed.
+
+               2. Qualified Group Purchasing
+
+Q.63. May hospitals engage in qualified group purchasing?                        R.S. 38:2212.1
+
+A.63. Yes. R.S. 38:2212.1(G)) authorizes any hospital owned or operated by a hospital service
+
+
+
+                                                                                    Page 35 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       district, a municipality, the state, or any other public entity to enter into an agreement with
+       one or more qualified group purchasing organizations for the purpose of obtaining bids for
+       the purchase of materials and supplies, with certain requirements.
+       The term “qualified group purchasing organization” means an organization, whether
+       for profit or not for profit, that has contracts for the sale of materials or supplies with at
+       least fifteen hospitals within the United States.
+
+          1. The qualified group purchasing organization shall submit a price list for those
+             materials and supplies it offers.
+
+          2. Price list must remain in effect for a stated period of time that may not be less
+             than three months.
+
+          3. The price list shall thereafter be considered for all purposes to be a valid and
+             binding bid by the qualified group purchasing organization during the
+             effective period of the agreement, and no additional bid by the qualified group
+             purchasing organization shall be necessary.
+
+       A hospital owned by the state may purchase equipment from a qualified group
+       purchasing organization if the price is less than that for the same or comparable equipment
+       on the state contract.
+
+       R.S. 38:2212.1(H) provides that the commissioners, governing board, or governing
+       authority of any hospital owned or operated by a hospital service district, a public
+       trust, any municipality, or any other public entity, may authorize by resolution, the
+       participation in, or the purchasing from, a qualified group purchasing organization for the
+       purchase of supplies and materials, without complying with the Public Bid Law or any other
+       applicable provision of law when it appears to the authority or secretary that participation
+       would positively affect the economic situation or efficiency of operations of the hospital. A
+       positive effect on the economic situation or efficiency of operations shall be presumed
+       when the total price of items to be purchased from the qualified group purchasing
+       organization is less than the total price of those items if purchased from the state bid list.
+
+       The secretary of the Department of Health and Hospitals for any hospital owned or
+       operated by the state, may also authorize the participation in, or the purchasing from, a
+       qualified group purchasing organization for the purchase of supplies and materials, without
+       complying with the Public Bid Law or any other applicable provision of law when it appears
+       to the authority or the secretary that participation would positively affect the economic
+       situation or efficiency of operations of the hospital.
+
+Q.64. May school districts and schools engage in qualified group purchasing?
+                                                                     R.S. 38:2212.1(N)*
+
+A.64. R.S. 38:2212.1(N), allows any public school district or public school to enter into an
+      agreement with one or more qualified group purchasing organizations for the purchase
+      of materials, equipment, and supplies, including any installation thereof.
+
+       ➢ Any such agreement requires the qualified group purchasing organization submit a
+         price list for those materials, equipment, and supplies offered by it and that the prices
+         quoted on the list remain in effect for a stated period of not less than three months.
+
+
+
+                                                                                       Page 36 of 65
+            PUBLIC BID LAW
+            REVISED 02/2026
+
+
+                       ➢ Any such price list shall be considered, for all purposes, to be a valid and binding bid
+                         by the qualified group purchasing organizations during the effective period of the
+                         agreement, and no additional bid by the qualified group purchasing organization is
+                         necessary.
+
+                       ➢ Price lists submitted by a qualified group purchasing organization are not public
+                         records and shall not be available for inspection; however, the agreement setting forth
+                         the existence of the price list and the effective date thereof is a public record. That
+                         portion of the price list setting forth the price of the materials, equipment, or supplies
+                         being purchased shall become a public record at the time of opening bids or upon the
+                         execution of a contract for the purchase of materials, equipment or supplies.
+
+                       A “qualified group purchasing organization” means an organization, whether for profit
+                       or not for profit, of which two or more public school districts are members and that solicits
+                       proposals or bids from vendors of materials, equipment, or supplies of the type and nature
+                       as may be purchased by a public school district or public school. A “qualified group
+    NEW
+    2025
+                       purchasing organization” also includes an “external procurement activity” as defined in
+                       R.S. 39:1556.
+
+                       * As amended by Act 204 of the 2025 Regular Session (eff. August 1, 2025).
+
+                              R.S. 39:1556(23) defines an “external procurement activity” as any buying
+                              organization not located in the state which, if located in the state, would qualify as
+                              a “public procurement unit”. An agency of the United State government is an
+       Clarification          external procurement activity. This means an organization not located in Louisiana
+                              that, if located in Louisiana, would qualify as a public procurement unit.
+
+                              R.S. 39:1556(44) defines a “public procurement unit” as either a local public
+                              procurement unit or a state public procurement unit.
+
+                                      R.S. 39:1556(32) defines “local public procurement unit” to mean any
+                                      parish, city, town, governmental body, and any other subdivision of the
+                                      state or public agency thereof, public authority, public educational, health,
+                                      or other institution, and to the extent provided by law, any other entity which
+                                      expends public funds for the acquisition or leasing of supplies, services,
+                                      major repairs, and construction, and any nonprofit corporation operating a
+                                      charitable hospital.
+
+                                      R.S. 39:1556(58) defines “state public procurement unit to mean the
+                                      Central Purchasing Agency (Office of State Procurement) and any other
+                                      purchasing agency of the State.
+
+                       Therefore, it appears that a “qualified group purchasing organization” may either be:
+                              • A Federal agency or a state or local political subdivision of another state; or
+Clarification                 • A non-governmental entity that has two or more Louisiana public school
+                                  districts as members.
+
+
+
+
+                                                                                                      Page 37 of 65
+                PUBLIC BID LAW
+                REVISED 02/2026
+
+                       A school board may purchase materials, equipment, or supplies directly from or through
+                       a qualified group purchasing organization if the price is less than that for the same or
+                       substantially similar materials, equipment, or supplies on the state contract or bid list. A
+                       school board may also purchase materials, equipment, or supplies directly from or through
+                       a qualified group purchasing organization if the same or substantially similar materials,
+                       equipment, or supplies are not under State contract or on the State bid list. The qualified
+Clarification          group purchasing organization may also participate in the ordinary bidding process.
+
+                       In order to show that the school board or public school auditee meets all of the above
+                       requirements to utilize the Public Bid Law exception under R.S. 38:2212.1(N)* to purchase
+                       directly from a qualified group purchasing organization, the following is an example of the
+                       information the auditee should document and maintain in their files:
+
+                       •       Documentation showing that the vendor is a “qualified group purchasing
+                               organization” including:
+
+                               o       The vendor meets the definition of “external procurement activity” as
+                                       defined R.S. 39:1556(23) or the vendor has two or more Louisiana public
+                                       school districts or schools as members;
+                               o       That the vendor solicits proposals and bids to establish price lists for
+                                       materials, equipment and supplies, and
+                               o       That the prices on the price list will remain in effect for a state period of time
+                                       of no less than three months.
+
+                       •       Documentation, such as an email from the Office of State Procurement, confirming
+                               that the materials, equipment, or supplies are not available on an existing State
+                               Contract for a lower price than the price list of the qualified group purchasing
+                               organization.
+         NEW
+         2025
+                               * As amended by Act 204 of the 2025 Regular Session (eff. August 1, 2025).
+
+
+                Q.65. May public safety departments, such as municipal police departments and
+                      municipal and parish fire departments, engage in qualified group purchasing?
+                                                                                     R.S. 38:2212.1(P)*
+
+                A.65. R.S. 38:2212.1(P) allows municipal and parish fire departments, volunteer fire
+                      departments, fire protection districts, municipal police departments, or related public safety
+                      departments or agencies, including but not limited to municipal or parish ambulance
+                      services, or ambulance service districts, to enter into an agreement with one or more
+                      qualified group purchasing organizations for the purchase of materials, equipment, and
+                      supplies, including any installation thereof.
+
+                       ➢ Any such agreement requires the qualified group purchasing organization submit a
+                         price list for those materials, equipment, and supplies offered by it and that the prices
+                         quoted on the list remain in effect for a stated period of not less than three months.
+
+                       ➢ Any such price list shall be considered, for all purposes, to be a valid and binding bid
+                         by the qualified group purchasing organizations during the effective period of the
+
+
+
+
+                                                                                                         Page 38 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+                    agreement, and no additional bid by the qualified group purchasing organization is
+                    necessary.
+
+                 ➢ Price lists submitted by a qualified group purchasing organization are not public
+                   records and shall not be available for inspection; however, the agreement setting forth
+                   the existence of the price list and the effective date thereof is a public record. That
+                   portion of the price list setting forth the price of the materials, equipment, or supplies
+                   being purchased shall become a public record at the time of opening bids or upon the
+                   execution of a contract for the purchase of materials, equipment or supplies.
+
+                 A “qualified group purchasing organization” means an organization, whether for profit
+                 or not for profit, of which two or more public departments, agencies, or non-profit fire,
+                 ambulance service, public safety, or police authority, are members and that solicits
+NEW              proposals or bids from vendors of materials, equipment, or supplies of the type and nature
+2025             as may be purchased by any such department, agency, or non-profit corporation. A
+                 “qualified group purchasing organization” also includes an “external procurement activity”
+                 as defined in R.S. 39:1556.
+
+                        * As amended by Act 204 of the 2025 Regular Session (eff. August 1, 2025).
+
+                        R.S. 39:1556(23) defines an “external procurement activity” as any buying
+                        organization not located in the state which, if located in the state, would qualify as
+                        a “public procurement unit”. An agency of the United State government is an
+ Clarification          external procurement activity. This means an organization not located in Louisiana
+                        that, if located in Louisiana, would qualify as a public procurement unit.
+
+                        R.S. 39:1556(44) defines a “public procurement unit” as either a local public
+                        procurement unit or a state public procurement unit.
+
+                                R.S. 39:1556(32) defines “local public procurement unit” to mean any
+                                parish, city, town, governmental body, and any other subdivision of the
+                                state or public agency thereof, public authority, public educational, health,
+                                or other institution, and to the extent provided by law, any other entity which
+                                expends public funds for the acquisition or leasing of supplies, services,
+                                major repairs, and construction, and any nonprofit corporation operating a
+                                charitable hospital.
+
+                                R.S. 39:1556(58) defines “state public procurement unit to mean the
+                                Central Purchasing Agency (Office of State Procurement) and any other
+                                purchasing agency of the State.
+
+                 Therefore, it appears that a “qualified group purchasing organization” may either be:
+                     • A Federal agency or a state or local political subdivision of another state; or
+Clarification        • A non-governmental entity that has two or more Louisiana public safety
+                         departments, agencies, or authorities as members.
+
+                  A municipal and parish fire department, volunteer fire department, fire protection district,
+                 municipal police department, or related public safety department or agency may purchase
+                 materials, equipment, or supplies directly from or through a qualified group purchasing
+                 organization if the price is less than that for the same or substantially similar materials,
+
+
+
+                                                                                                Page 39 of 65
+           PUBLIC BID LAW
+           REVISED 02/2026
+
+                  equipment, or supplies on the state contract or bid list. The department, agency, or non-
+                  profit corporation may also purchase materials, equipment, or supplies directly from or
+                  through a qualified group purchasing organization if the same or substantially similar
+                  materials, equipment, or supplies are not under State contract or on the State bid list. The
+Clarification     qualified group purchasing organization may also participate in the ordinary bidding
+                  process.
+
+                  In order to show that the public safety auditee meets all of the above requirements to
+                  utilize the Public Bid Law exception under R.S. 38:2212.1(P)* to purchase directly from a
+                  qualified group purchasing organization, the following is an example of the information the
+                  auditee should document and maintain in their files:
+
+                  •       Documentation showing that the vendor is a “qualified group purchasing
+                          organization” including:
+                          o      The vendor meets the definition of “external procurement activity” as
+                                 defined R.S. 39:1556(23) or the vendor has two or more Louisiana public
+                                 safety departments or agencies as members;
+                          o      That the vendor solicits proposals and bids to establish price lists for
+                                 materials, equipment and supplies, and
+                          o      That the prices on the price list will remain in effect for a state period of time
+                                 of no less than three months.
+
+                  •       Documentation, such as an email from the Office of State Procurement, confirming
+                          that the materials, equipment, or supplies are not available on an existing State
+                          Contract for a lower price than the price list of the qualified group purchasing
+    NEW                   organization.
+    2025
+                  * As amended by Act 204 of the 2025 Regular Session (eff. August 1, 2025).
+
+                          3. Reverse Auctions
+
+           Q.66. May electronic bidding be used for “reverse auctions”?                           R.S. 38:2271
+
+           A.66. Yes, if the procurement officer for the political subdivision determines that electronic
+                 bidding is in the best interest of the political subdivision and that electronic online bidding
+                 is more advantageous than other methods, reverse bidding may be used.
+
+                  R.S. 38:2271 provides the detailed procedure. The statute defines "reverse auction" as a
+                  competitive online solicitation process on the internet for materials, supplies, services,
+                  products, equipment or consulting services* in which vendors compete against each other
+                  online in real time in an open and interactive environment. The statute further provides
+                  that in a reverse auction, the political subdivision shall develop policies and may require,
+                  among other things, that:
+
+                        (1) Vendors register before the opening date and time.
+                        (2) Vendors be prequalified prior to placing bids.
+                        (3) The solicitation shall designate an opening date and time and the closing
+                            date and time.
+
+
+
+
+                                                                                                   Page 40 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+            (4) At the opening date and time, the using agency shall begin accepting online
+                bids and continue accepting bids until the bidding is officially closed.
+                Registered bidders shall be allowed to lower the price of their bids below the
+                lowest bid posted on the Internet until the closing date and time.
+            (5) Bidders' identities shall not be revealed during the bidding process.
+            (6) All bids shall be posted electronically and updated on a real-time basis.
+            (7) The using political subdivision shall retain the right to cancel the solicitation if it
+                determines that it is in the political subdivision's best interest.
+
+            (8) The using political subdivision shall retain its existing authority to determine
+                 the criteria that will be used as a basis for making awards.
+     Act 102 of the 2021 Regular Session added “consulting services” for use in a reverse
+     auction; however, local political subdivisions should note that consulting services are
+     excluded from the Public Bid Law. Therefore, solicitations of bids – even by reverse auction
+     -- to award contracts for consulting services is not required by law and is completely
+     discretionary for local political subdivisions.
+
+Q.67. What are the notice requirements for a “reverse auction”?                   R.S. 38:2271(C)
+
+A.67. R.S. 38:2271 requires adequate public notice for purchases of materials, supplies,
+      equipment or consulting services* by a political subdivision using a reverse auction be
+      given as follows:
+          • The advertisement or notice shall be published twice in a newspaper in the
+             locality, the first advertisement to appear at least 15 days before the opening
+             date of the reverse auction. The word ‘locality’ is not defined; the AG has
+             interpreted it to mean the area where the political subdivision is located
+             AG Op. No. 83-0720.
+
+           • In addition to the newspaper advertisement, a political subdivision may also
+             publish an advertisement by electronic media available to the general public.
+
+       ➢ The first publication of the advertisement shall not occur on a Saturday, Sunday,
+         or legal holiday.
+
+       *Act 102 of the 2021 Regular Session added “consulting services” for use in a reverse
+       auction; however, local political subdivisions should note that consulting services are
+       excluded from the Public Bid Law. Therefore, solicitations of bids – even by reverse
+       auction -- to award contracts for consulting services is not required by law and is
+       completely discretionary for local political subdivisions.
+
+       4. Other Exceptions
+
+Q.68. How do political subdivisions procure computers and software?
+                                                                                        R.S. 38:2234
+
+A.68. Pursuant to R.S. 38:2234, known as the Political Subdivisions Telecommunications and
+      Data Processing Procurement Law, political subdivisions may lease, rent, or purchase
+
+
+
+                                                                                        Page 41 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+      telecommunications or data processing systems, including equipment, and related
+      services, through a Request for Proposal (RFP).
+
+      This law is a permissive alternative to the Public Bid Law. Political subdivisions may still
+      use public bid or purchase such items off the state contract.
+
+      Procedures for such procurement are contained in R.S. 38:2237.
+
+      ➢ Public notice of the RFP shall be given at least thirty days prior to the date scheduled
+        for opening the RFP.
+
+      ➢ Written notice of the RFP shall be mailed to persons and corporations who are
+        known to be in a position to furnish the equipment, systems, and related services.
+
+      ➢ This public notice may also be given by electronic media available to the
+        general public.
+
+      ➢ The RFP will indicate the relative importance of price and other evaluation factors,
+        shall clearly define the tasks to be performed under the contract, the functional
+        specifications, the criteria to be used in evaluating the proposals, and the time
+        frames within which the work must be completed.
+
+      ➢ An award shall be made to the responsible offeror whose proposal is determined
+        in writing by the governing authority of the political subdivision to be the most
+        advantageous, considering price and other evaluation factors set forth in the RFP.
+        This is different from when the public entity is letting the contract through sealed
+        bidding as the public entity is required to award the contract to the lowest
+        responsive and responsible bidder.
+
+      ➢ The governing authority of the political subdivision may reject all proposals when
+        the action is deemed in the best interest of the political subdivision.
+
+      ➢ If vendors submit written proposals, the proposals of the successful vendor shall
+        be incorporated into the final contract consummated with that vendor.
+
+      Political subdivisions may, at their option, procure telecommunications and data
+      processing equipment, systems, or related services in accordance with the Public Bid Law.
+      However, in the event an invitation for bids is used in lieu of a RFP, written notice of that
+      fact shall be given to all bidders, and that notice shall also state that the RFP procedure
+      will not apply.
+
+Q.69. What are the rules for purchases from the federal government related to
+      homeland security?                                        R.S. 38:2212.6
+
+A.69. R.S. 38:2212.6 provides that any public procurement unit may procure materials,
+      supplies, equipment, and services related to homeland security from federal General
+      Services Administration supply schedules. Such purchases shall:
+
+      ➢ Use a Louisiana distributor.
+
+
+
+
+                                                                                    Page 42 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       ➢ Use the competitive ordering procedures of the federal General Services
+         Administration.
+
+       ➢ Receive prior approval from the director of the Governor's Office of Homeland
+         Security and Emergency Preparedness, or his designee.
+
+Q.70. What requirements exist for purchases made by a public safety agency spending
+      federal grant dollars?
+
+A.70. Louisiana law provides that purchases made by a public safety agency following the
+      guidelines and restrictions established pursuant to the expenditure of federal grant dollars
+      shall be made by obtaining not less than three telephone or facsimile quotations. The
+      agency must, however, also comply with the federal grant requirements, which may
+      include competitive bidding. If stricter, federal law must be followed.
+
+Q.71. Are there any exceptions that allow procurement without bidding of specialized
+      cranes and replacement parts by port commissions and port, harbor, and terminal
+      districts?                                                     R.S. 38:2320.1
+
+A.71. Yes. R.S. 38:2320.1 authorizes port commissions and port, harbor, and terminal
+      districts to purchase port-related specialized cranes and any replacement parts
+      through a request for proposals process, in lieu of formal bidding. The procedures
+      outlined in R.S. 38:2320.1 shall be followed in order for the exception to the ordinary
+      bid process to apply.
+
+
+IV. Emergencies
+
+
+Q.72. Are there exceptions to the Public Bid Law for emergencies?               R.S. 38:2212(P)
+
+A.72. Yes, exceptions exist for 2 types of emergency situations: emergency and extreme
+      emergency. The purchase of materials or supplies in the case of an extreme public
+      emergency shall be governed by the provisions of R.S. 38:2212(P) and R.S. 38:2212.1(K).
+
+       A. Emergency
+
+Q.73. What is an emergency?                                                R.S. 38:2211(A)(5)(a)
+
+A.73. An emergency is an unforeseen mischance bringing with it destruction or injury of life or
+      property or the imminent threat of such destruction or injury.
+      An emergency may also result from an order by any judicial body to take any
+      immediate action that requires construction or repairs absent compliance with the
+      formalities of the Public Bid Law, because of insufficient time to follow the advertising
+      requirements as provided in R.S. 38:2212.
+
+       For a municipally owned public utility, an emergency shall be deemed to exist and the
+       public entity may negotiate as provided by R.S. 38:2212(P) for the purchase of fuel for
+       the generation of its electric power if the public entity has first advertised for bids as
+       provided by this Part but has failed to receive more than one bid.
+
+
+
+                                                                                   Page 43 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+
+       Q.74. When is the emergency exception applied?                                    R.S. 38:2212(P)*
+
+       A.74. After the emergency has been certified by the public entity at a public meeting, the Public
+             Bid Law may be waived provided that notice was given to the public by publishing in the
+             official journal. There is no longer a statutory deadline for the publication of the notice in
+             the public entity’s official journal.
+NEW
+2025
+              * As amended by Act 350 of the 2025 Regular Session (eff. August 1, 2025).
+
+       Q.75. What special documentation is required for purchases under the emergency
+             exception?                                                 R.S. 38:2212(P)
+
+       A.75. Every contract that is negotiated shall be supported by written determination and
+             findings by the public entity justifying the emergency.
+
+              If contract action is taken pursuant to telephone or other oral offers, written confirmation
+              of the accepted offer must be included in the file.
+              The file of the public entity must contain:
+
+              ➢ A minimum of the description of the work to be performed;
+              ➢ The name and address of each offeror quoting; and
+              ➢ The performance time and terms of each offer.
+
+              If quotes lower than the accepted quote are not accepted, reasons for rejection must be
+              in the file. Records must be kept a minimum of 6 years.
+
+              B. Extreme Emergency
+
+       Q.76. What is an extreme emergency?                                          R.S. 38:2211(A)(5)(b)
+
+       A.76. An extreme emergency is a catastrophic event that causes the loss of ability to obtain
+             a quorum of the members necessary to certify the emergency prior to making the
+             expenditure to acquire materials or supplies or to make repairs necessary for the
+             protection of life, property, or continued function of the public entity.
+
+       Q.77. How is the extreme emergency exception applied?                             R.S. 38:2212(P)
+
+       A.77. In the event of an emergency or an extreme emergency, the political subdivision may
+             make such purchases to deal with the emergency as may be required immediately. After
+             the events requiring immediate emergency procurement, the president of the police jury,
+             the president of the parish council, the mayor of the municipality, or a person designated
+             to act on behalf of the governing authority of the political subdivision, shall declare that an
+             extreme emergency exists and shall cause such declaration to be published in the official
+             journal within ten days or as soon as practicable thereafter.
+
+       Q.78. What documentation is required for purchases under the extreme emergency
+             exception?                                                 R.S. 38:2212(P)
+
+       A.78. The requirements are the same as for emergencies listed above. [Q.75.]
+
+
+
+                                                                                             Page 44 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+
+V. Prohibitions
+
+Q.79. May public entities who are not in compliance with the Audit Law let contracts for
+      Public Works and Materials and Supplies?                           R.S. 38:2211.1
+
+A.79. R.S. 38:2211.1 prohibits public entities who have failed to comply with the audit provisions
+      of R.S. 24:513 from letting any public contracts under the Public Bid Law that utilizes any
+      state funds, whether received through direct appropriations or through transfer from
+      another public entity or whose funding relies upon the full faith and credit of the state.
+
+       For the purposes of this provision, the term “state funds” includes any federal funds,
+       including grants, that pass through the state.
+
+       Any public entity that has been subject to this restriction, upon coming into compliance
+       with the provisions of R.S. 24:513, shall immediately inform the Legislative Audit Advisory
+       Council (LAAC) in writing of their compliance and, upon confirmation by LAAC, shall be
+       immediately releases from the restrictions that were imposed.
+
+Q.80. May public entities split public works projects or purchases of materials and
+      supplies into several smaller projects/purchases to avoid the Public Bid Law?
+
+A.80. No. Under no circumstances shall there be a division or separation of any public work
+      project into smaller projects (splitting) if the division or separation would have the effect of
+      avoiding the requirement that public work be advertised and let by contract to the lowest
+      responsible and responsive bidder. R.S. 38:2212(V)
+
+       The Attorney General has also opined that the purchase of like commodities (materials
+       and supplies) during the course of a fiscal year must be aggregated and publicly bid if the
+       total amount of purchases of like commodities during the fiscal year exceeds the contract
+       limit. See AG Op. No. 02-0122.
+
+Q.81. What provisions in the Public Bid Law address rejecting bids from convicted
+      felons?                                                     R.S. 38:2212.9
+
+A.81. R.S. 38:2212.9 provides that in awarding contracts, any public entity is authorized to
+      reject the lowest bid from or avoid awarding the contract to, a business in which any
+      individual with an ownership interest of five percent or more has been convicted of, or
+      has entered a plea of guilty or nolo contendere to any state felony crime or equivalent
+      federal felony crime committed in the solicitation or execution of a contract or bid
+      awarded under the laws governing public contracts.
+
+       The law does not impose a duty, responsibility, or requirement on a public entity to perform
+       criminal background checks on contractors, vendors, or subcontractors. It shall be the
+       responsibility of any person, company, or entity making an allegation of prior convictions
+       on the part of any individual with an ownership interest of five percent or more in any
+       bidder to present prima facie evidence supporting their claim to the public entity. If proved,
+       the company whose bid is rejected shall be responsible to the public entity for the costs of
+       rebidding, the increased costs of awarding to the second low bidder, or forfeiture of the
+       bid bond, whichever is higher.
+
+
+                                                                                       Page 45 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+Q.82. May a commission, fee or other consideration be split or shared?
+                                                                                   R.S. 14:141
+
+A.82. Criminal code article R.S. 14:141 makes it a crime to split fees or commissions derived
+      from the sale of goods and services with a public officer or employee in his official
+      capacity. The penalty upon conviction is a mandatory fine of not more than $10,000 or
+      imprisonment for not more than 10 years, or both.
+
+Q.83. May public entities disqualify a bidder if they are not registered with the Louisiana
+      Secretary of State?
+
+A.83. No. Absent a statutory requirement for a vendor to be licensed to do business in the State,
+      such as in the case of used motor vehicle dealers, a public entity cannot disqualify a
+      potential out-of-state bidder as non-responsible because they are not registered with the
+      Louisiana Secretary of State. Any such requirement appears to be a pre-qualification that
+      is generally prohibited under the Public Bid Law.
+
+       Any out-of-state vendor must comply with any applicable licensing requirements imposed
+       by law.
+
+Q.84. May an entity trade in surplus equipment for credit as part of the purchase of new
+      materials, supplies, or equipment?
+
+A.84. In general, "trading-in" is not allowed. For local government entities, the AG treats the
+      disposal of surplus property and purchase of new property as two separate processes.
+      Surplus property should be disposed of in accord with its applicable laws. New materials,
+      supplies, or equipment should be purchased following the requirements under the Public
+      Bid Law or any applicable exception such as purchase under an existing State contract.
+
+Q.85. May a public entity disqualify a potential vendor that discriminates against firearm
+      and ammunition industries?                                          R.S. 38:2216.1*
+
+A.85. Yes, R.S. 38:2216.1 prohibits a public entity from entering into a contract with a value of
+      $100,000 or more with a company for the purchase of goods or services unless the
+      contract contains a written verification from the company of both of the following:
+
+              1) The company does not have a practice, policy, guidance, or directive that
+                 discriminates against a firearm entity or firearm trade association based solely
+                 on the entity's or association's status as a firearm entity or firearm trade
+                 association.
+
+              2) The company will not discriminate against a firearm entity or firearm trade
+                 association during the term of the contract based solely on the entity's or
+                 association's status as a firearm entity or firearm trade association.
+
+       The public entity is also prohibited from entering into a joint or multi-party contract for
+       goods or services unless the contract contains the written verification required for each
+       company that is party to the contract.
+
+
+
+
+                                                                                   Page 46 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       The prohibition only applies to a contract with a value of $100,000 or more that are:
+
+          1   Paid primarily from public funds;
+          2   Between a public entity and a company with at least 50 full-time employees; and
+          3   Renewed or entered into on or after August 1, 2024.
+
+       The law clarifies that a company does not “discriminate against a firearm entity or firearm
+       trade association” if it if it refuses to engage in the trade of any goods or services, refrains
+       from continuing an existing business relationship, or declines to enter into, modifies, or
+       terminates an existing business relationship for any of the following reasons:
+
+          1   To comply with federal, state, or local law, policy, or regulations or a directive by a
+              regulator.
+          2   For any traditional or ordinary business reason that is specific to the customer or
+              potential customer and not based solely on an entity's or association's status as a
+              firearm entity or firearm trade association. Further provides that "status" includes
+              the lawful products and services provided by and lawful practices of firearm entities
+              and firearm trade associations.
+
+       The Attorney General is authorized to enforce requirements of the law and to recover all
+       reasonable costs and attorney fees incurred.
+
+       This provision will likely require additional clarification by the courts and/or Attorney
+       General.
+
+VI. Professional Services
+
+Q.86. How are professional services for executive branch entities defined?
+                                                                                       R.S. 38:2310
+
+A.86. The phrase “professional services” has two meanings; one meaning specific to
+      executive branch entities engaging in certain contracts for the procurement of professional
+      services, and one meaning every other type of professional service.
+
+       For executive branch entities, the phrase “professional services” has a very specific
+       meaning that does not apply to local governmental entities or political subdivisions. In this
+       context, professional services are a specific type of service sought by an executive branch
+       entity that requires a specific kind a professional. These particular professional services
+       are defined in R.S. 38:2310(7) to include contracts by executive branch agencies only for
+       services performed by architects, engineers, or landscape architects. Further, the
+       estimated project costs for these contracts must exceed one million dollars (R.S.
+       38:2316). These contracts for services performed by an architect, engineer, or landscape
+       architect must be bid according to R.S. 38:2312. Competence and qualifications of the
+       contractor must be the deciding factors. See R.S. 38:2318.1(A)
+
+Q.87. Are the professional services sought by local political subdivisions and other local
+      entities subject to the Public Bid Law?
+
+A.87. No. Local governments and political subdivisions are not required to advertise, receive
+      bids or engage in competitive negotiations for contracts for professional services.
+
+
+                                                                                        Page 47 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+       Nevertheless, sound practice dictates seeking the best price available for the service
+       sought to be performed. Sound practices include seeking quotes, using an RFP process,
+       or simply following the Public Bid Law. If an entity does follow the Public Bid Law when it
+       is not required to, it must follow all the rules of Public Bid Law for that purchase.
+
+Q.88. Are other types of contracts for services subject to the Public Bid Law?
+
+A.88. No. The Public Bid Law is relevant to the procurement of materials and supplies and
+      public works, not services.
+
+Q.89. What laws apply to other contracts by executive branch agencies?
+                                                                                  R.S. 39:1551
+
+A.89. Other contracts by executive branch agencies for services are addressed in the State
+      Procurement Code found at R.S. 39:1551, et seq.
+
+Q.90. Are garbage contracts professional services contracts?                    R.S.33:4169.1
+
+A.90. Yes, garbage contracts are professional services contracts. However, if the granting of a
+      garbage contract creates an exclusive contract, they are required by R.S. 33:4169.1(A)(2)
+      to be let through public bid.
+
+       Exclusive contracts are defined under the law to mean, “a written agreement for the
+       collection and disposal of residential garbage and trash throughout the entirety of the
+       territorial jurisdiction of the respective parish or municipality.
+
+VII. Louisiana Procurement Code (LPC)                                     R.S. 39:1551,et seq.
+
+
+Q.91. What is the LPC?
+
+A.91. The LPC is the set of procurement laws that executive branch agencies of the State are
+      required to follow instead of the Public Bid Law when they are purchasing materials and
+      supplies. The LPC, through the Office of State Procurement, provides a list of vendors
+      and products that have been pre-bid for easy purchase by executive branch agencies.
+      Click here to go to the Legislative Auditor’s Summary of the LPC.
+
+Q.92. May a public entity that is subject to the Public Bid Law choose to be subject to the
+      LPC?                                                               R.S. 38:2212.1(F)
+
+A.92. Yes. Political subdivisions are authorized to adopt by ordinance or resolution all or any
+      part of the LPC and its accompanying regulations for the procurement of material and
+      supplies. If the political subdivision adopts the LPC for the procurement of materials and
+      supplies, then the LPC and not the Public Bid Law applies to those purchases. Any public
+      entity may, however, purchase materials, supplies, and equipment from the state contract
+      under the LPC without actually adopting the LPC.
+
+Q.93. May a local governmental entity purchase an item on the state contract?
+                                                                           R.S. 39:1702
+
+
+
+
+                                                                                   Page 48 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+A.93. Yes, a local entity may purchase an item on the state contract employing the cooperative
+      purchasing provisions of R.S. 39:1701 et seq. The entity is not required to adopt the LPC
+      "all or in part" for this transaction because the purchase is permitted through the Public
+      Bid Law pursuant to R.S. 38:2212.1(F). As a matter of prudent administration, the
+      governing body should, at a minimum, document the details for the purchase through
+      resolution, ordinance, or minutes.
+
+Q.94. May a local governmental entity purchase an item from a local vendor at the state
+      bid price?                                                        R.S. 39:1710
+
+A.94. Yes, R.S. 39:1710 allows these purchases with certain limitations. The statute provides
+      that:
+
+        When a local governing authority purchases an item at the state bid price
+        through a local vendor, the local governing authority may pay to the local
+        vendor the costs for shipping, preparation, and delivery of the item,
+        provided that these costs shall not exceed the state bid price by seven
+        percent on purchases up to ten thousand dollars, five percent on purchases
+        over ten thousand dollars and up to twenty thousand dollars, and three
+        percent on purchases over twenty thousand dollars.
+
+        The Attorney General in AG Op. No. 96-0044 opined that the following steps would be
+        required to comply with the statute:
+
+               In order to facilitate use of these provisions, we would advise that the following
+               steps be taken by a local governing authority:
+
+               1. Determine from State Central Purchasing (Office of State Procurement) if there
+               is a competitively bid state contract for the needed material or supply and obtain
+               the State Contract Number and the specification for the item on state contract.
+
+               2. Contact a local vendor for the item to determine if he/she can provide the item
+               meeting the exact same specification as the state contract item and obtain a
+               written price quote for delivery of the item to the local governing authority. While
+               the statute provides no definition for the word “local”, it is interpreted in this context
+               to mean a vendor situated within the boundaries of the governing authority
+               seeking to make the purchase.
+
+               3. If the delivered price offered by the local vendor is within the percentages set
+               forth in the statute for contracts of various values, a purchase order may be issued
+               by the local governing authority to the local vendor, reflecting the state contract
+               number, state contract specification, state contract price and the markup allowed
+               to the local vendor for shipping, preparation and delivery of the item(s).
+
+               4. A copy of the local governing authority's purchase order shall be furnished to
+               the State Central Purchasing Office (Office of State Procurement) for monitoring
+               compliance with the provisions of R.S. 39:1710.
+
+               The statute in question is an exception to the otherwise sweeping requirement of
+               R.S. 38:2212.1(A)(1) that all purchases above the contract amount (presently
+
+
+
+                                                                                         Page 49 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+               $60,000) made by a public entity with public funds be made by sealed bid pursuant
+               to advertising. The procedures set forth above are intended to assure compliance
+               with the letter and spirit of both the Public Bid Law (R.S. 38:2211-2237) and R.S.
+               39:1710.
+
+
+        In addition, when purchasing a vehicle off of State contract from a local vendor, the Office
+        of State Procurement currently considers the following to be part of the State contract:
+           • The base model vehicle on the current State contract, and
+           • Manufacturer configuration options at the Dealer-Cost price (i.e. the fixed price the
+               manufacturer charges to all dealers).
+
+        Therefore, the public entity purchasing a vehicle from a local vendor should document
+        the following in its contract files and in its submission to the Office of State Procurement,
+        upon completion of the purchase:
+           • The specifications and cost of the base vehicle reflecting that it is the same as the
+                one on the current State contract at time of purchase;
+           • An itemized list of any additional manufacturer offered configuration options
+                included in the purchase, noting the dealer-cost price set by the manufacturer (The
+                Office of State Procurement recommends that this be provided to the public entity
+                on Dealer letter head); and
+           • An itemized invoice for any dealer charges for shipping, preparation, and delivery
+                of the vehicle, showing that the amount charged does not exceed the percentage
+                allowed under R.S. 39:1710.
+
+        For additional information or clarification on current State contracts, public entities should
+        contact the Office of State Procurement at (225) 342-8010 or at doa-
+        osphelpdesk@la.gov.
+
+               Questions on State vehicle contracts should be directed to the Office of State
+               Procurement through Amy Gotreaux at (225) 342-9200 or through email at
+               amy.gotreaux@la.gov.
+
+
+
+
+VIII. Retainage
+
+Q.95. Is a public works contract required to contain a retainage fee?
+                                                                                      R.S. 38:2248
+
+A.95. There is not a requirement that a public works contract contain a retainage fee; however,
+      R.S. 38:2248 provides that if an entity chooses to use a retainage fee in its public works
+      contract, that fee cannot exceed 10% if the contract price is less than $500,000 and it
+      cannot exceed 5% if that contract price is $500,000 or more.
+
+
+
+
+                                                                                       Page 50 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+IX. Enforcement of Payments under Contract
+
+Q.96. What actions may a contractor take to enforce payments by public entities
+      which are due and payable under the public contract?
+                                                                 R.S. 38:2191
+
+A.96. R.S. 38:2191(A) requires all public entities to promptly pay all obligations, including
+      approved change orders, arising under public contracts when the obligations become
+      due and payable under the contract. It further provides that ‘[a]ll progressive stage
+      payments and final payments shall be paid when they respectively become due and
+      payable under the contract.”
+      A contractor, pursuant to R.S. 38:2191(D), may file a mandamus action with the
+      district court to compel the payment of sums due (progressive payments or final
+      payments) under the contract, up to the amount of the appropriation made for the
+      award and execution of the contract, including any authorized change orders.
+
+       Once a public entity receives a certified request for payment for a progressive stage
+       payment from a contractor, the public entity has forty-five days to make payment. If
+       the public entity fails to make such progressive stage payment within forty-five days
+       of receipt of a certified payment demand, without reasonable cause, the public entity
+       shall be liable for reasonable attorney fees and interest. The contractor may then file
+       a mandamus action under R.S. 38:2191(D).
+
+       If a public entity fails to make any final payments after final acceptance within forty -
+       five days of receiving a clear lien certificate from a contractor, the public entity shall
+       be liable for reasonable attorney fees and interest. The contractor may then file a
+       mandamus action under R.S. 38:2191(D).
+
+       For further discussion on R.S. 38:2191 see Woodrow Wilson Construction LLC v.
+       Orleans Parish School Board, 245 So.3d 1 (La. App. 4 Cir. 04/18/18) and Law
+       Industries, LLC v. Board of Supervisors of Louisiana State University , 300 So.3d21
+       (La. App. 1 Cir. 03/02/20).
+
+       R.S. 38:2248, addresses retainage fee withholding of payments by public entities.
+       R.S. 38:2248(C) addresses and authorizes the withholding of liquidated damages by
+       public entities for public works contracts for flood protection projects or integrated
+       coastal protection projects, notwithstanding any other law to the contrary, including
+       R.S. 38:2191.
+
+           R.S. 38:2211(A)(7) defines liquidated damages as follows:
+
+              “Liquidated Damages” means a fixed sum of damages stipulated
+              in a public works construction contract that are intended to
+              compensate a public entity as a result of a delay in performance
+              by the contractor and may be assessed for a project not bei ng
+              substantially complete within the time provided for by the public
+              works contract.
+
+              “Substantial completion” is defined in R.S. 38:2241.1(B) as the
+              finishing of construction, in accordance with the contract
+
+
+                                                                                  Page 51 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+              documents as modified by any change orders agreed to by the
+              parties, to the extent that the public entity can use or occupy the
+              public works or use or occupy the specified area of the public
+              works for the use for which it was intended.
+
+
+X. Telecommunications or Video Surveillance Equipment
+
+Q.97. Are there any additional restrictions/requirements on the procurement of
+      telecommunications or video surveillance equipment and services?
+
+A.97. Yes. R.S. 38:2237.1 provides that agencies and certain educational entities of the State,
+      as defined in R.S. 39:1753.1(A), shall not procure certain prohibited telecommunications
+      or video surveillance equipment or services as defined in R.S. 39:1753.1(A).
+
+       R.S. 39:1753.1(A) defines “agency” to mean:
+
+          ➢ any department, office, division, commission, council, board, bureau, committee,
+            institution, agency, government corporation, or other establishment or official of
+            the executive branch of State government or any parish, city, town, governmental
+            body;
+          ➢ any other political subdivision of the State or public agency, thereof;
+          ➢ any public authority;
+          ➢ any public educational, health, or other institution; and
+          ➢ any other entity, to the extent provided by law, which expends public funds for the
+            acquisition or leasing of supplies, services, major repairs, and construction.
+
+       “Certain educational entities” are defined under R.S. 39:1753.1(A)(2) to mean:
+
+          ➢ all public elementary, secondary, or postsecondary education schools, institutions,
+            and governing authorities;
+
+          ➢ nonpublic elementary, secondary, and postsecondary schools, institutions, and
+            governing authorities that receive State funds; and
+
+          ➢ proprietary schools that receive State funds.
+
+
+       The above entities shall not procure prohibited telecommunications or video surveillance
+       equipment or services, which under R.S. 39:1753.1(A)(4), include all of the following:
+
+          ➢ Telecommunications equipment produced by Huawei Technologies Company or
+            ZTE Corporation, or any subsidiary or affiliate of such entities, as described in
+            Section 889(f)(3)(A) of the John S. McCain National Defense Authorization Act for
+            Fiscal Year 2019;
+
+          ➢ Video surveillance equipment or telecommunications equipment produced by
+            Hytera Communications Corporation, Hangzhou Hikvision Digital Technology
+            Company, Dahua Technology Company, or any subsidiary or affiliate of such
+
+
+
+
+                                                                                 Page 52 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+              entities, as described in Section 889(f)(3)(B) of the John S. McCain National
+              Defense Authorization Act for Fiscal Year 2019;
+
+           ➢ Telecommunications or video surveillance equipment or services produced or
+             provided by an entity found to be owned, controlled, or otherwise connected to the
+             government of the People's Republic of China, as described in Section 889(f)(3)(D)
+             of the John S. McCain National Defense Authorization Act for Fiscal Year 2019;
+
+           ➢ Any product or equipment, regardless of manufacturer, containing as a component
+             any equipment identified above. This may include but is not limited to the following:
+
+               • Computers or other equipment containing a component which enables any
+                 form of network connectivity or telecommunications regardless of whether
+                 the equipment is regularly connected to a network.
+
+               • Building automation, environmental controls, access controls, or facility
+                 management and monitoring systems.
+
+           ➢ Voting machines, peripherals, and election systems that are a product, or a
+             component thereof, that is identified as being produced by any of the above
+             manufacturers; and
+
+           ➢ Any services provided using any equipment as described above.
+
+Prior to the procurement of telecommunications or video surveillance equipment or services, the
+vendor shall provide documentation by affidavit that the equipment or services to be procured are
+not prohibited telecommunications or video surveillance equipment or services as defined above.
+Please see Vendor Affidavit Template.
+
+No procurement shall be made from a vendor or other entity who fails to provide the required
+documentation and affidavit.
+
+Any procurement of prohibited telecommunications or video surveillance equipment or services
+or in violation of any other requirements of R.S. 38:2237.1 shall be void.
+
+Any vendor or other entity who provides the affidavit and documentation required in
+R.S. 38:2237.1 and is found to have supplied telecommunications or video surveillance
+equipment or services that were prohibited at the time of procurement, shall, at its own expense,
+replace the prohibited telecommunications or video surveillance equipment or services with
+nonprohibited equipment or services of at least equal quality and performance.
+
+Compliance with R.S. 38:2237.1 is subject to audit by the Louisiana Legislative Auditor.
+
+XI. CMAR
+
+Q.98. What is CMAR and how can it be used?
+                                                                               R.S. 38:2225.2.4
+
+A.98. CMAR, which stands for Construction Manager at Risk, is an alternative to traditional
+      public bid procurement, R.S. 2225.2.4(A)(2).
+
+
+                                                                                   Page 53 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+
+Definition
+
+The law defines CMAR as “a delivery method by which the owner uses a design professional,
+who is engaged by the owner for professional predesign or design services, or both. The public
+entity (as defined pursuant to R.S. 38:2211), referred to as the “owner” in the statute, contracts
+separately with a CMAR contractor to engage in the preconstruction phase. As specified in the
+statute, the same CMAR contractor may also provide construction services to build the project.
+R.S. 38:2225.2.4(B)(1). CMAR allows a contractor to be involved in the preconstruction phase to
+assist in determining the constructability of the project. R.S. 38:2225.2.4(B)(2)(a). With CMAR,
+the construction manager acts as an agent of the owner to complete a project within a guaranteed
+maximum price.
+
+Use: R.S. 38:2225.2.4(A)(2)
+
+The statute sets forth several reasons for using the CMAR method:
+       • collaboration and cost control;
+       • concurrent execution of design and construction;
+       • a complex project with a tight time frame;
+       • owner, designer, and contractor with mutual project goals;
+       • risk identification controlled by owner; and
+       • minimization of the risk of construction and design disputes by using a collaborative
+           process.
+Restrictions: R.S. 38:2225.2.4(A)(3)*.
+
+The statute specifically provides restrictions on the use of CMAR, stating that CMAR “shall not be
+used for any project that is estimated to cost less than five million dollars, exclusive of a hospital
+service district as defined in R.S. 46:1072(2)(a) that may not use CMAR for any project estimated
+to cost less than two million dollars.” Further, for any project that is estimated to cost less than
+$15 million dollars, the public entity “shall deliver written notification of the proposed CMAR project
+by name and description of the project, together with the reason to use CMAR, to the House and
+Senate transportation, highways, and public works committees for review and approval” at least
+sixty (60) days prior to proceeding to use CMAR for such project.
+
+
+
+Notice: R.S. 38:2225.2.4(C)
+
+The statute provides that any owner who makes the determination to use the CMAR method shall
+indicate such intent in the request for qualifications to procure a CMAR contractor and the reasons
+it deems such method to be in the public interest and beneficial to the owner.
+
+Legal challenges: R.S. 38:2225.2.4(D)
+
+The statute provides that no challenge shall be made “by any legal process to the choice of the
+successful construction manager at risk contractor except for fraud, bias for pecuniary or personal
+reasons not related to the taxpayers' interest, or arbitrary and capricious selection by the owner.”
+
+RFQ Process:
+
+
+
+                                                                                        Page 54 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+   •   Process requires use of an RFQ process is used to select construction manager.
+       Selection is made by selection review committee composed of:
+          o One design professional in same discipline of but not involved in, project.
+          o One licensed contractor in same discipline of but not involved in, project.
+          o One representative of owner.
+          o Two members at large. R.S. 38:2225.2.4(B)(5).
+
+   •   RFQ shall be advertised in official journal of owner and, if one exists, on owner’s website.
+       Advertisement must be at least twice within the 30-day period prior to deadline for receipt
+       of responses. R.S. 38:2225.2.4(F)(1).
+
+   •   RFQ shall include:
+         o Preconstruction scope of services;
+         o Submittal criteria for project;
+         o Procurement grading criteria;
+         o Scoring methodology;
+         o Total fees and compensation payable to CMAR contractor for preconstruction
+             services and
+         o Estimate of probable costs for the project R.S. 38:2225.2.4(F)(2).
+
+   •   The RFQ may request that proposers include the following in response to the RFQ, as
+       well as any other appropriate factors that would, in the opinion of the owner, demonstrate
+       the capability of the proposer to perform the role of CMAR contractor:
+           o The proposer's surety.
+           o Construction methodologies previously used by the proposer on other projects.
+           o Extent to which the proposer intends to self-perform portions of the work, if
+               applicable.
+           o Past performance of the proposer including timely completion of other public
+               works projects of similar complexity and size.
+           o Proposed management and staffing for the project.
+           o The proposer's last safety record to include current experience modification rate,
+               or EMR, recordable incident rate, or RIR, lost work time incident rate, or other
+               data as required by the owner.
+           o The proposer's standard safety plan R.S. 38:2225.2.4(F)(3).
+
+
+
+Recommendation and selection
+
+   •   Within 90 days after deadline for responses to RFQ, selection review committee makes
+       recommendation to owner. R.S. 38:2225.2.4(F)(4).
+
+          o   The results of the selection review committee, inclusive of its findings, grading,
+              score sheets, and recommendations, shall be available for review by all proposers
+              and shall be deemed public records.
+          o   The exceptions to the Open Meetings Law are applicable to the selection review
+              committee meetings where individual proposers will be interviewed pursuant
+              to R.S. 42:17(A)(10).
+
+
+
+
+                                                                                    Page 55 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+   •   Because the benefits of using the CMAR method reduce as the design process
+       progresses, the statute provides that the owner shall select the CMAR contractor either
+       before, but not later than, when in the professional opinion of the owner's design
+       professional, the design professional's design of the project is not more than thirty percent
+       complete. R.S. 38:2225.2.4(F)(5).
+
+   •   If the owner deems the highest scored or ranked proposer to be nonresponsive or
+       nonresponsible, then the public entity may award the project to the next highest scored or
+       ranked proposer. R.S. 38:2225.2.4(F)(5).
+
+Award and execution of the contract: R.S. 38:2225.2.4(G)
+
+   •   After award and execution of the contract with the CMAR contractor, the following actions
+       shall proceed:
+
+          o   The design professional, in consultation with the CMAR contractor, shall proceed
+              with design services.
+
+          o   The owner shall obtain an opinion of probable cost of the project from both the
+              CMAR contractor and the design professional when final design of the project is
+              not more than sixty percent complete, and again when final design of the project
+              is not more than ninety percent complete.
+
+          o   The CMAR contractor shall provide to the owner a guaranteed maximum price for
+              construction of the project, before or upon completion of the final design.
+
+          o    If the owner and CMAR contractor are able to negotiate, and to establish and
+              agree upon a guaranteed maximum price, or GMP, to render construction services
+              for the project, and additionally, to agree upon constructability, construction
+              phasing and sequencing, and the maximum number of contract days to complete
+              the project, the owner may then award the contract for construction services to the
+              CMAR contractor for the construction phase of the contract.
+
+          o   Once a guaranteed maximum price is agreed upon, the owner may contract with
+              the CMAR contractor to undertake construction services.
+
+          o   Additionally, the owner may determine and contract with the CMAR contractor to
+              undertake specific items of construction services prior to agreement upon a GMP
+              for such items, provided such undertaking is for the benefit of the project and a
+              GMP for the undertaking can be agreed upon between the owner and CMAR
+              contractor. Such items may benefit the project, including but not limited to items
+              that require a long lead time, may further the understanding of unknown site
+              conditions, or other items.
+
+   •   If the owner and the CMAR contractor are not able to agree upon constructability,
+       construction phasing and sequencing, the GMP for the project, the maximum number of
+       contract days to complete the project, and to reach a negotiated agreement, then the
+       project shall be re-advertised and publicly bid utilizing the design-bid-build delivery
+       method, provided the CMAR contractor shall be prohibited from bidding on the project.
+
+
+
+
+                                                                                     Page 56 of 65
+       PUBLIC BID LAW
+       REVISED 02/2026
+
+
+       XII.       Procurement Training
+
+       Q.99. What annual training requirements are there for municipal elected officials and
+             employees on the Public Bid Law?         R.S. 33:1420.321 and R.S. 38:2225.6(D)2
+
+    A.99. Beginning on July 1, 2026 and annually thereafter, all elected officials of a municipality
+          and certain municipal employees shall complete a minimum of one (1) hour of annual
+          training on procurement and the letting of public contracts pursuant to R.S. 38:2211, et
+NEW       seq. as provided by the Legislative Auditor.
+2025
+
+                  The municipal employees who shall complete the above training are those whose job
+                  duties include the following:
+
+                               ▪   Procurement activities, including but not limited to the purchase of
+                                   materials and supplies or public works; or
+                               ▪   Drafting, managing, or supervision of contracts, including but not limited to
+                                   procurement contracts, cooperative endeavor agreements, contracts for
+                                   professional services, and the letting of public contracts under the Public
+                                   Bid Law, R.S. 38:2211, et seq.
+
+                  The Training shall include but not be limited to training on:
+
+                               ▪   The Public Bid Law;
+                               ▪   Public Contracts;
+                               ▪   Change Orders; and
+                               ▪   The letting of public contracts pursuant to R.S. 38:2211, et seq.
+
+                  The training by the LLA may be provided through web-based means and through contracts
+                  by the LLA with nonprofit entities or other organizations.
+
+                  The LLA shall maintain records to document and certify completion of the training by
+                  elected officials and employees of municipalities.
+
+       XIII. Additional Legal Sources
+
+       Relevant Attorney General Opinions
+
+                  AG Op. No. 24-0151 The construction or fabrication of a custom fueling barge constitutes
+NEW               the purchase of materials and supplies and must comply with the provisions of the Public
+2025
+                  Bid Law.
+
+                  AG Op. No. 24-0101 The construction of a building on behalf of a parish industrial district
+                  is considered a public works project and must be bid out if it exceeds the contract limit
+
+       1
+           Enacted by Act 434 of the 2025 Regular Session (eff. 06/20/2025)
+       2
+           Enacted by Act 436 of the 2025 Regular Session (eff. 06/20/2025)
+
+
+
+                                                                                                 Page 57 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+     regardless of how the total cost of construction is divided between the public entity and
+     the private tenant(s).
+
+     AG Op. No. 24-0040 The prohibition in R.S. 38:2212(R) against a public entity
+     owning or operating a manufacturing facility or plant to produce or manufacture
+     construction materials does not prohibit a police jury from procuring and operating
+     a pug mill to produce road construction materials as it is equipment and not a
+     facility.
+
+     AG Op. No. 23-0032 The requirement under R.S. 38:2212(H) that funds sufficient to meet
+     or exceed the estimate of probable construction costs must be budgeted prior to a public
+     entity advertising a public works project does not apply to contracts being let under the
+     Construction Manager at Risk (CMAR) alternative method. However, a public entity must
+     still comply with the Local Government Budget Act (LGBA) and any Home Rule Charter
+     provisions, if applicable, in budgeting of CMAR projects.
+
+     AG Op. No. 21-0114 – The donation of funds and land to a public entity for a public works
+     project must occur prior to the advertisement of the public work by the public entity.
+
+     AG Op. No. 21-0097 – The repair and alteration of public facilities or immovable property
+     owned, used, or leased by a public entity are generally considered public works projects
+     under the Public Bid Law.
+
+     Such contracts will therefore require advertisement and letting in compliance with the
+     Public Bid Law when the probable construction costs are estimated to exceed the contract
+     limit ($260,000*).
+     *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+
+     Pursuant to R.S. 38:2212(U), contracts for the maintenance and repair of public facilities
+     owned, controlled, or operated by a public entity with a minimum duration of two years for
+     a fixed annual fee are not required to be advertised and let to the lowest bidder.
+
+     AG Op. No. 21-0059 – The Public Bid Law prohibits a political subdivision from using an
+     annual requirements or delivery contract process when advertising or letting out a public
+     work project.
+
+     AG Op. No. 20-0118 – The Public Bid Law is not applicable in cases of emergency
+     provided the public entity has properly complied with the declaration and notice
+     requirements set forth in    R.S. 38:2212(P).
+
+     AG Op. No. 21-0005 – Fire, police, and EMS agencies may utilize either the “piggy
+     backing” procurement method under the Local Services Law (R.S. 33:1324) or the method
+     under the Public Bid Law (R.S. 38:321.1) as an additional procurement method in order
+     to purchase materials and supplies provide all relevant steps are followed. However, they
+     may not engage in qualified group purchasing organization methods that are solely
+     available to hospitals and schools under current legislation.
+
+     AG Op. No. 19-0170 – A public entity is not required to comply with the Public Bid Law in
+     the sale of naming rights to a public facility.
+
+
+
+                                                                                Page 58 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+     AG Op. No. 19-0080 – A public entity may not make payment for the purchase of
+     materials and supplies totaling more than $10,000 but less than $30,000 (now $30,000
+     but less than $60,000) without obtaining no fewer than three quotes by telephone,
+     facsimile, email, or any other printable electronic form as required under the Public Bid
+     Law. Contracts for purchases of materials or supplies executed in violation of the
+     provisions of the Public Bid Law shall be null and void.
+
+     AG Op. No. 18-0006 - Tax exempt foundation created by charter school for the purpose
+     of financing, constructing, and leasing building for use by charter school was a private
+     entity and was not required to follow the public bid law for construction of a new school
+     building on land subleased from the charter school utilizing private funds.
+
+     AG Op. No. 17-0152 – With the enactment of R.S. 38:321.1, the Legislature provided
+     parishes, municipalities and political subdivisions an additional procurement method to
+     piggyback off of a contract procured by another political subdivision. However, the method
+     for parishes, municipalities and other political subdivision to piggyback off of an existing
+     public contract of another political subdivision under the Local Services Law (R.S.
+     33:1324) is still available. A parish, municipality or political subdivision may use either
+     method to piggyback provided all relevant steps are followed.
+
+     AG Op. No. 16-0192 – R.S. 38:321.1 (piggy backing) is not applicable to public works
+     contracts.
+
+     AG Op. No. 16-0082 – A contract for routine and preventative maintenance dredging of
+     port’s finger pier and docks is not a contract for public works, but a maintenance contract.
+     Such maintenance contracts are specifically exempted from the definition of “public works”
+     and are not required to be publicly bid, provided it has a term of less than two years.
+
+     AG Op. No. 16-0153 – A contract whereby an agency negotiates and purchases
+     insurance policies on behalf of a public entity is a contract for professional services and is
+     not subject to the requirements of the Public Bid Law.
+
+     AG Op. No. 16-0020 – Absent any legal authority to establish a local hiring preference or
+     otherwise require contractors to hire local workers, the inclusion of such a requirement
+     would be impermissible and against Louisiana Public Bid Law. Similarly, the inclusion and
+     evaluation of a contractor’s efforts to hire local workers as part of the Public Bid Law
+     solicitation process would be impermissible and against Louisiana Public Bid Law.
+
+     AG Op. No. 15-0139 – Pursuant to La. R.S. 38:2212(B)(2) the City may not require
+     potential bidders to complete either Document A305, or Statement C-451 as part of the
+     pre-bid materials. The City may, however, include such forms as part of their bidding
+     documents and include a requirement and instruction to potential bidders that such forms
+     would be required to be completed and submitted by the apparent low bidder within ten
+     days after the date bids are opened.
+
+     **Note: La. R.S. 38:2212(B)(3)(b) provides that all bidders bidding on public works for East
+     Baton Rouge or Jefferson Parish shall submit all bid forms required by statute or by the
+     Louisiana Administrative Code to the governing authority of parish prior to the opening of
+     all bids relative to a contract for public works.
+     La. R.S. 38:2212(B)(2) provides that if a public entity adds any additional requirements for
+
+
+
+                                                                                    Page 59 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+     information, unless mandated by State or Federal requirements, the requirements shall
+     be void and not considered in the award of the contract.
+
+     AG Op. No. 15-0080 - The AG discussed the issues whether a Volunteer Fire Department
+     is a public entity and whether it must comply with state laws  including, but not
+     limited to, the Open Meetings Law, Public Records Law, Public Bid Law, Local
+     Government Budget Act, Audit Law, etc.
+
+     AG Op. No. 15-0052 - The apparent low bidder’s failure to comply with the bid documents
+     and instructions to bidders, which required all potential bidders to complete all spaces on
+     the bid form including the space to provide a price for alternate no.1, renders their bid
+     nonresponsive and the Town must reject their bid.
+
+     AG Op. No. 15-0018 - Louisiana municipalities may not make a direct purchase from a
+     NJPA contract. A NJPA contract is not a purchasing contract that was competitively bid
+     by another Louisiana local political subdivision. As such, the piggyback direct purchasing
+     alternative is not available to a Louisiana municipality.
+
+     AG Op. No. 14-0217 – A contract between a sheriff’s office and a private business for the
+     design and preparation of an informational report is a contract for service and is not subject
+     to the provisions of the Public Bid Law. A contract for the printing of the informational
+     report is a printing contract under R.S. 38:2255, which is subject to the provisions of the
+     Public Bid Law in R.S. 38:2212.1.
+
+     AG Op. No. 14-0142 - Louisiana’s Public Bid Law applies to the proposed dietary
+     management services agreement, as the predominant component of the agreement calls
+     for the purchase of materials and supplies.
+
+     AG Op. No. 14-0005 - An exchange of public property between two public entities is
+     authorized under the provisions of the Local Services Law, La. R.S. 33:1324. When
+     property is exchanged between two public entities, those entities are not bound by the
+     advertising and bidding requirements set forth in La. R.S. 33:4712 but the terms of the
+     transfer or exchange must comply with the mandates of La. Const. art. VII, Sec. 14.
+
+     AG Op. No. 12-0165 – A public entity may not “piggy-back” off a contract (including those
+     established by a national cooperative purchasing organization) that has not been
+     competitively bid by another Louisiana public entity.
+
+     AG Op. No. 12-0066 - The Public Bid Law does not apply to a public works project under
+     $150,000 (now $260,000*). However, by choosing to bid out the project, the municipality
+     became bound by the requirements set forth in the bid document and should award the
+     contract to the bidder whose bid is responsive and most advantageous to the municipality.
+     Mentions the Fourth Circuit Court of Appeal’s holding in Concrete Busters of Louisiana
+     Inc., which determined that a contract for demolition is a public work subject to the Public
+     Bid Law. See [Q.10.] for additional information concerning demolition contracts.
+
+     *Effective February 1, 2026. See R.S. 38:2212(C)(1) and January 2026 Louisiana Register
+
+
+     AG Op. No. 11-0181 - A prospective bidder should not be penalized for failing to comply
+
+
+
+                                                                                    Page 60 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+     with a bidding requirement or condition that is not allowed or authorized by Louisiana's
+     Public Bid Law.
+
+     AG Op. No. 11-0059 – Citing R.S. 33:4169.1 relative to municipal and parish collection
+     and disposal of garbage and trash, the AG opines that contracts for the collection and
+     disposal of solid waste, unless structured as an exclusive franchise, may be negotiated
+     rather than awarded by public bid.
+
+     AG Op. No. 10-0134 – If an entity requires attendance at a pre-bid conference, a bidder
+     who does not attend the entire conference is disqualified.
+
+     AG Op. No. 10-0058 - Debris removal is a contract for services that is not subject to the
+     advertising and bidding requirements of Louisiana's Public Bid Law as long as the
+     municipality does not violate other applicable local statutes or charter provisions.
+     AG Op. No. 10-0026 – A demolition contract is a contract for services which is not subject
+     to the advertising and bidding requirements of Louisiana's Public Bid Law as long as the
+     municipality does not violate other applicable local statutes or charter provisions. See
+     [Q.10.] For additional information concerning demolition contracts.
+
+     AG Op. No. 09-0296 - A contract for the purchase of materials and supplies is no longer
+     “viable” once the materials and supplies have been transferred to the public entity and
+     payment has been received by the contract vendor. Further, a contract would no longer
+     be “viable” if it has a specific term of duration and that term has passed.
+
+     The AG opines that the following steps are necessary for a local political subdivision to
+     piggy-back off an existing public contract of another local political subdivision pursuant to
+     R.S. 33:1321-1327:
+
+        1. Verify that the contract was bid in compliance with state law.
+
+        2. Verify that the contract is still active, fresh, or “viable.”
+
+        3. Obtain written consent or approval from the other public entity that bid the contract
+           and obtain confirmation as to the contract number and, if necessary, the Council
+           Resolution accepting the contract/bid.
+
+        4. Confirm that the vendor and the product, services, materials, supplies or
+                  equipment are the same and that the price is same or lower.
+
+     AG Op. No. 09-0304 - Under Louisiana's Public Bid Law and beginning August 20, 2009,
+     public entities are required to use the Louisiana Uniform Public Works Bid Form when
+     soliciting bids for public works projects required by R.S. 38:2212.
+
+     AG Op. No. 06-0051 - If a public entity uses the bid method for contract, then the entity is
+     bound to follow the rules for Public Bid Law regardless of whether or not the Public Bid
+     Law applied to the contract initially.
+
+     Public Works
+
+
+
+
+                                                                                   Page 61 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+     AG Op. No. 14-0033 - Pursuant R.S. 38:2212 and R.S. 38:2225.2, the AG opines that
+     unless specifically authorized by law, a public entity has no authority to enter into a design-
+     build contract. Instead, the public entity must employ the design-bid-build method, which
+     would require the public entity to first obtain the services of a design professional and then
+     publicly bid the construction of the project pursuant to the Public Bid Law.
+
+     AG Op. No. 05-0445 - Absent an escalation clause in a public works contract, a
+     municipality may not amend a public works contract to pay a contractor for increases in
+     material cost required to perform under the contract.
+
+     AG Op. No. 04-0079 - Public works contracts that do not exceed the contract limit are not
+     subject to the advertising and bidding requirements of the Louisiana Public Bid Law and
+     may be: undertaken by the public entity using its own employees; negotiated with one or
+     more contractors; or let out for public bid.
+
+     Materials and Supplies
+
+     AG Op. No. 14-0142 - If a contract involves the merger of services with the purchase of
+     materials and supplies, the entity must make a factual determination as to whether the
+     predominant or substantial component of the contract is either services, or materials and
+     supplies.
+
+     If a contract has a substantial materials and supplies component compared to its services
+     component, the AG has opined that the contract must be bid in accordance with
+     Louisiana’s Public Bid Law. On the other hand, if the materials and supplies component
+     of the contract is negligible, then the AG’s opinion is that the contract may be characterized
+     as one for services, and, thus, not subject to the advertising and bidding requirements of
+     Louisiana’s Public Bid Law.
+
+     AG Op. No. 07-0278 - Public Bid Law applies to the proposed food services contract if
+     the predominant component of the proposed food services contract is the purchase of
+     food materials needed to prepare the meals.
+
+     AG Op. No. 05-0314 - Louisiana Public Bid Law authorizes a school board purchasing a
+     school bus to specify the type, quality or performance standards of the bus to be
+     purchased, but the specifications must permit a functionally equivalent equal; the board
+     must interpret its bid specifications in a fair and legal manner.
+
+     AG Op. No. 01-0126 - When no bids are received in response to a solicitation, public
+     entity should re-advertise and actively solicit bids from potential vendors in the area.
+     Consideration should also be given to state contracts or contracts of other Louisiana public
+     entities that may be accessed without bids. As a last resort, public body should consider
+     whether the emergency provisions of the Public Bid Law may be used.
+
+     Lowest Responsible Bidder
+
+     AG Op. No. 13-0050 - It is generally well-settled that the provisions and requirements of Louisiana's
+     Public Bid Law, as well as those provisions and requirements stated in the bid documents, shall
+     not be waived by any public entity. See La. R.S. 38:2212 (B)(1); Hamp's Construction, LLC. v. City
+     of New Orleans, 2005-0489 (La. 2/22/06), 924 So.2d 104; Beverly Construction Company, L.L.C.
+     v. Parish of Jefferson, 2007-847 (La. App. 5 Cir. 2/6/08), 979 So.2d 551.
+
+
+
+                                                                                          Page 62 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+     Once a requirement is established, that requirement must be uniformly followed by all bidders. A
+     failure to comply with any statutorily imposed requirement would render a bid non-responsive and
+     would warrant a mandatory rejection by the public entity. The same consequences result from
+     failure to comply with any validly imposed requirement stated in the public entity's bid documents.
+     Numerous Louisiana courts have recognized that the statutory requirements, advertisement
+     requirements, and bid form requirements, including those incorporated by reference to other
+     documents, must be completely and accurately observed, and that a bidder's failure to comply with
+     every detail can invalidate the bid. See Hamp's, supra, Beverly, supra.
+
+     AG Op. No. 05-0140 - General rule prohibiting prequalification of bidders also prohibits using
+     bidding documents to pre-qualify only Louisiana resident contractors for contract.
+
+     Professional Services
+
+     AG Op. No. 13-0135 - Louisiana courts have held that contracts for services, professional or
+     otherwise, are not subject to the requirements of the Louisiana Public Bid Law. Numerous Attorney
+     General Opinions have expressed the same conclusion in response to inquiries on a wide variety
+     of service contracts.
+     See generally AG Op. No. 00-0246, AG Op. No. 07-0278, and AG Op. No. 09-0252.
+
+     Thus, under applicable Louisiana law, political subdivisions are generally free to contract for
+     professional services without engaging in any sort of competitive bid process. Nevertheless, a
+     political subdivision is not prohibited from implementing or establishing a policy or competitive bid
+     process for procuring professional services. For example, a political subdivision may establish a
+     policy that requires an RFP or Request for Qualifications (RFQ) process when procuring
+     professional services.
+
+     AG Op. No. 06-0183 - Legal services constitute a contract for professional services, which are not
+     subject to the Louisiana Public Bid Law. Public Bid Law is not applicable when contracting for
+     services, whether of a professional or other nature.
+     AG Op. No. 05-0260 - Contract entered into by the Town of Amite for cemetery maintenance is a
+     contract for services, not subject to the Public Bid Law.
+
+     Emergencies
+
+     AG Op. No.-06-0067 - Due to health and safety concerns at its post-Hurricane Katrina temporary
+     courthouse facility, Plaquemines Parish may invoke the emergency provisions of the Public Bid
+     Law in the construction of new temporary courthouse facilities.
+
+     Computers and Computer Software
+
+     AG Op. No. 13-0224 - In addition to the customary invitation to bid method for purchases of more
+     than $30,000 (now $60,000), Louisiana's Public Bid Law allows political subdivisions to use the
+     request for proposals process when procuring telecommunications or data processing systems,
+     equipment, and related services pursuant to R.S. 38:2234, et seq. Therefore the AG opines that in
+     addition to using the procurement methods set forth in R.S. 38:2212.1 and R.S. 38:2234, et seq.,
+     a public entity subject to the Public Bid Law is also authorized to purchase computers and other
+     computer related items directly from the state contract vendor pursuant to R.S. 39:1702.
+
+
+
+
+                                                                                          Page 63 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+
+
+
+XIV. Case law
+
+Barriere Construction Co., L.L.C. v. Parish of Tangipahoa, 2018-0279 (La. App. 1 Cir. 9/24/18);259
+So.3d 458.
+
+                Summary: The court held that the provisions of the Public Bid Law, specifically
+                R.S. 38:2212(B)(6)(c), which requires that in cases where there is a discrepancy
+                between the base bid total and the sum of the extended unit prices, the unit price
+                bid shall govern, and not the provisions of the Public Bid Law prohibiting waiver of
+                provisions in the stated bid documents was applicable in regard to post-bid
+                opening request by low bidder to clarify their bid.
+
+F.H. Myers Construction Co. v. State of Louisiana, Division of Administration, Office of Facility
+Planning and Control, 2013-2153 (La. App. 1 Cir. 06/18/14); 2014 WL 3702302, Writ Denied, 2014-C-
+1793 (La. 11/07/14); 152 So.3d 183.
+
+                Summary: The court held that R.S. 38:2216(H) prohibits the inclusion of
+                contractual language which limits a contractor from recovery of delay damages
+                only in circumstances where the delay is wholly attributable to the public entity.
+
+
+Concrete Busters of Louisiana, Inc. v. The Board of Commissioners of the Port of New Orleans,
+LA. 69 So.3d 484 (La. App. 4 Cir. 2/2/11), rehearing denied (02/25/2011)
+
+                Summary: The court held that a contract for demolition is a public work and
+                subject to Public Bid Law.
+
+                See [Q.6.] For additional information concerning demolition contracts.
+
+Beverly Const. Co., L.L.C. v. Parish of Jefferson, 979 So.2d 551, 2008 WL 331185
+(La. App. 5 Cir., 2008).
+                 Summary: The court held that the advertised bid requirement that corporate
+                 resolution form be returned with the bid package could not be waived by the parish.
+
+
+Hamp's Const., L.L.C. v. City of New Orleans, 924 So.2d 104 (La., 2006).
+
+                Summary: The Supreme Court held that any requirements of the Public Bid Law,
+                any requirements stated in the advertisement for bid, and any requirements
+                required on the bid form cannot be waived by the public entity.
+
+Regency Construction, Inc. v. Lafayette City-Parish Consolidated Government, 2003 WL 2127719,
+847 So.2d 796 (La. App. 3 Cir. 6/4/2003), writ denied
+
+                Summary: Contract for removal of Hurricane Lili debris from property including
+                private property was not a public work and thus was not subject to Louisiana’s
+                Public Bid Law.
+
+
+Broadmoor, L.L.C. v. Ernest N. Morial New Orleans Exhibition Hall Authority, (App. 4 Cir. 2003), 865
+So.2d 136, 2003-1996 (La. App. 4 Cir. 12/22/03), writ granted 868 So.2d 702, 2004-0211, 2004-0212
+
+
+
+                                                                                            Page 64 of 65
+PUBLIC BID LAW
+REVISED 02/2026
+
+(La. 2/11/04), affirmed 867 So.2d 651, 2004-0211, 2004-0212 (La. 3/18/04), rehearing denied, on
+subsequent appeal 896 So.2d 251, 2004-1274, 2004-1275, 2004-1276 (La.App., writ denied 896 So.2d
+985, 2005-0483 (La. 3/16/05), writ denied 896 So.2d 985, 2005- 0542 (La. 3/16/05).
+
+               Summary: Public entity waived certain requirements mandated under Public Bid
+               Law. For example, the bid form required the attachment of an insurance certificate
+               thus making attachment a mandatory and not waivable requirement for bidder.
+               Public board acted impermissibly in waiving the requirement and selecting bidder
+               that did not include the certificate.
+
+State Mach. & Equip. Sales, Inc. v. Livingston Parish Gravity Drainage No. 5, 98-1207 742 So.2d 26
+(La. App. 1 Cir. 6/25/99)
+
+               Summary: The court found that the evidence established that the bid
+               specifications tracked one manufacturer's product description to such an extent
+               that, although no brand name was specified, the criteria were so limited that the
+               effect was that of a closed specification bid.
+
+Board of Directors of the Industrial Development Board of the City of Gonzalez, LA v. All Taxpayers,
+Property Owners, Citizens of the City of Gonzalez, LA, et al. (Cabela), 938 So.2d 11 2005-2298 (La.
+2006)
+               Summary: In reviewing application of the TIF Act, the Louisiana Supreme Court
+               overturned its prior decision in City of Port Allen, 439 So.2d 399 (La. 1983)
+               regarding Constitutional Article VII, §14 (A) and its prohibition of donations of public
+               funds and public property. The Court held that the TIF Act was constitutional and
+               that Louisiana Constitution Article VII, §14 (A)’s prohibition applied only to
+               gratuitous donations in which there were no reciprocal obligations incurred by the
+               parties.
+
+
+XV. Additional Guidance (Flowcharts)
+
+For additional procurement guidance, please see the following flowcharts:
+Public Bid Flowcharts
+
+Louisiana Procurement Code Summary Chart
+
+
+
+
+                                                                                         Page 65 of 65
+

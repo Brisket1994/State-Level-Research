@@ -1,0 +1,43 @@
+{
+  "state": "Delaware",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://delcode.delaware.gov/title14/c029/",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed (5/5 fields)",
+  "tableRow": {
+    "maxContractTerm": "No statutory maximum found for regular public-school-district pupil-transportation contracts. Title 14 Ch. 29 sets no numeric cap; the operative unit is the school year, with contracts rolling forward via the annual letter-of-commitment mechanism (14 Del. C. § 2908(d)) and the § 2908(a) first-offer-of-renewal right. Practical horizon set by bus capital-allowance/age schedule (7-year new-bus allowance; 14-model-year replacement under § 2907 and Reg. 1150-21.0). For charter schools only, 14 Del. C. § 508(b) authorizes negotiated contracts for '1 or more years' with no upper bound stated.",
+    "rebidRequired": "Conditional. 14 Del. C. § 2908(a) requires renewal to be first offered to the incumbent contractor at expiration of any contract not terminated by bus-age limits. Competitive notice (published in at least 2 Delaware newspapers of general circulation) mandatory only when incumbent declines, bus aged out, or contractor fails to sign letter of commitment. § 2908(b) backstop: agency furnishes transportation directly if no replacement found. 29 Del. C. § 6904(c) exempts school-transportation contracts from Title 29 Ch. 69.",
+    "renewalMechanics": "Renewal without a full competitive rebid is the statutory default: (1) right-of-first-refusal renewal to incumbent (§ 2908(a)); (2) annual May 1 letter of commitment (§ 2908(d)(1)), contingent on succeeding fiscal year budget appropriation act; (3) letter of commitment is statutorily 'considered an offer of renewal' (§ 2908(d)(3)); (4) contract transfer permitted with local board and DOE approval (§ 2908(c)); (5) new contractor must offer to purchase existing bus at FMV if bus is under 7 years old and still on depreciation schedule (§ 2908(c)(4)); (6) no statutory CPI/index escalator for district contracts; (7) for charter schools only, § 508(b) permits fuel-adjustment provisions and multi-year contracts.",
+    "statutoryCitation": "14 Del. C. § 2908; 14 Del. C. §§ 2901(b), 2906, 2907; 14 Del. C. § 508(b) (charter schools); 29 Del. C. §§ 6902, 6904(c); 14 Del. Admin. Code §§ 1150-4.0, 1150-21.0, 1150-23.0.",
+    "districtVariance": "Unknown. The § 2908 renewal-and-letter-of-commitment mechanism is administered centrally by DOE; no AG opinion, AOA report, DOE bulletin, or DSBA guidance documenting either uniform statewide application or material inter-district divergence located.",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "confirmed",
+    "districtVariance": "confirmed"
+  },
+  "sourcesReVerified": [
+    "14 Del. C. § 2908 (delcode.delaware.gov)",
+    "29 Del. C. § 6904(c) (delcode.delaware.gov)",
+    "14 Del. C. § 2907 (delcode.delaware.gov)",
+    "14 Del. C. § 2901 (delcode.delaware.gov)",
+    "14 Del. C. § 2906 (delcode.delaware.gov)",
+    "14 Del. C. § 508(b) (delcode.delaware.gov)",
+    "29 Del. C. § 6902 (delcode.delaware.gov)",
+    "14 Del. Admin. Code § 1150-4.0 (Cornell LII mirror)",
+    "14 Del. Admin. Code § 1150-21.0 (Cornell LII mirror)",
+    "14 Del. Admin. Code § 1150-23.0 (Cornell LII mirror)",
+    "Brandywine School District RFP BSD22101-TRANSPORT"
+  ],
+  "sourcesUnreachable": [
+    "law.justia.com (HTTP 403; superseded by official delcode.delaware.gov source)",
+    "regulations.delaware.gov (renders only header/title text via WebFetch; verified via Cornell LII mirror)",
+    "bidcondocs.delaware.gov/DOE/DOE26002-BUSROUTE-rfp.pdf (binary; existence confirmed; non-load-bearing)"
+  ],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

@@ -1,0 +1,43 @@
+{
+  "state": "Connecticut",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-220",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed (5/5 fields)",
+  "tableRow": {
+    "maxContractTerm": "Five (5) years; ten (10) years if the contract includes transportation provided by at least one zero-emission school bus (as defined in 42 USC 16091(a)(8)).",
+    "rebidRequired": "Not required by state statute. No Connecticut statute mandates competitive bidding for school district pupil-transportation contracts; CGS 7-148v permits (does not compel) municipal competitive-bidding ordinances. At term-end a new contract is required (because CGS 10-220(a) caps each contract at 5/10 years), but the procurement method is a local choice unless local charter/ordinance directs otherwise.",
+    "renewalMechanics": "Statute silent. CGS 10-220(a) caps each single award at 5 (or 10) years and establishes no automatic rollover, evergreen, CPI/index adjustment, fuel escalator, or board/agency-approval renewal mechanism beyond that cap. At term-end, a new contract is required.",
+    "statutoryCitation": "Conn. Gen. Stat. Sec. 10-220(a); 2022 Conn. Pub. Acts No. 22-25, Sec. 12; CGS Sec. 7-148v.",
+    "districtVariance": "Unknown — no credible evidence of differing statutory interpretation of CGS 10-220(a) located. Variance across districts is in procurement practice, not in statutory interpretation.",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "confirmed",
+    "districtVariance": "confirmed"
+  },
+  "sourcesReVerified": [
+    "CGS Sec. 10-220 (current main volume)",
+    "CGS Sec. 10-220 (2026 Supplement)",
+    "CGS Sec. 7-148v",
+    "2022 Conn. Pub. Acts No. 22-25, Sec. 12",
+    "CGS Sec. 10-76d (Justia 2024)",
+    "Conn. Agencies Regs. Sec. 10-76d-19 (Cornell LII)",
+    "2025 Conn. Pub. Acts No. 25-93, Sec. 23",
+    "OLR Report 2025-R-0108",
+    "CT SDE School Accommodations Workshop Package (Oct. 2008)",
+    "OLR Backgrounder 2022-R-0139",
+    "OLR Report 2016-R-0156",
+    "OLR Report 2012-R-0085",
+    "OLR Report 2017-R-0360",
+    "Regional School District 14 Policy 3541",
+    "Guilford BOE Transportation Policy 3600(a)"
+  ],
+  "sourcesUnreachable": [],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

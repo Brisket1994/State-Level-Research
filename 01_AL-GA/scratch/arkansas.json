@@ -1,0 +1,50 @@
+{
+  "state": "Arkansas",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://www.lexisnexis.com/hottopics/arcode/",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed (5/5 fields)",
+  "tableRow": {
+    "maxContractTerm": "No statutory maximum found. Ark. Code Ann. § 6-19-102(a)-(b) and § 6-13-620(6)(D) impose no term cap. Arkansas Procurement Law multiyear cap at § 19-11-238 (7 years total / 4-year original term) applies only to state agencies (§ 19-11-203(30)) and not to school districts (political subdivisions under § 19-11-203(19)).",
+    "rebidRequired": "Not required by state law for transportation services. § 6-21-304 requires bid solicitation only for commodities at or above $20,000 (CPI-adjusted), and § 6-21-301(1) excludes personal and professional services from commodities. Arkansas Procurement Law does not reach school districts. Cooperative purchasing authority in § 19-11-249 is permissive. No transportation-specific statute or Commission/DESE rule requires a competitive process at term-end.",
+    "renewalMechanics": "N/A. No Arkansas statute, Commission rule, or DESE/DPSAFT rule prescribes renewal, extension, evergreen rollover, CPI/fuel escalator, mutual-agreement renewal, board-approval renewal, or agency-approval renewal mechanics specifically for school-district contracts with private student-transportation contractors.",
+    "statutoryCitation": "Ark. Code Ann. § 6-19-102(a)-(b); § 6-13-620(6)(D); § 6-21-301(1); § 6-21-304; § 6-19-101; cf. § 19-11-238 and § 19-11-203(19), (30).",
+    "districtVariance": "Unknown. No official statewide guidance (DESE rule, DPSAFT manual, Arkansas AG opinion, Legislative Audit report, or ASBA model policy) located interpreting contract-term/rebid/renewal rules for district-to-private-contractor pupil transportation services contracts.",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "confirmed",
+    "districtVariance": "confirmed"
+  },
+  "sourcesReVerified": [
+    "Ark. Code Ann. § 6-19-101 (Justia 2024)",
+    "Ark. Code Ann. § 6-19-102 (Justia 2024)",
+    "Ark. Code Ann. § 6-19-114 (Justia 2024)",
+    "Ark. Code Ann. § 6-13-620 (Justia 2024)",
+    "Ark. Code Ann. § 6-21-301 (Justia 2024)",
+    "Ark. Code Ann. § 6-21-303 (Justia 2024)",
+    "Ark. Code Ann. § 6-21-304 (Justia 2024)",
+    "Ark. Code Ann. § 6-21-305 (Justia 2024)",
+    "Ark. Code Ann. § 6-21-306 (Justia 2024)",
+    "Ark. Code Ann. § 19-11-202 (Justia 2024)",
+    "Ark. Code Ann. § 19-11-203 (Justia 2024)",
+    "Ark. Code Ann. § 19-11-206 (Justia 2024)",
+    "Ark. Code Ann. § 19-11-238 (Justia 2024)",
+    "Ark. Code Ann. § 19-11-249 (Justia 2024)",
+    "Title 6 Ch. 19 TOC (Justia 2024)",
+    "DPSAFT 'Laws — Transportation' index",
+    "DPSAFT 'Rules — Transportation' index",
+    "Arkansas House '2025 Transportation Legislation' summary"
+  ],
+  "sourcesUnreachable": [
+    "Arkansas School Boards Association 'Model Policies' index page (reCAPTCHA-protected)",
+    "Little Rock School District procurement manual PDF (binary content not parsed by WebFetch)",
+    "Arkansas AG Opinion No. 98-207 full text (Stage 1 relay; not independently re-fetched)"
+  ],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

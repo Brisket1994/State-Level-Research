@@ -1,0 +1,321 @@
+{
+  "state": "New Hampshire",
+  "fields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found. New Hampshire statutes governing pupil transportation (RSA 189:6, 189:6-a, 189:6-b, 189:6-c, 189:6-e, 189:6-f) authorize school districts to contract for student transportation services but specify no maximum or minimum contract term. RSA 189:6-f, II (effective Aug. 13, 2024) provides: 'The department of education, a school district, or a private school may contract with a provider of school transportation vehicle services,' without prescribing a term. RSA 189:6-e similarly authorizes contract-carrier transportation (for school activities other than home-to-school) without a term. New Hampshire has no general competitive-procurement statute that imposes a maximum term on school-district service contracts; per New Hampshire Municipal Association guidance, 'as a general rule, there is no state law requiring competitive bidding for [municipal/school district] contracts.' RSA 32:7 (Lapse of Appropriations), applicable to school districts via RSA 32:1, governs how multi-year obligations interact with annual appropriations but imposes no maximum contract term on transportation services. The 20-year cap in RSA 194:21-a (Long-Term Contracts) applies only to joint maintenance of high schools between districts, not to transportation procurement. The 40-year cap in RSA 149-M:17 applies only to solid waste disposal facilities.",
+      "citation": "RSA 189:6-f, II (verbatim, eff. 2024-08-13) and RSA 189:6-e (silent on term); no transportation-specific term cap located in RSA Title XV (Education) or RSA Title III (Municipal Budget Law)."
+    },
+    "rebidRequired": {
+      "value": "Not required by state statute. New Hampshire has no statute requiring competitive bidding (sealed bid, RFP, RFQ, or competitive negotiation) for school district contracts at term-end, and none requiring rebidding of student-transportation contracts specifically. The only generally-cited competitive-bidding statute in NH municipal-contracting guidance is RSA 95:1 (Title VI, ch. 95 — Public Officials Barred From Certain Private Dealings), which bars a public officer from buying real estate or buying/selling goods, commodities, or other personal property valued over $200 to or from the state/political subdivision under which the officer serves, except by open competitive bidding — it does not impose a general competitive-bidding mandate on ordinary contractor-district transportation procurement. The New Hampshire Municipal Association states: 'As a general rule, there is no state law requiring competitive bidding for town contracts and purchases unless a public official is involved as one of the sellers or contractors.' Any rebid obligation is therefore a matter of local school board policy and/or warrant-article authorization at the annual school district meeting (RSA 197:1), not state law.",
+      "citation": "Statute silent — no transportation-specific or school-district-specific competitive-bidding mandate located in RSA Title XV (Education, chs. 186-200-L), RSA Title III ch. 32 (Municipal Budget Law), or NH Code of Admin. Rules Ed 300/Ed 1100/Saf-C 1300. See RSA 95:1 (Title VI ch. 95, limited to transactions in which a public officer is buyer/seller >$200) and New Hampshire Municipal Association, 'Contracting 101' (statewide municipal guidance, NHMA, July/Aug. 2016)."
+    },
+    "renewalMechanics": {
+      "value": "N/A under state statute — New Hampshire law neither authorizes nor prohibits any particular renewal mechanism for school transportation contracts. The only state regulatory provision touching renewals is NH Code of Admin. Rules Saf-C 1305.02(b), which requires that 'Each new and renewal contract negotiated by a school district for school bus transportation shall contain a clause requiring each school bus driver to undergo training' meeting Saf-C 1305 standards — this regulates the content of renewal contracts (driver-training clause), not whether or how a district may renew. Multi-year and renewal arrangements are constrained only indirectly by RSA 32:7 (Lapse of Appropriations) and RSA 32:13, which distinguish between 'escape-clause' (non-appropriation) contracts and binding multi-year obligations — the latter may require special warrant-article authorization under the Municipal Budget Law. Specific renewal mechanisms (e.g., one-year extensions, CPI/fuel escalators, evergreen rollover, mutual written agreement, board approval) are not addressed by NH statute or rule; they are matters of local contract drafting and school board policy.",
+      "citation": "NH Code Admin. Rules Saf-C 1305.02(b) (renewal contracts must contain driver-training clause); RSA 32:7 and RSA 32:13 (multi-year contracts vs. appropriations, applies to school districts via RSA 32:1); no renewal-specific statute located in RSA ch. 189."
+    },
+    "statutoryCitation": {
+      "value": "Primary authorities: RSA 189:6 (Transportation of Pupils — duty to transport, silent on contracts); RSA 189:6-e (Pupils Transported in a Contract Carrier — authorizes contract carrier for school activities other than home-to-school, silent on term/bidding/renewal); RSA 189:6-f, II (Pupils Transported in a School Transportation Vehicle, eff. 2024-08-13 — 'The department of education, a school district, or a private school may contract with a provider of school transportation vehicle services'); NH Code Admin. Rules Saf-C 1305.02(b) (driver-training clause required in new and renewal school-bus contracts); NH Code Admin. Rules Ed 1109.02 (transportation of children with disabilities — vehicle/driver safety standards only). Generally applicable framework: RSA 32:7 (Lapse of Appropriations), RSA 32:13 (multi-year obligations), RSA 197:1 (annual school district meeting and appropriation), RSA 95:1 (Title VI ch. 95; bars public officer from buying/selling goods or real estate >$200 to/from the state or political subdivision except by open competitive bidding). No NH statute, administrative rule, or attorney general opinion was located establishing (a) a maximum term for school-district student-transportation contracts, (b) a competitive-bidding mandate for such contracts, or (c) a renewal mechanism for such contracts.",
+      "officialUrl": "https://gc.nh.gov/rsa/html/XV/189/189-6-f.htm"
+    },
+    "districtVariance": {
+      "value": "Yes — but the variance is in local district contracting practice, not in interpretation of any single state statute (since no state statute prescribes a term, bidding rule, or renewal rule for student transportation). District RFPs and contracts reviewed show substantially different terms across NH districts: e.g., Kearsarge (SAU 65) issued a 5-year initial term (2023-2028); Pelham issued a contract with one-year option extensions up to a maximum of 5 additional years; Hampton/SAU 90 issued a special-education RFP allowing 'Contract extensions not to exceed a total of five years, subject to negotiation'; Hooksett/SAU 15 used a 5-year term (2023-2028). Districts also vary on whether they conduct RFPs, sealed bids, or negotiated procurements, on whether multi-year contracts use non-appropriation/escape clauses, and on whether renewals are competitive or sole-source. Because the statute does not occupy this field, the variance reflects each board's choice under its general contracting authority and RSA 32 budget law, not divergent interpretations of a controlling statute. No official statewide guidance from the NH Department of Education or NH School Boards Association mandating uniform practice was located."
+    }
+  },
+  "specialEducation": {
+    "value": "New Hampshire law does NOT set different term limits, rebid requirements, renewal mechanics, or general procurement rules for special-education / IEP-mandated / McKinney-Vento / foster-care / disability student transportation contracts. NH Code Admin. Rules Ed 1109.02 ('Transportation') governs transportation of children with disabilities but addresses only (a) vehicle safety/inspection/licensing (per Saf-C 1307 and RSA 266:7), (b) driver licensing (per Saf-C 1304), (c) parent-transporter exemption from (a)-(b), and (d) the requirement that 'any contracted providers of transportation for children with disabilities, including parents transporting children other than their own, shall comply with the standards of Ed 1109.02 (a)-(b).' It does not address contract term, bidding, or renewal. RSA 186-C (Special Education) imposes substantive duty-to-serve requirements but does not change contract/procurement rules. RSA 189:6-f, III (eff. 2024) addresses special-needs students' eligibility for school transportation vehicles per IEP/Section 504 plans, again without addressing procurement. Federal IDEA mandates the duty to transport children with disabilities as a related service when needed to access FAPE, but does not impose state procurement/contract rules. Practical effect: a NH district's special-education transportation contract is governed by the same (silent) state-law framework as regular-route transportation, and individual districts (e.g., Hampton/SAU 90) issue separate RFPs for special-needs transportation with terms set at the district's discretion.",
+    "citation": "NH Code Admin. Rules Ed 1109.02; RSA 189:6-f, III; RSA 186-C (Special Education); 20 U.S.C. Sec. 1401(26) (IDEA related services — federal duty only).",
+    "verdict": "confirmed"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "statutoryCitation": "confirmed",
+    "districtVariance": "confirmed",
+    "specialEducation": "confirmed"
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "No statutory maximum contract term for school district student-transportation contracts in New Hampshire.",
+      "disconfirmingHypothesis": "Some NH statute (transportation-specific, education code, general procurement, or local-government contracting) imposes a maximum term on school-district transportation service contracts that Stage 1 missed.",
+      "challengeSearches": "(a) Re-opened RSA 189:6, 189:6-e, 189:6-f on gc.nh.gov and confirmed each is silent on term. (b) Re-opened RSA 189 table of contents (https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-189.htm) and confirmed no other transportation section exists in ch. 189 (189:6-d repealed 2018). (c) Re-opened RSA 194:21-a and confirmed the 20-year cap is limited to inter-district joint high school maintenance contracts only. (d) Re-opened RSA 32:7 and confirmed it addresses lapse of appropriations, not term caps. (e) Searched RSA Title XV chapters 186-200-L and Title III ch. 32 for 'not to exceed,' 'maximum term,' 'transportation,' 'pupil transportation,' 'procurement.' (f) Reviewed NHMA 'Multi-Year Contracts' article (Sept./Oct. 2016) and confirmed it identifies only RSA 149-M:17 (40-year solid waste) as a NH cap; no transportation cap discussed. (g) Searched 2025-2026 session for amendments and found SB580 (2026) (state cooperative purchasing including student transportation) voted Inexpedient to Legislate by the House on 2026-04-23 — not enacted.",
+      "result": "No disconfirming statute/regulation located. Stage 1 finding holds.",
+      "confidenceImpact": "Confidence remains High."
+    },
+    {
+      "findingChallenged": "Rebid not required by state statute at term-end for school district student-transportation contracts.",
+      "disconfirmingHypothesis": "A NH statute (education code, general procurement, local-government contracting, or school-specific) imposes a competitive-bidding/rebid mandate on school district transportation contracts that Stage 1 missed; alternatively, RSA 95:1 reaches ordinary district-contractor transportation procurement.",
+      "challengeSearches": "(a) Re-opened RSA 95:1 at https://gc.nh.gov/rsa/html/VI/95/95-1.htm (Stage 1 had cited Title V, the actual chapter is Title VI) and confirmed: it bars a 'public officer' from buying real estate or buying/selling goods, commodities, or other personal property >$200 to/from the state or political subdivision under which the officer serves, EXCEPT by open competitive bidding. By its terms, the statute regulates transactions involving a public officer as buyer or seller — not ordinary contractor-district transportation procurement. (b) Re-opened NHMA 'Contracting 101' (July/Aug. 2016) and confirmed verbatim: 'As a general rule, there is no state law requiring competitive bidding for town contracts and purchases unless a public official is involved as one of the sellers or contractors.' (c) Searched RSA Title XV chs. 186-200-L for any 'competitive bidding,' 'sealed bid,' 'RFP,' 'request for proposals' mandate applicable to school districts: none located. (d) Searched RSA 21-G:37 / 21-I procurement provisions and confirmed they govern state-agency (Department of Administrative Services) procurement, not school district procurement. (e) Searched for school-specific exceptions (sole source, emergency, cooperative purchasing, board waiver, small-purchase thresholds): no statewide statutory framework located; matters are policy-driven at the district level. (f) Searched 2025-2026 session: SB580 (2026) would have created a state cooperative purchasing program including student transportation — not enacted (Inexpedient to Legislate, 2026-04-23).",
+      "result": "No disconfirming mandate located. RSA 95:1 confirmed as not reaching ordinary contractor-district transportation procurement. Stage 1 finding holds; minor citation correction: RSA 95:1 sits in Title VI ch. 95 (not Title V as the URL in Stage 1 implied), and the statute reaches BOTH buying and selling by a public officer (Stage 1 said only 'seller/contractor').",
+      "confidenceImpact": "Confidence remains High; sourceLedger URL corrected to gc.nh.gov/rsa/html/VI/95/95-1.htm."
+    },
+    {
+      "findingChallenged": "Renewal mechanics N/A under state statute; the only state-rule hook is Saf-C 1305.02(b) (driver-training clause for new/renewal contracts).",
+      "disconfirmingHypothesis": "A NH statute or administrative rule imposes substantive renewal limits/conditions on school transportation contracts (e.g., CPI cap, fuel-adjustment limit, board/state approval, max number of renewals, public-hearing requirement) that Stage 1 missed.",
+      "challengeSearches": "(a) Re-opened Saf-C 1305.02 at https://gc.nh.gov/rules/state_agencies/saf-c1300.html and confirmed subsection (b) verbatim — it regulates contract CONTENT (driver-training clause), not the existence/duration/mechanism of renewal. (b) Re-opened RSA 32:7 (lapse of appropriations) and 32:13 (effect of appropriations on prior contractual obligations) and confirmed neither imposes a substantive renewal rule. (c) Searched for an 'automatic renewal' or 'evergreen' prohibition applicable to school districts: NH has a general consumer-protection automatic-renewal statute (not applicable to government contracting) and county-contract restrictions (not applicable to school districts); no school-district-specific prohibition located. (d) Searched RSA ch. 189 and Ed 1100/Ed 300 for any 'renewal,' 'extension,' 'option,' or 'rollover' provision touching transportation contracts: none located. (e) Reviewed NHMA Multi-Year Contracts article (Sept./Oct. 2016) for any renewal-specific framework: the article identifies escape-clause / non-appropriation mechanics under RSA 32, but no substantive renewal cap.",
+      "result": "No disconfirming statute/rule located. Stage 1 finding holds.",
+      "confidenceImpact": "Confidence remains High."
+    },
+    {
+      "findingChallenged": "Special-education transportation is governed by the same (silent) state-law framework as regular-route transportation — no separate term/bidding/renewal rules for special-education, IEP, McKinney-Vento, foster-care, or disability transportation contracts.",
+      "disconfirmingHypothesis": "A NH statute or administrative rule imposes different contract term, bidding, or renewal rules on special-education/IEP/McKinney-Vento/foster-care transportation contracts that Stage 1 missed.",
+      "challengeSearches": "(a) Re-opened NH Code Admin. Rules Ed 1109.02 (via Cornell LII as pathfinder for the NH State Board of Education rule text) and confirmed it addresses ONLY vehicle safety/inspection/licensing and driver licensing, with a compliance-with-(a)-(b) requirement for contracted providers — no term/bidding/renewal provisions. (b) Re-opened RSA 189:6-f, III and confirmed it addresses eligibility (IEP/504 plan governs whether a pupil with disabilities may be transported in a school transportation vehicle), not procurement. (c) Searched RSA 186-C (Special Education) for any contract/procurement provisions: none located that change the general contract-law framework. (d) Searched for separate McKinney-Vento, foster-care, alternative-student, or homeless-student transportation procurement provisions under NH law: federal McKinney-Vento (42 U.S.C. Sec. 11431 et seq.) imposes a duty to transport and reasonable-cost allocation between districts but does not impose state procurement rules; no NH statute or rule located adding such requirements. (e) Hampton/SAU 90 RFP-1384 (special-education transportation) cited only RSA 189:6-a (school bus safety) and applied a district-determined 5-year extension cap — district practice, not state law.",
+      "result": "No disconfirming statute/rule located. Stage 1 finding holds.",
+      "confidenceImpact": "Confidence remains High."
+    },
+    {
+      "findingChallenged": "District-level variance exists because state law is silent — Kearsarge, Pelham, Hampton, Hooksett RFPs show divergent terms.",
+      "disconfirmingHypothesis": "Statewide guidance from NH DOE, NHSBA, or NH AG imposes uniform statewide practice that contradicts the Stage 1 'variance' conclusion; or the cited RFPs do not actually show variance.",
+      "challengeSearches": "(a) Searched NHSBA (nhsba.org) for a uniform statewide policy mandate on transportation contracts: NHSBA offers a sample-policy database to member districts but no publicly accessible statewide-uniform policy located. (b) Searched NH DOE Transportation page (education.nh.gov/parents-and-students/transportation): returned HTTP 403 to WebFetch; prior independent verification (Stage 1) confirmed it addresses safety/licensing/duty-to-transport, not procurement uniformity. (c) Searched for NH AG opinion on uniform transportation-contract interpretation: none located. (d) Re-verified two district RFPs: Kearsarge SAU 65 RFP returned HTTP 403 to WebFetch on re-verification — Stage 1's prior access result preserved as written (5-year term 2023-2028); Hooksett SAU 15 PDF (1.6 MB scanned image) was unreadable via WebFetch — Stage 1's prior characterization preserved as written. NHMA 'Contracting 101' and 'Multi-Year Contracts' both confirm there is no statewide statutory uniformity, which is consistent with the variance finding.",
+      "result": "No disconfirming uniform-statewide-guidance located. Stage 1 finding holds; flag that 2 of 4 district RFP URLs (Kearsarge, Hooksett) were unreachable on re-verification — treat the district-variance evidence as 'district practice; specific district-document confirmation partially unreachable on re-verification but not contradicted by any official source.'",
+      "confidenceImpact": "Confidence remains High on the legal conclusion (variance flows directly from statutory silence); district-RFP supporting evidence carries a partial-reachability note in the source ledger."
+    },
+    {
+      "findingChallenged": "RSA 189:6-f is the most recent transportation-contract-relevant statutory amendment; no 2025-2026 enactment changes the analysis.",
+      "disconfirmingHypothesis": "A 2025 or 2026 NH session law amended ch. 189, ch. 32, ch. 95, or another relevant provision to impose contract term limits, bidding requirements, or renewal rules on school-district transportation contracts.",
+      "challengeSearches": "(a) Searched 2025-2026 NH session enactments for school transportation contract amendments: located SB580 (2026) (school cooperative purchasing including student transportation) — voted Inexpedient to Legislate by House 2026-04-23, NOT enacted. Located HB1804 (2026) — concerns RSA 189:13-a (driver training), not contract term/bidding/renewal. (b) Re-confirmed RSA 189:6-f source line: '2024, 86:2, eff. Aug. 13, 2024' — most recent transportation-contract-relevant amendment. (c) Re-confirmed RSA 189:6-e source line: '2021, 209:2, Pt. III, Sec. 1, eff. Aug. 10, 2021. 2022, 66:1, eff. July 19, 2022.' (d) No pending 2026 amendment with effective date before 2026-06-24 located that affects the analysis.",
+      "result": "No 2025-2026 enactment changes the analysis. Stage 1 finding holds.",
+      "confidenceImpact": "Confidence remains High."
+    }
+  ],
+  "sourcesReVerified": [
+    "RSA 189:6 (https://gc.nh.gov/rsa/html/xv/189/189-6.htm) — re-opened and confirmed text matches Stage 1.",
+    "RSA 189:6-e (https://gc.nh.gov/rsa/html/XV/189/189-6-e.htm) — re-opened and confirmed verbatim text; source note '2021, 209:2, Pt. III, Sec. 1, eff. Aug. 10, 2021. 2022, 66:1, eff. July 19, 2022.'",
+    "RSA 189:6-f (https://gc.nh.gov/rsa/html/XV/189/189-6-f.htm) — re-opened and confirmed verbatim text including Sec. II (contracting authority) and Sec. III (special-needs eligibility); source note '2024, 86:2, eff. Aug. 13, 2024.'",
+    "RSA 189 Chapter Table of Contents (https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-189.htm) — re-opened and confirmed enumeration: 189:6, 6-a, 6-b, 6-c, 6-d REPEALED, 6-e, 6-f.",
+    "RSA 194:21-a (https://gc.nh.gov/rsa/html/xv/194/194-21-a.htm) — re-opened and confirmed: 20-year cap applies only to inter-district joint high school maintenance contracts.",
+    "RSA 32:7 (https://gc.nh.gov/rsa/html/III/32/32-7.htm) — re-opened and confirmed: governs lapse of appropriations; no term cap on service contracts.",
+    "RSA 32:13 (https://gc.nh.gov/rsa/html/III/32/32-13.htm) — re-opened and confirmed: addresses interaction of appropriations with prior contractual obligations; no contract-term cap.",
+    "RSA 95:1 (https://gc.nh.gov/rsa/html/VI/95/95-1.htm — CORRECTED URL; Stage 1 cited Title V, the correct chapter location is Title VI) — re-opened and confirmed verbatim: 'No person holding a public office, as such, in state or any political subdivision governmental service shall, by contract or otherwise, except by open competitive bidding, buy real estate, sell or buy goods, commodities, or other personal property of a value in excess of $200 at any one sale to or from the state or political subdivision under which he holds his public office.' Applies to BOTH buying and selling by a public officer (Stage 1 said only 'seller/contractor' — minor imprecision corrected).",
+    "NH Code Admin. Rules Saf-C 1305.02(b) (https://gc.nh.gov/rules/state_agencies/saf-c1300.html) — re-opened and confirmed verbatim: 'Each new and renewal contract negotiated by a school district for school bus transportation shall contain a clause requiring each school bus driver to undergo training in accordance with the requirements of (c) and (d), below.'",
+    "NH Code Admin. Rules Ed 1109.02 (via Cornell LII pathfinder) — re-opened and confirmed: addresses only vehicle safety/inspection/licensing and driver licensing; no contract term/bidding/renewal provisions.",
+    "NHMA 'Contracting 101' (https://www.nhmunicipal.org/town-city-article/contracting-101) — re-opened and confirmed verbatim quote on no general competitive-bidding requirement.",
+    "NHMA 'Multi-Year Contracts' (https://www.nhmunicipal.org/town-city-magazine/septemberoctober-2016/multi-year-contracts) — re-opened (the alternative URL that resolved); confirmed: identifies only RSA 149-M:17 (40-year solid waste) as a NH statutory term cap; escape-clause / non-appropriation framework discussed under RSA 32.",
+    "RSA 197:1 (https://gc.nh.gov/rsa/html/xv/197/197-mrg.htm) — re-opened and confirmed annual school district meeting framework.",
+    "NH SB580 (2026) status (https://bills.nhliberty.org/bills/2026/SB580) — re-opened and confirmed: voted Inexpedient to Legislate by House on 2026-04-23; not enacted."
+  ],
+  "sourcesUnreachable": [
+    "https://www.nhmunicipal.org/town-city-article/multi-year-contracts-when-and-how-are-they-authorized — Too many redirects error on direct WebFetch attempt; re-located at alternative URL https://www.nhmunicipal.org/town-city-magazine/septemberoctober-2016/multi-year-contracts (verified — same NHMA article).",
+    "https://www.kearsarge.org/sites/g/files/vyhlif731/f/pages/2122_bus_transportation_rfp_2023-2028_finalupdated6_15_2022.pdf — HTTP 403 Forbidden on re-verification attempt. Stage 1's prior characterization (5-year initial term, 2023-2028) preserved without re-verification.",
+    "https://hooksett.sau15.net/wp-content/uploads/sites/3/2023/08/Hooksett-Bus-2023-2028.pdf — PDF was scanned-image only (1.6 MB), text not extractable via WebFetch on re-verification. Stage 1's prior characterization (5-year term 2023-2028) preserved without re-verification.",
+    "https://www.education.nh.gov/parents-and-students/transportation — HTTP 403 Forbidden on re-verification attempt. Stage 1's prior characterization (page addresses safety/licensing/duty-to-transport, not procurement) preserved without re-verification.",
+    "https://filecabinet10.eschoolview.com/98E279AD-01EE-4D3F-B6C1-2704D099AFF9/b571c8fa-e2a8-4d3b-9ac9-cc95ffefbe83.pdf (Pelham RFP) — not re-fetched in Stage 2; Stage 1 characterization preserved.",
+    "https://files-backend.assets.thrillshare.com/.../RFP-1384-Transportation-for-Special-Education-Students-for-7-1-26-to-6-30-28-.pdf (Hampton SAU 90 RFP) — not re-fetched in Stage 2; Stage 1 characterization preserved."
+  ],
+  "sourceLedger": [
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 189:6 — Transportation of Pupils",
+      "officialUrl": "https://gc.nh.gov/rsa/html/xv/189/189-6.htm",
+      "codeCurrency": "Current statute as posted on NH General Court website; re-verified 2026-06-24",
+      "fieldsSupported": "All five fields (establishes duty to transport; silent on contract term, bidding, renewal)",
+      "relevantText": "Requires local school district to furnish transportation to pupils in kindergarten through grade 8 living more than 2 miles from school; permits transportation for K-8 within 2 miles and for grades 9-12. No reference to contracts, contract terms, bidding, or renewal.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 189:6-e — Pupils Transported in a Contract Carrier",
+      "officialUrl": "https://gc.nh.gov/rsa/html/XV/189/189-6-e.htm",
+      "codeCurrency": "Source: 2021, 209:2, Pt. III, Sec. 1, eff. Aug. 10, 2021; 2022, 66:1, eff. July 19, 2022. Re-verified 2026-06-24.",
+      "fieldsSupported": "Max Term, Rebid, Renewal, Citation (authorizes contract-carrier transportation for school activities other than home-to-school; silent on term/bidding/renewal)",
+      "relevantText": "I: 'A school district may contract with a contract carrier of passengers, as defined by RSA 266-A:2, VII, that is designed to transport 16 or more passengers including the operator, to transport pupils to or from school activities.' II: 'School activities' includes sports, intramurals, clubs, job training, field trips, special-ed transition services; excludes home-to-school transportation. No term/bid/renewal provisions.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 189:6-f — Pupils Transported in a School Transportation Vehicle",
+      "officialUrl": "https://gc.nh.gov/rsa/html/XV/189/189-6-f.htm",
+      "codeCurrency": "Source: 2024, 86:2, eff. Aug. 13, 2024. Re-verified 2026-06-24.",
+      "fieldsSupported": "Max Term, Citation, Special Education (authorizes school transportation vehicle contracts and addresses special-needs eligibility; silent on term/bidding/renewal)",
+      "relevantText": "II: 'The department of education, a school district, or a private school may contract with a provider of school transportation vehicle services.' III: 'Pupils with disabilities may be transported... in a school transportation vehicle unless the pupil's individualized education program... or the pupil's accommodation plan pursuant to section 504... states that such a vehicle shall not be used.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 189 Chapter Table of Contents",
+      "officialUrl": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-189.htm",
+      "codeCurrency": "Current; re-verified 2026-06-24",
+      "fieldsSupported": "Negative-result citation: confirms no section in RSA ch. 189 addresses transportation contract term, bidding, or renewal mechanisms",
+      "relevantText": "Transportation-related sections in RSA ch. 189: 189:6 (Transportation of Pupils), 189:6-a (School Bus Safety), 189:6-b (Transportation Between Schools and Before-and-After-School Programs), 189:6-c (Mixed Use School Bus), 189:6-d (REPEALED Nov. 1, 2018), 189:6-e (Contract Carrier), 189:6-f (School Transportation Vehicle). No section addresses contract term, bidding, or renewal.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 194:21-a — Long-Term Contracts (high school joint maintenance — not transportation)",
+      "officialUrl": "https://gc.nh.gov/rsa/html/xv/194/194-21-a.htm",
+      "codeCurrency": "1959, 218:1, eff. Aug. 11, 1959 (still in force); re-verified 2026-06-24",
+      "fieldsSupported": "Negative-result: confirms the only NH statute capping a school district contract term applies to inter-district joint high school maintenance, not to transportation",
+      "relevantText": "'The school districts of the state may enter into a contract with each other for the establishing and maintaining jointly a high school for the benefit of their pupils... The term of any such contract may be for a term not to exceed 20 years from the date of the contract.' Applies only to inter-district joint high school maintenance contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 32:7 — Lapse of Appropriations (Municipal Budget Law; applies to school districts per RSA 32:1)",
+      "officialUrl": "https://gc.nh.gov/rsa/html/III/32/32-7.htm",
+      "codeCurrency": "Current; re-verified 2026-06-24",
+      "fieldsSupported": "Max Term, Renewal (frames multi-year contracts via lapse-of-appropriations rules but imposes no contract-term cap)",
+      "relevantText": "'Annual meeting appropriations shall cover anticipated expenditures for one fiscal year. All appropriations shall lapse at the end of the fiscal year and any unexpended portion thereof shall not be expended without further appropriation, unless: I. The amount has, prior to the end of that fiscal year, become encumbered by a legally-enforceable obligation, created by contract or otherwise...' Allows multi-year encumbrances but does not cap contract length.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 32:13 — Effect of Appropriations on Prior Contractual Obligations",
+      "officialUrl": "https://gc.nh.gov/rsa/html/III/32/32-13.htm",
+      "codeCurrency": "Current; re-verified 2026-06-24",
+      "fieldsSupported": "Renewal (addresses how appropriations interact with prior contractual obligations; no term cap)",
+      "relevantText": "Confirms that a local legislative body cannot escape valid prior contractual obligations through appropriations decisions; no contract-term cap or renewal mandate.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (official NH General Court)",
+      "citation": "RSA 95:1 — Public Officials Barred From Certain Private Dealings (Title VI ch. 95)",
+      "officialUrl": "https://gc.nh.gov/rsa/html/VI/95/95-1.htm",
+      "codeCurrency": "Current; re-verified 2026-06-24. CORRECTION: Stage 1 URL placed this section under Title V; correct location is Title VI ch. 95.",
+      "fieldsSupported": "Rebid Required (NH's only generally-cited competitive-bid statute; reaches transactions in which a public officer is buyer or seller >$200 — NOT ordinary contractor-district transportation procurement)",
+      "relevantText": "'No person holding a public office, as such, in state or any political subdivision governmental service shall, by contract or otherwise, except by open competitive bidding, buy real estate, sell or buy goods, commodities, or other personal property of a value in excess of $200 at any one sale to or from the state or political subdivision under which he holds his public office.' Applies to BOTH buying and selling by a public officer (Stage 1 had described as 'seller/contractor' only — minor imprecision corrected).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 2 — State administrative code (official NH General Court rules portal)",
+      "citation": "NH Code Admin. Rules Saf-C 1305.02 — Pre-Service Instruction",
+      "officialUrl": "https://gc.nh.gov/rules/state_agencies/saf-c1300.html",
+      "codeCurrency": "NH Department of Safety rules as published by NH General Court; re-verified 2026-06-24",
+      "fieldsSupported": "Renewal Mechanics (regulates content of renewal contracts — only state-level rule touching transportation-contract renewals)",
+      "relevantText": "Saf-C 1305.02(b): 'Each new and renewal contract negotiated by a school district for school bus transportation shall contain a clause requiring each school bus driver to undergo training in accordance with the requirements of (c) and (d), below.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 2 — State administrative code (NH Department of Education rules; Cornell LII used as pathfinder for verbatim rule text)",
+      "citation": "NH Code Admin. Rules Ed 1109.02 — Transportation (special education)",
+      "officialUrl": "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Ed-1109.02",
+      "codeCurrency": "NH State Board of Education rules; re-verified 2026-06-24",
+      "fieldsSupported": "Special Education (the only NH-specific rule on special-education transportation contracting; addresses safety/licensing only — not term/bidding/renewal)",
+      "relevantText": "'(a) All vehicles used to transport children with disabilities provided by, or on behalf of a school district, shall be maintained in safe working order and be inspected and licensed... (b) All drivers of such vehicles shall be licensed according to Saf-C 1304... (d) Any contracted providers of transportation for children with disabilities, including parents transporting children other than their own, shall comply with the standards of Ed.1109.02 (a) - (b).' No contract term, bidding, or renewal provisions.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 5 — State school-boards / municipal-association guidance citing binding authority",
+      "citation": "New Hampshire Municipal Association, 'Contracting 101' (statewide municipal-contracting guidance)",
+      "officialUrl": "https://www.nhmunicipal.org/town-city-article/contracting-101",
+      "codeCurrency": "NHMA guidance article, July/August 2016 issue (continues to be linked as current NHMA reference); re-verified 2026-06-24",
+      "fieldsSupported": "Rebid Required (confirms no general NH state law requires competitive bidding for school district / town contracts)",
+      "relevantText": "'As a general rule, there is no state law requiring competitive bidding for town contracts and purchases unless a public official is involved as one of the sellers or contractors.' Cites RSA 95:1 ($200 threshold for public-officer transactions).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 5 — Municipal-association guidance",
+      "citation": "New Hampshire Municipal Association, 'Multi-Year Contracts' (Sept./Oct. 2016)",
+      "officialUrl": "https://www.nhmunicipal.org/town-city-magazine/septemberoctober-2016/multi-year-contracts",
+      "codeCurrency": "NHMA guidance, re-verified 2026-06-24 (Stage 1 URL produced a redirect loop; alternative NHMA URL resolves to the same article)",
+      "fieldsSupported": "Max Term, Renewal (confirms there is no general NH statutory cap on multi-year service contracts beyond solid-waste 40-year cap (RSA 149-M:17) and lease-purchase warrant rules; framework is RSA 32 budget law)",
+      "relevantText": "Identifies RSA 149-M:17 (solid waste, 40-year cap) as one of the few NH statutes prescribing a maximum term. Confirms there is no general statutory duration limit on multi-year service contracts. Notes that multi-year contracts with non-appropriation/'escape' clauses may be approved by simple majority, while binding multi-year obligations may require warrant-article authorization. No school-transportation-specific term cap discussed.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "District practice (used only to assess variance, not as authority); Stage-1 access preserved; Stage-2 re-verification returned HTTP 403",
+      "citation": "Kearsarge Regional SAU 65 — RFP for School Bus Transportation Services, 2023-2028 (initial 5-year term)",
+      "officialUrl": "https://www.kearsarge.org/sites/g/files/vyhlif731/f/pages/2122_bus_transportation_rfp_2023-2028_finalupdated6_15_2022.pdf",
+      "codeCurrency": "District RFP issued 2022, contract term 2023-2028; Stage 1 access date 2026-06-24; Stage 2 re-verification attempt 2026-06-24 returned HTTP 403",
+      "fieldsSupported": "District Variance (illustrates 5-year regular-route term)",
+      "relevantText": "Per Stage 1: 'The initial term of the contract for services will be five years, commencing with the opening day of the 2023-2024 school year (July 1, 2023).' Cites RSA 189:13-b for driver background checks.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "District practice (variance only)",
+      "citation": "Pelham School District — RFP for School Bus Transportation Services (5-year + one-year option extensions up to 5 additional years)",
+      "officialUrl": "https://filecabinet10.eschoolview.com/98E279AD-01EE-4D3F-B6C1-2704D099AFF9/b571c8fa-e2a8-4d3b-9ac9-cc95ffefbe83.pdf",
+      "codeCurrency": "District RFP; Stage 1 access preserved",
+      "fieldsSupported": "District Variance, Renewal Mechanics (shows a 5+5 structure used in practice)",
+      "relevantText": "Per Stage 1: 'The School Board will also grant, to the Contractor, a contract extension, through a series of one-year options, for a maximum of five (5) years.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "District practice (variance only)",
+      "citation": "Hampton SAU 90 — RFP-1384 for Special Education Transportation (5-year extension cap by negotiation)",
+      "officialUrl": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2024/Sau_90/13b43757-160b-4e4c-ac7d-5ec26e3ccda8/RFP-1384-Transportation-for-Special-Education-Students-for-7-1-26-to-6-30-28-.pdf?disposition=inline",
+      "codeCurrency": "District RFP, term 2026-2028 with up to 5 years of extensions; Stage 1 access preserved",
+      "fieldsSupported": "District Variance, Special Education (shows district-set special-ed contract terms; cites no special-ed-specific NH statute on term)",
+      "relevantText": "Per Stage 1: Parties may 'agree on Contract extensions not to exceed a total of five years, subject to negotiation.' Cites NH RSA 189:6-a.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "District practice (variance only); Stage-1 access preserved; Stage-2 re-verification returned scanned-image PDF (text not extractable)",
+      "citation": "Hooksett School District (SAU 15) — Bus Contract 2023-2028 (5-year term)",
+      "officialUrl": "https://hooksett.sau15.net/wp-content/uploads/sites/3/2023/08/Hooksett-Bus-2023-2028.pdf",
+      "codeCurrency": "District contract executed 2023, term through 2028; Stage 1 access date 2026-06-24; Stage 2 re-verification 2026-06-24 returned scanned-image PDF",
+      "fieldsSupported": "District Variance",
+      "relevantText": "Per Stage 1: 5-year term contract (2023-2028).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Tier 1 — Codified state statute (negative-search citation)",
+      "citation": "RSA 197:1 — Annual School District Meeting",
+      "officialUrl": "https://gc.nh.gov/rsa/html/xv/197/197-mrg.htm",
+      "codeCurrency": "Current; re-verified 2026-06-24",
+      "fieldsSupported": "Max Term, Rebid, Renewal (provides general appropriation framework for school districts; does not cap contract terms)",
+      "relevantText": "Requires annual school district meeting (March 1-25, or per RSA 40:13) for raising and appropriating money for the support of schools for the next fiscal year. Implies that obligations beyond the fiscal year require either non-appropriation/escape clauses or special warrant-article authorization, but does not directly cap contract length.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Hampshire",
+      "sourceTier": "Session law / legislative status (NH Liberty Alliance bill tracker as pathfinder; original bill text on NH General Court)",
+      "citation": "NH SB580 (2026) — School Cooperative Purchasing Program (NOT ENACTED)",
+      "officialUrl": "https://bills.nhliberty.org/bills/2026/SB580",
+      "codeCurrency": "Status as of 2026-06-24: Voted Inexpedient to Legislate by House on 2026-04-23",
+      "fieldsSupported": "Max Term, Rebid, Renewal (would have created a state cooperative purchasing program including student transportation services and required school boards to adopt procurement policies — did NOT pass; no current-law change to analysis)",
+      "relevantText": "Bill would have established a school cooperative purchasing program through the Department of Administrative Services in consultation with the Department of Education, including student transportation services. Voted Inexpedient to Legislate; not enacted.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "queriesThatMattered": [
+      "site:gencourt.state.nh.us RSA 189 school transportation (re-verified official RSA ch. 189 sections)",
+      "Re-fetched RSA 189:6, 189:6-e, 189:6-f directly via WebFetch and confirmed verbatim text",
+      "site:gc.nh.gov RSA 95:1 bids contracts public officer (CORRECTED Stage 1 URL — chapter is Title VI, not Title V)",
+      "'RSA 189' New Hampshire school transportation contract 'five year' OR '5 year' OR 'renewal' statute (no disconfirming statute located)",
+      "'New Hampshire' RSA school district contract 'not to exceed' OR 'maximum term' transportation OR procurement (no cap located)",
+      "'RSA 21-G:37' OR 'RSA 21-I' New Hampshire competitive bidding school district transportation (state-agency procurement only, not school districts)",
+      "'New Hampshire' RSA 'automatic renewal' school district contract OR municipality (no school-district-specific prohibition)",
+      "'SB580' New Hampshire 2026 status 'Inexpedient' OR 'passed' OR 'enacted' (confirmed Inexpedient to Legislate 2026-04-23)",
+      "'New Hampshire School Boards Association' OR 'NHSBA' school transportation contract policy bidding term (no statewide uniform policy located)",
+      "'New Hampshire' 'attorney general opinion' school transportation contract bidding renewal (no AG opinion located)"
+    ],
+    "codeCurrency": "RSA chapters 32, 95, 189, 194, 197 re-verified directly on the official NH General Court website (gc.nh.gov, successor to gencourt.state.nh.us; 301-redirect chain confirmed). Each section displays its source/effective-date footer (e.g., RSA 189:6-f source '2024, 86:2, eff. Aug. 13, 2024'). Code currency recorded as 'current as posted on NH General Court website on 2026-06-24' for each section. CORRECTION TO STAGE 1: RSA 95:1 is in Title VI ch. 95 (not Title V — Stage 1 URL was https://gc.nh.gov/rsa/html/V/95/95-1.htm which returns 404; corrected URL is https://gc.nh.gov/rsa/html/VI/95/95-1.htm).",
+    "adminCodeCurrency": "NH Code of Administrative Rules — Saf-C 1300 re-verified via gc.nh.gov rules portal; Saf-C 1305.02(b) verbatim text confirmed. Ed 1109.02 verbatim text re-verified via Cornell LII pathfinder (no contract-term/bidding/renewal provisions). Per Saf-C 1300 publication on NH General Court rules portal, the rules are the agency's currently effective rules.",
+    "sessionLawCheck": "Re-checked NH Legislative session-law activity through 2025-2026 sessions. RSA 189:6-f remains the most recent transportation-contract-relevant amendment (2024, 86:2, eff. 2026-08-13). SB580 (2026), which would have created a state-level cooperative purchasing program (including for student transportation services) and required school boards to adopt procurement policies, was voted Inexpedient to Legislate by the House on 2026-04-23 — not enacted. HB1804 (2026) concerns RSA 189:13-a driver training, not contract term/bidding/renewal. No 2025 or 2026 enactment changes the analysis.",
+    "negativeSearchPaths": [
+      "Re-searched RSA Title XV chapters 186-200-L (Education) on the official NH General Court site for any provision setting a maximum contract term for school district transportation contracts. RSA ch. 189 sections 189:6, 189:6-a, 189:6-b, 189:6-c, 189:6-d (REPEALED 2018), 189:6-e, 189:6-f reviewed; none cap contract term or impose bidding/renewal rules. RSA 194:21-a's 20-year cap confirmed limited to inter-district high school maintenance contracts.",
+      "Re-searched RSA Title III ch. 32 (Municipal Budget Law, applies to school districts via RSA 32:1) for term caps; RSA 32:7 governs lapse-of-appropriations but imposes no contract-term ceiling for service contracts; RSA 32:13 addresses prior contractual obligations vs. appropriations decisions, no cap.",
+      "Re-searched RSA ch. 95 (Title VI — Public Officers) for competitive-bidding requirements; RSA 95:1 applies only when a public officer is buyer or seller of real estate or personal property >$200 — does not reach ordinary contractor-district transportation procurement. Stage 1 URL was incorrect (Title V); Stage 2 corrected to Title VI.",
+      "Re-searched RSA 21-G:37 / 21-I (Department of Administrative Services / state procurement) — these govern state-agency procurement, not school district procurement.",
+      "Searched NH Code of Administrative Rules Ed 300 (Minimum Standards for Public School Approval) for any transportation-procurement provision; none located.",
+      "Re-searched NH Code of Administrative Rules Saf-C 1300 (School Bus) for contract term/bidding rules; only Saf-C 1305.02(b) addresses contract content (driver-training clause for new/renewal contracts).",
+      "Re-searched NH Code of Administrative Rules Ed 1100 (Special Education) and Ed 1109.02 specifically; Ed 1109.02 addresses only vehicle safety and driver licensing for special-ed transportation — no term/bidding/renewal provisions.",
+      "Searched NH Department of Education transportation page (education.nh.gov/parents-and-students/transportation): returned HTTP 403 on re-verification attempt; Stage 1 characterization (safety/licensing/duty-to-transport, not procurement) preserved.",
+      "Searched for any NH Attorney General opinion on school district transportation contracting (term, bidding, renewal); none located.",
+      "Searched NH School Boards Association (NHSBA) for any uniform policy or statutory interpretation on transportation contracts; NHSBA member-only policy services are not publicly indexed; no publicly available NHSBA position confirming uniform statewide interpretation was located.",
+      "Searched for any 'automatic renewal' or 'evergreen' prohibition applicable to NH school district contracts: NH has consumer-protection automatic-renewal provisions (not applicable to government contracting) and county-contract restrictions (not applicable to school districts); no school-district-specific prohibition located."
+    ],
+    "conflictChecks": "No authoritative-source conflicts identified after Stage 2 re-verification. The statutory silence on contract term/bidding/renewal for school transportation is consistent across (a) the codified RSAs reviewed, (b) NH Department of Safety rules (Saf-C 1300), (c) NH Department of Education rules (Ed 300, Ed 1100), and (d) NH Municipal Association guidance ('Contracting 101' and 'Multi-Year Contracts'). District practice (5-year and 5+5 RFPs) does not contradict the statute — it reflects local board discretion under a silent statutory framework, which is itself the basis for the 'Yes' answer on District Variance. The single regulatory hook on renewals (Saf-C 1305.02(b)) regulates contract content, not the existence or duration of renewals — no conflict with the broader 'N/A under state statute' renewal finding. CORRECTIONS APPLIED: (1) RSA 95:1 URL corrected from Title V to Title VI in the source ledger and citation; (2) RSA 95:1 description clarified to cover BOTH buying and selling by a public officer (Stage 1 had said only 'seller/contractor')."
+  },
+  "finalConfidence": "High",
+  "scratchWritten": true,
+  "scratchPath": "/Users/zabrisket/Documents/Summit_School_Services_MASTER/State-Level Research/03_MA-NJ/scratch/new-hampshire.json"
+}

@@ -1,0 +1,42 @@
+{
+  "state": "Georgia",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed substantively (4 confirmed; Special-Education citation refuted-and-corrected; District Variance unresolved)",
+  "tableRow": {
+    "maxContractTerm": "No statutory maximum found. O.C.G.A. § 20-2-506(b)(1) makes any multiyear school-system contract (including pupil-transportation services contracts entered under § 20-2-504) a 1-calendar-year obligation that terminates absolutely at the close of the calendar year of execution and at the close of each succeeding renewal calendar year. § 20-2-506(b)(2) permits automatic renewal. No statutory cap on cumulative renewal years; aggregate annual payments under § 20-2-506 + Art. IX, Sec. III, Para. I intergovernmental contracts (excluding guaranteed energy savings contracts and excluding contracts with other public educational entities for the education of students) capped at 7.5% of the school system's local M&O revenue in the most recently completed fiscal year (§ 20-2-506(b)(4)).",
+    "rebidRequired": "Not required. No Georgia statute or State Board of Education rule requires a competitive rebid at term-end; § 20-2-506(b)(2) expressly allows automatic renewal unless the school system takes positive action to terminate. Local-government public-works bidding statute (O.C.G.A. § 36-91-1 et seq.) reaches 'public works construction' only; § 20-2-500 imposes only an in-state preference for goods; § 50-5-69 (Georgia Procurement Registry posting) binds state agencies, not local boards; Ga. Comp. R. & Regs. R. 160-5-3-.02 is silent on procurement method.",
+    "renewalMechanics": "Automatic renewal expressly permitted by O.C.G.A. § 20-2-506(b)(2) ('may provide for automatic renewal unless positive action is taken by the school system to terminate'). § 20-2-506(b)(1) requires the contract to terminate absolutely at the close of each calendar year; (b)(3) total-obligation statement; (b)(4) 7.5% financial cap with two listed exclusions; (c)(1) optional fiscal-funding-out termination; (d)-(e) calendar-year-only obligation; (g) 4-year bar after defeated bond referendum. The statute does not require CPI/index adjustments, fuel escalators, mutual written agreement, agency approval, or board approval as preconditions for renewal.",
+    "statutoryCitation": "O.C.G.A. § 20-2-504; O.C.G.A. § 20-2-506 (most recently amended by 2024 Ga. Laws 459, § 9, eff. 7/1/2024); Ga. Comp. R. & Regs. R. 160-5-3-.02 (current through June 10, 2026).",
+    "districtVariance": "Unknown. No official statewide source (GaDOE, GSBA, SCSC, Georgia AG opinion archive) located that either documents differing district-level interpretations of O.C.G.A. § 20-2-504 / § 20-2-506 or affirms uniform application.",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "refuted",
+    "districtVariance": "unresolved"
+  },
+  "fieldVerdictsNote": "Special-Education citation 'refuted' = Stage-1 quote misattributed to § 20-2-152 was corrected to § 20-2-188(g); substantive finding (no separate sped procurement/term/rebid/renewal regime) holds.",
+  "sourcesReVerified": [
+    "O.C.G.A. § 20-2-504 (codes.findlaw.com)",
+    "O.C.G.A. § 20-2-506 (codes.findlaw.com)",
+    "Ga. Comp. R. & Regs. R. 160-5-3-.02 (rules.sos.ga.gov)",
+    "O.C.G.A. § 36-91-2 (codes.findlaw.com)",
+    "O.C.G.A. § 20-2-500 (codes.findlaw.com)",
+    "O.C.G.A. § 50-5-69 (codes.findlaw.com)",
+    "O.C.G.A. § 20-2-152 (codes.findlaw.com)",
+    "O.C.G.A. § 20-2-188 (codes.findlaw.com)",
+    "GaDOE Division of Pupil Transportation"
+  ],
+  "sourcesUnreachable": [
+    "law.justia.com (Cloudflare bot protection; statutory text re-verified via codes.findlaw.com parallel Westlaw republication)",
+    "scsc.georgia.gov/document/document/contracting-best-practices/download PDF (binary; cited as tier-5 context only, not load-bearing)",
+    "doas.ga.gov § 50-5-69 PDF (binary; substituted with codes.findlaw.com)"
+  ],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

@@ -1,0 +1,328 @@
+{
+  "state": "Massachusetts",
+  "fields": {
+    "maxContractTerm": {
+      "value": "3 years (default cap) — including any renewal, extension, or option, unless authorized by majority vote (M.G.L. c.30B § 12(b)). Where the governmental body authorizes a longer term by majority vote, multi-year terms are permitted (in practice 5-year awards are used; e.g., Boston Public Schools approved a 5-year contract with Transdev in March 2023; Minuteman Regional Vocational Technical School District solicited a 5-year contract for FY26–FY30 (Jan. 2025)). For a regional school district, 'majority vote' means a two-thirds affirmative vote of the regional district school committee; for cities, the city council/commissioners (with mayoral approval where required); for towns or districts, a duly called town or district meeting (M.G.L. c.30B § 2; OIG Chapter 30B Manual). Each contract is subject to annual appropriation — a contingent-funding clause is mandatory and the contract must be cancelled if funds are not appropriated (§ 12(c)–(d)). Section 12(f) sets a separate, longer term cap (up to 20 years) for solid-waste/sewage-treatment contracts only — that exception does NOT apply to pupil transportation.",
+      "citation": "M.G.L. c.30B § 12(a)–(b), (c)–(d), (f); definitions of 'majority vote' and 'governmental body' at M.G.L. c.30B § 2; OIG Chapter 30B Manual (9th ed.), ch. 4 (Contract Duration)."
+    },
+    "rebidRequired": {
+      "value": "Required — At expiration of the awarded term, the district must re-procure the contract using one of the Chapter 30B competitive methods (sealed bidding under § 5 for contracts $50,000 or more, or competitive sealed proposals (RFP) under § 6). M.G.L. c.71 § 7A specifically commands that for pupil-transportation contracts 'no contract shall be awarded except upon the basis of prevailing wage rates... and of competitive sealed bids pursuant to chapter thirty B' — and the OIG Chapter 30B Manual is explicit that 'Under M.G.L. c.71, § 7A, you must use an IFB process to procure school bus transportation contracts for which you are seeking state reimbursement.' Limited statutory exceptions within Chapter 30B remain available — sole source under § 7 (subject to dollar thresholds), emergency procurement under § 8, cooperative purchasing under § 22, and small-purchase procedures below the $50,000 sealed-bidding threshold under § 4.",
+      "citation": "M.G.L. c.71 § 7A (mandatory competitive sealed bidding pursuant to Ch. 30B); M.G.L. c.30B §§ 4, 5, 6, 7, 8, 22; OIG Chapter 30B Manual (9th ed.), ch. 5 (Supply and Service Contracts $50,000 or More: Bids)."
+    },
+    "renewalMechanics": {
+      "value": "Renewal/extension/option permitted without a full re-bid only if (i) the solicitation expressly disclosed the renewal/extension/option terms and conditions (§ 12(a) and (c)); (ii) the total contract term, including all renewals/extensions/options, does not exceed 3 years, unless the governmental body has authorized a longer term by majority vote (§ 12(b)); (iii) before exercising any option, the procurement officer makes a written determination, 'after reasonable investigation of costs and benefits,' that exercising the option is more advantageous than alternative means of procuring comparable services (§ 12(e)); and (iv) the governmental body retains sole discretion to exercise the option — exercise is not subject to contractor agreement (§ 12(e); OIG Manual). The option price may not exceed the option price stated in the original contract; the parties may agree in writing to a lower price (OIG Manual). Payment in succeeding fiscal years depends on appropriation, and the contract must be cancelled if funds are not appropriated (§ 12(c)–(d)). No statutory provision authorizes automatic/evergreen rollover, CPI escalators, or fuel escalators independent of the renewal-option mechanism. Cooperative/piggyback procurement under § 22 is also available as an alternative to a stand-alone competitive procurement.",
+      "citation": "M.G.L. c.30B § 12(a), (c), (d), (e); M.G.L. c.30B § 22 (cooperative purchasing); OIG Chapter 30B Manual (9th ed.), ch. 6 (Exercising Options for Renewal, Extension, or Purchase)."
+    },
+    "statutoryCitation": {
+      "value": "Primary: M.G.L. c.30B § 12 (Term of contract; information to be included in solicitation; cancellation of contract); M.G.L. c.30B § 2 (Definitions — 'governmental body' (which expressly includes 'a city, town, district, regional school district, county, or agency, board, commission, authority, department or instrumentality' thereof) and 'majority vote'); M.G.L. c.30B § 1 (Application of chapter, including the § 1(b)(8) special-education exemption); M.G.L. c.30B §§ 5–6 (competitive sealed bidding / RFP procedures). Transportation-specific overlay: M.G.L. c.71 § 7A (requiring that pupil-transportation contracts be awarded 'upon the basis of prevailing wage rates... and of competitive sealed bids pursuant to chapter thirty B').",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section12"
+    },
+    "districtVariance": {
+      "value": "No — the statutory rule (3-year default cap; longer term requires the appropriate majority vote of the governmental body; competitive procurement under Ch. 30B at term-end) applies uniformly statewide. Variance among districts exists in the *contract term selected* (e.g., 3-year base with one-year options vs. 5-year majority-vote-authorized award) and in the choice of competitive method (sealed bid (IFB) vs. RFP), not in interpretation of the statute. Recent examples: Boston Public Schools (5-year contract with Transdev approved by school committee vote, March 2023); Minuteman Regional Vocational Technical School District (5-year IFB, FY26–FY30, solicited Jan. 2025); Auburn Public Schools (3-year base contract FY26–FY28 with two one-year options, posted Jan. 2025). The Massachusetts Office of the Inspector General publishes the controlling Chapter 30B Manual (9th ed.) and the July 2025 OIG Charts on Procurement Procedures, which all c.30B governmental bodies (including approximately 1,500 cities, towns, regional school districts, and Horace Mann charter schools) follow — supporting uniform statewide interpretation."
+    }
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "statutoryCitation": "confirmed",
+    "districtVariance": "confirmed",
+    "specialEducation": "confirmed"
+  },
+  "specialEducation": {
+    "value": "DIFFERENT. M.G.L. c.30B § 1(b)(8) exempts from Chapter 30B 'an agreement for the provision of special education pursuant to chapter seventy-one B and regulations promulgated' thereto. The OIG's Chapter 30B Manual (9th ed.) confirms that this exemption 'applies to direct services delivered to children with special needs, such as transportation, counseling or education under an individual education program, as well as to any supplies used by children with special needs as part of an individual educational program. Other supplies and services, however, are not exempt simply because they are procured by the special education department.' The OIG's February 2026 Special Education Transportation Study (released by the Massachusetts OIG) reaffirms that special-education transportation is exempt from Chapter 30B and recommends that districts and educational collaboratives leverage joint procurements and a centralized rate structure to mitigate costs. Consequence: special-education transportation procured as a direct IEP service under Ch. 71B is NOT subject to the § 12 three-year term cap or the § 5/§ 6 competitive bidding procedures. Districts in practice often procure special-ed transportation through individual student-level agreements, sole-source/specialized vendor arrangements, or via educational collaboratives. M.G.L. c.71B § 8 addresses transportation of children with disabilities (duty and parental-reimbursement program) but does NOT itself impose contract-term or competitive-procurement rules. NOTE: The state-reimbursement provision formerly at M.G.L. c.71B § 14 was REPEALED by St. 2019, c. 132, § 20 — it is no longer operative law, although the 1996 DESE Pupil Transportation Guide still references it. Federal IDEA imposes a duty to transport but does not itself set contract-term or procurement rules; therefore, the controlling state contracting rule for special-ed transportation is the § 1(b)(8) exemption, leaving such contracts outside Ch. 30B's term cap and bidding regime.",
+    "citation": "M.G.L. c.30B § 1(b)(8); M.G.L. c.71B § 8; OIG, The Chapter 30B Manual (9th ed.), ch. 13 (Exemptions and Exceptions), at exemption 8; OIG, Special Education Transportation Study (Feb. 2026); Massachusetts Administrators for Special Education, Bid Law Information page (quoting OIG verbatim).",
+    "verdict": "confirmed"
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term — 3 years default cap; longer term requires majority vote",
+      "disconfirmingHypothesis": "A transportation-specific or school-specific statute imposes a longer or shorter cap (e.g., 5 years by default); a notwithstanding clause in c.71 or DESE regulation overrides § 12; or § 12(f) (waste/sewage 20-year exception) somehow extends to school buses.",
+      "challengeSearches": "Searched malegislature.gov for c.71 §§ 7, 7A, 7B and the c.30B § 12 text directly; searched 'chapter 30B section 12 transportation grandfathering exception'; searched 603 CMR (DESE regs); searched 801 CMR (OSD state procurement). Re-opened c.30B § 12 text in full.",
+      "result": "No transportation-specific term cap or override exists. § 12(b)'s 3-year cap applies; § 12(f)'s 20-year exception is explicitly limited to 'garbage, refuse, offal disposal, and sewage/sludge treatment or disposal' contracts only and does not reach pupil transportation. The majority-vote escape is the only general path to a term over 3 years. OIG Manual reaffirms the rule.",
+      "confidenceImpact": "Confirmed — no change. High confidence."
+    },
+    {
+      "findingChallenged": "Rebid Required at Term-End — Ch. 30B competitive process required",
+      "disconfirmingHypothesis": "Renewal without re-bidding is permitted indefinitely; a school-board waiver, state-agency approval, sole source for incumbent operator, or piggyback authority allows long-term continuation without competitive re-procurement; small-purchase threshold exempts most contracts.",
+      "challengeSearches": "Searched c.30B §§ 4 (small purchases), 7 (sole source), 8 (emergency), 22 (cooperative); reviewed OIG Manual sole-source/cooperative sections; verified c.71 § 7A language directly; searched 'school transportation contract renewal without rebid Massachusetts'.",
+      "result": "Rebid is required at term-end. The only exceptions are bounded: small-purchase procedures apply only below the $50,000 sealed-bidding threshold (school transportation contracts virtually always exceed this); sole source applies only with written justification and is capped at $100,000 for municipal/regional school districts (typically impracticable for transportation); emergency procurement is short-term; cooperative purchasing under § 22 still requires the underlying procurement be competitive. c.71 § 7A explicitly requires 'competitive sealed bids pursuant to chapter thirty B' for transportation contracts.",
+      "confidenceImpact": "Confirmed — no change. High confidence."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics — option must be disclosed in solicitation; written cost-benefit determination required; sole discretion of governmental body",
+      "disconfirmingHypothesis": "Automatic/evergreen renewals are permitted; CPI/fuel escalators are allowed independent of the option mechanism; vendor consent is required to exercise option; there is no cost-benefit determination requirement.",
+      "challengeSearches": "Re-opened c.30B § 12(a), (c), (d), (e) text directly; reviewed OIG Manual ch. 6 (Exercising Options) and Contract Terms and Conditions Checklist; searched for 'evergreen renewal Massachusetts public contract'; searched for CPI/fuel escalator statutory authorization.",
+      "result": "Renewal mechanics confirmed. § 12(e) requires written cost-benefit determination before exercising any option, and exercise is at the local jurisdiction's sole discretion — vendor consent is not required. The OIG Manual explicitly states: 'You may not exercise a renewal, extension, or purchase option unless the option terms were included in the original solicitation and incorporated into [the contract]' and 'option price may not exceed the option price stated in [the original contract].' No statutory authority for automatic/evergreen rollover or independent CPI/fuel escalators was found.",
+      "confidenceImpact": "Confirmed — no change. High confidence."
+    },
+    {
+      "findingChallenged": "Special Education differentiation — c.30B § 1(b)(8) exempts special-ed transportation from Ch. 30B term cap and competitive bidding",
+      "disconfirmingHypothesis": "The exemption applies only to instructional services, not transportation; or DESE/Ch. 71B imposes its own term cap; or McKinney-Vento/foster-care/IDEA transportation imposes federal-law procurement requirements that override the state exemption.",
+      "challengeSearches": "Re-opened c.30B § 1 text (confirmed § 1(b)(8) exemption); re-opened c.71B § 8 (transportation duty — no procurement rules); checked c.71B § 14 status (REPEALED by St. 2019 c.132 § 20); reviewed OIG Manual ch. 13 exemption #8 quotation; reviewed OIG Special Education Transportation Study (Feb. 2026); reviewed ASE Bid Law Information page; searched 'McKinney-Vento Massachusetts procurement requirement', 'IDEA transportation contracting'.",
+      "result": "Confirmed and updated. The OIG Manual is explicit that the exemption 'applies to direct services delivered to children with special needs, such as transportation, counseling or education under an individual education program.' The Feb. 2026 OIG Special Education Transportation Study reaffirms this exemption is in force as of 2026. NO state cap or competitive-bidding requirement is imposed by c.71B on these contracts. Federal IDEA imposes a duty to transport but does not establish state contracting/procurement rules. McKinney-Vento (federal) requires districts to provide transportation for homeless students but likewise does not set contract-term or procurement methods. One material correction to Stage 1: c.71B § 14 (formerly the reimbursement provision) was REPEALED by St. 2019 c.132 § 20 — it should not be cited as current law. Reimbursement of special-ed transportation costs has been folded into the broader circuit-breaker / c.71B § 5A funding framework.",
+      "confidenceImpact": "Confirmed (with one citation correction: drop c.71B § 14 as it is repealed). High confidence."
+    },
+    {
+      "findingChallenged": "District Variance — No (uniform statewide statutory rule)",
+      "disconfirmingHypothesis": "Different districts interpret the 3-year cap, the rebid requirement, or the special-ed exemption differently; a large district (Boston) follows different procurement rules than a small/rural district; charter schools or vocational districts are exempt.",
+      "challengeSearches": "Reviewed Boston Public Schools (5-year Transdev contract, March 2023); Minuteman Regional Vocational Technical (5-year IFB FY26–FY30, Jan. 2025); Auburn Public Schools (3-year base + two 1-year options FY26–FY28, Jan. 2025); reviewed Reading and Salem municipal procurement manuals (cite OIG Manual); reviewed Needham Public Schools procurement information page.",
+      "result": "Confirmed. The statutory rule applies uniformly to all governmental bodies as defined in c.30B § 2 (cities, towns, districts, regional school districts, counties, and their agencies/instrumentalities). Variance is in the term selected and the competitive method (IFB vs. RFP), not in the statute's interpretation. Charter schools: Horace Mann charter schools (which are part of a public school district) are subject to c.30B; Commonwealth charter schools have separate procurement obligations under different statutes but are largely subject to similar competitive requirements (outside scope of this fields' core question, which concerns public-district contracts).",
+      "confidenceImpact": "Confirmed — no change. High confidence."
+    },
+    {
+      "findingChallenged": "Statutory Citation — c.30B § 12; c.30B § 2; c.30B § 1(b)(8); c.71 § 7A",
+      "disconfirmingHypothesis": "Citations have been amended, repealed, renumbered, or superseded by 2024–2026 session laws (e.g., 2024 c.140 § 106; 2024 c.238 §§ 217–219; 2025 c.14 § 26; 2024 c.239); or are mis-cited.",
+      "challengeSearches": "Re-fetched each cited section directly from malegislature.gov (live, official text). Checked Acts of 2024 c.140 (FY25 budget — no § 106 amending c.71 § 7A found in text); Acts of 2024 c.238 (Economic Development — sections 217–219 not visible in fetched truncation, but no reference to c.71 § 7A in summary or available text); Acts of 2025 c.14 (FY25 supplemental — explicitly does NOT amend c.71 § 7A); Acts of 2024 c.239 (added new c.30B § 23 on electric vehicles — does NOT touch § 12 term cap); Acts of 2019 c.132 § 20 (REPEALED c.71B § 14).",
+      "result": "Primary statutory citations to c.30B §§ 1, 2, 12, 22 and c.71 § 7A all VERIFIED — live, official text confirms Stage 1's quotations and the operative legal rule. Stage 1's secondary citation to c.71B § 14 is OUTDATED (repealed 2019); corrected in the specialEducation field above. No 2024–2026 session law amends c.30B § 12 or the competitive-bidding language of c.71 § 7A. The 1996 DESE Pupil Transportation Guide remains on DESE's active web page but contains a stale citation to c.71B § 14 — noted in the source ledger.",
+      "confidenceImpact": "Confirmed with one stale-citation correction (c.71B § 14 dropped). High confidence."
+    }
+  ],
+  "sourcesReVerified": [
+    "M.G.L. c.30B § 12 (verified live at malegislature.gov)",
+    "M.G.L. c.30B § 2 (verified live at malegislature.gov)",
+    "M.G.L. c.30B § 1 (verified live at malegislature.gov)",
+    "M.G.L. c.30B § 22 (verified live at malegislature.gov)",
+    "M.G.L. c.30B § 7 (verified live at malegislature.gov)",
+    "M.G.L. c.71 § 7A (verified live at malegislature.gov)",
+    "M.G.L. c.71B § 8 (verified live at malegislature.gov — only duty/parental-reimbursement rules, no procurement rules)",
+    "M.G.L. c.71B § 14 (verified live at malegislature.gov — REPEALED by St. 2019 c.132 § 20)",
+    "St. 2019 c.132 § 20 (verified live at malegislature.gov)",
+    "St. 2024 c.239 (added new c.30B § 23 on EVs — does not affect § 12)",
+    "St. 2025 c.14 (does not amend c.71 § 7A)",
+    "DESE Pupil Transportation Guide (1996, still hosted at doe.mass.edu/finance/transportation/guide.html)",
+    "OIG, Chapter 30B Manual (9th ed.) — verified locally via the Mass. State Library bitstream; ch. 4 (duration), ch. 5 (bids), ch. 6 (options), ch. 13 (exemptions) all corroborate Stage 1's interpretation of § 12 and § 1(b)(8)",
+    "OIG Special Education Transportation Study (Feb. 2026) (verified via Mass. legislature SD3859 PDF; mass.gov hosted study)",
+    "Massachusetts Administrators for Special Education, Bid Law Information page (verified live at asepage.org)",
+    "Minuteman Regional Vocational Technical School Bid Spec (5-year, FY26–FY30, Jan. 2025) (verified)",
+    "Auburn Public Schools transportation bid (3-year + 2 one-year options FY26–FY28, Jan. 2025) (verified)",
+    "Boston Globe / WBUR coverage of Boston PS 5-year Transdev contract (March 2023) (verified)"
+  ],
+  "sourcesUnreachable": [
+    "Mass.gov 'Chapter 30B Exemptions and Exceptions' (OIG Academy Elective) at https://www.mass.gov/info-details/chapter-30b-exemptions-and-exceptions — direct fetch returned HTTP 403 (Cloudflare/login wall); the OIG interpretive language was cross-verified through (a) the OIG Chapter 30B Manual itself (Mass. State Library bitstream), which is the underlying authority, and (b) the ASE Bid Law Information page (live), which reproduces OIG language verbatim",
+    "Mass.gov hosted OIG Chapter 30B Manual download URL — direct fetch returned HTTP 403; obtained via Mass. State Library archive bitstream instead",
+    "OIG Charts on Procurement Procedures (July 2025) at https://www.mass.gov/doc/oig-charts-on-procurement-procedures-july-2025/download — direct fetch returned HTTP 403; content confirmed via search-result excerpts quoting § 12(b) verbatim",
+    "OIG Special Education Transportation Study (Feb. 2026) at https://www.mass.gov/doc/special-education-transportation-study/download — direct fetch returned HTTP 403; content confirmed via search-result summaries citing the report's confirmation that special-ed transportation is exempt from Ch. 30B"
+  ],
+  "sourceLedger": [
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.30B § 12 — Term of contract; information to be included in solicitation; cancellation of contract",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section12",
+      "codeCurrency": "Official Mass. Legislature page; no current-through stamp visible on page (Legislature does not display per-section currency). No 2024–2026 session law identified amending § 12; § 12(f) waste/sewage 20-year exception is the only term exception in the section.",
+      "fieldsSupported": "Max Contract Term; Rebid Required (via cross-reference); Renewal Mechanics; Statutory Citation",
+      "relevantText": "§ 12(a): governmental body may contract for any period serving its interests, provided solicitation includes term and conditions of renewal/extension/purchase; § 12(b): 'Unless authorized by majority vote, a procurement officer shall not award a contract for a term exceeding three years, including any renewal, extension, or option.'; § 12(c): multi-year solicitation disclosures; § 12(d): contract must be cancelled if appropriations unavailable; § 12(e): cost-benefit written determination required before exercising option; § 12(f): municipal waste/sewage 20-year exception (NOT applicable to pupil transportation).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.30B § 2 — Definitions",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section2",
+      "codeCurrency": "Official Mass. Legislature page; no current-through date displayed.",
+      "fieldsSupported": "Applicability to school districts; meaning of 'majority vote'",
+      "relevantText": "'Governmental body' = 'a city, town, district, regional school district, county, or agency, board, commission, authority, department or instrumentality of a city, town, district, regional school district or county.' 'Majority vote' for a regional school district = an affirmative vote by two-thirds of the members of the regional district school committee; for a city, town, or district = as in c.44 § 1; for a county = simple majority of commission; for a housing authority = simple majority of members.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.30B § 1 — Application of chapter (incl. § 1(b)(8) special-education exemption)",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section1",
+      "codeCurrency": "Official Mass. Legislature page; no current-through date displayed.",
+      "fieldsSupported": "Applicability; Special-Education differentiation",
+      "relevantText": "§ 1(b)(8) exempts 'an agreement for the provision of special education pursuant to chapter seventy-one B and regulations promulgated' thereto. No exemption for regular pupil transportation.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.30B § 22 — Cooperative purchasing agreements",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section22",
+      "codeCurrency": "Official Mass. Legislature page; no current-through date displayed.",
+      "fieldsSupported": "Renewal Mechanics — alternative procurement path",
+      "relevantText": "Authorizes a public procurement unit to participate in, sponsor, conduct or administer cooperative purchasing agreements; conducting unit must use full and open competition.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.30B § 7 — Sole source procurements",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section7",
+      "codeCurrency": "Official Mass. Legislature page; no current-through date displayed.",
+      "fieldsSupported": "Rebid Required — narrow exception",
+      "relevantText": "Sole-source procurement requires written determination that only one practicable source exists. Caps: $50,000 generally, $100,000 for municipalities/regional school districts. Limited utility-services exception.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.71 § 7A — Transportation of pupils; payment of costs; limitations",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71/Section7A",
+      "codeCurrency": "Official Mass. Legislature page; no current-through date displayed. No mention of any amendment that touches the procurement language. Live page contains the operative 'competitive sealed bids pursuant to chapter thirty B' requirement.",
+      "fieldsSupported": "Rebid Required; Statutory Citation",
+      "relevantText": "'No contract shall be awarded except upon the basis of prevailing wage rates... and of competitive sealed bids pursuant to chapter thirty B.' Schedule of prevailing wages is made part of the contract and must be posted during the contract life.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.71B § 8 — Transportation to and from school; reimbursement to parents",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71B/Section8",
+      "codeCurrency": "Official Mass. Legislature page; live, in force.",
+      "fieldsSupported": "Special-Education differentiation (transportation duty — but NOT a procurement rule)",
+      "relevantText": "Establishes the school committee's duty to provide transportation for children with disabilities attending department-approved schools and authorizes a voluntary parental-reimbursement program. Contains NO language on transportation contracts, procurement procedures, term limits, or competitive bidding.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Codified state statute (official Mass. Legislature)",
+      "citation": "M.G.L. c.71B § 14 — REPEALED by St. 2019, c.132, § 20 (formerly: special-education transportation reimbursement)",
+      "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71B/Section14",
+      "codeCurrency": "Repealed effective 2019. The statute page displays the repeal notation.",
+      "fieldsSupported": "(Formerly) Special-Education reimbursement — now superseded",
+      "relevantText": "'Section 14: Repealed, 2019, 132, Sec. 20.' Stage 1's citation to this section is replaced with M.G.L. c.71B § 8 (transportation duty) plus c.71B § 5A and the c.71 § 5A circuit-breaker mechanism for reimbursement. This stale citation does NOT undermine the special-education exemption from Ch. 30B, which lives at c.30B § 1(b)(8) and remains in force.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Session law (official Mass. Legislature)",
+      "citation": "St. 2019, c. 132, § 20 — Repeal of c.71B § 14",
+      "officialUrl": "https://malegislature.gov/Laws/SessionLaws/Acts/2019/Chapter132",
+      "codeCurrency": "Enacted 2019; effective per its terms. Confirmed via direct fetch.",
+      "fieldsSupported": "Special-Education differentiation (correction to Stage 1's citation roster)",
+      "relevantText": "'Section 20. Section 14 of said chapter 71B is hereby repealed.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 1 — Session law (official Mass. Legislature)",
+      "citation": "St. 2024, c. 239 — added new M.G.L. c.30B § 23 (electric vehicles / EVSE procurement)",
+      "officialUrl": "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter239",
+      "codeCurrency": "Enacted 2024. Confirmed via direct fetch.",
+      "fieldsSupported": "Current-law check (does NOT amend § 12)",
+      "relevantText": "Replaces c.30B § 23 with new language authorizing governmental bodies to procure electric vehicles and EV supply equipment under c.30B (incl. electric school buses), separately or in a single procurement. Does not touch § 12 term cap or c.71 § 7A.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 4 — Official OIG procurement manual (controlling implementation guidance)",
+      "citation": "Massachusetts Office of the Inspector General — The Chapter 30B Manual: Procuring Supplies, Services and Real Property (9th ed.)",
+      "officialUrl": "https://www.mass.gov/doc/the-chapter-30b-manual-procuring-supplies-services-and-real-property-legal-requirements-recommended-practices-and-sources-of-assistance-9th-edition/download",
+      "codeCurrency": "OIG's most recent edition; mass.gov download returned HTTP 403 but verified via the Mass. State Library archive bitstream (https://archives.lib.state.ma.us/server/api/core/bitstreams/51e1a433-c583-4ed0-a97e-4b79ccf5ef5b/content). Manual cites c.30B as amended through enactments incorporated up to the 9th edition's publication.",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Renewal Mechanics; Special-Education differentiation",
+      "relevantText": "Ch. 4: 'You may – subject to local ordinances, bylaws, or rules – enter into a Chapter 30B procurement contract for any period of time up to three years, including the term of any renewal, extension, or option. A contract for supplies or services with a term of more than three years, including the term of any renewal, extension, or option, is permissible only if a longer contract has been authorized by a majority vote of the governing body of your local jurisdiction before you award the contract.' Specifies majority-vote bodies by jurisdiction type. Ch. 5: 'Under M.G.L. c.71, §7A, you must use an IFB process to procure school bus transportation contracts for which you are seeking state reimbursement.' Ch. 6: 'You may not exercise a renewal, extension, or purchase option unless the option terms were included in the original solicitation and incorporated into [the contract]'; 'option price may not exceed the option price stated in the original contract.' Ch. 13, Exemption #8: 'An agreement for the provision of special education pursuant to M.G.L. c.71B and regulations promulgated pursuant thereto. [M.G.L. c.30B, §1(b)(8).] This exemption applies to direct services delivered to children with special needs, such as transportation, counseling or education under an individual education program... Other supplies and services, however, are not exempt simply because they are procured by the special education department.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 4 — Official OIG procurement guidance",
+      "citation": "OIG Charts on Procurement Procedures (July 2025)",
+      "officialUrl": "https://www.mass.gov/doc/oig-charts-on-procurement-procedures-july-2025/download",
+      "codeCurrency": "Published July 2025 — confirms § 12(b) 3-year cap with majority-vote escape remains current as of mid-2025.",
+      "fieldsSupported": "Max Contract Term; Renewal Mechanics; current-law check",
+      "relevantText": "Recites the c.30B § 12(b) rule: 'Unless authorized by majority vote, a procurement officer shall not award a contract for a term exceeding three years, including any renewal, extension, or option.' Direct fetch returned HTTP 403; content confirmed via search-result excerpts quoting the section verbatim.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 4 — Official OIG study (current-law currency check)",
+      "citation": "Massachusetts Office of the Inspector General — Special Education Transportation Study: Strategies to Mitigate Rising Costs (Feb. 2026)",
+      "officialUrl": "https://www.mass.gov/doc/special-education-transportation-study/download",
+      "codeCurrency": "Released February 2026 — reaffirms that special-ed transportation is exempt from Ch. 30B as of 2026.",
+      "fieldsSupported": "Special-Education differentiation; current-law check",
+      "relevantText": "92-page OIG study confirming special-ed transportation is exempt from Ch. 30B and recommending centralized bid repositories, standardized procurement documents, and a state-supported pricing rate structure for educational collaboratives. Direct fetch returned HTTP 403; content confirmed via search-result summaries.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 4 — Official state-education-department guidance",
+      "citation": "Massachusetts DESE — Pupil Transportation Guide for School Administrators (Aug. 1996)",
+      "officialUrl": "https://www.doe.mass.edu/finance/transportation/guide.html",
+      "codeCurrency": "Published August 1996; remains hosted on DESE's active 'School Finance' page. NOTE: the guide cites M.G.L. c.71B § 14 for special-ed reimbursement — that citation is STALE (§ 14 repealed in 2019). The guide's general statements ('Transportation contracts are awarded only after requesting bids in accordance with the law') remain accurate.",
+      "fieldsSupported": "Rebid Required (general statement); Special-Education differentiation (reimbursement context — citation stale)",
+      "relevantText": "'Transportation contracts are awarded only after requesting bids in accordance with the law.' 'A Special Education student transported as required by an educational plan would be subject to reimbursement under the provisions of Chapter 71B, Section 14, as amended. There are no mileage limits.' (Latter sentence's § 14 cite is stale.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 4 — Official OIG guidance (pathfinder)",
+      "citation": "Mass.gov / OIG — 'Chapter 30B Exemptions and Exceptions' (OIG Academy Elective)",
+      "officialUrl": "https://www.mass.gov/info-details/chapter-30b-exemptions-and-exceptions",
+      "codeCurrency": "Active OIG-published guidance page (Mass.gov). Direct fetch returned HTTP 403; OIG interpretation cross-verified through the OIG Chapter 30B Manual itself (Mass. State Library archive bitstream) and the ASE recitation of the same OIG language.",
+      "fieldsSupported": "Special-Education differentiation",
+      "relevantText": "Per OIG guidance (verbatim from the OIG Manual and reproduced by ASE): special-ed exemption covers 'direct services delivered to children with special needs, such as transportation, counseling or education under an individual education program' — but generic supplies (e.g., office computers) procured by a special-ed department remain subject to Ch. 30B.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Tier 5 — Statewide professional-association guidance citing binding authority",
+      "citation": "Massachusetts Administrators for Special Education — Bid Law Information page",
+      "officialUrl": "https://www.asepage.org/bid-law-information",
+      "codeCurrency": "Current ASE web page; quotes M.G.L. c.30B § 1(b)(8) and OIG interpretive language verbatim. Verified live.",
+      "fieldsSupported": "Special-Education differentiation",
+      "relevantText": "'An agreement for the provision of special education pursuant to c. 71B and regulations promulgated thereto. [M.G.L. c. 30B, §1(b)(8).]' — confirms exemption reaches special-ed transportation as a direct IEP service.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Secondary (district practice evidence — not cited as authority)",
+      "citation": "Boston Globe (3/22/2023) — Boston School Committee approves 5-year Transdev bus contract; WBUR (3/23/2023) corroborates",
+      "officialUrl": "https://www.bostonglobe.com/2023/03/22/metro/boston-school-committee-decide-budget-school-building-bus-contract-marathon-meeting/",
+      "codeCurrency": "Reporting dated March 22, 2023; cited only as evidence of district practice under § 12(b) majority-vote authorization.",
+      "fieldsSupported": "Max Contract Term — district practice (majority-vote pathway)",
+      "relevantText": "Boston School Committee voted to approve a 5-year, ~$17.5M/year contract with Transdev — illustrating the majority-vote pathway for awards exceeding the 3-year default cap.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Secondary (district practice evidence — not cited as authority)",
+      "citation": "Minuteman Regional Vocational Technical School — Bid Spec Bid25-01-MinutemanTransportation (Dec. 2024 / Jan. 2025)",
+      "officialUrl": "https://resources.finalsite.net/images/v1734710343/minutemanorg/ah7hru1cvpzfaitcabcx/Bid25-01-MinutemanTransportation.pdf",
+      "codeCurrency": "Solicitation issued December 2024 / bids due January 10, 2025; cited only as evidence of district practice.",
+      "fieldsSupported": "Max Contract Term — district practice; District Variance (term-selection variance)",
+      "relevantText": "Five-year transportation contract for FY26–FY30 — illustrating the majority-vote pathway for a regional school district award exceeding 3 years.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Massachusetts",
+      "sourceTier": "Secondary (district practice evidence — not cited as authority)",
+      "citation": "Auburn Public Schools — School Bus Transportation Bid (FY26–FY28)",
+      "officialUrl": "https://www.auburn.k12.ma.us/departments/business/school-bus-transportation-bid",
+      "codeCurrency": "Solicitation posted Jan. 2025; bids due Feb. 3, 2025.",
+      "fieldsSupported": "Max Contract Term — district practice; District Variance (term-selection variance)",
+      "relevantText": "Three-year base contract July 1, 2025 – June 30, 2028, with two one-year options — illustrating the typical structure for an award within the 3-year default cap, with options that would themselves require majority-vote authorization if exercised.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "queriesThatMattered": [
+      "Massachusetts MGL Chapter 30B section 12 contract term limit three years school bus transportation",
+      "Massachusetts MGL Chapter 71 section 7A school transportation contract bidding requirements",
+      "Massachusetts special education transportation procurement DESE chapter 71B contract",
+      "Massachusetts Chapter 30B Section 12 amended 2021 2022 2023 session law",
+      "Massachusetts educational collaborative special education transportation procurement exemption chapter 30B section 1",
+      "Massachusetts school district school bus contract 'majority vote' 'five years' '30B' award procurement",
+      "'Acts of 2024' OR 'Acts of 2025' Massachusetts 'chapter 71' 'section 7A' amend pupil transportation",
+      "'OIG charts on procurement procedures' July 2025 Massachusetts 30B section 12 three year majority vote",
+      "Massachusetts Office Inspector General 'special education transportation' study 2026 procurement chapter 30B"
+    ],
+    "codeCurrency": "Official Massachusetts Legislature (malegislature.gov) pages for c.30B §§ 1, 2, 7, 12, 22 and c.71 §§ 7A and 71B § 8 are the live, official codified text. The Legislature does not display a 'current-through' stamp on individual section pages. No session-law amendment to c.30B § 12 or c.71 § 7A was identified through 2024–2026 session-law searches. Acts of 2024 c.239 added a NEW § 23 to c.30B (electric school buses / charging infrastructure procurement) — it did not amend § 12 or § 7A. Acts of 2024 c.399 created a school-bus violation-detection-camera regime under c.90 (cross-referencing c.30B for camera-vendor procurement) — it did not amend the term-cap or pupil-transportation procurement rules. Acts of 2025 c.14 (FY25 supplemental) does NOT amend c.71 § 7A. The OIG Charts on Procurement Procedures (July 2025) and the OIG Special Education Transportation Study (Feb. 2026) both reflect the same § 12(b) / § 1(b)(8) framework in force as of mid-2025 / early 2026, providing a current-law check past the code page's own implied currency.",
+    "adminCodeCurrency": "Massachusetts Code of Regulations (CMR) — no DESE or Operational Services Division (OSD) regulation establishes a transportation-specific contract-term cap. 603 CMR 41.00 (Regional School Districts) addresses governance, not procurement term limits. 801 CMR (OSD state procurement) governs commonwealth/state-agency procurements, not local-school-district procurements (which are governed by c.30B).",
+    "sessionLawCheck": "Checked malegislature.gov Session Laws for Acts of 2024 and Acts of 2025 for amendments to c.30B § 12 and c.71 § 7A. Identified amendments to c.30B that ADD sections (e.g., § 23 in 2024 c.239; § 6A reverse auctions earlier) but no amendment to the § 12 term-cap rule. No amendment to c.71 § 7A identified. Verified that St. 2019 c.132 § 20 REPEALED c.71B § 14 (a stale Stage-1 citation that has been corrected).",
+    "negativeSearchPaths": [
+      "Searched for any Massachusetts statute setting a pupil-transportation-specific maximum contract term — none found (the general c.30B § 12 cap controls).",
+      "Searched for any DESE regulation or guidance setting renewal mechanics distinct from c.30B § 12 — none found.",
+      "Searched for AG opinion specifically interpreting c.71 § 7A contract terms — none identified beyond the OIG Chapter 30B Manual's implementation of § 12.",
+      "Searched for special-ed-specific term cap under c.71B — none found; c.71B contracts are exempt from c.30B per § 1(b)(8) and no alternative cap is imposed by c.71B.",
+      "Searched for evergreen/automatic-renewal authorization for school transportation contracts — none found; renewals must be disclosed in the solicitation and exercised at the sole discretion of the governmental body per § 12(e).",
+      "Searched for transportation-specific extension of the § 12(f) 20-year exception (waste/sewage) to school buses — none exists; § 12(f) is textually limited to garbage/refuse/offal disposal and sewage/sludge treatment.",
+      "Searched 2024 c.140 §106 and 2024 c.238 §§217–219 (initially flagged by a search engine as possibly amending c.71 §7A) — direct fetches of the underlying acts found no amendment text reaching c.71 §7A's procurement language; the c.71 §7A live page itself contains no amendment notation."
+    ],
+    "conflictChecks": "No conflict among authoritative sources. The c.71 § 7A 'competitive sealed bids pursuant to chapter thirty B' cross-reference and the c.30B § 12 term-cap rule operate together coherently: pupil-transportation contracts must be competitively procured under c.30B and are subject to the same 3-year default term cap (subject to majority-vote authorization) as other c.30B services. The c.30B § 1(b)(8) special-education exemption is the one carve-out, applying only to direct IEP services under c.71B (per OIG Manual, OIG Feb. 2026 study, and ASE). One technical limitation: the Mass.gov OIG 'Chapter 30B Exemptions and Exceptions' page returned HTTP 403 on direct fetch; the OIG's interpretive language was cross-verified through the underlying OIG Chapter 30B Manual (Mass. State Library archive bitstream) and through the ASE Bid Law Information page (live), which quotes OIG verbatim. One Stage-1 citation correction: M.G.L. c.71B § 14 was repealed in 2019 and should not be cited as current law; this does not undermine the special-education exemption analysis, which rests on c.30B § 1(b)(8) and c.71B § 8."
+  },
+  "finalConfidence": "High",
+  "scratchWritten": true,
+  "scratchPath": "/Users/zabrisket/Documents/Summit_School_Services_MASTER/State-Level Research/03_MA-NJ/scratch/massachusetts.json"
+}

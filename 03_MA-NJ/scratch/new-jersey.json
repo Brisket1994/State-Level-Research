@@ -1,0 +1,211 @@
+{
+  "state": "New Jersey",
+  "fields": {
+    "maxContractTerm": {
+      "value": "4 years (original term cap). A board of education may enter into a transportation contract, approved by the executive county superintendent, for a term not exceeding 4 years (N.J.S.A. 18A:39-2). Multi-year contracts taking effect after September 1, 1975 may, at the local board's discretion and subject to county-superintendent approval, be increased annually (beginning in year 2) by not more than 7 1/2% of the original yearly contract cost. After the 4-year original term expires, the contract may be carried forward only via annual extensions/renewals under N.J.S.A. 18A:39-3 and N.J.A.C. 6A:27-9.13 (see Renewal Mechanics). There is no statutory hard cap on the cumulative number of one-year renewals that may follow the original term; NJDOE's official Contract Information page publishes a renewal template captioned 'Student Transportation Contract Renewals - 10 Renewals,' indicating the administrative form is designed to accommodate up to 10 successive one-year renewals.",
+      "citation": "N.J.S.A. 18A:39-2 (Methods of providing transportation; 4-year cap and 7 1/2% annual increase), L.1967, c.271, as amended by L.1977, c.68, s.1 and L.1982, c.74, s.2; implemented at N.J.A.C. 6A:27-9.9(a) ('The term of the original contract shall not exceed four years.'); annual renewals after the original term under N.J.S.A. 18A:39-3 and N.J.A.C. 6A:27-9.13."
+    },
+    "rebidRequired": {
+      "value": "Conditional. A new competitive bid is required at the END of the (up to 4-year) original contract term UNLESS the contract qualifies for an annual extension/renewal under N.J.S.A. 18A:39-3 and N.J.A.C. 6A:27-9.13 (no cost increase, or increase within the CPI ceiling, with executive county superintendent approval and the same school destination). Public bidding is otherwise required whenever the school-year contract amount exceeds the threshold ($24,200 effective 7/1/2025-6/30/2027 for quoted/parental contracts; the formal bid threshold for full pupil-transportation contracts is established under N.J.S.A. 18A:39-3 and adjusted by the Governor each odd-numbered year), with newspaper advertisement at least 10 days before bid receipt, award to the lowest responsible bidder, and approval by the executive county superintendent.",
+      "citation": "N.J.S.A. 18A:39-3 (Pupil transportation contracts) (as amended by P.L.2021, c.307); N.J.A.C. 6A:27-9.2(b) ('District boards of education shall have the option of annually bidding all transportation contracts or awarding annual extensions of existing contracts.'); N.J.A.C. 6A:27-9.13 (Renewing contracts)."
+    },
+    "renewalMechanics": {
+      "value": "After the original (up to 4-year) bid contract, the district may award successive ANNUAL extensions (one-year renewals) without rebidding, but only if ALL of the following are satisfied: (1) the contract was entered into through competitive bidding; (2) the terms of the contract remain the same; (3) the school destination remains the same; (4) the renewal is approved by the executive county superintendent; AND (5) the cost change is either (a) no increase, (b) an increase not exceeding the annual rise in the Consumer Price Index (CPI) as defined in N.J.S.A. 18A:7F-45 (NJDOE published 3.58% for 2026-27 and 3.57% for 2025-26), or (c) an increase that does exceed CPI but is, per the original bid, directly attributable to a route change to accommodate new student riders, safety concerns, or addition/removal of an aide. During the original multi-year contract (years 2-4), the annual cost increase may not exceed 7 1/2% of the original yearly contract cost per N.J.S.A. 18A:39-2 and N.J.A.C. 6A:27-9.9(a)(1); contracts exceeding 7 1/2% must be rebid for the following school year. A bus-type change does not require an immediate rebid but must be approved by the district board of education and bid for the next school year. Annual extensions may not be granted to a contractor debarred under N.J.S.A. 18A:39-11.5 (P.L.2021, c.307). All renewals require approval of the executive county superintendent and use Commissioner-prescribed forms; NJDOE publishes a renewal template called 'Student Transportation Contract Renewals - 10 Renewals.' No automatic/evergreen rollover; no general mutual-agreement extension outside this framework.",
+      "citation": "N.J.S.A. 18A:39-3 (annual extensions, CPI ceiling, bus-type exception, debarment restriction); N.J.S.A. 18A:39-2 (7 1/2% annual cap during multi-year original term); N.J.A.C. 6A:27-9.9 (Contracts); N.J.A.C. 6A:27-9.13 (Renewing contracts); N.J.A.C. 6A:27-9.14 (Addendum to a contract); NJDOE, 'Contracting Student Transportation Services' (Multiyear and Renewal Contract sections)."
+    },
+    "statutoryCitation": {
+      "value": "Primary statutes: N.J.S.A. 18A:39-2 (4-year original-term cap; 7 1/2% annual increase) and N.J.S.A. 18A:39-3 (bidding requirement, CPI-based annual extensions, executive county superintendent approval, threshold, debarment review), the latter as last amended by P.L.2021, c.307 (A5818 2R, approved November 8, 2021). Primary regulations: N.J.A.C. 6A:27-9.2, -9.3, -9.9, -9.13, -9.14, -9.15 (Subchapter 9 - Contracting for Transportation Services). Carve-out from the Public School Contracts Law multiyear cap: N.J.S.A. 18A:18A-49.1 ('The provisions of this chapter shall not apply to contracts for the transportation of pupils to and from school, which contracts are regulated by Chapter 39 of this Title.'), so the 5-year general services cap in N.J.S.A. 18A:18A-42 does NOT control pupil transportation contracts.",
+      "officialUrl": "https://pub.njleg.gov/bills/2020/AL21/307_.HTM (P.L.2021, c.307 text amending N.J.S.18A:39-3); https://www.nj.gov/njded/code/current/title6a/chap27.pdf (current N.J.A.C. 6A:27); https://www.nj.gov/dca/divisions/dlgs/programs/lpcl_docs/pscl_18a_18a-1.doc (Public School Contracts Law including 18A:18A-42 and 18A:18A-49.1); https://www.nj.gov/education/transportation/contract/docs/contracting.pdf (NJDOE 'Contracting Student Transportation Services' manual)."
+    },
+    "districtVariance": {
+      "value": "No - Uniform statewide application. Every pupil-transportation contract above the statutory threshold must be bid under N.J.S.A. 18A:39-3 and must be approved by the executive county superintendent (a state officer, not a district appointee) per N.J.A.C. 6A:27-9.9. All contracts and renewals use Commissioner-prescribed forms (NJDOE publishes the bid specifications, multi-year contract, multi-route contract, renewal, addendum, transfer, joint agreement and parental contract templates centrally; see NJDOE Contract Information page listing 12 statewide forms including 'Multi Year Transportation Contract' and 'Student Transportation Contract Renewals - 10 Renewals'). Districts may select among the statutorily authorized methods (annual rebid vs. multi-year contract vs. annual renewal vs. joint transportation agreement vs. CTSA agreement vs. district-owned operation), but the contracting rules themselves do not vary across districts. The executive county superintendent approval requirement is the principal mechanism for statewide uniformity."
+    }
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "statutoryCitation": "confirmed",
+    "districtVariance": "confirmed",
+    "specialEducation": "confirmed"
+  },
+  "specialEducation": {
+    "value": "Same Chapter 39 / N.J.A.C. 6A:27 contracting framework applies to transportation of students with disabilities; there is no separate state contract-term-length statute for special-education transportation, no separate rebid rule, and no separate renewal rule. The differences from regular-route procurement are operational, not contractual: (i) per N.J.A.C. 6A:27-9.3 bid specifications, regular public/nonpublic and in-district special-education routes use per-mile cost adjustment, while out-of-district special-education routes may be bid on a per-vehicle, per-student, or per-mile basis (in addition to per-route); routes requiring an aide are bid on a per-diem basis; (ii) under N.J.A.C. 6A:27-10 (Coordinated Transportation Services), resident district boards of education MUST utilize a Coordinated Transportation Services Agency (CTSA) to transport students attending a special-education or vocational school outside the resident district, and a CTSA agreement is awarded by resolution rather than competitive bid (although under N.J.S.A. 18A:39-11.2, CTSA-type entities providing transportation TO a local district remain subject to Chapter 39 bidding/renewal requirements, with narrow grandfather carve-outs for certain pre-2004 ESCs/jointure commissions, pre-1999 first-class-county commissions, certain pre-2004 county special services school districts, and a fifth-class-county special services district providing special-education transportation as of January 1, 2004); (iii) parental contracts under N.J.S.A. 18A:39-1.3 and N.J.A.C. 6A:27-9 are negotiated, not bid. McKinney-Vento, foster-care, and homeless-student transportation duties arise from federal law and N.J.S.A. 18A:7B-12.1 et al.; those federal mandates address the duty to transport, not the state contract-term/procurement rules, which remain those of Chapter 39 and N.J.A.C. 6A:27.",
+    "citation": "N.J.A.C. 6A:27-9.3 (bid specifications, including special-education bid basis); N.J.A.C. 6A:27-10 (Coordinated Transportation Services); N.J.S.A. 18A:39-11.2 (Bidding requirements for certain pupil transportation contracts; CTSA / ESC / jointure / county special services district carve-outs), L.2005, c.84, s.1; N.J.S.A. 18A:39-1.3 (parental contracts).",
+    "verdict": "confirmed"
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max contract term = 4 years (original term)",
+      "disconfirmingHypothesis": "Look for longer-term/renewal-option authority in education code, procurement code, or the 18A:18A-42 multiyear exceptions; check for 'notwithstanding,' 'extension,' 'option,' 'successive,' 'multi-year,' or 'shall not exceed' language; verify whether the 10-year leasing rule or 5-year general services cap displaces the 4-year rule.",
+      "challengeSearches": "Searched: (1) onecle pathfinder for N.J.S.A. 18A:39-2 to read verbatim text; (2) N.J.A.C. 6A:27-9.9(a) text confirming 'term of the original contract shall not exceed four years'; (3) N.J.S.A. 18A:18A-49.1 to confirm the PSCL carve-out routes pupil transportation to Chapter 39; (4) N.J.S.A. 18A:18A-42 to check whether any exception (e.g., the 10-year fossil-fuel-bus leasing exception) reaches service contracts; (5) WebSearch for '18A:39 longer than four years / 5 year / 10 year' returned no longer-term service-contract authority.",
+      "result": "Confirmed. The 4-year original-term cap holds. The 10-year leasing rule in 18A:18A-42(f) applies to LEASING school buses, not to service contracts with private transportation contractors. 18A:18A-49.1 expressly excludes pupil transportation from the PSCL multiyear provisions.",
+      "confidenceImpact": "No reduction; confidence remains High."
+    },
+    {
+      "findingChallenged": "Rebid required at term-end: Conditional",
+      "disconfirmingHypothesis": "Look for exceptions to mandatory rebid: emergency procurement, sole source, cooperative purchasing / interlocal / piggyback contracts, board waiver, state-agency approval, negotiated procurement, small-purchase thresholds, or expanded renewal-without-bid authority.",
+      "challengeSearches": "Searched: (1) N.J.A.C. 6A:27-9.2(b) confirms district 'option of annually bidding all transportation contracts or awarding annual extensions of existing contracts'; (2) N.J.A.C. 6A:27-9.12 Quoted contracts for under-threshold contracts (small-purchase exemption); (3) N.J.S.A. 18A:39-3 for the CPI-bounded annual extensions exemption; (4) N.J.S.A. 18A:39-11.2 grandfather carve-outs for certain CTSA/ESC/jointure entities. No discovered authority dispenses with the term-end rebid trigger when annual-extension conditions are not met.",
+      "result": "Confirmed. 'Conditional' accurately captures the rule: rebid required at term-end unless the contract qualifies for an annual extension/renewal under the enumerated 6A:27-9.13 / 18A:39-3 conditions.",
+      "confidenceImpact": "No reduction; confidence remains High."
+    },
+    {
+      "findingChallenged": "Renewal mechanics: annual extensions only under five enumerated 6A:27-9.13 conditions (no automatic/evergreen rollover, no general mutual-agreement extension)",
+      "disconfirmingHypothesis": "Look for limits/conditions and counter-evidence: any CPI exception that does not require executive county superintendent approval, any maximum number of renewals encoded in statute, any automatic rollover authority, or any fuel-escalator exception outside the 18A:39-3 framework.",
+      "challengeSearches": "Searched: (1) Re-opened N.J.A.C. 6A:27-9.13 verbatim - confirms the 4 enumerated conditions plus executive county superintendent approval (5 total) and the CPI ceiling; (2) Re-opened N.J.A.C. 6A:27-9.14 (Addendum) for any separate cost-adjustment authority - addendums are limited to mileage adjustment based on the original bid; (3) Re-verified P.L.2021, c.307 text via njleg.gov for the debarment restriction and bus-type exception. No statutory maximum on cumulative annual renewals was located; the NJDOE administrative form caps at 10 renewals.",
+      "result": "Confirmed. The five-criteria framework holds; no automatic/evergreen authority found; statute is silent on a cumulative renewal-count cap, with the administrative template providing up to 10 renewals.",
+      "confidenceImpact": "No reduction; confidence remains High."
+    },
+    {
+      "findingChallenged": "Statutory citation: N.J.S.A. 18A:39-2 and 18A:39-3 control; PSCL 5-year cap (18A:18A-42) does NOT apply",
+      "disconfirmingHypothesis": "Test whether the general PSCL 5-year cap might also reach pupil transportation; test whether N.J.S.A. 18A:18A-4.2 (also a 5-year cap) might apply.",
+      "challengeSearches": "Searched: (1) Re-opened N.J.S.A. 18A:18A-49.1 verbatim via onecle pathfinder: 'The provisions of this chapter shall not apply to contracts for the transportation of pupils to and from school, which contracts are regulated by Chapter 39 of this Title.' This expressly excludes pupil transportation from BOTH 18A:18A-42 and 18A:18A-4.2 (both within Chapter 18A); (2) Re-verified P.L.2021, c.307 text confirms current 18A:39-3 language matches Stage 1 quotes.",
+      "result": "Confirmed. The Chapter-39 framework controls; the PSCL carve-out is unambiguous.",
+      "confidenceImpact": "No reduction; confidence remains High."
+    },
+    {
+      "findingChallenged": "Special-education differentiation: no separate term/rebid/renewal statute - operational differences only",
+      "disconfirmingHypothesis": "Look for a separate special-education contract-term statute, separate IEP/disability transportation rebid rule, or different McKinney-Vento/foster-care procurement rules.",
+      "challengeSearches": "Searched: (1) N.J.A.C. 6A:27 table of contents (Subchapter 5 Transportation of Students with Disabilities, Subchapter 6 Other Special Populations including Homeless, Subchapter 10 Coordinated Transportation Services); none of these create separate contract-term or renewal-period rules; (2) N.J.S.A. 18A:39-11.2 confirms CTSA/ESC/jointure carve-outs identified by Stage 1; (3) WebSearch for 'special education transportation separate statute different' returned no separate term/renewal rule.",
+      "result": "Confirmed. Chapter 39 framework controls special-education transportation contract terms and renewals; only operational bidding-basis differences exist (per-vehicle/per-student/per-mile under 6A:27-9.3) and the CTSA mandate (Subchapter 10).",
+      "confidenceImpact": "No reduction; confidence remains High."
+    },
+    {
+      "findingChallenged": "District variance: No - uniform statewide application",
+      "disconfirmingHypothesis": "Consult at least two district policy/procurement manuals (one large/urban, one small/rural) and search for AG opinions, NJ Comptroller findings, or NJSBA guidance suggesting inter-district interpretation variance.",
+      "challengeSearches": "Searched: (1) Paramus K-12 Purchasing Manual (district policy doc) - returned encoded PDF content not directly readable, but document title and search snippets confirm alignment with state framework; (2) NJDOE Contract Information page confirms 12 statewide Commissioner-prescribed forms used by all districts; (3) WebSearch for AG opinions / Comptroller findings / NJSBA guidance on inter-district interpretation variance of 18A:39-2/3 returned no such evidence; (4) Re-confirmed that the executive county superintendent (state officer) must approve every contract/extension - this is the structural variance-suppression mechanism.",
+      "result": "Confirmed. No credible inter-district interpretation variance located; uniformity is enforced via state-officer approval and statewide forms. Districts choose AMONG statutorily authorized methods (rebid vs. multi-year vs. annual extension vs. joint agreement vs. CTSA vs. district-owned), but do not vary the contracting rules themselves.",
+      "confidenceImpact": "No reduction; confidence remains High."
+    },
+    {
+      "findingChallenged": "Currentness: 18A:39-2 (last amended 1982) and 18A:39-3 (last amended P.L.2021, c.307) remain in force",
+      "disconfirmingHypothesis": "Test whether any 2022-2026 session law amended either section, or whether the November 2025 N.J.A.C. 6A:27 proposed rulemaking would change 6A:27-9.9 or 6A:27-9.13.",
+      "challengeSearches": "Searched: (1) NJ session laws 2022-2026 for amendments to 18A:39-2 or 18A:39-3 - none located; P.L.2024, c.81 amends 18A:39-20.1 (Type S buses) and adds nonpublic-consortium provisions (new Subchapter 14), not the contract-term/renewal framework; (2) State Board of Education November 2025 agenda item D - Proposed Amendments and New Rules at N.J.A.C. 6A:27 - the PDF was not directly text-extractable via WebFetch but earlier-stage research indicates targeted changes (e.g., 7.6 'July 15' to 'August 15', Subchapter 14 nonpublic-consortium provisions) and NOT amendments to 6A:27-9.9(a) or 6A:27-9.13; (3) WebSearch for '6A:27-9.9 OR 6A:27-9.13 proposed amendment' confirmed no proposed amendment to the term/renewal sections.",
+      "result": "Confirmed. Both statutes and the implementing regulation provisions on term/renewal remain current as of 2026-06-24. The November 2025 proposal had not been adopted as of the as-of date and does not change the four-year cap or renewal framework.",
+      "confidenceImpact": "No reduction; confidence remains High."
+    }
+  ],
+  "sourcesReVerified": [
+    "N.J.A.C. 6A:27, Student Transportation - https://www.nj.gov/njded/code/current/title6a/chap27.pdf (PDF re-fetched via firecrawl; full text of 6A:27-9.9(a), 6A:27-9.13, 6A:27-9.14, 6A:27-9.2(b), 6A:27-10.1 verified verbatim)",
+    "P.L.2021, c.307 (A5818 2R) - https://pub.njleg.gov/bills/2020/AL21/307_.HTM (text re-verified via WebFetch; amends 18A:39-3 for CPI annual extensions, executive county superintendent approval, bus-type exception, debarment)",
+    "N.J.S.A. 18A:39-2 (4-year cap; 7.5% annual increase) - re-verified via onecle pathfinder (https://law.onecle.com/new-jersey/title-18a/18a-39-2.html) and corroborated by 6A:27-9.9(a) cross-reference",
+    "N.J.S.A. 18A:18A-49.1 (PSCL carve-out for pupil transportation) - re-verified verbatim via onecle pathfinder (https://law.onecle.com/new-jersey/title-18a/18a-18a-49.1.html); Stage 1 official URL (https://www.nj.gov/dca/divisions/dlgs/programs/lpcl_docs/pscl_18a_18a-1.doc) returned only partial text via WebFetch but corroborated through DLGS publication of the PSCL",
+    "N.J.S.A. 18A:39-11.2 (CTSA/ESC/jointure carve-outs) - re-verified via onecle pathfinder (https://law.onecle.com/new-jersey/title-18a/18a-39-11.2.html); confirms L.2005, c.84, s.1 source and four grandfather exceptions",
+    "NJDOE Student Transportation Contract Information page - https://www.nj.gov/education/transportation/contract/ (re-fetched via WebFetch; confirmed 12 Commissioner-prescribed forms including 'Student Transportation Contract Renewals - 10 Renewals' and 'Multi Year Transportation Contract'; CPI 3.58% for 2026-27 published; page last updated 05/07/2026)",
+    "N.J.S.A. 18A:39-3 current text - re-verified via WebSearch returning Justia codification confirming bid threshold, CPI annual extensions, debarment restriction (text matches P.L.2021, c.307 amendments)"
+  ],
+  "sourcesUnreachable": [
+    "https://law.justia.com/codes/new-jersey/title-18a/section-18a-39-3/ (Justia returned HTTP 403 to WebFetch; firecrawl tools required re-authorization mid-session; the underlying codified text was nevertheless confirmed via (a) WebSearch result extracts quoting the statute, (b) the P.L.2021, c.307 session-law text on pub.njleg.gov, and (c) the implementing regulation N.J.A.C. 6A:27-9.13 cross-reference. The Justia URL is a secondary republication used as pathfinder only.)",
+    "https://www.nj.gov/education/transportation/contract/docs/contracting.pdf (NJDOE manual PDF was retrieved via WebFetch as binary content and not parsed into readable text in this validation pass; substantive content was independently corroborated by (a) the directly-readable N.J.A.C. 6A:27 PDF, (b) the NJDOE Contract Information landing page form list including 'Multi Year Transportation Contract' and 'Student Transportation Contract Renewals - 10 Renewals,' and (c) WebSearch results citing the manual's substantive sections.)",
+    "https://nj.gov/education/sboe/meetings/agenda/2025/November/public/5d1_Item_D_Student_Transportation.pdf (State Board of Education November 2025 proposed-amendments PDF was retrieved as binary; substantive scope of the proposal - targeted changes to 6A:27-7.6 deadline and new Subchapter 14 - corroborated through related NJDOE/NJPSA reporting and the absence of any proposed change to 6A:27-9.9 or 6A:27-9.13 in WebSearch results.)"
+  ],
+  "sourceLedger": [
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 1 - Codified state statute",
+      "citation": "N.J.S.A. 18A:39-2 (Methods of providing transportation), L.1967, c.271, as amended by L.1977, c.68, s.1 and L.1982, c.74, s.2.",
+      "officialUrl": "https://law.onecle.com/new-jersey/title-18a/18a-39-2.html (pathfinder; official codified text held by NJ Legislative Statutes Database at lis.njleg.state.nj.us, which serves the section through a session-bound NXT gateway that does not support clean deep links). Substantive text independently corroborated through N.J.A.C. 6A:27-9.9(a) which directly cross-references 18A:39-2.",
+      "codeCurrency": "Last amended 1982; remains in force as of 2026-06-24 (no subsequent amendment found in NJ session laws through P.L.2026)",
+      "fieldsSupported": "Max contract term; renewal mechanics (7 1/2% annual ceiling during original term)",
+      "relevantText": "'Any board of education having power to provide for the transportation of school pupils in its district to and from school may provide such transportation by a bus or buses owned by it or may enter into contract for such transportation, approved by the county superintendent, for a term not exceeding 4 years. All multiyear contracts made pursuant to the above taking effect subsequent to September 1, 1975 may, at the discretion of the local board of education, and subject to approval by the county superintendent, be increased not to exceed 7 1/2 [%] annually of the original yearly contract cost beginning with the second year of the contract.' (Stage 2 re-verified via onecle pathfinder.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 1 - Codified state statute (session law)",
+      "citation": "N.J.S.A. 18A:39-3 (Pupil transportation contracts) as amended by P.L.2021, c.307 (A5818 2R, approved November 8, 2021); also amended 1968, 1977, 1982, 1985, 1991, 2001, 2003, 2007",
+      "officialUrl": "https://pub.njleg.gov/bills/2020/AL21/307_.HTM",
+      "codeCurrency": "Current through P.L.2025 (latest substantive amendment P.L.2021, c.307; no later session-law amendment to 18A:39-3 located through 2026-06-24)",
+      "fieldsSupported": "Rebid requirement; renewal mechanics (annual extensions, CPI ceiling, executive county superintendent approval, bus-type change, debarment restriction); statutory citation",
+      "relevantText": "P.L.2021, c.307 amends 18A:39-3: 'Nothing in this chapter shall require the advertisement and letting on proposals or bids of annual extensions, approved by the executive county superintendent, of any contract for transportation entered into through competitive bidding when the increase in the contractual amount as a result of such extensions does not exceed the rise in the Consumer Price Index...Any such extension as described in this paragraph shall require the approval of the executive county superintendent of schools.' 'Nothing in this chapter shall require the immediate bid of any contract renewal for the remainder of a school year in which the only change, in addition to route description, is the bus type.' 'No annual extension shall be granted pursuant to this subsection to a person who has been debarred from bidding on a pupil transportation contract pursuant to the provisions of section 3 of P.L.2021, c.307 (C.18A:39-11.5).' (Stage 2 re-verified via WebFetch of pub.njleg.gov.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 2 - State administrative code",
+      "citation": "N.J.A.C. 6A:27-9 (Contracting for Transportation Services), particularly 6A:27-9.2 (Responsibilities), 6A:27-9.3 (Bid specifications), 6A:27-9.9 (Contracts), 6A:27-9.13 (Renewing contracts), 6A:27-9.14 (Addendum), 6A:27-9.15 (Transferring contracts and contract renewals), 6A:27-9.16 (Joint transportation agreements); Subchapter 10 (Coordinated Transportation Services)",
+      "officialUrl": "https://www.nj.gov/njded/code/current/title6a/chap27.pdf",
+      "codeCurrency": "Chapter readopted as R.2021 d.011, effective January 7, 2021; remains the operative chapter on 2026-06-24. Notice of Proposed Amendments and New Rules filed November 2025 (NJ State Board of Education) proposes targeted changes that do NOT amend the 4-year term cap at 6A:27-9.9(a) or the renewal framework at 6A:27-9.13.",
+      "fieldsSupported": "Max contract term (6A:27-9.9(a)); rebid requirement (6A:27-9.2(b)); renewal mechanics (6A:27-9.13); addendum/CPI mechanics (6A:27-9.14); statewide uniformity (executive county superintendent approval throughout)",
+      "relevantText": "6A:27-9.9(a): 'The term of the original contract shall not exceed four years. 1. Beginning in the second year, a multi-year contract may be increased annually by a maximum of seven and one-half percent of the original yearly contract amount in accordance with N.J.S.A. 18A:39-2.' 6A:27-9.13(a): 'Annual extensions of an existing contract, approved by the executive county superintendent, shall be permitted provided: 1. The contract was entered into through competitive bidding; 2. The terms of the contract remain the same; 3. There is no increase in the annual amount of the contract...or the increase...does not result in an effective increase that exceeds for the school year the annual rise in the Consumer Price Index (CPI) as defined in N.J.S.A. 18A:7F-45...; 4. The school destination remains the same as the original contract.' 6A:27-9.13(b): 'When it is necessary to change the bus type, an immediate rebid of a contract renewal shall not be required. Any such change shall be approved by the district board of education and shall be bid for the next school year.' (Stage 2 re-verified all four passages verbatim by extracting the PDF via firecrawl.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 1 - Codified state statute (carve-out clarifying which procurement regime governs)",
+      "citation": "N.J.S.A. 18A:18A-49.1 (Transportation of pupils to and from schools) - excludes pupil-transportation contracts from the Public School Contracts Law and its 5-year cap in 18A:18A-42 (and 18A:18A-4.2)",
+      "officialUrl": "https://www.nj.gov/dca/divisions/dlgs/programs/lpcl_docs/pscl_18a_18a-1.doc (NJ Division of Local Government Services publication of the Public School Contracts Law, N.J.S.A. 18A:18A-1 et seq.); cross-confirmed via onecle pathfinder https://law.onecle.com/new-jersey/title-18a/18a-18a-49.1.html",
+      "codeCurrency": "Statute current through 2026 session; L.1977, c.114, s.1.",
+      "fieldsSupported": "Statutory citation; eliminates the Public School Contracts Law 5-year multiyear caps as applicable authority for pupil transportation - Chapter 39 controls",
+      "relevantText": "'The provisions of this chapter shall not apply to contracts for the transportation of pupils to and from school, which contracts are regulated by Chapter 39 of this Title.' (Stage 2 re-verified verbatim via onecle pathfinder.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 4 - Official state-education-department guidance citing binding authority",
+      "citation": "NJ Department of Education, 'Contracting Student Transportation Services' (manual), available via NJDOE Student Transportation - Contract Information page",
+      "officialUrl": "https://www.nj.gov/education/transportation/contract/docs/contracting.pdf (PDF) / https://www.nj.gov/education/transportation/contract/ (landing page; CPI for 2026-27 published as 3.58%, page last updated 05/07/2026)",
+      "codeCurrency": "Manual references N.J.S.A. 18A:39-1a, 18A:39-2, 18A:39-3 and N.J.A.C. 6A:27 throughout; NJDOE landing page Last Updated 05/07/2026",
+      "fieldsSupported": "Max contract term; rebid requirement; renewal mechanics; district variance (uniform statewide forms)",
+      "relevantText": "Landing page lists 12 statewide Commissioner-prescribed contract forms including 'Multi Year Transportation Contract,' 'Student Transportation Contract Renewals - 10 Renewals,' 'Out of District Special Needs Transportation Contract,' 'Joint Transportation Agreement,' 'Parental Transportation Contract,' and 'Transportation Contract Addendum.' Stage 1 quoted from the manual's Sections II.15, III, and VIII (Multiyear Contracts and Renewal Contracts). Stage 2 directly re-verified the landing-page form list and CPI rate via WebFetch; the PDF itself was retrieved as binary and not text-parsed in this validation pass (see sourcesUnreachable), but substantive content is independently corroborated by N.J.A.C. 6A:27-9.9 and 6A:27-9.13 verbatim text.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 1 - Codified state statute (special-education-related contracting carve-out)",
+      "citation": "N.J.S.A. 18A:39-11.2 (Bidding requirements for certain pupil transportation contracts), L.2005, c.84, s.1",
+      "officialUrl": "https://law.onecle.com/new-jersey/title-18a/18a-39-11.2.html (pathfinder to codified text; canonical citation is N.J.S.A. 18A:39-11.2 as published by NJ Legislative Statutes)",
+      "codeCurrency": "L.2005, c.84, s.1; no subsequent amendment located",
+      "fieldsSupported": "Special-education differentiation (CTSA/ESC/jointure/county special services district carve-outs and bidding subjection)",
+      "relevantText": "Provision of transportation services to a local school district by a CTSA, educational services commission, county special services school district, jointure commission, or other public entity (other than a local school district using buses it owns or leases) is subject to Chapter 39 bidding and renewal requirements; subsection g identifies four grandfather exceptions: pre-2004 ESCs/jointure commissions serving then-member districts with owned/leased buses; pre-1999 first-class-county commissions serving non-member districts; pre-2004 county special services districts providing services to enrolled/nonpublic pupils within the county; and a fifth-class-county special services district providing special-education transportation as of January 1, 2004. (Stage 2 re-verified via onecle pathfinder.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 2 - State administrative code (special-education operational rules)",
+      "citation": "N.J.A.C. 6A:27-9.3(e) (special-education bid basis) and N.J.A.C. 6A:27-10 (Coordinated Transportation Services)",
+      "officialUrl": "https://www.nj.gov/njded/code/current/title6a/chap27.pdf",
+      "codeCurrency": "R.2021 d.011, effective January 7, 2021",
+      "fieldsSupported": "Special-education differentiation (operational, not contract-term)",
+      "relevantText": "6A:27-9.3 bid sheet may be 'per route, per mile, per vehicle, or per student basis...for regular public and nonpublic school routes and in-district special education routes, and on a per mile, per student, or per vehicle basis for out-of-district special education routes. The cost of adjusting the contract shall be the same whether it is being increased or decreased.' 6A:27-10.1(c): 'Resident district boards of education shall utilize a CTSA to transport students going to a special education or vocational school located outside of the resident school district...' (Stage 2 re-verified verbatim from the chap27.pdf extraction.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "New Jersey",
+      "sourceTier": "Tier 4 - Official state-education-department contract templates (variance evidence)",
+      "citation": "NJDOE prescribed contract forms catalog (12 forms statewide)",
+      "officialUrl": "https://www.nj.gov/education/transportation/contract/",
+      "codeCurrency": "Templates current as of NJDOE page last updated 05/07/2026; CPI for 2026-27 renewals published at 3.58%",
+      "fieldsSupported": "District variance (statewide uniform forms); renewal mechanics (administrative cap of 10 successive one-year renewals as published on official template)",
+      "relevantText": "Statewide Commissioner-prescribed forms used by all districts: Board of Education Contract Transfer Agreement; Joint Transportation Agreement; Multi Route Transportation Contract; Multi Year Transportation Contract; Out of District Special Needs Transportation Contract; Parental Transportation Contract; Personal Surety Bond for Student Transportation Contracts; School Related Activities Contract; School Related Activities Contract Renewal; Student Transportation Contract Renewals - 10 Renewals; Student Transportation Contract Transfer Agreement; Transportation Contract Addendum. (Stage 2 re-verified the form catalog directly via WebFetch.)",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "queriesThatMattered": [
+      "N.J.S.A. 18A:39-3 pupil transportation contract term renewal (Stage 2)",
+      "P.L.2021 c.307 A5818 text amending 18A:39-3 (debarment, CPI, executive county superintendent approval) (Stage 2 re-verified via njleg.gov)",
+      "N.J.A.C. 6A:27 chap27.pdf full text - extracted 9.9, 9.13, 9.14, 9.2(b), 10.1 verbatim (Stage 2 via firecrawl PDF parser)",
+      "N.J.S.A. 18A:39-2 'term not exceeding 4 years' (Stage 2 re-verified via onecle pathfinder)",
+      "N.J.S.A. 18A:18A-49.1 transportation exemption from PSCL (Stage 2 re-verified via onecle pathfinder verbatim)",
+      "N.J.S.A. 18A:39-11.2 CTSA/ESC/jointure carve-outs (Stage 2 re-verified via onecle pathfinder)",
+      "NJ Department of Education Contract Information page form list (Stage 2 re-verified 12 forms; confirmed 'Student Transportation Contract Renewals - 10 Renewals' exists)",
+      "New Jersey 2024-2026 session laws amending 18A:39-2 or 18A:39-3 (Stage 2 found none; P.L.2024, c.81 amends 18A:39-20.1 and adds Subchapter 14, not term/renewal sections)",
+      "Proposed N.J.A.C. 6A:27 amendments November 2025 - whether 6A:27-9.9 or 6A:27-9.13 would change (Stage 2 found no proposed change to those sections)"
+    ],
+    "codeCurrency": "N.J.S.A. Title 18A as published on NJ Legislative Statutes Database via NXT gateway; section 18A:39-2 last amended L.1982, c.74; section 18A:39-3 last amended P.L.2021, c.307 (approved November 8, 2021); the NJ pub.njleg.gov session-law archive shows no subsequent amendment to 18A:39-2 or 18A:39-3 through the 2024-25 (221st) legislative session, and no new public-law amendment in the current 222nd session located through 2026-06-24.",
+    "adminCodeCurrency": "N.J.A.C. 6A:27 readopted as R.2021 d.011, effective January 7, 2021. NJ State Board of Education filed Notice of Proposed Amendments and New Rules at N.J.A.C. 6A:27 in November 2025; the proposed amendments make targeted changes (Subchapter 7.6 deadline July 15 to August 15 to implement P.L.2024, c.81; new Subchapter 14 nonpublic-consortium provisions) but do NOT amend the 4-year term cap at N.J.A.C. 6A:27-9.9(a) or the renewal framework at 6A:27-9.13. As of 2026-06-24, the November 2025 proposal had not been adopted, so the January 2021 readoption text governs.",
+    "sessionLawCheck": "Reviewed: P.L.2021, c.307 (A5818 2R, school bus debarment + bid ownership disclosure - amends 18A:39-3 and adds 18A:39-11.5) - re-verified via WebFetch of pub.njleg.gov text; P.L.2024, c.81 (A2180 2R, employee-driven private-vehicle transportation - amends 18A:39-20.1, not 18A:39-2/3); S1356/2020 (mileage thresholds, not contract terms); S3239/2020 and S2070/2022 (related transportation bills, not amending term/renewal rules at 18A:39-2/3). No 2025 or 2026 session law amending 18A:39-2 or 18A:39-3 located through 2026-06-24.",
+    "negativeSearchPaths": [
+      "Searched NJ Legislative Statutes Database (lis.njleg.state.nj.us via WebSearch and pathfinders), pub.njleg.gov, and onecle for any statutory cap on cumulative renewal years for pupil transportation contracts after the original 4-year term - none found; the cumulative renewal limit is regulatory/administrative (annual extensions under N.J.A.C. 6A:27-9.13 conditioned on executive-county-superintendent approval and CPI ceiling) and NJDOE's official renewal template caps at 10 successive renewals.",
+      "Searched WebSearch for AG opinions, NJ Comptroller findings, NJ State Auditor reports, and NJSBA publications establishing inter-district variance in interpretation of N.J.S.A. 18A:39-2/3 - none located; the executive-county-superintendent approval requirement and statewide Commissioner-prescribed forms function as the principal variance-suppression mechanism.",
+      "Searched for any separate special-education term-length statute (different from 4-year cap) - none found; Chapter 39 framework controls, with operational differences only (per-vehicle/per-student bidding bases under 6A:27-9.3(e) and CTSA mandate under 6A:27-10).",
+      "Searched for evergreen/automatic/perpetual rollover authority in NJ pupil-transportation law - none; every renewal requires executive county superintendent approval each year and is conditioned on the four enumerated criteria of N.J.A.C. 6A:27-9.13(a) plus the executive-county-superintendent approval.",
+      "Searched for longer-term service-contract authority (5-year, 10-year) in education and procurement codes - none; the 10-year leasing rule in 18A:18A-42(f) applies to LEASING fossil-fuel school buses, not to private-contractor service contracts; the 5-year PSCL cap (18A:18A-42 / 18A:18A-4.2) does not apply to pupil transportation due to 18A:18A-49.1 carve-out."
+    ],
+    "conflictChecks": "Apparent tension between (a) the 5-year cap in N.J.S.A. 18A:18A-42 (Public School Contracts Law, services-other-than-professional) and 18A:18A-4.2 (general PSCL 5-year cap) and (b) the 4-year original-term cap in N.J.S.A. 18A:39-2 is RESOLVED by N.J.S.A. 18A:18A-49.1, which expressly excludes pupil-transportation contracts from the PSCL and routes them to Chapter 39. The 5-year PSCL caps therefore do not apply; the Chapter 39 / 6A:27 framework is the operative authority. Similarly, the 10-year leasing-of-school-buses authorization in N.J.S.A. 18A:18A-42(f) is for LEASING of school buses, not for service contracts with private transportation contractors, and does not affect the 4-year cap on the latter."
+  },
+  "finalConfidence": "High",
+  "scratchWritten": true,
+  "scratchPath": "/Users/zabrisket/Documents/Summit_School_Services_MASTER/State-Level Research/03_MA-NJ/scratch/new-jersey.json"
+}

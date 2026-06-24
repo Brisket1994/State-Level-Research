@@ -1,0 +1,45 @@
+{
+  "state": "Alaska",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed (5/5 fields)",
+  "tableRow": {
+    "maxContractTerm": "Minimum 3 years (if feasible), maximum 5 years (4 AAC 27.086(a)(2); statutory 3-year floor at AS 14.09.010(b)). Districts with ADM >= 4,500 must align to a common 5-year bid cycle (4 AAC 27.086(e)).",
+    "rebidRequired": "Required. All pupil-transportation contracts must be based on the competitive proposal process; next RFP must commence 6 months before current contract's expiration (4 AAC 27.086(a), (c)). No carve-out from 4 AAC 27.086.",
+    "renewalMechanics": "N/A. 4 AAC 27 contains no rollover/evergreen/mutual-extension/automatic-renewal/board-extension provision; fresh RFP required at expiration. In-term price flexibility (fuel adjustments; itemized activity-bus pricing) permitted under 4 AAC 27.086(a)(7), (b)(2)-(3). 4 AAC 03.091 waiver exists but cannot waive regulations required by state/federal law or necessary for health and safety.",
+    "statutoryCitation": "4 AAC 27.086; AS 14.09.010(b); 4 AAC 27.990(11); AS 14.08.101(3); AS 14.14.060(h).",
+    "districtVariance": "Yes. Three large-district 10-year awards publicly reported on their face exceed the 5-year regulatory ceiling: KPBSD/Apple Bus (effective July 1, 2017); FNSB/Durham (Aug 1, 2021 - June 30, 2031); Mat-Su/Durham (July 1, 2022 - June 30, 2032).",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "confirmed",
+    "districtVariance": "confirmed"
+  },
+  "sourcesReVerified": [
+    "4 AAC 27.086 (Justia, current through May 30, 2025)",
+    "AS 14.09.010(b) (Justia 2025 Alaska Statutes)",
+    "4 AAC 03.091 (Justia)",
+    "4 AAC 27.006",
+    "4 AAC 27.021",
+    "4 AAC 27.990(11)",
+    "AS 14.14.060(h)",
+    "AS 14.08.101(3) (Findlaw mirror)",
+    "HB 57 (Ch. 5 SLA 2025) enrolled text (akleg.gov)",
+    "DEED Pupil Transportation Funding (education.alaska.gov)",
+    "Peninsula Clarion KPBSD/Apple Bus 10-year award",
+    "School Transportation News Mat-Su/Durham 10-year award",
+    "School Transportation News/webcenterfairbanks FNSB/Durham 10-year award"
+  ],
+  "sourcesUnreachable": [
+    "touchngo.com mirror of AS 14.08.101 (502; substituted Findlaw mirror)",
+    "law.justia.com URL pattern for AS 14.08.101 (404; substituted Findlaw mirror)",
+    "Alaska Online Public Notices archive search for any 4 AAC 03.091 waiver for pupil-transportation contract (negative search result)"
+  ],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

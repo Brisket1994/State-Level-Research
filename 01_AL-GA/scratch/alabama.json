@@ -1,0 +1,48 @@
+{
+  "state": "Alabama",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-7",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed (4/5 fields); District Variance unresolved",
+  "tableRow": {
+    "maxContractTerm": "5 years (maximum) for contracts for the purchase of personal property or contractual services entered by a county or city board of education; lease-purchase contracts not greater than 10 years. Within the 5-year cap, multi-year/option-year/price-adjustment terms are permissible only if the total term (including options) does not exceed 5 years and the option terms were in the original competitively-bid specifications.",
+    "rebidRequired": "Required. Except for public works (Title 39), all expenditures by a city or county board of education for labor, services, or personal property of $40,000 or more must be made under contract entered through free and open competitive sealed bidding to the lowest responsible bidder (§ 16-13B-1(a)(1)). The § 16-13B-2 exception list has no pupil/school-bus transportation carve-out. At expiration of the 5-year term, a new contract meeting the threshold must be re-let by competitive bidding.",
+    "renewalMechanics": "N/A as a statutory renewal-without-rebid mechanism for student-transportation contracts. The only renewal-without-rebid exception (§ 16-13B-2(a)(9)) is limited to sanitation/solid waste.",
+    "statutoryCitation": "Ala. Code § 16-13B-7(f) (2025); Ala. Code § 16-13B-1(a)(1) (2025); Ala. Code § 16-13B-2 (2025).",
+    "districtVariance": "Unknown.",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "confirmed",
+    "districtVariance": "unresolved"
+  },
+  "sourcesReVerified": [
+    "Ala. Code § 16-13B-1 (2025)",
+    "Ala. Code § 16-13B-2 (2025)",
+    "Ala. Code § 16-13B-2.1 (2025)",
+    "Ala. Code § 16-13B-3 (2025)",
+    "Ala. Code § 16-13B-7 (2025)",
+    "Ala. Code § 16-27-6 (2025)",
+    "Ala. Code Title 16 Chapter 27 TOC (2025)",
+    "Ala. Code Title 16 Chapter 27A TOC (2025)",
+    "Ala. Code § 41-16-50 (2025)",
+    "Ala. Code § 41-16-57(f) (2025)",
+    "Ala. Admin. Code ch. 290-2-4",
+    "ALSDE Alabama Bid Laws Summary",
+    "AASBO Understanding the Bid Law (3/2/2019)",
+    "Education Law for the Alabama Superintendent (2024)",
+    "Department of Examiners of Public Accounts County/Local Competitive Bid and Public Works Law Manual (2025)",
+    "ASBA 2025 Regular Legislative Session Enactments (5/28/2025)",
+    "Alabama Daily News 2026 Education Bills recap"
+  ],
+  "sourcesUnreachable": [
+    "http://alisondb.legislature.state.al.us (DNS resolution failed; workaround via alison subdomain + firecrawl-to-Justia)",
+    "law.justia.com via WebFetch (HTTP 403; workaround via firecrawl)"
+  ],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

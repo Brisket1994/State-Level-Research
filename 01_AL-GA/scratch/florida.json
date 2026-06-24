@@ -1,0 +1,43 @@
+{
+  "state": "Florida",
+  "asOfDate": "2026-06-23",
+  "laneStatus": "completed",
+  "confidence": "High",
+  "primaryCitation": "https://www.flsenate.gov/Laws/Statutes/2024/1010.04",
+  "sourceValidationVerdict": "verified",
+  "adversarialOverallVerdict": "confirmed (5/5 fields)",
+  "tableRow": {
+    "maxContractTerm": "No statutory maximum found. Florida Education Code (Ch. 1006 Subpart E; Ch. 1010 Part I) and the State Board of Education school-district purchasing rule (Fla. Admin. Code R. 6A-1.012) impose no maximum term on district school-board contracts with private student-transportation contractors. The Ch. 287 procurement caps (e.g., § 287.057(13)-(14)) apply to 'agencies' as defined in § 287.012 (state executive-branch units), not to district school boards.",
+    "rebidRequired": "Required. Under Fla. Admin. Code R. 6A-1.012(7), school districts must request competitive solicitations from three or more sources for any authorized commodities or contractual services exceeding $50,000, and districts may not divide a procurement to avoid the threshold. 2001 Florida AG Informal Opinion (Duval County) confirms the rule reaches school-bus transportation contracts. Exceptions: cooperative/piggyback, sole-source (after 7-business-day public notice), and emergency procurement (superintendent's written finding).",
+    "renewalMechanics": "Statute silent. Neither Fla. Stat. Ch. 1006 Subpart E nor Fla. Admin. Code R. 6A-1.012 / R. 6A-3.0171 prescribes a renewal mechanism for school-district student-transportation contracts. Districts establish renewal terms in their own RFPs and contracts. Rule 6A-1.012 permits piggyback purchases from other governmental agencies' contracts in lieu of competitive solicitation.",
+    "statutoryCitation": "Fla. Admin. Code R. 6A-1.012, adopted under § 1010.04(4)(a), Fla. Stat.; §§ 1006.21, 1006.22, 1006.27, Fla. Stat. (2024); Fla. AGO Informal Op. of Apr. 25, 2001 (Duval County).",
+    "districtVariance": "Yes — variance exists in district contracting practice (term length, renewal options, escalators), not in interpretation of the underlying statutory rule. All 67 districts apply the same R. 6A-1.012 $50,000 threshold; the 2001 AGO is statewide guidance.",
+    "confidence": "High"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "specialEducation": "confirmed",
+    "districtVariance": "confirmed"
+  },
+  "sourcesReVerified": [
+    "§ 1010.04(4)(a), Fla. Stat. (flsenate.gov)",
+    "§ 1006.27(1)-(2), Fla. Stat. (flsenate.gov)",
+    "Fla. Admin. Code R. 6A-1.012(7) (flrules.elaws.us)",
+    "Fla. AGO Informal Op. Apr. 25, 2001 (myfloridalegal.com)",
+    "§ 1006.21(3)(a) and (5), Fla. Stat.",
+    "§ 1006.22(1)(a) and (6), Fla. Stat.",
+    "§ 287.057(13)-(14), Fla. Stat.",
+    "§ 287.012, Fla. Stat.",
+    "Fla. Admin. Code R. 6A-3.0171 (2025 amendment scope)",
+    "Fla. AGO on school-board contracts exceeding members' terms",
+    "School Board of Broward County contract documentation"
+  ],
+  "sourcesUnreachable": [
+    "flrules.org official gateway page for R. 6A-1.012 (metadata only; substituted with flrules.elaws.us mirror)",
+    "FLDOE 'Appendix A - Statutes and Rules for Student Transportation' (info.fldoe.org/docushare PDF; binary; treated as confirmatory only)",
+    "Miami-Dade County Public Schools Policy 84 PDF (empty render; Broward variance evidence sufficient)"
+  ],
+  "note": "Full per-state prose lives in research-findings.md, source-ledger.md, verification-notes.md, and challenge-matrix.md."
+}

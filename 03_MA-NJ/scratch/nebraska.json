@@ -1,0 +1,260 @@
+{
+  "state": "Nebraska",
+  "fields": {
+    "maxContractTerm": {
+      "value": "7 years (single statutory cap, applies to any school district contract for transportation services). Neb. Rev. Stat. § 79-515 provides that the school board or board of education of any school district may enter into contracts \"under such terms and conditions as the board deems appropriate, for periods not to exceed seven years,\" for the provision of utility services, refuse disposal, transportation services, maintenance services, financial services, insurance, security services, and instructional materials, supplies, and equipment (and for periods not to exceed four years for collective-bargaining agreements with employee groups). The statute does not separately prescribe shorter sub-terms or a renewal-option structure; the seven-year ceiling applies to the term the board sets in the contract. The section additionally provides that it \"does not permit multiyear contracts with individual school district employees.\"",
+      "citation": "Neb. Rev. Stat. § 79-515 (Laws 1984, LB 333, § 1; R.S.1943, (1994), § 79-4,154.01; Laws 1996, LB 900, § 268; Laws 2019, LB 675, § 3)."
+    },
+    "rebidRequired": {
+      "value": "Not required - Nebraska statute does not mandate competitive bidding or any specific competitive-selection process for school-district contracts for student transportation services. The school-specific authority, Neb. Rev. Stat. § 79-515, caps the term at seven years and leaves the contract \"under such terms and conditions as the board deems appropriate.\" Chapter 73 (Public Lettings and Contracts) imposes the only school-specific competitive-bidding mandate at § 73-106, which is limited to \"construction, remodeling, or repair of any school-owned building\" or site improvements over $100,000 (CPI-adjusted by NDE every five years); transportation services are not within its scope. The State Procurement Act (Neb. Rev. Stat. §§ 73-801 to 73-819) applies only to a \"state agency,\" which by definition in § 73-803 is \"any agency, board, or commission of this state\" and does not include school districts. Neb. Rev. Stat. § 73-101 is a procedural statute that prescribes bid-opening mechanics only when bidding is required \"in pursuance of any statutes of the State of Nebraska\"; it does not itself create a bidding duty for transportation contracts. Accordingly, at term-end a district may award a new transportation contract by methods of its own choosing (negotiated award, RFP, sealed bid, cooperative purchasing, etc.), subject to its own local procurement policies.",
+      "citation": "Neb. Rev. Stat. § 79-515; Neb. Rev. Stat. § 73-106; Neb. Rev. Stat. §§ 73-801 to 73-819 (State Procurement Act, scope limited to state agencies per § 73-803); Neb. Rev. Stat. § 73-101 (bid-opening procedures 'in pursuance of any statutes' - not a substantive bidding mandate)."
+    },
+    "renewalMechanics": {
+      "value": "Statute silent on renewal mechanics for transportation contracts - no statutory framework for one-year extensions, CPI/index adjustments, fuel escalators, automatic rollover/evergreen renewal, mutual written agreement procedures, or agency approval. Neb. Rev. Stat. § 79-515 authorizes a single contract term of up to seven years \"under such terms and conditions as the board deems appropriate.\" The Nebraska Supreme Court has confirmed (annotation to § 79-515) that a contract \"continuation clause does not create a contract of indefinite duration in violation of this section\" (Central City Ed. Assn. v. Merrick Cty. Sch. Dist., 280 Neb. 27, 783 N.W.2d 600 (2010)), meaning rollover or evergreen clauses are permissible within the seven-year ceiling and as governed by the contract's own terms. Beyond the seven-year ceiling, any extension constitutes a new contract subject to the same statutory cap and to whatever procurement procedures the district's own board policy imposes. NDE Rule 91 (Driver Qualifications and Operational Procedures, eff. 02/05/2020) and Rule 92 (Minimum Equipment Standards, eff. 07/01/2019) address driver and vehicle requirements but do not regulate contract renewals; the NDE Pupil Transportation FAQ likewise contains no contracting/renewal content.",
+      "citation": "Neb. Rev. Stat. § 79-515; Central City Ed. Assn. v. Merrick Cty. Sch. Dist., 280 Neb. 27, 783 N.W.2d 600 (2010) (annotation to § 79-515)."
+    },
+    "statutoryCitation": {
+      "value": "Neb. Rev. Stat. § 79-515 (\"Contracts for services, supplies, and collective-bargaining agreements; authorized\") - primary authority for max contract term and renewal mechanics. Neb. Rev. Stat. § 79-601 (\"Pupils; public or private schools; transportation; buses; conditions; purchase; use; State Department of Education; duties\") - underlying authority to provide pupil transportation. Neb. Rev. Stat. § 79-607 (incorporation of State Board pupil-transportation rules by reference into contracts with school districts). Neb. Rev. Stat. § 73-106 (sealed-bid mandate limited to school-building construction/remodeling/repair over $100,000, CPI-adjusted; does not reach transportation services). Neb. Rev. Stat. §§ 73-801 to 73-819 (State Procurement Act - applies to state agencies, not school districts per § 73-803). Neb. Rev. Stat. § 73-101 (bid-opening procedure when bidding is required by other statutes - not itself a bidding mandate).",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=79-515"
+    },
+    "districtVariance": {
+      "value": "Unknown - No NDE bulletin, state-auditor report, AG opinion, or NASB statewide guidance was located that documents differing district interpretations of § 79-515. The statutory cap (seven years) is concrete and uniformly read in the only court decision interpreting the section (Central City Ed. Assn. v. Merrick Cty. Sch. Dist., 280 Neb. 27 (2010)). Because the statute is permissive on procurement method, the practical contract length and award process vary by district as a matter of local board policy rather than of differing legal interpretation. As examples (district practice, not state law): Omaha Public Schools awarded a five-year transportation contract to Zum in March 2024 following a competitive process after a roughly ten-year prior relationship with the incumbent; Millard Public Schools awarded a four-year transportation contract to Zum in March 2025; Lincoln Public Schools operates under its own competitive-bidding-when-practical procurement manual. No source identified credible evidence that any district reads the seven-year cap differently."
+    }
+  },
+  "specialEducation": {
+    "value": "No separate state contract-term, rebid, or renewal rule for special-education transportation. Nebraska Department of Education Rule 51 (Title 92 NAC ch. 51, Regulations and Standards for Special Education Programs) treats transportation as a \"related service\" (92 NAC 51-003.49) that school districts must provide or contract for, and addresses reimbursement and rate-approval mechanics for \"Level III Special Education Contractual Services\" (92 NAC 51-003.37) - services delivered in an educational setting not operated by the district whose rates are approved by NDE. Rule 51 does not prescribe a maximum term, rebid requirement, or renewal mechanism for the underlying transportation contract; the seven-year cap in Neb. Rev. Stat. § 79-515 applies equally to regular and special-education transportation contracts. Federal IDEA (20 U.S.C. § 1401(26); 34 C.F.R. § 300.34) governs the duty to transport an IEP-eligible child and the definition of transportation as a related service, but does not impose state contract or procurement requirements. McKinney-Vento (42 U.S.C. § 11432(g)(1)(J)) likewise governs the duty to provide transportation for homeless students without changing state contract or bidding rules. No Nebraska statute, regulation, or NDE guidance located that imposes different contracting rules for IEP-mandated, McKinney-Vento, foster-care, or alternative student transportation.",
+    "citation": "92 Neb. Admin. Code ch. 51 (Rule 51), §§ 003.37 (Level III Special Education Contractual Services) and 003.49 (Related Services, incl. transportation); Neb. Rev. Stat. § 79-515 (statutory cap applies generally).",
+    "verdict": "confirmed"
+  },
+  "fieldVerdicts": {
+    "maxContractTerm": "confirmed",
+    "rebidRequired": "confirmed",
+    "renewalMechanics": "confirmed",
+    "statutoryCitation": "confirmed",
+    "districtVariance": "confirmed",
+    "specialEducation": "confirmed"
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term = 7 years under Neb. Rev. Stat. § 79-515",
+      "disconfirmingHypothesis": "There exists separate authority (a longer-term option, a 'notwithstanding' clause, grandfathering, a transportation-specific carve-out, or a more recent session-law amendment) that overrides or extends the seven-year cap.",
+      "challengeSearches": "Re-opened official Neb. Rev. Stat. § 79-515 (verbatim seven-year cap confirmed, last amended Laws 2019, LB 675, § 3). Searched 109th Legislature (2025-2026) and 108th/107th sessions for amendments to § 79-515; none located. Searched 'notwithstanding', 'may renew', 'extension', 'option', 'successive', 'multi-year', 'annual termination' in Chapter 79 statutes and NDE rules - no contradicting authority. Searched chapter 79 transportation provisions (§ 79-601 through § 79-613) for a separate transportation-contract term rule - none.",
+      "result": "Confirmed. § 79-515 is the sole statute setting a term cap on school-district transportation contracts, and the cap is seven years. No countervailing authority surfaced.",
+      "confidenceImpact": "Holds High."
+    },
+    {
+      "findingChallenged": "Rebid Required at Term-End = Not Required (no statutory competitive-bidding mandate for school-district transportation contracts)",
+      "disconfirmingHypothesis": "A general procurement statute (Chapter 73 or another) reaches school-district transportation contracts and imposes mandatory competitive bidding; alternatively, § 73-101 itself creates a substantive bidding duty.",
+      "challengeSearches": "Re-opened § 73-101 (verbatim): the statute is procedural only, applying 'whenever' a school district 'shall advertise for bids in pursuance of any statutes of the State of Nebraska' - it presupposes a bidding duty found elsewhere. Re-opened § 73-106 (verbatim): the only school-specific bidding mandate in Chapter 73 is limited to construction/remodeling/repair of school-owned buildings or site improvements with a threshold (now CPI-adjusted from $100,000). Re-opened § 73-803 (verbatim): 'state agency' definition under the State Procurement Act excludes universities/state colleges and several others, and does not include school districts. Searched Chapter 73 section index - no section imposes a competitive-bidding mandate on school-district service contracts (other than § 73-106 for construction). Searched 'mandatory bidding', 'public contract', 'school district' across NDE guidance and Chapter 79 - none.",
+      "result": "Confirmed. No statute requires competitive rebidding of school-district transportation contracts at term-end. § 73-101 is procedural, § 73-106 is construction-only, and the State Procurement Act does not reach school districts.",
+      "confidenceImpact": "Holds High."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics = Statute silent",
+      "disconfirmingHypothesis": "An NDE rule, AG opinion, or other authority prescribes renewal mechanics (CPI escalators, fuel surcharges, board/state approval, annual appropriations, public-hearing requirements, max number of renewals) for transportation contracts; alternatively, the Central City annotation actually contradicts the 'silent' framing by imposing some constraint.",
+      "challengeSearches": "Re-opened § 79-515 verbatim - it speaks only to a maximum term, not to renewal mechanics. Re-opened § 79-607 verbatim - it requires that State Board traffic rules be incorporated into school-district contracts (a content-incorporation rule, not a renewal-procedure rule). Re-opened the Central City case annotation - it confirms a continuation clause does not create indefinite duration (i.e., it permits, not constrains, evergreen-type clauses within the seven-year ceiling). Searched NDE Rule 91, Rule 92, and the NDE Pupil Transportation FAQ - none contain renewal procedures for contracts. Searched AG opinion indexes for transportation-contract renewal opinions - none located.",
+      "result": "Confirmed. Statute is silent on renewal mechanics; the Central City annotation is permissive, not restrictive.",
+      "confidenceImpact": "Holds High."
+    },
+    {
+      "findingChallenged": "Special Education = no separate state contract-term, rebid, or renewal rule",
+      "disconfirmingHypothesis": "Rule 51 (or another regulation, including 92 NAC chapters 51, 91, 92, or a separate IDEA-implementation rule) imposes a different contract-term, rebid, or renewal rule for special-education / IEP / McKinney-Vento / foster-care transportation; alternatively, federal IDEA preempts and imposes state contracting rules.",
+      "challengeSearches": "Re-verified 92 NAC ch. 51 §§ 003.37 and 003.49 via the Cornell LII mirror of the official Nebraska Administrative Code (PDF of Clean51_2022 and R092.0051-2022 returned as unparseable binary via WebFetch and were used only as pathfinders): § 003.37 defines Level III as services in a setting 'not operated by the school district or approved cooperative whose rates are approved by the Nebraska Department of Education'; § 003.49 lists transportation as a 'related service'. Neither prescribes contract term, bidding, or renewal mechanics. Searched 'IEP transportation contract Nebraska', 'McKinney-Vento Nebraska transportation contract', 'foster-care transportation Nebraska contract' - no separate state contracting rule found. IDEA and McKinney-Vento govern duty to transport, not state contracting/procurement.",
+      "result": "Confirmed. No Nebraska statute, regulation, or NDE guidance imposes a separate special-education transportation contracting rule; the § 79-515 seven-year cap applies generally.",
+      "confidenceImpact": "Holds High."
+    },
+    {
+      "findingChallenged": "District Variance = Unknown (no documented variance in legal interpretation of § 79-515)",
+      "disconfirmingHypothesis": "Differing district interpretations of the seven-year cap or of any companion procurement rule exist and are documented in NDE bulletins, State Auditor reports, AG opinions, or NASB guidance, or in two or more district policy manuals.",
+      "challengeSearches": "Reviewed Omaha Public Schools Board Policy 7000 (cites § 79-515 for multi-year commitments; treats transportation procurement under the general purchasing framework, sealed-bid/RFP over $50,000); Millard Public Schools (March 2025 four-year Zum award via competitive process); Lincoln Public Schools Procurement Manual (competitive sealed bids whenever practical). Searched for NDE bulletins, State Auditor reports, NASB statewide guidance, and AG opinions interpreting § 79-515 differently - none located. Searched 'Class III school district transportation contract length' for small/rural variance - no documented divergent interpretation.",
+      "result": "Confirmed as Unknown. District practice varies in term length and procurement method within the statute's permissive framework, but no source documents differing legal interpretations of the seven-year cap itself.",
+      "confidenceImpact": "Holds. 'Unknown' preserved as a documented negative result."
+    },
+    {
+      "findingChallenged": "Currentness of § 79-515 (no amendments since Laws 2019, LB 675, § 3)",
+      "disconfirmingHypothesis": "A 2020-2026 session law amended, repealed, renumbered, or superseded § 79-515, or a pending amendment with a delayed effective date alters the seven-year cap.",
+      "challengeSearches": "Searched Nebraska Legislature bill database for amendments to § 79-515 across the 106th, 107th, 108th, and 109th sessions (the 109th adjourned sine die). Searched 'LB 79-515 2025', 'LB 79-515 2026', 'Nebraska school contract seven year amendment'. No amendments to § 79-515 located. Official statute page lists Laws 2019, LB 675, § 3 as the most recent amendment.",
+      "result": "Confirmed. § 79-515 has not been amended since 2019; the seven-year cap remains current law as of 2026-06-24.",
+      "confidenceImpact": "Holds High."
+    }
+  ],
+  "sourcesReVerified": [
+    "Neb. Rev. Stat. § 79-515 - https://nebraskalegislature.gov/laws/statutes.php?statute=79-515 (verbatim seven-year cap and continuation-clause annotation confirmed)",
+    "Neb. Rev. Stat. § 79-601 - https://nebraskalegislature.gov/laws/statutes.php?statute=79-601 (authority to provide pupil transportation confirmed; does not address term/bidding/renewal)",
+    "Neb. Rev. Stat. § 79-607 - https://nebraskalegislature.gov/laws/statutes.php?statute=79-607 (traffic-rule incorporation into contracts confirmed; not a procurement rule)",
+    "Neb. Rev. Stat. § 73-106 - https://nebraskalegislature.gov/laws/statutes.php?statute=73-106 (school-construction-only bidding mandate confirmed; CPI-adjusted from $100,000)",
+    "Neb. Rev. Stat. § 73-101 - https://nebraskalegislature.gov/laws/statutes.php?statute=73-101 (procedural-only bid-opening statute confirmed)",
+    "Neb. Rev. Stat. § 73-803 - https://nebraskalegislature.gov/laws/statutes.php?statute=73-803 ('state agency' definition excludes school districts; State Procurement Act scope confirmed)",
+    "NDE Pupil Transportation FAQ - https://www.education.ne.gov/fos/pupil-transportation/frequently-asked-questions/ (no contracting content confirmed)",
+    "NDE Pupil Transportation Rules page - https://www.education.ne.gov/fos/pupil-transportation/rules/ (Rule 91 eff. 02/05/2020 and Rule 92 eff. 07/01/2019 confirmed; no contracting content)",
+    "92 NAC ch. 51 §§ 003.37 and 003.49 - re-verified via Cornell LII mirror of Nebraska Administrative Code (definitions of Level III Special Education Contractual Services and Related Services confirmed; no contract-term/bidding rule)",
+    "OPS Board Policy 7000 - https://www.ops.org/board/policies/details-page/~board/series-7000/post/7000-purchasing-and-contracting-policies (cites § 79-515 for multi-year commitments confirmed)",
+    "Zum/OPS March 2024 transportation contract - https://www.ridezum.com/blog/omaha-public-schools/ (five-year $100M+ contract confirmed)"
+  ],
+  "sourcesUnreachable": [
+    "NDE 2024 Pupil Transportation Guide (https://www.education.ne.gov/wp-content/uploads/2024/07/2024_PupilTransportationGuide.pdf) - WebFetch returned unparseable PDF binary. Not load-bearing for any field; cited only as illustrative NDE guidance. Substituted with NDE FAQ and NDE Rules page (both reachable).",
+    "Rule 51 2022 PDF (http://www.education.ne.gov/wp-content/uploads/2017/10/Clean51_2022.pdf and https://govdocs.nebraska.gov/epubs/E2000/R092.0051-2022.pdf) - WebFetch returned unparseable PDF binary. Substantive content of 92 NAC 51-003.37 and 51-003.49 re-verified via Cornell LII mirror of the Nebraska Administrative Code, which quoted both definitions verbatim and confirmed neither prescribes contract term/bidding/renewal."
+  ],
+  "sourceLedger": [
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 1 - Codified state statute (official Nebraska Legislature site)",
+      "citation": "Neb. Rev. Stat. § 79-515 - 'Contracts for services, supplies, and collective-bargaining agreements; authorized' (Laws 1984, LB 333, § 1; R.S.1943, (1994), § 79-4,154.01; Laws 1996, LB 900, § 268; Laws 2019, LB 675, § 3).",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=79-515",
+      "codeCurrency": "Official Nebraska Legislature statutes site; verbatim text re-retrieved and re-confirmed 2026-06-24. Most recent amendment Laws 2019, LB 675, § 3. No 2020-2026 amendments to § 79-515 located in the 109th Legislature's bill database (adjourned sine die).",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Renewal Mechanics; Statutory Citation; District Variance (uniform cap).",
+      "relevantText": "School board or board of education of any school district 'may enter into contracts under such terms and conditions as the board deems appropriate, for periods not to exceed seven years, for the provision of utility services, refuse disposal, transportation services, maintenance services, financial services, insurance, security services, and instructional materials, supplies, and equipment and, for periods not to exceed four years, for collective-bargaining agreements with employee groups. This section does not permit multiyear contracts with individual school district employees.' Annotation: 'A contract continuation clause does not create a contract of indefinite duration in violation of this section.' Central City Ed. Assn. v. Merrick Cty. Sch. Dist., 280 Neb. 27, 783 N.W.2d 600 (2010).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 1 - Codified state statute (official Nebraska Legislature site)",
+      "citation": "Neb. Rev. Stat. § 79-601 - 'Pupils; public or private schools; transportation; buses; conditions; purchase; use; State Department of Education; duties.' (Laws 1947, c. 301, § 2; R.S.Supp.,1947, § 79-2113.02; Laws 1949, c. 256, § 125; Laws 1965, c. 522, § 1; Laws 1975, LB 522, § 1; Laws 1981, LB 85, § 3; R.S.1943, (1994), § 79-487; Laws 1996, LB 900, § 362.)",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=79-601",
+      "codeCurrency": "Most recent amendment Laws 1996, LB 900, § 362. Verbatim text re-retrieved 2026-06-24.",
+      "fieldsSupported": "Statutory authority for school districts to provide pupil transportation (predicate authority for transportation contracts). Confirms statute does not address contract term, bidding, or renewal.",
+      "relevantText": "School board may, on majority vote, 'purchase out of the general fund of the district a school bus or buses for the purpose of providing transportation facilities for school children to and from school and to and from all school-related activities.' Requires equivalent transportation for nonprofit private school students when transportation is provided for public-school students on the regular route.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 1 - Codified state statute (official Nebraska Legislature site)",
+      "citation": "Neb. Rev. Stat. § 79-607 - 'Pupil transportation vehicles; State Board of Education; rules and regulations; violations; penalty.' (Laws 1996, LB 900, § 368; Laws 2016, LB 1066, § 6.)",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=79-607",
+      "codeCurrency": "Most recent amendment Laws 2016, LB 1066, § 6. Verbatim text re-retrieved 2026-06-24.",
+      "fieldsSupported": "Confirms that State Board of Education traffic rules/regulations 'shall by reference be made a part of any such contract with a school district' (contract-content incorporation, not a procurement rule). Supports the rebid analysis as a negative finding.",
+      "relevantText": "State Board adopts rules for school bus operators (qualifications, driving practices, knowledge of traffic laws). 'Such traffic rules and regulations shall by reference be made a part of any such contract with a school district.' School district officers/employees who violate or fail to include compliance obligations may face Class V misdemeanor; non-compliant bus operators may have contracts terminated after notice and hearing.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 1 - Codified state statute (official Nebraska Legislature site)",
+      "citation": "Neb. Rev. Stat. § 73-106 - 'School district; construction, remodeling, or repair of building; advertise for bids; applicability.' (Laws 1979, LB 130, § 1; Laws 1981, LB 218, § 2; Laws 1996, LB 900, § 1061; Laws 2001, LB 420, § 34; Laws 2015, LB 283, § 2; Laws 2015, LB 431, § 1.)",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=73-106",
+      "codeCurrency": "Most recent amendments 2015 (LB 283, LB 431). Verbatim text re-retrieved 2026-06-24.",
+      "fieldsSupported": "Rebid Required (negative finding) - the only school-specific competitive-bidding mandate in Chapter 73 is limited to construction/remodeling/repair of school-owned buildings or site improvements, and does not reach transportation services.",
+      "relevantText": "Public school district shall advertise for bids 'whenever any public school district in the state expends public funds for the construction, remodeling, or repair of any school-owned building' or for site improvements (with stated exceptions). Threshold: contemplated expenditure must exceed (originally) $100,000; State Board of Education CPI-adjusts the threshold every fifth year, first adjustment July 1, 2020.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 1 - Codified state statute (official Nebraska Legislature site)",
+      "citation": "Neb. Rev. Stat. § 73-101 - 'Public lettings; how conducted.'",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=73-101",
+      "codeCurrency": "Procedural statute (bid-opening mechanics). Verbatim text re-retrieved 2026-06-24.",
+      "fieldsSupported": "Rebid Required (clarifies that § 73-101 is a procedural rule for bids 'in pursuance of any statutes of the State of Nebraska' - it does not itself create a bidding duty for transportation contracts).",
+      "relevantText": "Applies 'whenever' the State, a department or agency, county board, city council, an Interlocal/Joint Public Agency entity, 'or the officers of any school district, township, or other governmental subdivision, shall advertise for bids' on enumerated categories - i.e., it presupposes a bidding requirement found elsewhere. Carve-outs include State Building Construction Alternatives Act, State Park System Construction Alternatives Act, Public Water and Natural Resources Project Contracting Act, and §§ 39-2808 to 39-2823.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 1 - Codified state statute (official Nebraska Legislature site)",
+      "citation": "Neb. Rev. Stat. §§ 73-801 to 73-819 - State Procurement Act; § 73-803 defines 'state agency.'",
+      "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=73-803",
+      "codeCurrency": "Verbatim definitions re-confirmed 2026-06-24.",
+      "fieldsSupported": "Rebid Required (negative finding) - State Procurement Act applies only to 'state agency,' which does not include school districts.",
+      "relevantText": "'State agency means any agency, board, or commission of this state, except for the University of Nebraska or the Nebraska state colleges. For purposes of procurement of services, state agency does not include the University of Nebraska, the Nebraska state colleges, the Nebraska Investment Council, the courts, the Legislature, or any officer or state agency established by the Constitution of Nebraska.' School districts are not within the definition.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 2 - State administrative code (Nebraska Department of Education Rule 51)",
+      "citation": "92 Neb. Admin. Code ch. 51 (Rule 51), §§ 003.37 (Level III Special Education Contractual Services) and 003.49 (Related Services, incl. transportation).",
+      "officialUrl": "https://www.education.ne.gov/wp-content/uploads/2017/10/Clean51_2022.pdf",
+      "codeCurrency": "2022 cleaned/codified version (Clean51_2022). Substantive content of §§ 003.37 and 003.49 re-verified 2026-06-24 via the Cornell LII mirror of the Nebraska Administrative Code (the official PDF returned as unparseable binary via WebFetch).",
+      "fieldsSupported": "Special-education differentiation - confirms transportation is a 'related service' in SPED and that Level III contractual services rates are NDE-approved, but does not prescribe a separate contract-term or rebid rule for SPED transportation.",
+      "relevantText": "'Level III Special Education Contractual Services means those special education and related services provided in an educational setting not operated by the school district or approved cooperative whose rates are approved by the Nebraska Department of Education' (003.37). 'Related services means transportation and such developmental, corrective, and other supportive services...' (003.49). Neither prescribes contract term, bidding, or renewal mechanics.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 2 - State administrative code (Nebraska Department of Education Rules 91 and 92)",
+      "citation": "92 Neb. Admin. Code ch. 91 (Rule 91 - Driver Qualifications and Operational Procedures for Pupil Transportation Vehicles, eff. 02/05/2020); ch. 92 (Rule 92 - Minimum Equipment Standards and Safety Inspection Criteria for Pupil Transportation Vehicles, eff. 07/01/2019).",
+      "officialUrl": "https://www.education.ne.gov/fos/pupil-transportation/rules/",
+      "codeCurrency": "Rule 91 effective 02/05/2020; Rule 92 effective 07/01/2019. Re-confirmed 2026-06-24.",
+      "fieldsSupported": "Special-education differentiation; Rebid Required (negative finding) - these are operational/safety regulations and do not regulate contract terms or bidding.",
+      "relevantText": "Driver qualifications, on-duty limits, authorized passengers, vehicle inspection, equipment standards. No contracting or procurement rules.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 4 - Official state-education-department guidance (NDE FAQ)",
+      "citation": "Nebraska Department of Education - Pupil Transportation Frequently Asked Questions.",
+      "officialUrl": "https://www.education.ne.gov/fos/pupil-transportation/frequently-asked-questions/",
+      "codeCurrency": "Current as accessed 2026-06-24.",
+      "fieldsSupported": "District Variance - NDE's only formal pupil-transportation FAQ does not address contracting, bidding, or contract terms, suggesting no statewide implementation guidance differs from the statute.",
+      "relevantText": "FAQ covers: 15-passenger van prohibition (federal), van capacity limits, four-mile rule (Neb. Rev. Stat. § 79-611), nonpublic-student rides (§ 79-601), and adult community use (§ 13-1208). No contracting/RFP/term content.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 5 - District policy manual citing statute (Omaha Public Schools)",
+      "citation": "Omaha Public Schools Board Policy Series 7000 - Purchasing and Contracting Policies (Section III.K references Neb. Rev. Stat. § 79-515 for multi-year commitments).",
+      "officialUrl": "https://www.ops.org/board/policies/details-page/~board/series-7000/post/7000-purchasing-and-contracting-policies",
+      "codeCurrency": "Current as accessed 2026-06-24.",
+      "fieldsSupported": "District Variance (district practice illustration) - shows how Nebraska's largest district translates the statute into local procurement procedure.",
+      "relevantText": "Section III.K: 'If the purchase or service involves commitment beyond the current fiscal year, the purchase must comply with Nebraska Revised Statute 79-515.' Purchases over $50,000 require sealed bids or RFPs; contracts over $50,000 require Board approval; competitive quotation procedures apply by cost threshold. Multi-year/continuing contracts permitted where original contract was competitively bid and contemplated multiple orders.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 5 - District policy manual (Lincoln Public Schools)",
+      "citation": "Lincoln Public Schools - Doing Business With Lincoln Public Schools: A Procurement Manual for Vendors.",
+      "officialUrl": "https://home.lps.org/purchasing/doing-business-with-lincoln-public-schools-a-procurement-manual-for-vendors/",
+      "codeCurrency": "Current as accessed 2026-06-24.",
+      "fieldsSupported": "District Variance (district practice illustration) - second large-district policy data point.",
+      "relevantText": "Purchases are made on the basis of competitive bidding whenever practical. Competitive sealed bids are opened and read aloud at the date and hour specified. Performance bonds (100% of contract amount) may be required of the successful bidder. No transportation-specific carve-out identified; LPS treats transportation procurement under the same general framework.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 5 - District practice (Omaha Public Schools transportation contract award)",
+      "citation": "Zum / Omaha Public Schools transportation contract announcement (March 18, 2024); reporting on OPS plan to switch bus contractor after roughly 10 years.",
+      "officialUrl": "https://www.ridezum.com/blog/omaha-public-schools/",
+      "codeCurrency": "Reporting from 2024.",
+      "fieldsSupported": "District Variance - evidence of practice (5-year contract awarded after competitive process), illustrating that contract length and award method are within board discretion under the seven-year cap.",
+      "relevantText": "OPS awarded Zum a '$100+ million, five-year transportation contract' in March 2024 to transport roughly 18,000 students daily; reported to have replaced an incumbent of roughly a decade.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "state": "Nebraska",
+      "sourceTier": "Tier 5 - District practice (Millard Public Schools transportation contract award)",
+      "citation": "Millard Public Schools / Zum transportation contract (March 2025) - PR Newswire and Zum announcements.",
+      "officialUrl": "https://www.prnewswire.com/news-releases/millard-public-schools-partners-with-zum-for-safe-modern-student-transportation-302402497.html",
+      "codeCurrency": "Reporting from March 2025.",
+      "fieldsSupported": "District Variance - second district-practice data point. Confirms board discretion in award method and term length under the seven-year cap.",
+      "relevantText": "Millard Public Schools awarded a four-year transportation contract to Zum, with the company hiring 70 drivers and 29 attendants to cover 64 routes; new air-conditioned propane buses.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "queriesThatMattered": [
+      "Re-fetch of Neb. Rev. Stat. § 79-515 verbatim - confirmed seven-year cap and Central City annotation; confirmed last amended 2019 LB 675.",
+      "Re-fetch of Neb. Rev. Stat. § 73-101, § 73-106, § 73-803 verbatim - confirmed § 73-101 is procedural-only, § 73-106 is construction-only, § 73-803 'state agency' excludes school districts.",
+      "Re-fetch of Neb. Rev. Stat. § 79-601 and § 79-607 verbatim - confirmed neither addresses contract term/bidding/renewal beyond traffic-rule incorporation under § 79-607.",
+      "Chapter 73 section index browse - confirmed no service-contract bidding mandate for school districts other than § 73-106 (construction).",
+      "92 NAC ch. 51 §§ 003.37 and 003.49 re-verified via Cornell LII mirror after official PDFs returned as unparseable binary - confirmed no contract-term/bidding/renewal rule for SPED transportation.",
+      "NDE Pupil Transportation FAQ and Rules page - re-confirmed no contracting content.",
+      "OPS Board Policy 7000 - re-confirmed § 79-515 cross-reference for multi-year commitments.",
+      "Search of 109th Legislature (2025-2026) bill database for amendments to § 79-515 - none located.",
+      "Millard Public Schools / Zum March 2025 four-year contract - added as second district-practice data point.",
+      "Lincoln Public Schools Procurement Manual - added as second large-district policy data point."
+    ],
+    "codeCurrency": "Nebraska Revised Statutes (official Nebraska Legislature site) - verbatim text of § 79-515 re-confirmed 2026-06-24; most recent amendment Laws 2019, LB 675, § 3. No amendments to § 79-515 located in the 2020, 2021, 2022, 2023, 2024, 2025, or 2026 (109th Legislature, adjourned sine die) sessions through verification on 2026-06-24.",
+    "adminCodeCurrency": "Rule 51 - 2022 cleaned/codified version (Clean51_2022). Rule 91 - effective 02/05/2020. Rule 92 - effective 07/01/2019. Re-confirmed 2026-06-24.",
+    "sessionLawCheck": "Nebraska Legislature 109th session (2025-2026, adjourned sine die per LegiScan) and recent prior sessions searched for amendments to § 79-515, § 79-601, § 79-607, § 73-101, § 73-106, and the State Procurement Act. No amendments located that alter the seven-year cap, create a bidding mandate for transportation services, or impose renewal mechanics. Most recent amendment to § 79-515 remains Laws 2019, LB 675, § 3. § 73-101 statutory history includes recent 2025 LB180/LB660 activity but these did not alter the procedural-only character of the section relative to school transportation contracts.",
+    "negativeSearchPaths": [
+      "Searched Chapter 79 (Schools) and Chapter 73 (Public Lettings and Contracts) for any school-bus-specific, pupil-transportation-specific, or general school-district service-contract bidding mandate. None located. Only § 73-106 (construction/remodeling/repair over CPI-adjusted threshold) imposes any school-specific competitive-bidding requirement, and it does not reach transportation services.",
+      "Searched the State Procurement Act §§ 73-801-819 and the § 73-803 'state agency' definition; school districts are not within the Act's scope.",
+      "Searched Title 92 NAC chapters 51 (special education), 91 (pupil transportation driver/operational rules), and 92 (pupil transportation equipment standards) for renewal mechanics or rebid rules. None located - these chapters regulate safety, driver qualifications, and SPED program/reimbursement, not contract terms or procurement.",
+      "Searched the NDE Pupil Transportation FAQ and Rules pages; no contracting/term/bidding content located.",
+      "Searched Nebraska AG opinions for transportation-contract or school-bus procurement opinions; none on contract-term or rebid located within available indexes.",
+      "Searched for differing district-level interpretations via NDE bulletins, State Auditor reports, NASB statewide guidance; no documented variance in legal interpretation of § 79-515 located. Local practice (OPS Series 7000; OPS 2024 five-year Zum award; MPS 2025 four-year Zum award; Lincoln Public Schools procurement manual) reflects discretion within the seven-year cap, not differing readings of the statute.",
+      "Searched 109th Legislature (2025-2026) and 108th/107th Legislatures for amendments to § 79-515. None located."
+    ],
+    "conflictChecks": "No conflict among authoritative Nebraska sources. The only court decision interpreting § 79-515 (Central City Ed. Assn., 280 Neb. 27) reinforces - not contradicts - the seven-year cap (a continuation clause does not create indefinite duration). Federal IDEA and McKinney-Vento are relevant only to the duty to transport and do not impose state contract or procurement rules; this is recorded in the special-education notes rather than treated as a Nebraska contracting rule. PDF-format Rule 51 and the NDE 2024 Pupil Transportation Guide returned as unparseable binary via WebFetch; substantive content of Rule 51 verified via the Cornell LII mirror of the Nebraska Administrative Code. NDE 2024 guide is not load-bearing for any field."
+  },
+  "finalConfidence": "High",
+  "scratchWritten": true,
+  "scratchPath": "/Users/zabrisket/Documents/Summit_School_Services_MASTER/State-Level Research/03_MA-NJ/scratch/nebraska.json"
+}
