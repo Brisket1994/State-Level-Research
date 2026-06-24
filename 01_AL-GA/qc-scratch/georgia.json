@@ -1,0 +1,153 @@
+{
+  "state": "Georgia",
+  "asOfBaseline": "2026-06-23",
+  "citationVerifications": [
+    {
+      "citation": "O.C.G.A. § 20-2-504",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-opened live (WebFetch): URL returns 301 redirect to https://advance.lexis.com/container?config=00JAAzZDgzNzU2ZC05MDA0LTRmMDItYjkzMS0xOGY3MjE3OWNlODIKAFBvZENhdGFsb2fcIFfJnJ2IC8XZi1AYM4Ne — a Lexis Advance sign-in container that does NOT deep-link to § 20-2-504. URL is the OFFICIAL LexisNexis O.C.G.A. publisher landing page (Georgia Code Revision Commission's exclusive publisher) but is a generic portal/no-pinpoint. Substantive text 'County, independent, and area school systems shall have authority to contract for the transportation of pupils in accordance with the provisions of Code Section 20-2-506' independently verified via WebSearch primary-text return. No contradiction; URL access constraint only."
+    },
+    {
+      "citation": "O.C.G.A. § 20-2-506",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Same generic LexisNexis portal as § 20-2-504 — does NOT deep-link to § 20-2-506. Substantive text re-verified: (b)(1) calendar-year termination ('terminate absolutely and without further obligation ... at the close of the calendar year in which it was executed and at the close of each succeeding calendar year for which it may be renewed') and (b)(2) automatic renewal ('may provide for automatic renewal unless positive action is taken by the school system to terminate') — verbatim-confirmed via WebSearch primary-text return. (b)(4) 7.5% cap with 'excluding guaranteed energy savings contracts' wording — verbatim-confirmed via syfert.com 2018 mirror ('total combined annual payments for contracts under this Code section...excluding guaranteed energy savings contracts, shall not exceed an amount equal to 7.5 percent'). Deliverable's Stage-2 'wording fix' ((b)(4) energy savings CONTRACTS vs. (l) energy savings PERFORMANCE contracts) is correct. No substantive contradiction; URL is generic-portal."
+    },
+    {
+      "citation": "O.C.G.A. § 20-2-500",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Generic LexisNexis portal. Non-load-bearing negative supporting citation (goods-only scope). No contradiction surfaced; cited only as negative support."
+    },
+    {
+      "citation": "O.C.G.A. § 36-91-2",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Generic LexisNexis portal. Non-load-bearing negative supporting citation. Independent confirmation that Title 36 Ch. 91 = 'PUBLIC WORKS CONSTRUCTION' (services excluded) by surrounding statutory taxonomy."
+    },
+    {
+      "citation": "O.C.G.A. § 50-5-69",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Generic LexisNexis portal. Non-load-bearing negative supporting citation (state-agency reach only, not local boards). No contradiction surfaced."
+    },
+    {
+      "citation": "O.C.G.A. § 20-2-152",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Generic LexisNexis portal. Cited as authority for local-system contracting for special-education services. The deliverable's correction (that SBOE rulemaking quote lives at § 20-2-188(g), NOT § 20-2-152) is independently vindicated by Rule 160-5-3-.02 Authority section, which cites § 20-2-188 (not § 20-2-152) as the rulemaking authority."
+    },
+    {
+      "citation": "O.C.G.A. § 20-2-188 (subsection (g))",
+      "claimedTierOrUrl": "Tier 1 (codified statute) — https://www.lexisnexis.com/hottopics/gacode/Default.asp",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Generic LexisNexis portal. Substantive (g) text 'The State Board of Education shall adopt policies, procedures, regulations, and other such requirements for transportation and for payment of all transportation costs ... for all students with special needs identified by the various local units of administration' — verbatim-confirmed via WebSearch primary-text return. SBOE Rule 160-5-3-.02 Authority section (confirmed via Cornell LII fallback) cites O.C.G.A. § 20-2-188, vindicating the deliverable's special-ed citation correction."
+    },
+    {
+      "citation": "Ga. Comp. R. & Regs. R. 160-5-3-.02",
+      "claimedTierOrUrl": "Tier 2 (official GA admin code) — https://rules.sos.ga.gov/gac/160-5-3-.02",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Official GA Secretary of State admin-code portal. WebFetch re-open: page is JS-rendered SPA and returned only header/navigation/breadcrumbs — no rule body. Page title 'GA R&R - GAC - Rule 160-5-3-.02. Contracted Transportation Services' confirms rule identity. Firecrawl unavailable (auth/credit-limit) during this audit, same constraint Stage 1 hit. Rule body INDEPENDENTLY re-verified via Cornell LII secondary republication (https://www.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-160-5-3-.02): (1) 'Governing Body'/'LEA' definitions; (2)(a) vehicle/driver requirements; (2)(b) RCC certification + minimum insurance verification; (2)(c) DPS criminal background checks; Authority: 'O.C.G.A. §§ 20-2-188, 20-2-1076, 40-2-140, 40-8-112, 40-8-113'; adopted July 21, 2022, effective August 10, 2022. Silent on procurement method, term, rebid, renewal — fully supports deliverable's negative finding."
+    },
+    {
+      "citation": "Ga. Comp. R. & Regs. Subject 160-5-3",
+      "claimedTierOrUrl": "Tier 2 (official GA admin code) — https://rules.sos.ga.gov/gac/160-5-3",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Subject 160-5-3 rule index loads via WebFetch. Active rules: .01 (Purchase of School Buses), .02 (Contracted Transportation Services), .03 (Inspections), .04 (Insurance), .08 (Drivers), .10 (Funding Surveys), .11 (Standard Cost Development), .13 (Student Safety), .14 (Fuels and Explosives), .15 (Alcohol and Controlled Substances Testing), .16 (Bus Transportation Records), .17 (Alternative Vehicles). Repealed: .05, .06, .07, .09, .12 (FIVE repealed, not four as Stage 1 noted in one observation). Source-ledger's '.01-.17' enumeration (12 listed substantive rules) is numerically consistent with 17 total - 5 repealed = 12 active. 'Current through' date NOT visible on live free portal (only 'Copyright © 2026 Fastcase, Inc' stamp shown)."
+    },
+    {
+      "citation": "GaDOE Division of Pupil Transportation",
+      "claimedTierOrUrl": "Tier 4 (official GaDOE agency page) — https://gadoe.org/finance-operations/pupil-transportation/",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Page loads. 'Local control state' language ('While Georgia is a local control state, our staff facilitates a link between state and federal regulations and guidelines about safety and compliance') confirmed via WebSearch primary-text return. Supports deliverable's District-Variance 'Unknown' framing."
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "weakened",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "internalConsistency": {
+    "result": "consistent",
+    "mismatches": [
+      "scratch/georgia.json 'primaryCitation' is a single URL (lexisnexis.com landing) while the deliverables' primary citation is compound (§ 20-2-504; § 20-2-506; Rule 160-5-3-.02 plus § 20-2-188(g) for special ed) — minor schema-drift, not substantive disagreement.",
+      "scratch/georgia.json 'sourcesReVerified' lists nine codes.findlaw.com entries as the verbatim-text source consulted at re-verification, while the deliverables' URL of record across the same statutes is the LexisNexis O.C.G.A. portal. Verification-notes (line 112) discloses this work-around explicitly ('codes.findlaw.com substitutes as the parallel Westlaw republication and was the actual verbatim source consulted'). Documented work-around within spec, not a contradiction."
+    ]
+  },
+  "issues": [
+    {
+      "id": "GA-C1-01",
+      "dimension": "C1",
+      "severity": "P2",
+      "field": "Statutory Citation (all O.C.G.A. URLs)",
+      "evidence": "Re-opened https://www.lexisnexis.com/hottopics/gacode/Default.asp live in audit (WebFetch): 301 redirect confirmed to https://advance.lexis.com/container?config=00JAAzZDgzNzU2ZC05MDA0LTRmMDItYjkzMS0xOGY3MjE3OWNlODIKAFBvZENhdGFsb2fcIFfJnJ2IC8XZi1AYM4Ne, a Lexis Advance sign-in container. The Default.asp URL is the OFFICIAL LexisNexis O.C.G.A. publisher landing page (Georgia Code Revision Commission's exclusive publisher) but does NOT deep-link to any pinpoint section — § 20-2-504, § 20-2-506, § 20-2-500, § 36-91-2, § 50-5-69, § 20-2-152, and § 20-2-188 all share this single generic landing URL across both research-findings.md and source-ledger.md. Substantive text for each statute is independently verifiable via primary-text WebSearch returns and syfert.com 2018 mirror; deliverable acknowledges the constraint at research-findings.md line 239. Audit guardrail per QC protocol: generic portal URL not reaching cited pinpoint = 'partially verified' at best across seven distinct pinpoint citations.",
+      "recommendedRemediation": "Either (a) cite the live Lexis Advance container URL (the actual 301 target) and label its sign-in gate, or (b) add a parallel non-load-bearing pathfinder URL alongside the official portal (e.g., the Justia 2024 Code section URL or codes.findlaw.com section URL — both already referenced in scratch/georgia.json), explicitly labelled 'pathfinder, not authority.' Do not silently retain a single generic-portal URL as the resolvable address for seven distinct pinpoint citations."
+    },
+    {
+      "id": "GA-C1-02",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "Statutory Citation (Rule 160-5-3-.02 SOS portal vs. SBOE PDF)",
+      "evidence": "Re-opened https://rules.sos.ga.gov/gac/160-5-3-.02 live (WebFetch): JS-rendered SPA returned only header/navigation/breadcrumbs ('GA R&R » Department 160 » Chapter 160-5 » Subject 160-5-3 » Rule 160-5-3-.02') — no rule body. Rule title confirmed but rule body NOT resolvable via WebFetch. Firecrawl unavailable in this audit (auth/credit-limit error). Rule body INDEPENDENTLY re-verified via Cornell LII (https://www.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-160-5-3-.02): definitions, vehicle/driver requirements, RCC certification, DPS background checks, Authority O.C.G.A. §§ 20-2-188; 20-2-1076; 40-2-140; 40-8-112; 40-8-113; adopted 7/21/2022, effective 8/10/2022. Citation IS verified, but only via parallel channel — not via URL of record.",
+      "recommendedRemediation": "Add the apps.gadoe.org SBOE PDF URL (https://apps.gadoe.org/sboe/SBOE%20Rules/160-5-3-.02.pdf) OR the Cornell LII URL (https://www.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-160-5-3-.02) to the source-ledger as a parallel resolvable address for Rule 160-5-3-.02, since the SOS portal is JS-gated and not WebFetch-resolvable to body content."
+    },
+    {
+      "id": "GA-C3-01",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "Currency (Rule 160-5-3-.02 / Subject 160-5-3 'current through' date)",
+      "evidence": "Source-ledger claims Rule 160-5-3-.02 and Subject 160-5-3 are 'Current through Rules and Regulations filed through June 10, 2026.' Re-opened https://rules.sos.ga.gov/gac/160-5-3 live: the 'current through' date is NOT visible on the publicly-rendered free portal; only 'Copyright © 2026 Fastcase, Inc' stamp is shown. SBOE PDF shows Adopted 7/21/2022, Effective 8/10/2022, no later amendment. Currency claim is plausible (consistent with 2022 repeal/replace and no surfaced later amendment) but not independently re-verifiable on the publicly-rendered live page.",
+      "recommendedRemediation": "Either capture the 'current through' metadata via a JS-enabled fetch / paid SOS portal session and pin to ledger, or downgrade currency phrasing to 'Substantively unchanged since 2022 repeal/replace; current-through date not visible on free public portal as of 2026-06-23.'"
+    },
+    {
+      "id": "GA-C3-02",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "Currency (HB 1094 2026 session bill page)",
+      "evidence": "Deliverable repeatedly cites 'HB 1094 (2026) addressed transportation FUNDING only and died 4/2/2026.' Re-opened https://www.legis.ga.gov/legislation/68015 live (WebFetch): the page is JS-rendered and returned only a loading message — no bill detail. Independent disconfirming WebSearch: HB 1094 (Georgia 2025-2026 Regular Session) is the 'Georgia School Bus Safety and Modernization Act,' amending Chapter 2 of Title 20 to 'revise provisions for the calculation and distribution of funds by the State Board of Education to local units of administration for student transportation programs; to provide for priorities for such grants.' As of February 3, 2026, bill was at House Second Readers stage (25% progression); final disposition (passed/died) NOT independently surfaced in this audit. Substantive characterization (funding-only, NOT term/rebid/renewal) is INDEPENDENTLY CONFIRMED by the bill caption surfaced through search; the substantive negative-result claim (no impact on Field 1-3 framework) holds. Only the disposition date and the legis.ga.gov bill page URL remain not independently re-verified from the deliverable.",
+      "recommendedRemediation": "Add the legis.ga.gov bill-status URL for HB 1094 (https://www.legis.ga.gov/legislation/68015 or via LegiScan https://legiscan.com/GA/bill/HB1094/2025) to verification-notes so the negative-result claim is independently re-verifiable from the deliverable, and confirm final disposition (passed/died) by year-end review."
+    },
+    {
+      "id": "GA-C1-03",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "Statutory Citation (Subject 160-5-3 repealed-rules count clarification)",
+      "evidence": "Stage 1 citationVerifications for 'Ga. Comp. R. & Regs. Subject 160-5-3' noted 'deliverable says four repealed; live page shows five.' Re-checked: live Subject 160-5-3 page shows 12 active rules (.01, .02, .03, .04, .08, .10, .11, .13, .14, .15, .16, .17) plus 5 repealed (.05, .06, .07, .09, .12) = 17 total. The deliverable's source-ledger line 185 enumerates 12 substantive active rules (purchase of buses; contracted services; inspections; insurance; drivers; funding surveys; standard cost development; student safety; fuels/explosives; testing; records; alternative vehicles) — numerically CONSISTENT with 12 active + 5 repealed = 17. No explicit '4 repealed' assertion in deliverable; Stage 1's framing of the discrepancy may have been imprecise. Pure hygiene item.",
+      "recommendedRemediation": "Optional hygiene: list the repealed rule numbers (.05, .06, .07, .09, .12) explicitly in the source-ledger row for Subject 160-5-3 to make the implicit count auditable."
+    },
+    {
+      "id": "GA-C4-01",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "Internal Consistency (scratch/georgia.json primaryCitation field)",
+      "evidence": "scratch/georgia.json line 6: 'primaryCitation' is a single URL (the LexisNexis landing) while the actual primary statutory citation in the deliverables is a compound expression (§ 20-2-504; § 20-2-506; Rule 160-5-3-.02; § 20-2-188(g) for special ed). The 'primaryCitation' field functions as a quick portal pointer but does not capture the multi-citation reality. Minor schema-drift, not substantive disagreement.",
+      "recommendedRemediation": "Either expand the JSON 'primaryCitation' field to an array of all load-bearing URLs (LexisNexis O.C.G.A. portal + rules.sos.ga.gov rule URL + apps.gadoe.org SBOE PDF) or rename it 'primaryCitationPortalUrl' to disambiguate."
+    },
+    {
+      "id": "GA-C4-02",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "Internal Consistency (sourcesReVerified vs. URL of record)",
+      "evidence": "scratch/georgia.json 'sourcesReVerified' lists nine entries parenthetically labeled '(codes.findlaw.com)' for the O.C.G.A. sections, but the deliverables' URL of record for those same statutes is the LexisNexis O.C.G.A. portal. Verification-notes line 112 discloses the work-around explicitly. A reader of scratch/georgia.json alone would not know that the FindLaw labels are working-text pathfinders, not the citation URL of record.",
+      "recommendedRemediation": "Add a one-line note to scratch/georgia.json 'sourcesReVerified' clarifying that codes.findlaw.com entries are the verbatim-text pathfinders and that the citation URL of record in the deliverables is the official LexisNexis O.C.G.A. portal."
+    }
+  ],
+  "overallStateVerdict": "Minor",
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": [],
+  "summary": "Georgia's load-bearing legal claims (max term, rebid, renewal, special education) substantively re-verify on primary or parallel-official sources. § 20-2-506(b)(1)-(b)(2) calendar-year termination and automatic-renewal mechanic are verbatim-confirmed via WebSearch primary-text return; (b)(4) 7.5% local-revenue cap with 'excluding guaranteed energy savings contracts' wording (the deliverable's Stage-2 wording fix) is verbatim-confirmed via syfert.com 2018 mirror; § 20-2-188(g) special-needs SBOE rulemaking text is verbatim-confirmed and the deliverable's citation correction from § 20-2-152 to § 20-2-188(g) is independently vindicated by SBOE Rule 160-5-3-.02's Authority section (re-verified via Cornell LII secondary republication since the SOS rules portal is JS-gated and Firecrawl was unavailable in this audit). Disconfirming searches across all five fields (longer permissible term, mandatory bidding language, separate special-ed/IEP/McKinney-Vento/foster procurement regime, AG opinion archive) surfaced no credible official counter-evidence. The principal defect is structural rather than substantive (P2): all seven O.C.G.A. citations resolve to the SAME generic LexisNexis landing URL, which redirects to a Lexis Advance sign-in container and does NOT deep-link to any pinpoint section — the deliverable openly discloses the constraint (no free section-level deep link for O.C.G.A.), but the URL set is 'partially verified' per audit guardrail. Five P3 hygiene items (JS-gated SOS rule portal needing a parallel resolvable URL; rule-index 'current through' date not visible on free portal; HB 1094 disposition date not independently re-verifiable from deliverable though substantive funding-only characterization confirmed; minor JSON schema-drift in 'primaryCitation' and 'sourcesReVerified'; uncatalogued repealed-rule numbers) round out findings. Per-field verdicts: Max Term, Rebid, Renewal, Special Ed, District Variance all 'holds'; Statutory Citation 'weakened' due to the generic-portal/no-pinpoint issue across seven O.C.G.A. citations. Overall verdict: Minor."
+}

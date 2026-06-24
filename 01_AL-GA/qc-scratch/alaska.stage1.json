@@ -1,0 +1,208 @@
+{
+  "state": "Alaska",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Alaska's substantive legal claims (3-to-5 year cap under 4 AAC 27.086(a)(2); 3-year floor under AS 14.09.010(b); rebid via competitive proposal process under 4 AAC 27.086(a)/(c); no statutory renewal mechanic; large-district 5-year cycle alignment under 4 AAC 27.086(e); special-ed governed by same framework via 4 AAC 27.006(b)/.021; AS 14.30.347 underlying duty; AS 14.08.101(3) and AS 14.14.060(h) on procurement applicability; 4 AAC 03.091 waiver constraints) all re-verified verbatim on the official Alaska Lt. Governor Title 4 AAC PDF and the official akleg.gov Title 14 PDF. HB 57 (Ch. 5 SLA 2025) Sec. 9 verbatim confirmed as amending only AS 14.09.010(a). However, the deliverables consistently use a Department-of-Education-filed-regulation PDF whose filename references a DIFFERENT section (4 AAC 06.120(a)(2)) as the URL attached to the primary 4 AAC 27.086 citation (and to 27.006, 27.021, and 27.990). The PDF is in fact the 2014 Register 211 omnibus rulemaking package that DOES contain those 4 AAC 27 sections verbatim, so the citation holds substantively, but the URL is a filename-mismatch hygiene flag and is not a clean pinpoint to the current codified text. Two press-source citations also overstate what their cited article actually says (Mat-Su 10-year-contract economics and FNSB contract end date are sourced to articles that do not contain those specifics on their face; the underlying facts are independently corroborated by other public sources). No live counterweight to the five field findings surfaced.",
+  "citationVerifications": [
+    {
+      "citation": "4 AAC 27.086 (Competitive pupil transportation proposals)",
+      "claimedTierOrUrl": "Tier 2 (State administrative code). URL used as primary in research-findings.md, source-ledger.md, and the index line: https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Direct curl + pdftotext of the PDF: the PDF's first heading is '4 AAC 06.120(a)(2) is amended to read' — the filename refers to that section. The PDF is the Register 211 (October 2014) omnibus rulemaking package and DOES contain '4 AAC 27.086. Competitive pupil transportation proposals' verbatim, including (a)(2) ('contract terms of not less than three years, if feasible, and not more than five years'), (c) (6-month-pre-expiration RFP commencement), and (e) (ADM>=4,500 align to five-year cycle). Independently cross-checked against the official Alaska Lt. Governor Title 4 AAC PDF (https://www.akleg.gov/statutesPDF/aac%20Title%204.pdf): 27.086 text matches verbatim. So the SECTION TEXT is verified; the URL is a filename mismatch (load-bearing primary citation is attached to a URL whose filename references a different section), and the PDF is the 2014 rulemaking, not a 'current-through-May-30-2025' source — the May 30, 2025 currentness assertion derives from a Justia mirror (stated in verification-notes), not from the cited URL itself."
+    },
+    {
+      "citation": "AS 14.09.010(b) (Transportation of students — regulatory mandate)",
+      "claimedTierOrUrl": "Tier 1 (Codified state statute). https://www.akleg.gov/statutesPDF/Title-14.pdf",
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Direct curl of the official Alaska Legislature Title 14 PDF returned the verbatim text of AS 14.09.010(b): 'The department shall adopt regulations that provide for oversight of and support to school districts in achieving a safe and cost-effective student transportation system. The regulations must include a requirement for contract terms of not less than three years, if feasible, standardized conditions and bid periods, and standards that ensure cost efficiencies and exclusions.' Quote in source-ledger matches verbatim. Subsection (a) in the PDF still shows the pre-HB 57 funding table, which is expected because HB 57 amendments took effect July 1, 2025 (after compilation); subsection (b) is not amended."
+    },
+    {
+      "citation": "AS 14.08.101(3) (REAA powers — exemption from AS 36.30)",
+      "claimedTierOrUrl": "Tier 1. https://www.akleg.gov/statutesPDF/Title-14.pdf",
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Title-14.pdf returned verbatim: 'the regional school boards are exempt from AS 37.05 (Fiscal Procedures Act) and AS 36.30 (State Procurement Code)...'. Matches the quoted Relevant Text/Notes."
+    },
+    {
+      "citation": "AS 14.14.060(h) (Borough school board purchasing autonomy)",
+      "claimedTierOrUrl": "Tier 1. https://www.akleg.gov/statutesPDF/Title-14.pdf",
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Title-14.pdf returned verbatim: 'School boards within the borough may determine their own policy separate from the borough for the purchase of supplies and equipment.' Matches."
+    },
+    {
+      "citation": "4 AAC 27.006 (Program requirements) — used for 'most cost efficient methods... both regular and special education routes'",
+      "claimedTierOrUrl": "Tier 2. https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Same hygiene issue as 27.086: filename references 4 AAC 06.120(a)(2). PDF DOES contain 4 AAC 27.006 verbatim, including (b)'s 'both regular and special education routes' language. Also cross-confirmed in official Title 4 AAC PDF on akleg.gov."
+    },
+    {
+      "citation": "4 AAC 27.021 (Establishment of special education routes)",
+      "claimedTierOrUrl": "Tier 2. https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Same filename-mismatch hygiene issue. PDF contains 27.021 verbatim. Quoted Relevant Text/Notes (cross-reference to AS 14.30.347; not subject to 1.5-mile rule; aide an eligible expenditure) matches both the PDF and the official Title 4 AAC PDF verbatim."
+    },
+    {
+      "citation": "4 AAC 27.990(11) (definitions — 'school district' includes boroughs, cities, REAAs)",
+      "claimedTierOrUrl": "Tier 2. https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Same filename-mismatch hygiene issue. PDF contains 27.990 verbatim. Definition (11) text matches both the 2014 Register PDF and the official Title 4 AAC PDF."
+    },
+    {
+      "citation": "4 AAC 03.091 (Waivers)",
+      "claimedTierOrUrl": "Tier 2. https://www.akleg.gov/basis/aac.asp#4.03.091",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "akleg.gov/basis/aac.asp returned HTTP 200 via curl but the page is a JavaScript-rendered TOC frame; the bare anchor #4.03.091 does not deep-link to the pinpoint section in non-JS clients. WebFetch returned 403 (anti-bot). Section text re-verified verbatim from the official Lt. Governor Title 4 AAC PDF (https://www.akleg.gov/statutesPDF/aac%20Title%204.pdf): (a) 'Innovation in education requires flexibility...A local school board may request a waiver from a regulation in this title to implement an innovative program that leads to improved student achievement.' (e) 'The board will not waive a regulation required by state or federal law or necessary for health and safety.' Matches the quoted Relevant Text/Notes. Hygiene: the cited URL is not a clean pinpoint."
+    },
+    {
+      "citation": "HB 57 (Ch. 5 SLA 2025) enrolled text",
+      "claimedTierOrUrl": "Tier 1 (Session law). https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0057Z",
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "curl returned the full enrolled text. Sec. 9 reads 'AS 14.09.010 (a) is repealed and reenacted to read:' followed by a new funding table effective school years beginning July 1, 2025. Sec. 9 does not touch AS 14.09.010(b). Stage 1 claim verified."
+    },
+    {
+      "citation": "DEED Pupil Transportation Funding (program page)",
+      "claimedTierOrUrl": "Tier 4 (Education-department guidance). https://education.alaska.gov/schoolfinance/pupiltransport",
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "WebFetch confirmed quoted program description verbatim ('a grant funded program based on using the established district per child cost multiplied by the districts average daily membership less the correspondence students'); page references a 2026-03-17 grant summary."
+    },
+    {
+      "citation": "Peninsula Clarion — KPBSD / Apple Bus Company 10-year contract (2016-2017)",
+      "claimedTierOrUrl": "Tier 5 (Press). https://www.peninsulaclarion.com/news/apple-bus-company-contract-to-start-july-1/",
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Article verbatim: 'the Kenai Peninsula Borough School District will begin its 10-year contract with Apple Bus Company on July 1.' Start date and 10-year length match."
+    },
+    {
+      "citation": "School Transportation News — Durham / Mat-Su BSD 10-year contract",
+      "claimedTierOrUrl": "Tier 5 (Industry release). https://stnonline.com/industry-releases/durham-school-services-continues-to-expand-its-footprint-in-alaska-with-new-10-year-partnership-with-matanuska-susitna-borough-school-district/",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Article confirms 10-year Durham-Mat-Su partnership beginning 'this July' and 'For the next ten years, DSS will work collaboratively with the Matanuska-Susitna Borough School District to run an estimated 148 routes.' BUT the article does NOT contain the CPI 2.5%/6.0% escalator, the terminal purchase at 65% FMV, or the explicit June 30, 2032 end date that are recorded in the deliverables (research-findings notes, table, challenge-matrix). Those facts are independently corroborated by alaskasnewssource.com (May 7, 2022) — which is not in the source-ledger. Hygiene issue: deliverable text is being supported by source-ledger rows that don't themselves carry that detail."
+    },
+    {
+      "citation": "School Transportation News / webcenterfairbanks — FNSB / Durham 10-year contract",
+      "claimedTierOrUrl": "Tier 5 (Industry release). https://stnonline.com/industry-releases/durham-school-services-fleet-of-buses-begins-to-roll-into-fairbanks-alaska-in-preparation-for-ten-year-contract-beginning-in-august/",
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Article verifies 'The contract will run for ten years, starting August, 2021.' But does NOT contain the specific June 30, 2031 end date asserted in the deliverable. End date is inferable from 10-year length but not stated. Substantive variance finding (large-district 10-year contract) holds; specific end-date precision in the deliverable goes one step beyond what this cited source supports."
+    },
+    {
+      "citation": "Touchngo.com mirror of AS 14.08.101 (referenced in scratch + sourcesUnreachable in alaska.json)",
+      "claimedTierOrUrl": "Tier 1 mirror. Touchngo URL not cited in source-ledger row but referenced in JSON's sourcesUnreachable.",
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Per JSON: '502; substituted Findlaw mirror.' Not load-bearing because the akleg.gov Title-14.pdf carries AS 14.08.101 verbatim and is the primary cited URL in source-ledger."
+    },
+    {
+      "citation": "Justia URL pattern for AS 14.08.101",
+      "claimedTierOrUrl": "Tier secondary (republication). Referenced in JSON's sourcesUnreachable.",
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Per JSON: '404; substituted Findlaw mirror.' Not load-bearing; primary URL is the akleg.gov Title-14.pdf."
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "weakened",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "research-findings.md 'Per-state findings index' line for Alaska uses URL 'https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf' as the primary citation URL; same URL used in source-ledger rows for 4 AAC 27.086, 27.006, 27.021, and 27.990. The URL filename refers to '4 AAC 06.120(a)(2)' (Uniform Chart of Accounts), not to 4 AAC 27.086. The PDF is in fact the Register 211 (October 2014) omnibus rulemaking that contains all the cited 4 AAC 27 sections — so the citation is not refuted — but the URL is a hygiene mismatch.",
+      "verification-notes.md says the load-bearing primary citations were re-fetched 'via firecrawl scrape' and 4 AAC 27.086 was confirmed 'current through May 30, 2025' on Justia; the source-ledger row for 4 AAC 27.086 attaches the education.alaska.gov 2014 Register PDF, not the Justia URL. The currentness assertion ('current through May 30, 2025') flows from the unrecorded Justia fetch, not from the cited URL.",
+      "alaska.json sourcesReVerified lists '4 AAC 27.086 (Justia, current through May 30, 2025)' but the source-ledger row for 4 AAC 27.086 cites the education.alaska.gov PDF, not Justia — the re-verification source differs from the primary cited URL.",
+      "Notes / Special Provisions for Alaska state the Mat-Su contract terms include CPI 2.5%/6.0% and 65% FMV terminal purchase; those specifics are sourced to stnonline.com's industry-release article in the source-ledger, but that article does not itself contain those specifics (they appear in alaskasnewssource.com, which is not in the source-ledger).",
+      "Alaska table row states FNSB/Durham contract 'effective Aug 1, 2021 - June 30, 2031'; the cited stnonline.com article only says 'ten years starting August, 2021,' not the explicit June 30, 2031 end date."
+    ]
+  },
+  "issues": [
+    {
+      "id": "AK-C1-01",
+      "dimension": "C1",
+      "severity": "P2",
+      "field": "statutoryCitation (Max-Term, Rebid, Renewal — load-bearing primary URL)",
+      "evidence": "URL attached to 4 AAC 27.086 in research-findings.md, source-ledger.md, and the index line: https://education.alaska.gov/regs/filed/4AAC_06-120(a)(2)_final.pdf . Filename references 4 AAC 06.120(a)(2). Direct fetch (pdftotext) shows the PDF's first heading is '4 AAC 06.120(a)(2) is amended to read' (Uniform Chart of Accounts); the PDF is the 2014 Register 211 omnibus rulemaking that ALSO adds new sections to 4 AAC 27 including 27.006, 27.011, 27.021, 27.032, 27.036, 27.056, 27.086, 27.951, and re-adopts 27.990. So the cited regulation text IS in the PDF, but the URL filename refers to a different section. This is a citation/URL section-mismatch at the URL-naming level. Not a substantive refutation (text matches verbatim), but it is a P2 source-tier hygiene flag because (i) the URL does not pinpoint to 27.086, (ii) the cited PDF is the 2014 rulemaking, not a 'current-through-May-30-2025' codified source, and (iii) the same misleading URL is reused for four distinct 4 AAC 27 sections.",
+      "recommendedRemediation": "Replace the load-bearing URL with the official Alaska Lt. Governor Title 4 AAC PDF (https://www.akleg.gov/statutesPDF/aac%20Title%204.pdf) which contains 4 AAC 27.086 verbatim and is the canonical codified source, OR explicitly label the existing URL as 'Original 2014 Register 211 filing — codified text now appears at the official Title 4 AAC PDF.' Retain the existing PDF as a session-law-equivalent supporting source."
+    },
+    {
+      "id": "AK-C1-02",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "4 AAC 03.091 (Renewal Mechanics — waiver carve-out)",
+      "evidence": "Cited URL https://www.akleg.gov/basis/aac.asp#4.03.091 returns HTTP 200 via curl but the page is a JavaScript-rendered AAC TOC frame; the bare URL fragment #4.03.091 does not deep-link in non-JS clients. WebFetch returns 403 (anti-bot). The cited section text WAS verbatim verified on the official Lt. Governor Title 4 AAC PDF.",
+      "recommendedRemediation": "Substitute (or supplement) with the Title 4 AAC PDF pinpoint, or with regulations.justia.com section URL for 4 AAC 03.091 explicitly labeled as Tier 2 pathfinder."
+    },
+    {
+      "id": "AK-C1-03",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "Mat-Su 10-year contract specifics (CPI 2.5/6.0; 65% FMV terminal purchase)",
+      "evidence": "Cited supporting URL https://stnonline.com/industry-releases/.../matanuska-susitna-borough-school-district/ confirms 10-year length and DSS partnership but does not contain CPI escalator or terminal purchase price terms. Those terms are documented in alaskasnewssource.com 2022/05/07 ('a 2.5% minimum guaranteed increase based on the Consumer Price Index and a 6% increase ceiling') but that article is not in source-ledger.",
+      "recommendedRemediation": "Add the alaskasnewssource.com URL to the Alaska source-ledger as the supporting source for the CPI escalator and terminal purchase facts, OR remove those specifics from the table cell and notes."
+    },
+    {
+      "id": "AK-C1-04",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "FNSB/Durham contract end date",
+      "evidence": "Deliverable states 'effective Aug 1, 2021 - June 30, 2031'; cited stnonline.com article says 'ten years starting August, 2021' without specifying the June 30, 2031 end date. End date is internally consistent with a 10-year term, but is one step of inference beyond what the cited article quotes.",
+      "recommendedRemediation": "Either qualify as '(10-year term beginning Aug 1, 2021)' or add a corroborating source (e.g., FNSB board minutes) for the specific end date."
+    },
+    {
+      "id": "AK-C2-01",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "Currency-of-section assertion ('current through May 30, 2025')",
+      "evidence": "source-ledger.md says 4 AAC 27.086 is 'Current through Alaska Administrative Register, May 30, 2025'. This currentness flows from a Justia mirror that is not the URL attached to the row. The cited URL (4AAC_06-120(a)(2)_final.pdf) is the 2014 Register 211 PDF, which carries its own historical Register date (Oct 2014), not May 30, 2025.",
+      "recommendedRemediation": "Make the source-ledger 'Code Currency' column reflect the Code Currency of the URL actually attached to that row. Where May 30, 2025 currentness is claimed, attach the Justia (or other current-through-Register-227) URL directly."
+    },
+    {
+      "id": "AK-C3-01",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "Current-law check completeness",
+      "evidence": "Stage 1/2 confirmed HB 57 (Ch. 5 SLA 2025) Sec. 9 amended only AS 14.09.010(a). Independently re-verified verbatim by curl-fetched enrolled text. No 2025/2026 session law affecting 4 AAC 27, AS 14.08.101, AS 14.14.060, AS 14.30.347 located. No live counterweight surfaced from disconfirming searches. The currency assertion is well-supported, but the source-ledger row currency dates are not all consistently tied to the URL attached.",
+      "recommendedRemediation": "Same as AK-C2-01."
+    },
+    {
+      "id": "AK-C4-01",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "Internal consistency — re-verification source vs. cited URL",
+      "evidence": "verification-notes.md and alaska.json both say load-bearing sections were re-fetched 'via firecrawl scrape' and Stage 2 'Re-fetched 4 AAC 27.086 in full from Justia (current through May 30, 2025)'; source-ledger rows for those sections attach a different URL (education.alaska.gov 2014 Register PDF).",
+      "recommendedRemediation": "Either add a Tier 2 Justia row to source-ledger or change the verification narrative to reference the URL actually in the row."
+    },
+    {
+      "id": "AK-C5-01",
+      "dimension": "C5",
+      "severity": "P3",
+      "field": "Coverage — challenge-matrix rows",
+      "evidence": "Alaska challenge-matrix contains six rows (max term, rebid, renewal, special-ed, district variance, currentness). All five required topics covered; rows show real disconfirming hypotheses with negative-search paths recorded. No gap.",
+      "recommendedRemediation": "None required; documenting that the floor is met."
+    },
+    {
+      "id": "AK-C6-01",
+      "dimension": "C6",
+      "severity": "P3",
+      "field": "Neutrality",
+      "evidence": "Alaska table row, notes, and exceptions describe what the law requires; no favorability/ranking/comparative framing. Compliant.",
+      "recommendedRemediation": "None required."
+    },
+    {
+      "id": "AK-C7-01",
+      "dimension": "C7",
+      "severity": "P3",
+      "field": "Source-tier discipline",
+      "evidence": "Load-bearing claims rest on Tier 1 (AS 14.09.010, AS 14.08.101, AS 14.14.060, AS 14.30.347 via akleg.gov statutes PDF) and Tier 2 (4 AAC 27.086, 27.006, 27.021, 27.990, 4 AAC 03.091 via DEED-filed PDF + cross-verified on official Title 4 AAC PDF). Tier 5 press is used only for Field 5 district variance (appropriate). No secondary summary cited as authority for a substantive legal rule.",
+      "recommendedRemediation": "None required."
+    },
+    {
+      "id": "AK-C8-01",
+      "dimension": "C8",
+      "severity": "P3",
+      "field": "Adversarial robustness — disconfirming searches independently re-run",
+      "evidence": "Independent disconfirming web searches for longer-term/renewal-option/waiver authority, alternative special-ed procurement regime, AS 14.09.020, and 5+5 base/renewal structure did not surface any official counterweight. The variance finding (three large-district 10-year contracts on their face exceeding the 5-year ceiling) is independently corroborated; the structural explanation (waiver vs. 5+5 vs. tension) is correctly carried as unresolved in the deliverable.",
+      "recommendedRemediation": "None required."
+    }
+  ],
+  "overallStateVerdict": "Minor",
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": []
+}

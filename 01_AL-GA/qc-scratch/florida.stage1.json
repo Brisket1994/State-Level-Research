@@ -1,0 +1,183 @@
+{
+  "state": "Florida",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Florida's load-bearing legal architecture (max term / rebid / renewal / primary citation) re-verified verbatim on official sources: § 1010.04(4)(a), § 1006.27, Rule 6A-1.012(7) (via the elaws.us mirror), the 2001 AG Informal Opinion (Duval County), and the § 287.012 'agency' definition all re-opened and confirmed. The principal defect is currency: the deliverable cites Fla. Stat. § 1006.22 in its 2022 edition (https://www.flsenate.gov/laws/statutes/2022/1006.22), quotes (1)(a) and (6) verbatim, and asserts they are 'substantively unchanged in 2024-2025' — but the 2024-current text of § 1006.22 was renumbered/rewritten (likely by ch. 2023-16); the live 2024 edition has no (1)(a) about physically handicapped/isolated students and no (6) about common carriers (now (5)). The 'Notes' and special-education analysis rest on superseded statutory text. Secondary defects: the FLDOE Appendix A PDF and the Broward fortlauderdale.gov URL were unreachable to me (403/binary), so they remain partially verified; an independent search corroborates the Broward contract framework but identifies the contract as ITB-18-014R with TWO one-year renewals (not three as the deliverable states); the Rule 6A-3.0171 official gateway (flrules.org) returned metadata only on this pass. Load-bearing findings (max term / rebid / renewal / their primary citations) re-verify; the special-ed finding holds in substance only by reference to non-current statutory text and requires re-anchoring.",
+  "citationVerifications": [
+    {
+      "citation": "Fla. Stat. § 1010.04(4)(a) (2024)",
+      "claimedTierOrUrl": "Tier 1 codified statute — https://www.flsenate.gov/Laws/Statutes/2024/1010.04",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text matches verbatim: 'The State Board of Education may, by rule, provide for alternative procedures for school districts and Florida College System institutions for bidding or purchasing in cases in which the character of the item requested renders competitive bidding impractical.' Supports SBE rulemaking authority for Rule 6A-1.012. 2025 edition confirms no change."
+    },
+    {
+      "citation": "Fla. Stat. § 1006.21(5) (2024)",
+      "claimedTierOrUrl": "Tier 1 codified statute — https://www.flsenate.gov/Laws/Statutes/2024/1006.21",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text matches verbatim: 'Contiguous school districts shall make provisions for reciprocal policies and agreements for contracts for school bus transportation services, inspections, and screening requirements for public schools and public charter schools.'"
+    },
+    {
+      "citation": "Fla. Stat. § 1006.22(1)(a), (6) (cited as 2024 but URL is 2022)",
+      "claimedTierOrUrl": "Tier 1 codified statute — https://www.flsenate.gov/laws/statutes/2022/1006.22 (ledger note: '2022 Florida Senate publication; substantively unchanged in 2024-2025')",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "The 2022 URL re-opens and contains the quoted (1)(a) physically-handicapped/isolated/specialized-program language and the (6) common-carrier language. HOWEVER, the live 2024 and 2025 editions of § 1006.22 do NOT contain those provisions in those positions — subsection (1) now reads only 'District school boards may authorize the transportation of students in privately owned motor vehicles on a case-by-case basis,' the common-carrier provision is now subsection (5) (not (6)), and (6) addresses adult students. Statute was amended (history note: s. 17, ch. 2023-16). The deliverable's claim that the 2022 text is 'substantively unchanged in 2024-2025' is contradicted by the live 2024/2025 text. Citation/edition MISMATCH affecting the special-ed and Notes content."
+    },
+    {
+      "citation": "Fla. Stat. § 1006.27(1)-(2) (2024)",
+      "claimedTierOrUrl": "Tier 1 codified statute — https://www.flsenate.gov/Laws/Statutes/2024/1006.27",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text confirms voluntary bus-bid pooling and district purchase-and-resale of buses to contractor; last amended ch. 2024-230. Statute does not impose term cap or renewal mechanism (silence supports the deliverable's silence findings on max term and renewal mechanics)."
+    },
+    {
+      "citation": "Fla. Stat. § 287.057(13)-(14) (2024)",
+      "claimedTierOrUrl": "Tier 1 codified statute — https://www.flsenate.gov/Laws/Statutes/2024/287.057",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text confirms 6-month extension cap (13) and 3-year-or-original-term renewal cap (14). Both bind 'agencies' as defined in § 287.012."
+    },
+    {
+      "citation": "Fla. Stat. § 287.012 (2024) (definition of 'agency')",
+      "claimedTierOrUrl": "Tier 1 codified statute — https://www.flsenate.gov/Laws/Statutes/2024/287.012",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text confirms 'agency' = state executive-branch units only; explicitly excludes university/college boards of trustees and state universities/colleges. School districts not included — supports deliverable's holding that § 287.057 caps do not bind district school boards."
+    },
+    {
+      "citation": "Fla. Admin. Code R. 6A-1.012(7)",
+      "claimedTierOrUrl": "Tier 2 state administrative code — https://flrules.elaws.us/fac/6a-1.012/",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text on elaws.us mirror confirms subsection (7) $50,000 threshold and no-division rule; subsection (6) piggyback authority; subsection (12)(d) sole-source with 7-business-day posting; subsection (12)(e) emergency procurement on superintendent's written finding. Last amended Feb. 25, 2009 — confirmed. Note: this is the elaws.us mirror, not the flrules.org official portal (the latter returned metadata only on this audit pass)."
+    },
+    {
+      "citation": "Fla. Admin. Code R. 6A-3.0171",
+      "claimedTierOrUrl": "Tier 2 state administrative code — https://flrules.org/gateway/RuleNo.asp?title=Transportation&ID=6A-3.0171",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Gateway page resolves and confirms rule title 'Responsibilities of School Districts for Student Transportation,' last amended Dec. 21, 2025; does not render full rule text inline (must click VIEW_RULE). Confirms the rule addresses inspection manual / inspection frequency, not contract terms — supporting the deliverable's silence finding. Generic portal limitation flagged."
+    },
+    {
+      "citation": "Fla. AG Informal Op. to Don Edmondson, Duval County School Board (Apr. 25, 2001)",
+      "claimedTierOrUrl": "Tier 3 AG opinion — https://www.myfloridalegal.com/ag-opinions/competitive-bids-school-bus-transporation-services",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text confirms verbatim: 'I am of the opinion that the school board is required to adopt policies providing for the competitive bidding of such contracts as the school bus transportation service contracts.' (Note: ledger's URL filename uses 'transporation' [sic]; the misspelling tracks the AG portal's actual slug — this is a portal idiosyncrasy, not a deliverable defect.)"
+    },
+    {
+      "citation": "Fla. AG Opinion — school board contract term exceeding members' terms",
+      "claimedTierOrUrl": "Tier 3 AG opinion (supporting) — https://www.myfloridalegal.com/ag-opinions/school-board-contract-term-exceeding-members-terms",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live text confirms: 'absent a constitutional or statutory prohibition against such action, the school board has the authority to enter into contracts serving a school purpose for terms in excess of the terms of the board's members.' Supports the 'no statutory maximum' finding."
+    },
+    {
+      "citation": "FLDOE 'Appendix A - Statutes and Rules for Student Transportation'",
+      "claimedTierOrUrl": "Tier 4 state agency guidance — https://info.fldoe.org/docushare/dsweb/Get/Document-4118/t_07_09att2.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "WebFetch returned binary PDF that could not be parsed inline; Firecrawl tools required re-authorization on this audit pass and were not usable. Both attempts failed to retrieve text content. Pack acknowledges it as confirmatory only — consistent with this verdict."
+    },
+    {
+      "citation": "FLDOE Technical Assistance Paper FY 2001-13 (Transportation and Students with Disabilities)",
+      "claimedTierOrUrl": "Tier 4 state agency guidance — https://www.fldoe.org/core/fileparse.php/7590/urlt/0072166-y2001-13.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Both WebFetch attempts returned HTTP 403 Forbidden; Firecrawl required re-authorization. Live retrieval failed. The pack relies on this for the special-ed conclusion that IEP teams decide whether transportation is a related service; the conclusion is consistent with broader public FLDOE ESE practice, but this audit could not re-verify the document verbatim."
+    },
+    {
+      "citation": "School Board of Broward County, Florida — School-bus transportation services ITB / contract renewal documentation",
+      "claimedTierOrUrl": "Tier 5 district policy (illustrative) — https://www.fortlauderdale.gov/home/showdocument?id=60840&t=637606456961884107",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "WebFetch returned HTTP 403 on both the parameterized and unparameterized URL; Firecrawl required re-authorization. Independent web search corroborates that this document exists ('Status; REVISED THE SCHOOL BOARD OF BROWARD COUNTY, FLORIDA' on fortlauderdale.gov) but I could not re-open it directly. INDEPENDENT CORROBORATION (search results, secondary): ITB-18-014R was released Apr. 3, 2017 (with an Aug. 24, 2017 additional release 18-014R-01); the contract had a term of approximately three years with TWO one-year renewal options by mutual agreement and Board approval (not THREE renewals as the deliverable states); the First Renewal was approved May 19, 2020, extending through June 30, 2021. The deliverable's claim of 'approved June 13, 2017' and 'three one-year renewal options' is not corroborated by the independent search; renewals count and approval date appear inaccurate."
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "weakened",
+    "districtVariance": "weakened",
+    "specialEducation": "weakened"
+  },
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "Source-ledger cites § 1006.22 with the 2022 URL (https://www.flsenate.gov/laws/statutes/2022/1006.22) and notes 'substantively unchanged in 2024-2025' — but the row's 'Code Currency / Effective Date' column nominally treats it as current. The 2024/2025 live text contradicts the 'unchanged' note.",
+      "research-findings notes state 'Rule 6A-3.0171 (last amended Dec. 21, 2025)' and 'inspection frequency (quarterly, max 101 calendar days)' — the gateway portal confirms the Dec. 21, 2025 amendment exists but does not surface the '101 calendar days' detail inline; this audit could not verify that specific number against the rule text on flrules.org or via the elaws.us mirror within the bounded pass.",
+      "Broward citation: research-findings says 'School Board of Broward County ITB (approved June 13, 2017) structured with three one-year renewal options exercisable by mutual agreement and Board approval' — independent search indicates ITB-18-014R (released Apr. 3, 2017 with an Aug. 24, 2017 additional release) had TWO one-year renewal options, and the first renewal was approved May 19, 2020. The 'three renewal options' and 'June 13, 2017' details do not match independent secondary evidence. The fortlauderdale.gov URL itself could not be re-opened in this audit, so the deliverable's exact source could not be re-read."
+    ]
+  },
+  "issues": [
+    {
+      "id": "FL-C3-01",
+      "dimension": "C3",
+      "severity": "P1",
+      "field": "specialEducation / Notes (§ 1006.22 currency)",
+      "evidence": "Live 2024 and 2025 editions of Fla. Stat. § 1006.22 on flsenate.gov no longer contain the quoted (1)(a) 'physically handicapped or isolated students' / 'comprehensive contract for a specialized educational program' language or the (6) common-carrier language. Subsection (1) now reads only 'District school boards may authorize the transportation of students in privately owned motor vehicles on a case-by-case basis.' The common-carrier provision is now (5). The section was amended by ch. 2023-16, s. 17. The source-ledger row uses the 2022 URL and labels the language 'substantively unchanged in 2024-2025' — this is contradicted by the live current text.",
+      "recommendedRemediation": "Re-anchor every special-ed and Notes quotation to the current (2024-current) § 1006.22 text and the correct subsection numbers; remove the 'substantively unchanged' assertion; update the source-ledger URL to the 2024 edition (https://www.flsenate.gov/Laws/Statutes/2024/1006.22) and reflect the renumbering. If the older 2022 language is being cited because it supports a historical practice point, label it explicitly as superseded prior text."
+    },
+    {
+      "id": "FL-C1-01",
+      "dimension": "C1",
+      "severity": "P2",
+      "field": "statutoryCitation / Notes (§ 1006.22 URL/edition mismatch)",
+      "evidence": "Source-ledger row attaches the URL https://www.flsenate.gov/laws/statutes/2022/1006.22 to the citation labeled 'Fla. Stat. § 1006.22 (2024).' The URL points to the 2022 edition, not 2024. The label says 2024 and the column 'Code Currency / Effective Date' says '2022 Florida Senate publication; substantively unchanged in 2024-2025.' Citation/edition mismatch on its face.",
+      "recommendedRemediation": "Replace URL with the 2024 edition (https://www.flsenate.gov/Laws/Statutes/2024/1006.22) and reconcile the quoted text to whatever the 2024 edition actually says; or, if the older text is being relied on, change the citation label to '(2022)' and add a clear note that the section has since been amended."
+    },
+    {
+      "id": "FL-C1-02",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "statutoryCitation (Rule 6A-1.012 — primary text source)",
+      "evidence": "Source-ledger cites the elaws.us mirror (https://flrules.elaws.us/fac/6a-1.012/) as the primary-text source for Rule 6A-1.012. The flrules.org official gateway returns metadata only and does not render rule text inline on this pass (verification-notes acknowledge this). The elaws.us mirror is a useful and consistently maintained third-party mirror of the official rule text but is not itself the official Department of State publication.",
+      "recommendedRemediation": "Either add the official flrules.org gateway URL alongside the elaws.us mirror with a note that the gateway renders metadata + a downloadable rule text link (and link the rule-text file directly when available), or add a clear methodology note explaining that the elaws.us mirror was relied on because the official portal does not render text inline."
+    },
+    {
+      "id": "FL-C1-03",
+      "dimension": "C1",
+      "severity": "P2",
+      "field": "districtVariance (Broward citation reachability)",
+      "evidence": "The cited Broward illustrative URL (https://www.fortlauderdale.gov/home/showdocument?id=60840&t=637606456961884107) returned HTTP 403 on both WebFetch attempts on this audit pass. The Firecrawl alternative required re-authorization. Independent search confirms the document exists on fortlauderdale.gov but I could not re-read it directly.",
+      "recommendedRemediation": "Replace the showdocument querystring URL with a more durable Broward-hosted equivalent (e.g., the broward.k12.fl.us/supply/agenda/ITB_18-014R PDF), or include both URLs. Add a backup district-policy citation."
+    },
+    {
+      "id": "FL-C2-01",
+      "dimension": "C2",
+      "severity": "P2",
+      "field": "districtVariance (Broward verbatim claim)",
+      "evidence": "research-findings claim: 'School Board of Broward County ITB (approved June 13, 2017) structured with three one-year renewal options exercisable by mutual agreement and Board approval.' Independent secondary evidence (browardschools.com, bcpsagenda.browardschools.com search snippets) indicates the relevant ITB is ITB-18-014R, released April 3, 2017 with an additional release Aug. 24, 2017, with a term 'of approximately three years' renewable by mutual agreement for TWO additional one-year periods (not three), and the First Renewal extending through June 30, 2021 was approved May 19, 2020. The 'June 13, 2017' approval date and 'three one-year renewal options' specifics in the deliverable are not corroborated. (The exact deliverable source URL could not be re-opened in this audit; verdict is therefore 'weakened, possibly refuted' pending re-fetch of the original PDF.)",
+      "recommendedRemediation": "Re-open the fortlauderdale.gov PDF directly (or an authenticated mirror) and reconcile the verbatim claim. If the document is in fact a city-side contract document referencing a separate Broward agenda, cite the Broward agenda item directly for the renewal-option count and approval date."
+    },
+    {
+      "id": "FL-C4-01",
+      "dimension": "C4",
+      "severity": "P2",
+      "field": "Cross-file consistency (§ 1006.22 edition note)",
+      "evidence": "verification-notes do not separately acknowledge that § 1006.22's 2022 text was superseded by ch. 2023-16; the current-law check section only addresses Chapter 1006 Subpart E, Chapter 1010 Part I, and Chapter 287 in the aggregate. The 'substantively unchanged' note in the ledger is therefore not flagged anywhere in verification-notes or challenge-matrix.",
+      "recommendedRemediation": "Add a verification-notes line explicitly addressing the 2023 amendment to § 1006.22 and its impact on the special-ed / Notes language; correspondingly add a challenge-matrix row on the special-ed finding currentness."
+    },
+    {
+      "id": "FL-C5-01",
+      "dimension": "C5",
+      "severity": "P3",
+      "field": "challenge-matrix coverage (negative search paths)",
+      "evidence": "The Florida challenge-matrix rows are substantive (not pro forma) and each cites real searches. However, the special-education row does not surface any separate disconfirming search against McKinney-Vento or foster-care statutory frameworks beyond the brief reference 'searched for separate McKinney-Vento, foster-care, or alternative-transportation procurement statutes in Florida'; this audit's own disconfirming searches did not surface any official Florida statute creating a separate procurement regime for those populations, so the substantive finding holds. Minor methodological visibility issue only.",
+      "recommendedRemediation": "Expand the special-ed challenge row to enumerate the McKinney-Vento (Fla. Stat. § 1003.21 / federal Title VII-B reference) and foster-care (Fla. Stat. § 1003.218) searches by hit/no-hit, and confirm explicit negative results."
+    },
+    {
+      "id": "FL-C1-04",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "statutoryCitation (FLDOE Appendix A / TAP unreachability)",
+      "evidence": "The FLDOE Appendix A docushare PDF (info.fldoe.org/...t_07_09att2.pdf) returned binary content WebFetch could not parse on this audit pass; the FLDOE TAP FY 2001-13 (fldoe.org/.../0072166-y2001-13.pdf) returned HTTP 403 on this pass. Firecrawl was unavailable (token re-authorization required). The pack itself acknowledges Appendix A as 'binary; treated as confirmatory only' and the TAP is non-load-bearing. No load-bearing claim is affected.",
+      "recommendedRemediation": "Add a methodology note that these are agency-hosted PDFs whose retrievability is host-side dependent; supply a fallback citation (e.g., an archived copy or an FLDOE webpage referencing the TAP) so a future re-verifier can resolve them."
+    }
+  ],
+  "overallStateVerdict": "Minor",
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": []
+}

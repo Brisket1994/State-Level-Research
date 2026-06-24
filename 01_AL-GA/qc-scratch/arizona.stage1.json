@@ -1,0 +1,128 @@
+{
+  "state": "Arizona",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Arizona's load-bearing legal claims (5-year multiterm cap with written-board override under A.R.S. 15-213(L); R7-2-1093 multiterm rules; A.R.S. 15-923 transportation-authority statute silent on term/rebid/renewal; private-school-placement-only special-education carve-out at 15-213(A)(1) and R7-2-1002(D)(8)) re-verified verbatim on official azleg.gov sources and on the Cornell LII regulatory mirror (the AZ SOS Title 7 Ch. 2 PDF remains 403-blocked, which the deliverables disclose). Per-field verdicts hold for max term, rebid, renewal, and special-education; district variance remains unresolved as documented. Internal consistency across the four files plus scratch/arizona.json is strong. Two material hygiene issues: the cited Auditor General URL is a general School-Districts FAQ index (not a dedicated Procurement FAQ page) and the cited Title 41 azleg index URL paginates and does not actually reach Chapter 23 / 41-2535 / 41-2631 — both are partially verified generic-portal citations, neither load-bearing, but should be pinpoint-replaced. A modest paraphrase risk: the 15-213(L) verbatim text contains a leading 'Unless otherwise provided by law' qualifier that the table-cell paraphrase elides; substantive meaning preserved but worth a hygiene flag.",
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "holds",
+    "districtVariance": "unresolved",
+    "specialEducation": "holds"
+  },
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": [],
+  "internalConsistency": {
+    "result": "consistent",
+    "mismatches": []
+  },
+  "overallStateVerdict": "Minor",
+  "citationVerifications": [
+    {
+      "citation": "A.R.S. 15-213(A), (L); enabling statute for School District Procurement Rules; multiterm 5-year cap with written-board override",
+      "claimedTierOrUrl": "Tier 1 (Codified state statute) — https://www.azleg.gov/ars/15/00213.htm",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "WebFetch re-opened on 2026-06-24. Subsection (L) verbatim begins 'Unless otherwise provided by law, multiterm contracts for materials or services and contracts for job-order-contracting construction services may be entered into if the duration of the contract and the conditions of renewal or extension, if any, are included in the invitation for bids or the request for proposals and if monies are available for the first fiscal period at the time the contract is executed. The duration of contracts for materials or services and contracts for job-order-contracting construction services are limited to not more than five years unless the governing board determines in writing before the procurement solicitation is issued that a contract of longer duration would be advantageous to the school district.' This matches the source-ledger ledger row verbatim quotation. Subsection (A) directs SBE to adopt procurement rules consistent with Title 41 Ch. 23 with carve-outs including private-school placement; subsection (A)(1) carve-out confirmed for IEP private-school placement under 15-765(D); subsection (Q)(3) defines 'school purchasing cooperative' by cross-reference to 41-2631. All matches."
+    },
+    {
+      "citation": "A.R.S. 15-923 (Contracts for transportation; requirement; report)",
+      "claimedTierOrUrl": "Tier 1 — https://www.azleg.gov/ars/15/00923.htm",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "WebFetch re-opened on 2026-06-24. Subsection (A) verbatim 'A school district may contract for vehicles and other transportation services if economically advantageous. Contracts may be with another political subdivision, a common or contract carrier or a private party.' Section silent on term/rebid/renewal — matches the deliverables' claim that 15-923 confers contracting authority only and that 15-213(L)/R7-2-1093 supply the term/multiterm rule. SB 1246/Laws 2025 Ch. 242 subsection (B) on electric-school-bus preapproved carriers confirmed via cross-reference to 28-3053. Source-ledger ledger row quotation is faithful."
+    },
+    {
+      "citation": "A.A.C. R7-2-1093 (Multiterm Contracts), subsections (A)-(F)",
+      "claimedTierOrUrl": "Tier 2 (State administrative code) — cited URL https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R7-2-1093 (Cornell LII mirror)",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "WebFetch re-opened on 2026-06-24. Cornell LII page loads with substantive A-F text matching the source-ledger summary verbatim: (A) up-front disclosure of duration/renewal in IFB/RFP plus 5-year limit-with-board-override; (B) written governing-board determination of reasonable/continuing requirements and advantage; (C) non-appropriation cancellation clause; (D) reimbursement of unamortized nonrecurring costs; (E) professional-services 5-year cap; (F) auditor contracts governed by 15-213. Substantive text is consistent with the rule as adopted. Caveat: the official AZ Secretary of State publisher PDF (apps.azsos.gov/public_services/title_07/7-02.pdf) returns HTTP 403 to both WebFetch and a Firecrawl fetch attempt (Firecrawl auth token expired before second leg) — Stage 1 documented this and surfaced the failure in sourcesUnreachable rather than retaining it silently. Cornell LII is a non-official mirror; verbatim text consistent with the rule as adopted, but the load-bearing finding rests on an unofficial mirror because the official PDF is blocked. Treat as partially verified pending an official source. Note: the official SOS link does not need replacing in the deliverable (it is already disclosed as 403-blocked) — but this constitutes a known weakness."
+    },
+    {
+      "citation": "A.A.C. R7-2-1001, R7-2-1002, R7-2-1053, R7-2-1055 — School District Procurement Rules supporting structure (sole source, emergency, applicability, special-ed carve-out)",
+      "claimedTierOrUrl": "Tier 2 — https://apps.azsos.gov/public_services/title_07/7-02.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "HTTP 403 Forbidden on WebFetch; Firecrawl fallback unavailable (MCP server reauthorization required). Stage 1 already surfaced this URL in sourcesUnreachable. Substantive R7-2-1002(D)(8) private-school-placement carve-out content is also corroborated by the WebSearch result quoting it back from independent sources, and the Cornell LII regulations index references the same article. Finding survives as a supporting (not load-bearing) citation because the special-education differentiation rests in tandem on A.R.S. 15-213(A)(1) directly verified at azleg.gov. P2 hygiene flag — official URL stays dead; substantive content not independently lost."
+    },
+    {
+      "citation": "A.R.S. Title 41 Ch. 23 (Arizona Procurement Code), §§ 41-2535, 41-2631",
+      "claimedTierOrUrl": "Tier 1 — https://www.azleg.gov/arsDetail/?title=41",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "WebFetch re-opened on 2026-06-24. The cited URL is a Title 41 Detail / index page that paginates; on the loaded view it displays chapters 1-9 only — Chapter 23 (Procurement Code) is not visible from this URL, nor are §§ 41-2535 or 41-2631 directly accessible without further navigation. A separately fetched A.R.S. 41-2535 page (https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F41%2F02535.htm) loads and confirms the procurement-threshold provision. So the substantive cited content exists at azleg.gov but at a different, pinpoint URL; the URL listed in source-ledger is a portal-not-pinpoint citation that does not reach the cited sections. Generic-portal-not-pinpoint is reportable as P3 hygiene (not load-bearing because 41-2535/41-2631 only support 'Rebid (framework)' and 'cooperative/piggyback' as supplementary context to 15-213(B), (Q)(3))."
+    },
+    {
+      "citation": "ASBA model policy DJE (Bidding/Purchasing Procedures)",
+      "claimedTierOrUrl": "Tier 5 — https://policy.azsba.org/asba/DocViewer.jsp?docid=125&z2collection=nepn1",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "WebFetch re-opened on 2026-06-24. ASBA model policy DJE loads with substantive bidding/purchasing-procedures text and a Superintendent-as-purchasing-agent clause. Consistent with deliverables' use of the policy as an ASBA-tier (5) variance-related pathfinder, not as authority."
+    },
+    {
+      "citation": "Tucson Unified School District Governing Board Policy DJE",
+      "claimedTierOrUrl": "Tier 5 — https://govboard.tusd1.org/Policies-and-Regulations/Policy-Code-DJE",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "WebFetch re-opened on 2026-06-24. TUSD policy DJE loads and contains verbatim 5-year cap and Board-determination override mirroring the 15-213(L) statutory text. Consistent with deliverables' description."
+    },
+    {
+      "citation": "Arizona Auditor General — School Districts Procurement FAQs / FY 2024 State Procurement Compliance Report",
+      "claimedTierOrUrl": "Tier 4 (state agency guidance) — https://www.azauditor.gov/reports-publications/school-districts/faqs/procurement",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "WebFetch on 2026-06-24. URL loads with H1 'FAQs—School Districts' — the general school-districts FAQ index, not a dedicated Procurement FAQ page. A 'Procurement' section heading appears with one visible question ('What are the requirements for school districts to competitively bid purchases?'), but the substantive Q&A content is largely truncated/below-the-fold and the FY 2024 State Procurement Compliance Report referenced in the ledger description is hosted at a different URL (cf. https://www.azauditor.gov/sites/default/files/2025-03/FY_2024_USFR_Compliance_Questionnaire.pdf). Stage-1 verification notes already concede 'WebFetch returned only section headings.' Not load-bearing — used in support of the District-Variance 'Unknown' negative search path, which it does support (in fact reinforces the Unknown verdict). P3 hygiene: the URL is described as encompassing two artifacts (FAQ + FY24 compliance report) but actually points to only one. Consider pinpointing the compliance report URL separately."
+    }
+  ],
+  "issues": [
+    {
+      "id": "AZ-C1-01",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "Statutory Citation (supporting source — Title 41 Ch. 23 index)",
+      "evidence": "Source-ledger row cites https://www.azleg.gov/arsDetail/?title=41 to support A.R.S. Title 41 Ch. 23 and §§ 41-2535, 41-2631. The URL loads but is a paginated Title 41 index showing only chapters 1-9; Chapter 23 and the named sections are not reached from this URL. A direct azleg URL for 41-2535 (https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F41%2F02535.htm) loads correctly. Generic-portal-not-pinpoint citation.",
+      "recommendedRemediation": "Replace https://www.azleg.gov/arsDetail/?title=41 with pinpoint section URLs for A.R.S. 41-2535 and 41-2631 (e.g., https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F41%2F02535.htm and the analogous viewdocument URL for 41-2631)."
+    },
+    {
+      "id": "AZ-C1-02",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "District Variance / supporting source — Auditor General",
+      "evidence": "Source-ledger row labeled 'Arizona Auditor General — School Districts Procurement FAQs / FY 2024 State Procurement Compliance Report' cites https://www.azauditor.gov/reports-publications/school-districts/faqs/procurement. That URL resolves to the general 'FAQs—School Districts' index page (H1 confirmed), not a Procurement-specific FAQs page or the FY 2024 compliance report. The ledger description bundles two artifacts behind one URL.",
+      "recommendedRemediation": "Either pinpoint to a procurement-specific FAQ entry or split the row: keep the FAQ URL with a description matching what loads, and add a separate row for the FY 2024 compliance report at its actual URL (e.g., the FY_2024_USFR_Compliance_Questionnaire.pdf on azauditor.gov)."
+    },
+    {
+      "id": "AZ-C1-03",
+      "dimension": "C1",
+      "severity": "P2",
+      "field": "Statutory Citation — A.A.C. R7-2-1093 official-source dependency",
+      "evidence": "The load-bearing regulatory citation A.A.C. R7-2-1093 is verified verbatim only on the Cornell LII mirror (https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R7-2-1093). The official Arizona Secretary of State publisher PDF (apps.azsos.gov/public_services/title_07/7-02.pdf) returns HTTP 403 to both WebFetch and an attempted Firecrawl fetch; Stage 1 already disclosed this as unreachable. While the rule's text is substantively confirmed via TUSD Policy DJE and ASBA model DJE adoption, primary-source verification of the regulation rests on a non-official mirror.",
+      "recommendedRemediation": "Add an alternative official-or-state-sanctioned source for R7-2-1093 if locatable (e.g., the Arizona Administrative Register publication that originally promulgated the 2014/2018 amendments at https://apps.azsos.gov/public_services/register/ or a State Procurement Office reprint). Otherwise leave the existing disclosure ('Cornell LII mirror; AZ SOS title PDF HTTP 403') and ensure the deliverable's note that the substantive text was corroborated against TUSD and ASBA policy is retained as the verification fallback."
+    },
+    {
+      "id": "AZ-C2-01",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "Max Contract Term (table cell)",
+      "evidence": "Table cell summarizes 15-213(L) as '5 years (default). Longer term permitted only if the governing board determines in writing, before the procurement solicitation is issued, that a contract of longer duration would be advantageous to the school district. All multiyear payment obligations subject to annual appropriation.' The statutory text begins 'Unless otherwise provided by law,...' — that introductory qualifier (which preserves any superseding statute-specific exception) is omitted from the cell. Substantive meaning preserved; nuance dropped.",
+      "recommendedRemediation": "Optional polish: prepend 'Unless otherwise provided by law' or note 'subject to any contrary statute' to the table cell to mirror the statute. Not material to the legal claim; pure verbatim-fidelity hygiene."
+    },
+    {
+      "id": "AZ-C5-01",
+      "dimension": "C5",
+      "severity": "P3",
+      "field": "Sources Consulted — Arizona section completeness",
+      "evidence": "research-findings.md Section 'Sources Consulted' for Arizona omits any reference to the Cornell LII fallback URL, while the Cornell LII URL is the only working source for R7-2-1093 verbatim text in the source-ledger. Reader sees only the AZ SOS PDF link in the source-ledger but no consolidated note in 'Sources Consulted'.",
+      "recommendedRemediation": "Add the Cornell LII mirror URL (or an alternative official mirror) under the Arizona 'Sources Consulted' list to reflect the working fallback that the deliverables actually rely on. Optional."
+    },
+    {
+      "id": "AZ-C8-01",
+      "dimension": "C8",
+      "severity": "P3",
+      "field": "Adversarial robustness — District Variance challenge row",
+      "evidence": "Challenge-matrix row for District Variance lists searches of azag.gov, azauditor.gov, ASBA, and TUSD/Deer Valley adoption — all of which are appropriate sources. Disconfirming searches in this audit pass located no additional credible official Arizona statewide-uniformity or interpretive-split source not already considered (an Arizona DOE FAQ on special-ed transportation confirmed federal IDEA framing; no AG opinion on term/rebid/renewal located). The 'Unknown' verdict is therefore appropriately preserved. Note: the challenge row could be strengthened by explicitly checking the Arizona Department of Education School Finance Office and Arizona School Risk Retention Trust for procurement variance signals; no defect, just a strengthening opportunity.",
+      "recommendedRemediation": "Optionally add an ADE School Finance Office sweep and an Arizona League/ASBO bulletin sweep to the District Variance challenge-matrix entry. Not required — current row is a real (not pro forma) challenge."
+    }
+  ]
+}

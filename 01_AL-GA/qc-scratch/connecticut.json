@@ -1,0 +1,166 @@
+{
+  "state": "Connecticut",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Stage-2 adversarial QC re-opened every Connecticut citation first-hand. WebFetch was blocked by SSL/host-verification errors (matching Stage 1's note); all official URLs re-verified via direct curl (Firecrawl quota was exhausted, but curl reached every cga.ct.gov, portal.ct.gov, eregulations.ct.gov, and district URL with HTTP 200 and section text intact). Every load-bearing finding holds verbatim: CGS 10-220(a) 5/10-year cap (current main volume + 2026 Supplement); PA 22-25 Sec. 12 amendment; CGS 7-148v $25,000 permissive municipal bidding; PA 25-93 Sec. 23 model contract; OLR 2017-R-0360 rebid statement; OLR 2022-R-0139, 2016-R-0156, 2012-R-0085; SDE Workshop Package; Conn. Agencies Reg. 10-76d-19 (Cornell mirror text matches the official eRegulations.ct.gov text verbatim — independently verified). Disconfirming searches surfaced no longer-term carve-out, no mandatory-bidding override, no separate special-ed contract-term regime. Stage 1's CT-C2-01 (P2 effective-date mismatch for PA 22-25 Sec. 12: source-ledger says 'Effective July 1, 2022' but PDF Sec. 12 enactment clause says 'Effective October 1, 2022') is CONFIRMED on the PDF and sustained. Stage 1's CT-C7-01 (P3 Cornell-LII source-tier hygiene) is CONFIRMED — the official eRegulations.ct.gov section-deep-link (https://eregulations.ct.gov/eRegsPortal/Browse/RCSA?id=Title_10Subtitle_10-76Section_10-76d-19) exists, returns HTTP 200, and renders identical regulatory text. Stage 1's CT-C3-02 (P3 CGS 10-76d currency-label drift '2024 GS') sustained. Stage 1's CT-C3-01 (P2 2026 Supplement currency label) is DOWNGRADED to P3: both phrasings appear on official cga.ct.gov pages — the supplement page header itself says 'in conjunction with the General Statutes of Connecticut, revised to January 1, 2025' (Stage 1's reading), but the current-main-volume page's own internal note refers to 'the 2026 Supplement, revised to January 1, 2026' (the deliverables' phrasing). The deliverables track CGA's own self-description; the supplement-page header phrasing would be more technically precise, so this is a hygiene/precision issue, not a P2 material defect.",
+  "citationVerifications": [
+    {
+      "citation": "Conn. Gen. Stat. Sec. 10-220(a) — https://www.cga.ct.gov/current/pub/chap_170.htm#sec_10-220",
+      "claimedTierOrUrl": "Tier 1 — official CGA portal, current main volume",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified verbatim via curl (HTTP 200, 785 KB). Operative sentence in Subsec. (a) reads exactly: '...may make contracts covering periods of not more than (A) five years, or (B) ten years if such contract includes transportation provided by at least one zero-emission school bus, as defined in 42 USC 16091(a)(8), as amended from time to time...'. History line confirms 'P.A. 22-25 amended Subsec. (a) by adding Subpara. designator (A) re 5 years and adding Subpara. (B) re 10 years if contract includes transportation by at least 1 zero-emission school bus' and confirms P.A. 22-47, 22-118, 23-159, 23-160, 23-167, 24-74, 24-151, 25-174 amended OTHER subsections, not Subsec. (a). Page header note: 'Readers should refer to the 2026 Supplement, revised to January 1, 2026...'. Matches deliverables' claim."
+    },
+    {
+      "citation": "Conn. Gen. Stat. Sec. 10-220 (2026 Supplement) — https://www.cga.ct.gov/2026/sup/chap_170.htm#sec_10-220",
+      "claimedTierOrUrl": "Tier 1 — official CGA 2026 Supplement",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified verbatim via curl (HTTP 200, 184 KB). Operative 5/10-year sentence in Subsec. (a) identical to the current main volume. P.A. 25-174 confirmed to amend Subsec. (d)(3)(A) only. SUBSTANTIVE CLAIM HOLDS. CURRENCY LABEL: Supplement page header expressly states 'This 2026 Supplement is intended to be used in conjunction with the General Statutes of Connecticut, revised to January 1, 2025.' Deliverables label the row 'revised to January 1, 2026', which is the phrasing the CGA itself uses on the main-volume page note ('the 2026 Supplement, revised to January 1, 2026'). Both phrasings appear on official cga.ct.gov pages — minor hygiene inconsistency, not a substantive defect."
+    },
+    {
+      "citation": "2022 Conn. Pub. Acts No. 22-25, Sec. 12 (SB 4) — https://www.cga.ct.gov/2022/act/pa/pdf/2022PA-00025-R00SB-00004-PA.pdf",
+      "claimedTierOrUrl": "Tier 1 — official CGA Public Acts PDF",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified verbatim via curl (HTTP 200, 227 KB) + pdfminer extraction. Sec. 12 enactment clause reads verbatim: 'Sec. 12. Subsection (a) of section 10-220 of the 2022 supplement to the general statutes is repealed and the following is substituted in lieu thereof (Effective October 1, 2022):' followed by new Subsec. (a) text including '(A) five years, or (B) ten years if such contract includes transportation provided by at least one zero-emission school bus, as defined in 42 USC 16091(a)(8), as amended from time to time'. SUBSTANTIVE 5/10-year claim HOLDS. EFFECTIVE-DATE METADATA: source-ledger row 124 says 'Effective July 1, 2022' but Sec. 12 expressly says 'Effective October 1, 2022' — mismatched section-specific effective date sustained as P2."
+    },
+    {
+      "citation": "Conn. Gen. Stat. Sec. 7-148v — https://www.cga.ct.gov/current/pub/chap_098.htm#sec_7-148v",
+      "claimedTierOrUrl": "Tier 1 — official CGA portal, current main volume",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified verbatim via curl (HTTP 200, 400 KB). Subsec. (a) reads exactly: 'Notwithstanding the provisions of any municipal charter or any special act to the contrary, any municipality may, by ordinance, establish requirements for competitive bidding for the award of any contract or the purchase of any real or personal property by the municipality. Such ordinance may provide that, except as otherwise required by any provision of the general statutes, sealed bidding shall not be required for contracts or purchases having a value less than or equal to an amount established in the ordinance, which amount shall not be greater than twenty-five thousand dollars.' Permissive 'may' and $25,000 threshold confirmed. History line (P.A. 89-136; Nov. 24 Sp. Sess. P.A. 08-2 S. 2; P.A. 13-71 S. 1; P.A. 16-144 S. 1) matches."
+    },
+    {
+      "citation": "Conn. Gen. Stat. Sec. 10-76d — https://www.cga.ct.gov/current/pub/chap_164.htm#sec_10-76d",
+      "claimedTierOrUrl": "Tier 1 — official CGA portal, current main volume",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified verbatim via curl (HTTP 200, 1.51 MB). Sec. 10-76d header 'Duties and powers of boards of education to provide special education programs and services...' confirmed. Section-history note explicitly references '\"curb-to-curb\" transportation to and from child's residence' language. SUBSTANTIVE CLAIM HOLDS. Source-ledger row 126 labels code currency as '2024 Connecticut General Statutes' — the live current main volume is the January 1, 2025 revision (per the CGA's own note pointing to the 2026 Supplement). P3 currency-label drift sustained."
+    },
+    {
+      "citation": "Conn. Agencies Regs. Sec. 10-76d-19 — https://www.law.cornell.edu/regulations/connecticut/Regs-Conn-State-Agencies-SS-10-76d-19",
+      "claimedTierOrUrl": "Tier 2 (via Cornell LII)",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Cornell LII URL re-opened via curl (HTTP 200). Regulatory text matches Stage 1's claim verbatim (one-hour travel cap; in-service training; vehicle equipment; transportation aides; parent-transport reimbursement at IRS mileage rate; Effective September 1, 1980; Amended July 1, 2013). INDEPENDENTLY VERIFIED against the official eRegulations.ct.gov section deep link (https://eregulations.ct.gov/eRegsPortal/Browse/RCSA?id=Title_10Subtitle_10-76Section_10-76d-19, HTTP 200, 47 KB) — text identical word-for-word. The Cornell mirror is accurate but is not the official CT administrative-code publisher. P3 source-tier hygiene defect sustained; the official URL exists and is usable."
+    },
+    {
+      "citation": "2025 Conn. Pub. Acts No. 25-93, Sec. 23 (SB 1) — https://www.cga.ct.gov/2025/ACT/PA/PDF/2025PA-00093-R00SB-00001-PA.PDF",
+      "claimedTierOrUrl": "Tier 1 — official CGA Public Acts PDF",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified verbatim via curl (HTTP 200, 272 KB) + pdfminer. Sec. 23 reads exactly: 'Sec. 23. (NEW) (Effective July 1, 2025) The Department of Education shall establish a model contract for special education transportation services to and from special education outplacements provided by providers of special education transportation services. Not later than July 1, 2026, the department shall make such model contract available to local and regional boards of education for use by such boards to enter into a contract with providers of special education transportation services for such special education transportation services.' Permissive/non-binding framing matches the deliverables' claim."
+    },
+    {
+      "citation": "OLR Report 2025-R-0108 — https://www.cga.ct.gov/2025/rpt/pdf/2025-R-0108.pdf",
+      "claimedTierOrUrl": "Tier 4 — official OLR report",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (HTTP 200, 555 KB) + pdfminer. Dated August 8, 2025. Confirms PA 25-93 Sec. 23 (model special-education-outplacement transportation contract; SDE must make model available by July 1, 2026, effective July 1, 2025) and PA 25-67 Sec. 4 (billing standards by 1/1/2027) verbatim. Matches deliverables' claim."
+    },
+    {
+      "citation": "CT SDE School Accommodations Workshop Package (Oct. 2008) — https://portal.ct.gov/-/media/sde/legal/workshop_package.pdf",
+      "claimedTierOrUrl": "Tier 4 — official SDE document",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (with Mozilla UA; first attempt failed CURL-35 TLS; second attempt HTTP 200, 434 KB) + pdfminer. Pre-2022 5-year-only text confirmed: 'board of education shall provide for the transportation of children wherever transportation is reasonable and desirable, and for such purpose may make contracts covering periods of not more than five years.' Used as confirmation of pre-amendment statutory text. Matches deliverables' claim."
+    },
+    {
+      "citation": "OLR Backgrounder 2022-R-0139 (Aug. 3, 2022) — https://cga.ct.gov/2022/rpt/pdf/2022-R-0139.pdf",
+      "claimedTierOrUrl": "Tier 4 — official OLR report",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (HTTP 200, 173 KB) + pdfminer. Verbatim: 'These contracts must not exceed five years' duration or, if the contract includes transportation by at least one zero-emission school bus, ten years' duration (CGS Sec. 10-220(a), as amended by PA 22-25).' Matches deliverables' claim."
+    },
+    {
+      "citation": "OLR Report 2016-R-0156 — https://www.cga.ct.gov/2016/rpt/2016-R-0156.htm",
+      "claimedTierOrUrl": "Tier 4 — official OLR report",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (HTTP 200, 17 KB). Verbatim: 'These contracts must not exceed five years' duration (CGS Sec. 10-220(a)).' (Pre-2022-amendment language.) Matches deliverables' claim."
+    },
+    {
+      "citation": "OLR Report 2012-R-0085 — https://www.cga.ct.gov/2012/rpt/2012-R-0085.htm",
+      "claimedTierOrUrl": "Tier 4 — official OLR report",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (HTTP 200, 25 KB). Verbatim: 'local and regional boards of education retain discretion over district transportation policies, including the number of school buses, bus routes and stops, the students to whom they will provide transportation, and maximum walking distances' and 'For special education students, the law requires school districts to provide transportation to and from the curb of the student's house (but not beyond) unless the school district makes another arrangement with the parents (CGS Sec. 10-76d(e)).' Matches deliverables' claim."
+    },
+    {
+      "citation": "OLR Report 2017-R-0360 (Dec. 21, 2017) — https://www.cga.ct.gov/2017/rpt/pdf/2017-r-0360.pdf",
+      "claimedTierOrUrl": "Tier 4 — official OLR report",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (first attempt curl-28 timeout @ 30s; second attempt 120s timeout HTTP 200, 226 KB) + pdfminer. Verbatim: 'State law generally does not require municipalities to use competitive bidding to award contracts or make purchases, but municipalities may adopt such a requirement individually by ordinance or charter. Competitive bidding requirements depend on the contract's funding source.' Matches deliverables' claim."
+    },
+    {
+      "citation": "Regional School District 14 Policy 3541 (Transportation) — https://www.ctreg14.org/uploaded/BOARD_OF_EDUCATION/Policies/3000_Series/3541_ada.pdf",
+      "claimedTierOrUrl": "Tier 5 — district policy",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl (HTTP 200, 31 KB) + pdfminer. Policy text verbatim: 'The transportation system shall be planned and operated in compliance with the General Statutes of the State of Connecticut and all regulations of the State Department of Education and the State Department of Motor Vehicles regarding the operation of student transportation vehicles.' Cites CGS 10-220c. No district-specific re-interpretation of 10-220(a) term cap. Matches deliverables' claim."
+    },
+    {
+      "citation": "Guilford Public Schools BOE Transportation Policy 3600(a) — https://www.guilfordps.org/transportation/BOE%20Transportation%20Policies.pdf",
+      "claimedTierOrUrl": "Tier 5 — district policy",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified via curl with Mozilla UA (first attempt curl-52 empty reply; retry HTTP 200, 281 KB) + pdfminer. Policy lists CGS 10-76d in Legal Reference; uses 'bus contractor' framing; recites state-law framework. No district-specific re-interpretation of 10-220(a) term cap. Matches deliverables' claim."
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "holds",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "PA 22-25 Sec. 12 effective date: source-ledger.md line 124 says 'Effective July 1, 2022' but the official PDF Sec. 12 enactment clause expressly says '(Effective October 1, 2022)' — confirmed verbatim by pdfminer extraction. Other sections of PA 22-25 do take effect July 1, 2022, but Sec. 12 (the operative section for the 10-year zero-emission-bus amendment to 10-220(a)) is October 1, 2022.",
+      "Conn. Agencies Regs. Sec. 10-76d-19 is labeled Tier 2 (state administrative code) in source-ledger.md line 127 but cited via Cornell LII (www.law.cornell.edu), a third-party academic mirror, rather than the official CT eRegulations.ct.gov portal. Official deep link confirmed available and identical in content: https://eregulations.ct.gov/eRegsPortal/Browse/RCSA?id=Title_10Subtitle_10-76Section_10-76d-19.",
+      "CGS Sec. 10-76d code-currency label in source-ledger.md line 126 reads '2024 Connecticut General Statutes' — the live current main volume's own note describes itself in 2025 terms (CGA portal language: '2026 Supplement... revised to January 1, 2026' for the supplement, with the supplement page itself saying it is used 'in conjunction with the General Statutes of Connecticut, revised to January 1, 2025'). The '2024' label is one revision out of date.",
+      "2026 Supplement currency label drift (hygiene only, downgraded from Stage 1): source-ledger.md line 123 + verification-notes.md describe the supplement as 'revised to January 1, 2026' / 'capturing 2025 amendments' / 'current through January 1, 2026'. The supplement page header itself says it is used 'in conjunction with the General Statutes of Connecticut, revised to January 1, 2025'. However, the current-main-volume page's own internal note (line 280 of fetched HTML) refers to 'the 2026 Supplement, revised to January 1, 2026' — i.e., the deliverables' phrasing matches CGA's own self-description. Two phrasings co-exist on official CGA pages; the deliverables track one of them. Hygiene/precision issue, not a material defect."
+    ]
+  },
+  "issues": [
+    {
+      "id": "CT-C2-01",
+      "dimension": "C2",
+      "severity": "P2",
+      "field": "Statutory Citation — PA 22-25 Sec. 12 effective date metadata",
+      "evidence": "https://www.cga.ct.gov/2022/act/pa/pdf/2022PA-00025-R00SB-00004-PA.pdf Sec. 12 enactment clause reads verbatim (extracted via pdfminer from the curl-fetched PDF, HTTP 200, 227 KB): 'Sec. 12. Subsection (a) of section 10-220 of the 2022 supplement to the general statutes is repealed and the following is substituted in lieu thereof (Effective October 1, 2022):'. But source-ledger.md line 124 states 'Effective July 1, 2022' for PA 22-25 Sec. 12 — section-specific effective-date mismatch. The substantive 10-year zero-emission-bus option is independently corroborated by the cga.ct.gov current main volume and 2026 Supplement; only the section-specific effective-date metadata is wrong. P2 (load-bearing primary citation metadata).",
+      "recommendedRemediation": "Correct source-ledger.md row 124 'Code Currency / Effective Date' column from 'Effective July 1, 2022' to 'Effective October 1, 2022' (the Sec. 12-specific date). No deliverable text edit is required because no claim is anchored to the July 1 date; the substantive 5/10-year holding remains intact."
+    },
+    {
+      "id": "CT-C7-01",
+      "dimension": "C7",
+      "severity": "P3",
+      "field": "Special Education — Conn. Agencies Regs. Sec. 10-76d-19 source-tier hygiene",
+      "evidence": "Source-ledger.md line 127 labels Conn. Agencies Regs. Sec. 10-76d-19 as Tier 2 (state administrative code) with URL https://www.law.cornell.edu/regulations/connecticut/Regs-Conn-State-Agencies-SS-10-76d-19. Cornell LII is a third-party academic mirror; the official CT administrative-code portal is eRegulations.ct.gov. Re-verified that the official deep link is available and renders identical text: https://eregulations.ct.gov/eRegsPortal/Browse/RCSA?id=Title_10Subtitle_10-76Section_10-76d-19 (HTTP 200, 47 KB; one-hour travel cap, in-service training, transportation aides, parent-transport reimbursement all verbatim). The regulatory text is correct; only the URL is off-portal. Non-load-bearing for the five core fields.",
+      "recommendedRemediation": "Substitute the official eRegulations.ct.gov URL as the primary citation; retain Cornell LII as an optional secondary access route only. Tier-2 label is correct for the regulation itself."
+    },
+    {
+      "id": "CT-C3-02",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "Special Education supporting citation — CGS 10-76d code currency label",
+      "evidence": "Source-ledger.md line 126 labels CGS 10-76d code currency as '2024 Connecticut General Statutes'. The CGA's own current-main-volume page note (fetched via curl, HTTP 200) describes the live status as 'the 2026 Supplement, revised to January 1, 2026, for updated versions of statutes amended, repealed or added during the 2025 legislative sessions' — i.e., main volume is the January 1, 2025 revision read in conjunction with the 2026 Supplement. The '2024' label is one revision out of date. Substantive text holds.",
+      "recommendedRemediation": "Update CGS 10-76d code-currency label to '2025 Connecticut General Statutes (revised to January 1, 2025); 2026 Supplement' for currency-label consistency with other Connecticut citations."
+    },
+    {
+      "id": "CT-C3-01",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "2026 Supplement currency label (load-bearing supporting source) — DOWNGRADED from Stage 1 P2",
+      "evidence": "Source-ledger.md line 123 + research-findings.md Connecticut citation cell + verification-notes.md describe the supplement as 'revised to January 1, 2026' / '2026 Supplement capturing 2025 amendments' / 'current through January 1, 2026'. The supplement page header itself (cga.ct.gov/2026/sup/chap_170.htm, line 278 of fetched HTML, HTTP 200) reads: 'This 2026 Supplement is intended to be used in conjunction with the General Statutes of Connecticut, revised to January 1, 2025.' HOWEVER, the current-main-volume page's own internal note (cga.ct.gov/current/pub/chap_170.htm, line 280 of fetched HTML, HTTP 200) reads: 'Readers should refer to the 2026 Supplement, revised to January 1, 2026, for updated versions of statutes amended, repealed or added during the 2025 legislative sessions.' Both phrasings appear on official cga.ct.gov pages. The deliverables track CGA's own self-description on the main-volume page. Stage 1 graded this P2; on adversarial re-check, because the disputed phrasing matches official CGA language and the substantive 5/10-year claim re-verified verbatim in both volumes, this is properly P3 hygiene/precision (not a material defect). Field verdict unaffected.",
+      "recommendedRemediation": "Optional clarity edit: change the supplement-row label to 'in conjunction with CGS revised to January 1, 2025; 2026 Supplement capturing 2025 session laws' to align with the supplement page's own header phrasing. The current label is not technically wrong (CGA itself uses it), so this is a precision-not-defect call."
+    }
+  ],
+  "overallStateVerdict": "Minor",
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": []
+}

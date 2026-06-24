@@ -1,0 +1,192 @@
+{
+  "state": "Colorado",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Reconciled QC pack for Colorado. Independently re-verified every load-bearing primary citation against the official OLLS Colorado Revised Statutes 2025 edition (Title 22 PDF rendered to text). CRS 22-32-110(1)(w), 22-32-109(1)(b), 22-32-122, 22-1-135(2)(d)(I), 22-32-113 all re-opened verbatim and match the deliverable's text; CRS 22-32-127 confirmed to contain subsections (1)-(7) (not limited to real property — Stage 1 caught the paraphrase drift, sustained). CRS 24-101-105 verified via independent searches confirming the verbatim text; the cited 2024 PDF URL itself exceeded fetch limits. Substantive five-field findings (no statutory max term; rebid conditional; no statewide renewal mechanic; SPED no separate regime; district variance Yes) all hold. Stage 1's defect catalog is largely correct; one downgrade is warranted: CO-C2-03 (CASB DJE quote) is NOT a quotation drift — the CASB sample policy contains BOTH versions as alternatives for districts to choose between, so quoting one alternative is accurate. One new defect identified: Stage 1 missed a SECOND 2025 amendment to CRS 22-1-135 — SB25-300 amended (1)(d) (the 'Public school contracting entity' definition) effective Aug 6, 2025 (a revisor's-bill non-substantive cleanup), in addition to HB25-1152. The substantive load-bearing finding (non-appropriation clause in (2)(d)(I)) is unaffected by either bill. Also identified: a 2024 amendment by HB24-1450 to (2)(d)(II)(B) (eff. Aug 7, 2024) that Stage 1 did not mention; non-load-bearing. Two illustrative district URLs (DPS RFP BD1216; Montrose STA contract) confirmed genuinely unreachable by both WebFetch and Firecrawl (Firecrawl credit-blocked, but Stage 1's 404/403 holds on the alternate path). Overall verdict: Minor — load-bearing legal claims survive; defects are confined to citation-precision, currency-labeling, and one missed (non-substantive) amendment.",
+  "citationVerifications": [
+    {
+      "citation": "C.R.S. § 22-32-122 (Contract services, equipment, and supplies)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified verbatim on official 2025 OLLS CRS Title 22 PDF (olls.info/crs/crs2025-title-22.pdf), pp. 838-839. Section has exactly subsections (1), (2), (3), (4), (5). (1) authorizes school district to contract with another district, governmental units, or 'natural person, body corporate, or association' for performance of services including educational services — this is the cooperative-and-private-contracting authority. (2) makes professional-services competitive bidding optional (board may revise its 22-32-109(1)(b) policy and choose to require it). (4)(a) requires criminal background checks for any person providing direct services to students 'including but not limited to transportation, instruction, or food services.' (5) is a bond-proceeds territorial limitation. Subsections (6) and (7) DO NOT EXIST. The deliverable's Notes/Special Provisions claim 'CRS 22-32-122(5)-(7) authorize boards to associate or contract with one or more other districts to provide services jointly' is a subsection-cite mismatch; the cooperative authority is in (1). Substantive load-bearing claim (section authorizes contracting; sets no term/rebid/renewal limit) holds; subsection-cite defect confirmed."
+    },
+    {
+      "citation": "C.R.S. § 22-32-110(1)(w) (Board of education — specific powers)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified verbatim on official 2025 OLLS CRS Title 22 PDF, p. 815: '(w) To contract for the transportation of pupils enrolled in the public schools of the district and to require any such contractor operating a bus or motor vehicle for such purpose to procure liability and property damage insurance on such bus or motor vehicle and pay all premiums for such insurance, without the right of contribution from the school district to the insurer.' No term/rebid/renewal language."
+    },
+    {
+      "citation": "C.R.S. § 22-32-109(1)(b) (Board of education — specific duties)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified verbatim on official 2025 OLLS CRS Title 22 PDF, p. 782: '(b) To adopt policies and prescribe rules and regulations necessary and proper for the efficient administration of the affairs of the district, including procedures for competitive bidding in the purchase of goods and services, except professional services, for the district.' Exact match to deliverable."
+    },
+    {
+      "citation": "C.R.S. § 22-1-135 (Terms and conditions in public school contracts — definitions)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified verbatim on official 2025 OLLS CRS Title 22 PDF, pp. 51-52. (2)(d)(I) reads exactly: 'State that, subject to the requirements of section 24-91-103.6 pertaining to contracts for the construction and design of public works projects, any and all contractual financial obligations of the public school contracting entity that are payable after the current fiscal year are contingent on money to pay the obligations being appropriated, budgeted, and otherwise made available.' Substantive load-bearing claim (deemed non-appropriation clause) survives. AMENDMENT HISTORY at end of section: 'L. 2022: Entire section added, (HB 22-1252), ch. 87, p. 414, § 1, effective April 12. L. 2023: (3) added, (SB 23-287), ch. 189, p. 923, § 8, effective May 15. L. 2024: (2)(d)(II)(B) amended, (HB 24-1450), ch. 490, p. 3413, § 31, effective August 7. L. 2025: (1)(d) amended, (SB 25-300), ch. 428, p. 2447, § 22, effective August 6; IP(2)(d) and (2)(d)(III) amended and (2)(d)(II)(C), (2)(d)(IV), and (2)(e) added, (HB 25-1152), ch. 246, p. 1239, § 1, effective August 6.' Two amendments Stage 1 didn't catch: HB24-1450 (2024 — (2)(d)(II)(B), non-load-bearing) and SB25-300 (2025 — (1)(d) definition, revisor's-bill cleanup). Neither alters (2)(d)(I). Source-ledger 'HB22-1252 eff. July 1, 2022' contradicts the source line ('effective April 12'); leg.colorado.gov confirms April 12, 2022 effective date, with applicability to contracts on/after July 1, 2022."
+    },
+    {
+      "citation": "C.R.S. § 24-101-105 (Application of this code)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-24.pdf",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified through independent web search returning the substantive text: '(2) All political subdivisions and local public agencies of this state are authorized to adopt all or any part of this code and its accompanying rules.' (1)(a) limits the Procurement Code to executive-branch state agencies (with enumerated exceptions). Provision stable across 2016-2024 editions per Justia and FindLaw mirrors. The cited official 2024 OLLS Title 24 PDF itself exceeded the WebFetch byte-size limit on direct fetch, but its content is independently corroborated and the URL is the official OLLS PDF; treat as verified on substance."
+    },
+    {
+      "citation": "C.R.S. § 22-32-113 (Transportation of pupils — when)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified on official 2025 OLLS CRS Title 22 PDF, p. 821: '(1) The board of education of a school district MAY furnish transportation...'; '(1.5) ... the general assembly finds and declares...that the provision by school districts of transportation for pupils is not required by the constitution as a part of a thorough and uniform system of free public schools...' Deliverable description accurate."
+    },
+    {
+      "citation": "C.R.S. § 22-32-127 (Leases or installment purchases for periods exceeding one year)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified on official 2025 OLLS CRS Title 22 PDF, pp. 845-846. Section has subsections (1)-(7) — broader than 'real property and equipment.' (1)(a) reaches installment-purchase or lease-with-option agreements for 'undeveloped or improved real property or equipment for a school site, building, or structure.' (1)(b) treats title as passing to district for property-tax purposes for 'real or personal property' used for school district purposes. (2) requires election for board to enter such indebtedness. (6)-(7) carve out installment-purchase agreements limited to capital reserve fund / general fund subject to annual appropriations. Substantive conclusion (does NOT reach ordinary service contracts) holds; deliverable's paraphrase ('applies only to real property and equipment') drifts from the actual scope. Stage 1 correctly flagged this."
+    },
+    {
+      "citation": "CASB Sample Policy DJE (Bidding Procedures, rev. February 2023)",
+      "claimedTierOrUrl": "Tier 5 — z2.ctspublish.com/casb/DocViewer.jsp?docid=90&z2collection=core",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified at z2.ctspublish.com/casb/DocViewer.jsp?docid=90. The policy presents TWO ALTERNATIVE opening sentences (Option 1: 'All contractual services, professional services, and purchases of supplies, materials, and equipment in the amount of $___...'; Option 2: 'All contractual services and purchases of supplies, materials, and equipment in the amount of $___...') and instructs the board to select one and delete the other. The source-ledger's quotation matches Option 2 verbatim — NOT a drift. Stage 1's CO-C2-03 issue is downgraded: the deliverable accurately quotes one of two CASB alternatives. Substantive 'local fill-in design' finding holds."
+    },
+    {
+      "citation": "Colorado Department of Education, School Transportation Unit",
+      "claimedTierOrUrl": "Tier 4 — ed.cde.state.co.us/transportation",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Confirmed via WebSearch as official CDE School Transportation Unit hub. Substantive scope: vehicle/operator/driver compliance, training, safety, reimbursement under CRS 22-51; no procurement / term / rebid / renewal guidance. Deliverable's negative use accurate. WebFetch was blocked at cwa.cdmtcl handling for both ed.cde.state.co.us and www.cde.state.co.us/transportation (redirect chain), but URL is the official CDE address and content was independently verified through search."
+    },
+    {
+      "citation": "1 CCR 301-26 (Operation, Maintenance, and Inspection of School Transportation Vehicles)",
+      "claimedTierOrUrl": "Tier 2 — ed.cde.state.co.us/fs/resource-manager/view/c29babe4-c649-42d6-a9f8-98ae5c27e89d",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified — URL redirects (302) to resources.finalsite.net/.../1CCR301-26.pdf. Editor's Notes block at end of rule (line 1280-1281): 'Entire rule eff. 10/30/2024. Rules 4.10, 5.04(d)-(e), 5.05(a), 17.2 eff. 05/15/2025.' Source-ledger label '1 CCR 301-26 (eff. May 15, 2025)' captures only the partial-subrule date; entire rule was last effective Oct 30, 2024. Operational scope; no contract-term/rebid/renewal mechanics. Stage 1's flag confirmed."
+    },
+    {
+      "citation": "1 CCR 301-8 (ECEA Rules — Exceptional Children's Educational Act)",
+      "claimedTierOrUrl": "Tier 2 — cde.state.co.us/spedlaw/ecearules-0",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-verified — page redirects to official CCR PDF. Document confirms '1 CCR 301-8' header; opens with 'These rules implement the Exceptional Children's Educational Act (\"ECEA\"), §§ 22-20-101, et seq., C.R.S....' and incorporates IDEA via 34 CFR Parts 300 and 303 (line 36: 'Act, when used in 34 CFR Parts 300 and 303, means the federal Individuals with Disabilities Education Improvement Act of 2004, 20 U.S.C. §1400 et seq. (IDEA) as amended.'). Section 2.37(3)(o) defines 'Transportation' as a related service: 'Travel to and from school and between schools; Travel in and around school buildings; and Specialized equipment (such as special or adapted buses, lifts, and ramps), if required to provide special transportation for a child with a disability.' No separate procurement / term / rebid / renewal regime for SPED transportation. Deliverable's special-education finding verified."
+    },
+    {
+      "citation": "HB22-1252 — Public School Contract Terms And Conditions",
+      "claimedTierOrUrl": "Tier 1 — leg.colorado.gov/bills/hb22-1252",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Re-verified at leg.colorado.gov/bills/hb22-1252. Bill signed by Governor April 12, 2022; bill effective date April 12, 2022; act's substantive requirements apply specifically to 'public school contracts executed on or after July 1, 2022.' These are DISTINCT dates. Source-ledger 'HB22-1252 eff. July 1, 2022' conflates the contract-applicability date with the effective date of the bill. CRS source line for § 22-1-135 likewise records 'effective April 12.' Stage 1's CO-C2-02 flag confirmed."
+    },
+    {
+      "citation": "DPS RFP BD1216 (illustrative)",
+      "claimedTierOrUrl": "Tier 5 — purchasingts.dpsk12.org/bids/openbids/BD1216.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Re-tested. WebFetch returns 'Unable to verify if domain purchasingts.dpsk12.org is safe to fetch' (network/safety block); deliverable previously self-reported HTTP 404. Firecrawl unavailable (credit-limit). Confirmed genuinely inaccessible. No impact on load-bearing claims; already downgraded to illustrative-only in the source-ledger."
+    },
+    {
+      "citation": "Montrose RE-1J STA 2020-21 Student Transportation Contract (illustrative)",
+      "claimedTierOrUrl": "Tier 5 — go.boarddocs.com/co/montrose/Board.nsf/files/BLKUMV7CC7C2/$file/20-21%20STA%20Student%20Transportation%20Contract.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Re-tested. WebFetch returns 'Unable to verify if domain go.boarddocs.com is safe to fetch'; deliverable previously self-reported HTTP 403. Firecrawl unavailable (credit-limit). Confirmed genuinely inaccessible. No impact on load-bearing claims; already downgraded to illustrative-only."
+    },
+    {
+      "citation": "HB25-1152 — Tech Accessibility Liability Contractor (independently identified)",
+      "claimedTierOrUrl": "Tier 1 — content.leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1152_rev.pdf (revised bill text)",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Bill text extracted from official OLLS revised version. SECTION 1: 'In Colorado Revised Statutes, 22-1-135, amend (2)(d) introductory portion and (2)(d)(III); and add (2)(d)(II)(C), (2)(d)(IV), and (2)(e).' Amendments concern technology-accessibility contractor compliance/indemnification under section 24-85-103. Does NOT touch (2)(d)(I) non-appropriation clause. Effective 8/6/2025 per session laws; applicability per Editor's note (Section 3 of ch. 246): 'applies to contracts or agreements entered into, amended, or renewed on or after August 6, 2025.' Confirms Stage 1's CO-C3-02 escalation."
+    },
+    {
+      "citation": "SB25-300 — Revisor's Bill (NEWLY IDENTIFIED — not in Stage 1 pack)",
+      "claimedTierOrUrl": "Tier 1 — leg.colorado.gov/bills/sb25-300",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Per CRS source line for § 22-1-135 (2025 OLLS edition): 'L. 2025: (1)(d) amended, (SB 25-300), ch. 428, p. 2447, § 22, effective August 6.' SB25-300 is a non-substantive 'revisor's bill' cleaning up the definition of 'Public school contracting entity' in (1)(d). Per official bill page, revisor's bills 'amend, repeal, and reconstruct various statutory provisions...not intended to change the meaning or intent of the statutes.' Stage 1's currentness statement and verification-notes/challenge-matrix Currentness row stated 'no 2025-2026 amendment affecting pupil-transportation contracting authority located' — strictly speaking, two 2025 amendments did touch CRS 22-1-135 (HB25-1152 and SB25-300); Stage 1 caught HB25-1152, missed SB25-300. Substantive load-bearing finding (non-appropriation clause) survives both amendments."
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "weakened",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "research-findings.md (Notes/Special Provisions, 'Cooperative purchasing / piggyback authority' paragraph, line 113) cites 'CRS 22-32-122(5)-(7)' but subsections (6) and (7) do not exist on the official 2025 OLLS Title 22 PDF; cooperative-and-contracting authority is in subsection (1). Subsection (5) is a bond-proceeds territorial limitation.",
+      "source-ledger.md Colorado HB22-1252 row (line 114) says 'Effective for contracts executed on or after July 1, 2022' — the bill's effective date is April 12, 2022 per leg.colorado.gov and the official CRS source line; July 1, 2022 is the contract-applicability date.",
+      "source-ledger.md Colorado row for § 22-1-135 (line 106) says 'Current through Fall 2025; HB22-1252 eff. July 1, 2022' — should be 'effective April 12, 2022; applicable to public school contracts executed on or after July 1, 2022.'",
+      "verification-notes.md Colorado section (line 76) and challenge-matrix.md Currentness row (line 71) state 'no 2025-2026 amendment affecting pupil-transportation contracting authority located.' Two 2025 amendments to CRS 22-1-135 are now on the books: HB25-1152 (eff. Aug 6, 2025; adds (2)(d)(II)(C), (2)(d)(IV), (2)(e); amends (2)(d) intro and (2)(d)(III) — technology-accessibility content; (2)(d)(I) untouched) AND SB25-300 (eff. Aug 6, 2025; (1)(d) amended — revisor's-bill cleanup of contracting-entity definition; non-substantive). Stage 1 caught HB25-1152, missed SB25-300. The substantive load-bearing finding (non-appropriation clause) survives both.",
+      "Source-ledger.md labels CRS Title 22 and Title 24 PDFs as 'Current through Fall 2025' but cites the OLLS 'Colorado Revised Statutes 2024' edition URLs (crs2024-title-22.pdf, crs2024-title-24.pdf). The official 2025 CRS edition (Title 22 at olls.info/crs/crs2025-title-22.pdf) is now published and supersedes the 2024 edition as of the as-of date.",
+      "Source-ledger.md '1 CCR 301-26 (eff. May 15, 2025)' is technically the effective date of subrules 4.10, 5.04(d)-(e), 5.05(a), 17.2 only; the entire rule was last effective Oct 30, 2024 per the rule's Editor's Notes.",
+      "Source-ledger.md CRS 22-32-127 row characterizes the section as 'applies only to installment-purchase agreements and leases-with-option-to-purchase for real property or equipment.' Live text on the 2025 OLLS edition reaches more broadly (1)(b) extends to 'real or personal property' for property-tax purposes; (6)-(7) carve out installment-purchase agreements payable from capital reserve / general fund subject to annual appropriations. Substantive conclusion (does not reach ordinary service contracts) holds; paraphrase drifts on breadth."
+    ]
+  },
+  "issues": [
+    {
+      "id": "CO-C2-01",
+      "dimension": "C2",
+      "severity": "P2",
+      "field": "Cooperative purchasing notes (research-findings.md, Notes/Special Provisions, 'Cooperative purchasing / piggyback authority' paragraph, ~line 113)",
+      "evidence": "Independently re-verified on official 2025 OLLS CRS Title 22 PDF (olls.info/crs/crs2025-title-22.pdf, pp. 838-839): CRS 22-32-122 contains only subsections (1)-(5). Subsection (5) is the bond-proceeds territorial limitation ('Nothing in this section authorizes a school district to expend proceeds from the sale of general obligation or revenue bonds...'). (6) and (7) DO NOT EXIST. The 'contract with another district' / 'natural person, body corporate, or association' authority is in subsection (1). Deliverable text reads: 'CRS 22-32-122(5)-(7) authorize boards to associate or contract with one or more other districts to provide services jointly.' Subsection cite does not exist.",
+      "recommendedRemediation": "Replace 'CRS 22-32-122(5)-(7)' with 'CRS 22-32-122(1)' (which authorizes contracts with other districts, governmental units, or natural persons / bodies corporate / associations to perform services), or strike the specific subsection numbers."
+    },
+    {
+      "id": "CO-C3-01",
+      "dimension": "C3",
+      "severity": "P2",
+      "field": "Statutory Citation (max-term / rebid / renewal) — currency labeling and URL anchor",
+      "evidence": "Source-ledger.md Colorado rows uniformly state 'Current through Fall 2025' but the cited URL — content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-22.pdf — is the OLLS 'Colorado Revised Statutes 2024' edition. The official 2025 CRS edition is published at olls.info/crs/crs2025-title-22.pdf (Title 22) and olls.info/crs/crs2025-title-24.pdf (Title 24), current through the Seventy-fifth General Assembly's First Extraordinary Session (August 2025). The 2024-edition URL is stale relative to the as-of date 2026-06-23. Substantive findings independently re-verified on the 2025 edition; only the URL anchor and currency label are wrong.",
+      "recommendedRemediation": "Re-anchor research-findings Statutory Citation cell, 'Sources Consulted' Colorado list, and source-ledger Colorado rows to olls.info/crs/crs2025-title-22.pdf and olls.info/crs/crs2025-title-24.pdf. Update Code Currency / Effective Date to 'Current through First Extraordinary Session, August 2025.'"
+    },
+    {
+      "id": "CO-C3-02",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "Currentness check (verification-notes.md Colorado 'Current-law check' + challenge-matrix.md Currentness row)",
+      "evidence": "Both deliverables assert 'no 2025-2026 amendment affecting pupil-transportation contracting authority located.' The 2025 CRS source line for § 22-1-135 documents TWO 2025 amendments to that load-bearing section: (i) HB25-1152 (ch. 246, eff. Aug 6, 2025) added (2)(d)(II)(C), (2)(d)(IV), (2)(e) and amended (2)(d) intro and (2)(d)(III) — technology-accessibility contractor compliance/indemnification content; does NOT alter (2)(d)(I) non-appropriation clause; and (ii) SB25-300 (ch. 428, eff. Aug 6, 2025) amended (1)(d) — revisor's-bill non-substantive cleanup of the 'Public school contracting entity' definition. Both leave the substantive load-bearing finding (non-appropriation clause; absence of statutory term/rebid/renewal regime) untouched.",
+      "recommendedRemediation": "Add a disclosure note: 'HB25-1152 (2025; eff. Aug 6, 2025) added (2)(d)(II)(C), (2)(d)(IV), (2)(e) and amended (2)(d) intro + (2)(d)(III) on technology-accessibility contractor compliance/indemnification; SB25-300 (2025; revisor's bill; eff. Aug 6, 2025) amended (1)(d) non-substantively. Neither alters (2)(d)(I) non-appropriation clause; substantive max-term/rebid/renewal framework unchanged.'"
+    },
+    {
+      "id": "CO-C2-02",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "HB22-1252 effective date (source-ledger.md Colorado row, line 114; also column 'Code Currency / Effective Date' on line 106 for § 22-1-135)",
+      "evidence": "Source-ledger row says 'HB22-1252 eff. July 1, 2022.' Official CRS source line for § 22-1-135 (re-verified on the 2025 OLLS PDF): 'L. 2022: Entire section added, (HB 22-1252), ch. 87, p. 414, § 1, effective April 12.' leg.colorado.gov bill page independently confirms: signed by Governor April 12, 2022; bill effective April 12, 2022; substantive requirements apply to public school contracts executed on/after July 1, 2022. The two dates are distinct.",
+      "recommendedRemediation": "Update to 'HB22-1252 eff. April 12, 2022; applicable to public school contracts executed on or after July 1, 2022.'"
+    },
+    {
+      "id": "CO-C2-04",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "1 CCR 301-26 effective date (source-ledger.md Colorado row + research-findings.md 'State-approval requirements' subsection reference)",
+      "evidence": "Source-ledger and the CDE reference line label the rule '(eff. May 15, 2025).' Re-verified Editor's Notes block on official rule PDF (resources.finalsite.net/.../1CCR301-26.pdf, after the rule text): 'Entire rule eff. 10/30/2024. Rules 4.10, 5.04(d)-(e), 5.05(a), 17.2 eff. 05/15/2025.' The May 15, 2025 date is for only four specific subrules, not the entire rule. Not load-bearing (rule serves a negative-finding role).",
+      "recommendedRemediation": "Adjust to 'Entire rule eff. Oct. 30, 2024; Rules 4.10, 5.04(d)-(e), 5.05(a), 17.2 eff. May 15, 2025.'"
+    },
+    {
+      "id": "CO-C2-05",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "CRS 22-32-127 scope description (research-findings.md 'State-approval requirements' note; source-ledger.md 'Relevant Text' column line 108)",
+      "evidence": "Deliverable: 'CRS 22-32-127 applies only to real property and equipment.' Live text re-verified on 2025 OLLS edition pp. 845-846: (1)(a) reaches 'undeveloped or improved real property or equipment for a school site, building, or structure'; (1)(b) extends to 'real or personal property' for property-tax-passage purposes; (6)-(7) carve out installment-purchase agreements limited to capital reserve fund / general fund subject to annual appropriations. Substantive conclusion (does not reach ordinary service contracts) survives; paraphrase drifts.",
+      "recommendedRemediation": "Optional refinement: 'applies only to installment-purchase or lease-with-option-to-purchase agreements pertaining to real or personal property associated with school sites/buildings/equipment, not to ordinary service contracts.'"
+    }
+  ],
+  "overallStateVerdict": "Minor",
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": []
+}

@@ -1,0 +1,169 @@
+{
+  "state": "Delaware",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Delaware's deliverables are substantively well-grounded. All load-bearing primary citations (14 Del. C. § 2908, § 2901, § 2906, § 2907, § 508(b); 29 Del. C. §§ 6902, 6904(c); 14 Del. Admin. Code §§ 1150-4.0, 1150-21.0, 1150-23.0) re-verified verbatim on official Delaware Code Online or the Cornell LII mirror. The reasoning is sound: no statutory max term for regular-district contracts, § 2908(a) first-offer-of-renewal + § 2908(d) annual letter-of-commitment + § 6904(c) clean exemption from Title 29 Ch. 69; § 508(b) charter carve-out; no separate special-ed contracting regime. The current-law check passed: no 2025-2026 amendment to § 2908, § 2901, § 2906, § 2907, § 508(b), or § 6904(c) located; SB 272 (153rd GA) addresses public-works PLAs (not transportation service contracts) and applies prospectively to projects advertised after Dec. 31, 2026. Two cosmetic/material issues exist: (i) the Title 14 Ch. 29 portal URL is generic — load-bearing for § 2908 it does not directly pinpoint the section (Delaware Code Online displays sections via in-page anchors, not section-specific URLs, so this is the best official source available and is reachable, but readers must scroll); (ii) the verification-notes 'sourcesUnreachable' line about regulations.delaware.gov rendering only header text is fair but understated — the bare AdminCode/title14/1100/1150.shtml URL also returns a header-only view via WebFetch, confirming the substitution to Cornell LII as a pragmatic workaround (Cornell LII is Tier 2 / unofficial mirror, but the official text is also available at the regulations.delaware.gov API endpoint, not cited).",
+  "citationVerifications": [
+    {
+      "citation": "14 Del. C. § 2908 (Renewal of transportation contracts; transfer; letters of commitment)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title14/c029/",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched delcode.delaware.gov/title14/c029/index.html. § 2908(a) verbatim: 'When a transportation contract is due to expire for a reason other than the fact that the bus described in said contract is of such vintage that it can no longer be used to transport pupils, a renewal of said contract shall be first offered to the school bus contractor who is party to the expiring contract.' § 2908(b), (c)(4), (d)(1), (d)(3), (d)(4) all confirmed verbatim per the deliverables. Source-law trail at foot of § 2908 confirmed: '62 Del. Laws, c. 292, § 1; 63 Del. Laws, c. 184, § 1; 66 Del. Laws, c. 303, § 314; 67 Del. Laws, c. 47, § 293; 68 Del. Laws, c. 74, § 1; 70 Del. Laws, c. 59, §§ 1, 3; 71 Del. Laws, c. 180, § 142' — matches verification-notes exactly. NOTE: URL is the Chapter 29 portal index, not a section-pinpoint URL; Delaware Code Online uses on-page #2908 anchors rather than per-section URLs, so this is the official authoritative source available — flagged as partially specific but acceptable."
+    },
+    {
+      "citation": "14 Del. C. § 2901(b) (Award of school transportation contracts)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title14/c029/",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched delcode.delaware.gov/title14/c029/index.html. § 2901 source-law trail through 82 Del. Laws c. 188 (2019) confirmed. The McKinney-Vento save-harmless clause in § 2901(c)(4) ('This subsection does not limit the manner in which schools provide transportation for students under the McKinney-Vento Homeless Education Assistance Improvement Act, 42 U.S.C. §§ 11431 through 11435') was located in the live source. Note: the deliverables do NOT mention this save-harmless clause in the special-education-differentiation paragraph; the clause is functionally consistent with the finding (no separate procurement regime for McKinney-Vento) but constitutes a substantive statutory cross-reference that the special-ed analysis omitted."
+    },
+    {
+      "citation": "14 Del. C. § 2906 (Transportation of pupils to special schools)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title14/c029/",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched; § 2906 confirmed funding-only, no procurement/contract-term language. Matches deliverables."
+    },
+    {
+      "citation": "14 Del. C. § 2907 (Safety requirements; bus age provisions)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title14/c029/",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched; confirms 14-model-year cap referenced in deliverables."
+    },
+    {
+      "citation": "14 Del. C. § 508(b) (Charter schools - transportation contracts)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title14/c005/",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched delcode.delaware.gov/title14/c005/. § 508(b) verbatim text confirmed: charter schools may '(1) Publically bid the transportation routes, either alone or with other local education agencies. (2) Negotiate a contract for 1 or more years...' with fuel-adjustment and multi-year subprovisions. Most recent visible amendment: 84 Del. Laws c. 29 (2024). Matches deliverables. URL is Chapter 5 portal, again not a section-pinpoint URL but the canonical official source for § 508 (Delaware Code Online structure)."
+    },
+    {
+      "citation": "29 Del. C. § 6904(c) (State Procurement - exception for school transportation)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title29/c069/sc01/index.html",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched. § 6904(c) verbatim: 'This chapter shall not apply to contracts for the transportation of school children. Such contracts shall be submitted to the Secretary of Education through the Department of Education Transportation Office for approval.' Matches deliverables exactly. Chapter current through 85 Del. Laws c. 93 (per source-law trail) — consistent with source-ledger entry. No 2025-2026 amendment to § 6904(c) located."
+    },
+    {
+      "citation": "29 Del. C. § 6902 (Definitions - 'Covered agency' excludes school districts)",
+      "claimedTierOrUrl": "Tier 1 - https://delcode.delaware.gov/title29/c069/sc01/index.html",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched. Definition language verbatim per deliverables: school districts, Delaware Technical & Community College, Delaware State University, and the Legislative Branch are excluded from 'covered agency.' Supports the applicability analysis."
+    },
+    {
+      "citation": "14 Del. Admin. Code § 1150-4.0 (Conditions for School Bus Contractors)",
+      "claimedTierOrUrl": "Tier 2 - https://www.law.cornell.edu/regulations/delaware/14-Del-Admin-Code-SS-1150-4.0 (Cornell LII mirror)",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Cornell LII page resolves; section 4.0 text on contractor obligations confirmed; no term/renewal/rebid language present — consistent with deliverables. Cornell LII is an UNOFFICIAL secondary mirror — the official site is regulations.delaware.gov. Source-ledger labels this Tier 2 'State administrative code' which is misleading: the Tier-2 SOURCE is the Delaware Admin. Code, but the URL is to a third-party (Cornell LII) mirror. The official URL (regulations.delaware.gov/AdminCode/title14/1100/1150.shtml) was reportedly unreachable via WebFetch (header-only render); this audit confirms the same. However, regulations.delaware.gov also offers an API endpoint that returns full text (referenced in DOE program page search results); that endpoint is not cited."
+    },
+    {
+      "citation": "14 Del. Admin. Code § 1150-21.0 (Bus Replacement Schedules)",
+      "claimedTierOrUrl": "Tier 2 - https://www.law.cornell.edu/regulations/delaware/14-Del-Admin-Code-SS-1150-21.0 (Cornell LII mirror)",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Cornell LII page resolves; 7-year capital allowance, 14-year replacement, 9-year/130,000 mi, 190,000 mi, and 10-year provisions all confirmed verbatim from the live page — matches deliverables. Same Cornell-LII-vs-official-site caveat as 1150-4.0."
+    },
+    {
+      "citation": "14 Del. Admin. Code § 1150-23.0 (Transportation for Pupils with Disabilities)",
+      "claimedTierOrUrl": "Tier 2 - https://www.law.cornell.edu/regulations/delaware/14-Del-Admin-Code-SS-1150-23.0 (Cornell LII mirror)",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Cornell LII page resolves; section 23.0 confirmed to contain eligibility, IDEA financial-aid scope, residential program transport, IEP-required bus aides — no procurement/term/renewal language. Matches deliverables. Same Cornell-LII-vs-official-site caveat."
+    },
+    {
+      "citation": "Delaware DOE - School Transportation program pages",
+      "claimedTierOrUrl": "Tier 4 - https://education.delaware.gov/educators/school-operations/school-transportation/",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-fetched via Firecrawl after WebFetch returned truncated content. Page resolves; confirms '130,000 pupils,' '1,800 school buses,' '19 school districts and 25 charter schools' verbatim, plus contractor/district split (~2/3 private contractors)."
+    },
+    {
+      "citation": "Brandywine School District Transportation Services RFP - BSD22101-TRANSPORT",
+      "claimedTierOrUrl": "Tier 5 - https://bidcondocs.delaware.gov/BSD/BSD22101-TRANSPORT-rfp.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "URL exists and serves a 1.1MB PDF binary (confirmed via WebFetch download). WebFetch could not parse the PDF text inline; Firecrawl PDF parser was unavailable during this audit (token expired on retry). The deliverables already correctly classify this as Tier 5 district practice, illustrative only — not load-bearing. The existence and approximate content (district transportation RFP) is consistent with what the source-ledger says; the specific contract-term language (1-year initial + 2 one-year renewals + 3-month extension) could not be re-verified verbatim in this audit."
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "holds",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "scratch/delaware.json sources-unreachable list mentions 'law.justia.com (HTTP 403; superseded by official delcode.delaware.gov source).' Justia is NOT in the Delaware source-ledger as a cited URL — listing it as 'unreachable' is provenance residue from Stage 1/2, not an inconsistency between deliverables, but mildly confusing.",
+      "scratch/delaware.json sources-unreachable also notes 'bidcondocs.delaware.gov/DOE/DOE26002-BUSROUTE-rfp.pdf' as binary/non-load-bearing — but this URL appears NOWHERE in the source-ledger or research-findings for Delaware. It is referenced in verification-notes ('DOE26002-BUSROUTE PDF (binary, non-load-bearing)') and in the per-state-findings index discussion, but never cited as a source. This is provenance residue, not a substantive defect.",
+      "The research-findings 'Exceptions / Unresolved Issues' Delaware paragraph describes BOTH Brandywine RFP AND DOE-administered DOE26002-BUSROUTE as 'two district RFPs reviewed.' Only Brandywine appears in the source-ledger. DOE26002 is referenced but not formally entered as a source row. P3.",
+      "scratch/delaware.json describes the verdict as 'confirmed (5/5 fields)' but the verification-notes orchestration provenance table for Delaware shows five separate 'confirmed' verdicts (maxTerm, rebid, renewal, specialEd, variance) — internally consistent, but the JSON field 'adversarialOverallVerdict' is a compound label that should be reported per-field; this is structural, not substantive."
+    ]
+  },
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": [],
+  "issues": [
+    {
+      "id": "DE-C1-01",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "statutoryCitation",
+      "evidence": "Primary URL for § 2908 is https://delcode.delaware.gov/title14/c029/ — the Chapter 29 portal, not a section-pinpoint URL. Delaware Code Online displays sections via on-page anchors (e.g., #2908) rather than per-section URLs. The URL does resolve and contains § 2908 in full; this is the best official URL available. Note that delcode.delaware.gov/title14/c029/index.html or index.shtml would land at the same place. Same applies to § 508 (linked to /title14/c005/) and § 6904(c) (linked to /title29/c069/sc01/index.html). All resolve; none MISMATCH; but readers must scroll. Acceptable as best official source.",
+      "recommendedRemediation": "If Delaware Code Online ever exposes section-anchor URLs (e.g., https://delcode.delaware.gov/title14/c029/index.shtml#2908), upgrade to those for pinpoint accuracy. No action required given site structure."
+    },
+    {
+      "id": "DE-C1-02",
+      "dimension": "C1",
+      "severity": "P2",
+      "field": "statutoryCitation (regulations)",
+      "evidence": "Three load-bearing-adjacent regulatory citations (14 Del. Admin. Code §§ 1150-4.0, 1150-21.0, 1150-23.0) cite Cornell LII (law.cornell.edu/regulations/delaware/...) as the URL. Cornell LII is an UNOFFICIAL secondary mirror. The OFFICIAL Delaware regulations are at regulations.delaware.gov/AdminCode/title14/1100/1150.shtml. Verification notes acknowledge that the official URL renders only header text via WebFetch and substitute Cornell LII. This audit confirms the official-URL header-only issue. However, Cornell LII is tagged 'Tier 2 (State administrative code)' in the source-ledger — a tier label that properly describes the SOURCE but not the URL host. Substantively the rule text matches, but a Tier-2 claim should rest on an OFFICIAL URL.",
+      "recommendedRemediation": "Add the official regulations.delaware.gov URL (or its API/PDF endpoint) alongside Cornell LII in the source-ledger and label Cornell LII as 'mirror' explicitly. Alternative: cite the official PDF compendium at regulations.delaware.gov/api/AdminCode/title14/1100/<uuid> which DOES return text."
+    },
+    {
+      "id": "DE-C4-01",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "structural (cross-file consistency)",
+      "evidence": "research-findings Delaware Exceptions paragraph references 'DOE-administered DOE26002-BUSROUTE' RFP, but this URL appears in NEITHER the source-ledger Delaware section NOR the research-findings 'Sources Consulted' Delaware list. It is mentioned only descriptively. The verification-notes 'sourcesUnreachable' field lists it as binary/non-load-bearing.",
+      "recommendedRemediation": "Either add a source-ledger Tier-5 row for DOE26002 with the bidcondocs URL, or remove the descriptive reference to keep cross-file citations symmetric."
+    },
+    {
+      "id": "DE-C2-01",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "specialEducation",
+      "evidence": "The deliverables' special-education paragraph correctly states that no separate special-ed contracting regime exists. However, the live source 14 Del. C. § 2901(c)(4) contains a McKinney-Vento save-harmless clause ('This subsection does not limit the manner in which schools provide transportation for students under the McKinney-Vento Homeless Education Assistance Improvement Act, 42 U.S.C. §§ 11431 through 11435') that is not mentioned. Substantively, the clause SUPPORTS the finding (it preserves McKinney-Vento flexibility under federal law without creating a separate state procurement regime). Not a refutation; an enrichment opportunity.",
+      "recommendedRemediation": "Optional: add a sentence in the Delaware special-ed paragraph noting the § 2901(c)(4) McKinney-Vento save-harmless clause as additional confirmation that the regular-route § 2908 regime is the operative framework."
+    },
+    {
+      "id": "DE-C3-01",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "currency",
+      "evidence": "Live current-law check confirms NO 2025-2026 amendment to § 2908, § 2901, § 2906, § 2907, § 508(b), or § 6904(c). SB 272 (153rd GA, 'Out of Committee 6/10/26') amends Title 14 and Title 29 but only with respect to Project Labor Agreements for public-works contracts ≥ $1M, applying prospectively to projects advertised AFTER Dec. 31, 2026 — does not reach school-transportation service contracts. Deliverables' currency check correctly captures this (no SB272 conflict). No defect.",
+      "recommendedRemediation": "Optional: add a one-line note in the verification-notes session-law check explicitly mentioning SB 272 (153rd GA) as reviewed-and-excluded for completeness."
+    },
+    {
+      "id": "DE-C8-01",
+      "dimension": "C8",
+      "severity": "P3",
+      "field": "districtVariance",
+      "evidence": "The District Variance challenge is properly bounded and the negative search path is documented. Live disconfirming searches found no AG opinion, AOA report, DOE bulletin, or DSBA guidance documenting either uniformity or interpretive divergence — confirming the 'Unknown' verdict. Two district RFPs (Brandywine and DOE26002) referenced; only Brandywine is in the ledger. The bidcondocs.delaware.gov PDF for Brandywine could not be re-parsed verbatim by this audit (PDF parser unavailable), but its existence is confirmed and the finding does not turn on the contract-term specifics.",
+      "recommendedRemediation": "Optional: formalize the DOE26002 reference as a Tier-5 source row, OR remove the descriptive reference. Both options preserve the 'Unknown' finding."
+    },
+    {
+      "id": "DE-C5-01",
+      "dimension": "C5",
+      "severity": "P3",
+      "field": "completeness (challenge-matrix)",
+      "evidence": "Challenge-matrix Delaware section includes rows for: Max Contract Term, Rebid Required, Renewal Mechanics, Special-education differentiation, District Variance, and a 'Currency - § 2908 session-law trail' row. All five required field-challenges present plus a currency challenge. Each challenge is substantive (real search/sources, not pro forma). No deficiency.",
+      "recommendedRemediation": "None — complete."
+    }
+  ],
+  "overallStateVerdict": "Minor"
+}

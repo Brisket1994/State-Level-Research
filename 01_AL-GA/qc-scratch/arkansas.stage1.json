@@ -1,0 +1,163 @@
+{
+  "state": "Arkansas",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Arkansas's substantive findings (no statutory max term; rebid not required for transportation services; renewal mechanics N/A; AG/DESE/DPSAFT silence; no separate special-ed contracting regime; district variance Unknown) are well-supported by codified Arkansas law re-verified through WebSearch against arkleg, DESE, and SAS-DFA official sources. The principal defect is C1/C7 in nature: every Arkansas Code citation in the source-ledger is anchored to the SAME generic LexisNexis portal URL (https://www.lexisnexis.com/hottopics/arcode/), which redirects to a Lexis container and does not deep-link to any pinpoint section. The 'Sources Consulted' note discloses this and admits verbatim text was actually read via Justia (Tier-2 secondary republication) as a pathfinder; yet the source-ledger marks every row 'Tier 1' and the verification-notes claim eight load-bearing citations were each 're-opened' and 'verified.' Re-opening the same generic portal URL eight times is not a pinpoint re-verification — that is a defaulted/stub verdict. Tier-1 official Arkansas alternatives existed and were not used: DESE's published PDF of §§ 6-19-101 through 6-19-128 (dese.ade.arkansas.gov) and the SAS-DFA Procurement Laws and Rules July 2024 PDF (sas.arkansas.gov). DPSAFT URLs (Rules and Laws — Transportation) failed live cert verification but appear in Google index and are independently valid. AG Opinion 98-207 was relayed from Stage 1 and never independently re-fetched. Three sources are openly acknowledged unreachable (ASBA CAPTCHA, Little Rock District procurement manual PDF, AG 98-207 full text). Currency check (2024 Arkansas Code + 2025 session-law review) is robust. Adversarial challenges cover all five required fields plus two additional pro-forma rows. No load-bearing finding is contradicted by the live record; the defect is in citation hygiene and source-tier discipline, not in legal substance.",
+  "overallStateVerdict": "Material",
+  "loadBearingFindingsReVerified": false,
+  "loadBearingNotReVerifiedList": [
+    "Ark. Code Ann. § 6-19-102 — generic portal URL only; section text never re-opened on an official pinpoint source during Stage-2 SOURCE-VALIDATION REVISIT; substance independently corroborated via WebSearch against arkleg/DESE.",
+    "Ark. Code Ann. § 6-13-620 — same: generic portal URL only.",
+    "Ark. Code Ann. § 6-21-301 — same.",
+    "Ark. Code Ann. § 6-21-304 — same (DPSAFT pdf at https://dpsaft.ade.arkansas.gov/Files/6-21-304_201020113357.pdf would have been a true Tier-1 pinpoint).",
+    "Ark. Code Ann. § 19-11-203 — same.",
+    "Ark. Code Ann. § 19-11-238 — same (SAS-DFA Procurement-Laws-and-Rules-July-2024.pdf would have been Tier-1 pinpoint)."
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "weakened",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "citationVerifications": [
+    {
+      "citation": "Ark. Code Ann. § 6-19-101; § 6-19-102; § 6-19-114; § 6-13-620; § 6-21-301; § 6-21-303; § 6-21-304; § 6-21-305; § 6-21-306; § 19-11-202; § 19-11-203; § 19-11-206; § 19-11-238; § 19-11-249 (all sharing the same generic portal URL https://www.lexisnexis.com/hottopics/arcode/)",
+      "claimedTierOrUrl": "Tier 1 — official Arkansas Code (state-sanctioned LexisNexis portal); URL https://www.lexisnexis.com/hottopics/arcode/",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Live re-fetch: the URL https://www.lexisnexis.com/hottopics/arcode/ issues a 301 redirect to https://advance.lexis.com/container?config=... which renders as a generic JavaScript container/landing requiring interactive navigation. It does not deep-link to any pinpoint section. None of the 14 Arkansas Code rows in the source-ledger reaches its cited section via this URL. Substantively, every cited section's text is corroborated through WebSearch against the official Arkansas DESE PDF (§§ 6-19-101 through 6-19-128 at https://dese.ade.arkansas.gov/Files/20210208151716_6-19-101_through_6-19-128.pdf), the SAS-DFA Procurement Laws and Rules PDF (https://sas.arkansas.gov/wp-content/uploads/Procurement-Laws-and-Rules-July-2024.pdf — confirms § 19-11-238 caps 'original term…not exceed four (4) years' and 'total term, including all renewals and extensions, shall not exceed seven (7) years'), and the DPSAFT PDF of § 6-21-304 (https://dpsaft.ade.arkansas.gov/Files/6-21-304_201020113357.pdf). The research-findings 'Sources Consulted' note discloses that verbatim text 'was read via a secondary republication used only as a pathfinder' (Justia). Net: generic portal does not pinpoint; substance is verifiable on independent official sources that the ledger did not use."
+    },
+    {
+      "citation": "Arkansas DPSAFT, DESE, 'Rules — Transportation'",
+      "claimedTierOrUrl": "Tier 2; URL https://dpsaft.ade.arkansas.gov/transportation/rules---transportation",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Live WebFetch returned 'unable to verify the first certificate' (TLS chain issue on dpsaft.ade.arkansas.gov), and Firecrawl scrape was blocked (MCP re-auth required). Google index independently shows this URL exists and is the DPSAFT Rules — Transportation index page; the existence of 6 CAR pts. 334, 335 (and the others 336, 337) is independently confirmed via codeofarrules.arkansas.gov (e.g., https://codeofarrules.arkansas.gov/Rules/Rule?levelType=part&titleID=6&chapterID=55&subChapterID=74&partID=723 returns Part 335 'Specifications Governing School Bus Design'). The substantive claim — that the DPSAFT-listed transportation rules do not regulate district-to-private-contractor contract term/rebid/renewal — is plausible against the public record but was not directly re-verified on the live page during this audit; treated 'partially verified' rather than 'verified' as a result."
+    },
+    {
+      "citation": "Arkansas DPSAFT, 'Laws — Transportation'",
+      "claimedTierOrUrl": "Tier 4; URL https://dpsaft.ade.arkansas.gov/transportation/laws---transportation",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Same TLS cert issue as the Rules page; Google index confirms the URL exists and is the DPSAFT statutory index. Substantive claim — that 'Purchasing' headings point only to bus-purchase statutes (§§ 6-19-114, 6-21-304, 6-21-306) and no transportation-services-contract command is indexed — was not directly re-verified on the live page during this audit."
+    },
+    {
+      "citation": "Arkansas DESE, Office of Special Education, IDEA Part B Fiscal Accountability Procedures Manual (10/31/2022)",
+      "claimedTierOrUrl": "Tier 4; URL https://arksped.ade.arkansas.gov/documents/fundingFinance/Procedures-Manual-update10312022.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "not verified",
+      "sourceSaysVsClaim": "Not separately re-opened in this audit. The substantive claim (special-ed transportation treated only as IDEA Part B related-service fiscal allowable cost; no separate state contracting regime) is independently corroborated by the DESE Special Education Offices page and the DESE IEP document — but the specific allowable-cost language quoted in the source-ledger ('repair or servicing of Special Education vehicles, insurance, mileage, and bus driver and bus aide costs') was not re-confirmed on the live PDF during this audit."
+    },
+    {
+      "citation": "Arkansas House of Representatives, '2025 Transportation Legislation'",
+      "claimedTierOrUrl": "Tier 4; URL https://www.arkansashouse.org/news/post/29560/2025-transportation-legislation",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Live re-fetch successful. Page covers Acts 16, 17, 117, 209, 322, 327, 528, 604 (matches the cited list). Confirms none of these 2025 Acts amend the Arkansas Code provisions governing district-to-private-contractor transportation contracts. Currency check holds."
+    },
+    {
+      "citation": "Arkansas School Boards Association 'Model Policies' index",
+      "claimedTierOrUrl": "Tier 5 (district-variance pathfinder); URL not pinpoint-cited (acknowledged unreachable)",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Acknowledged unreachable in the deliverables (reCAPTCHA-protected). No claim attached to it; absence of documentation properly preserved."
+    },
+    {
+      "citation": "Little Rock School District procurement manual PDF",
+      "claimedTierOrUrl": "Tier 5 (district-variance pathfinder); acknowledged unreachable",
+      "isLoadBearing": false,
+      "liveVerdict": "unreachable",
+      "sourceSaysVsClaim": "Acknowledged unreachable (binary not parsed by WebFetch). Properly preserved as unreachable; not used to establish state law."
+    },
+    {
+      "citation": "Arkansas AG Opinion 98-207 (parochial-school transport)",
+      "claimedTierOrUrl": "Tier 3 (negative-result pathfinder); acknowledged 'Stage 1 relay; not independently re-fetched'",
+      "isLoadBearing": false,
+      "liveVerdict": "not verified",
+      "sourceSaysVsClaim": "Acknowledged in scratch/arkansas.json sourcesUnreachable as Stage-1 relay not independently re-fetched. WebSearch confirms AG Op. 98-207 exists and concerns parochial-school transport permissibility (not term/rebid/renewal) — substance plausible, but the opinion itself was not directly re-opened in this audit. Properly flagged in the deliverables as relay-only."
+    }
+  ],
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "scratch/arkansas.json 'sourceValidationVerdict' = 'verified' and verification-notes claim 'eight load-bearing primary citations... each re-opened... all returned verified.' But the ledger gives all 14 Arkansas Code citations the SAME generic portal URL, which cannot re-open any pinpoint section. This is a defaulted/stub 'verified' verdict for the Arkansas Code rows.",
+      "research-findings 'Sources Consulted' note candidly admits 'for Arkansas and Georgia... verbatim text was read via a secondary republication used only as a pathfinder.' This is internally inconsistent with the source-ledger labeling every Ark. Code row as Tier 1 with the same generic Lexis portal URL — the actual pathfinder used (Justia, Tier-2) is not surfaced in the source-ledger.",
+      "scratch/arkansas.json 'sourcesUnreachable' lists AG Op 98-207 as 'Stage 1 relay; not independently re-fetched,' but verification-notes label its disposition only as 'UNREACHABLE/UNVERIFIED preserved verbatim' without distinguishing 'never re-opened' from 'attempted and failed.' Minor — the deliverable correctly does not lean on it for any load-bearing claim."
+    ]
+  },
+  "issues": [
+    {
+      "id": "AR-C1-01",
+      "dimension": "C1",
+      "severity": "P1",
+      "field": "Statutory Citation (Field 4) — and by extension all four other fields, since every cell relies on these citations",
+      "evidence": "Every Arkansas Code citation in the source-ledger (§§ 6-19-101, 6-19-102, 6-19-114, 6-13-620, 6-21-301, 6-21-303, 6-21-304, 6-21-305, 6-21-306, 19-11-202, 19-11-203, 19-11-206, 19-11-238, 19-11-249) is paired with the IDENTICAL generic portal URL https://www.lexisnexis.com/hottopics/arcode/. Live re-fetch (WebFetch): the URL issues a 301 redirect to https://advance.lexis.com/container?config=... which is a JavaScript Lexis container landing page with no pinpoint deep-link, no readable section text, and no navigation context. None of the 14 cited sections can be reached from this URL without interactive in-browser navigation. The research-findings 'Sources Consulted' note discloses that verbatim text 'was read via a secondary republication used only as a pathfinder' (Justia). This is a 'generic portal not pinpoint' defect across the entire load-bearing citation block. The verification-notes' claim that 'eight load-bearing primary citations... each re-opened... all returned verified' is therefore a stub/defaulted verdict — the same generic portal cannot have re-verified eight different pinpoint sections.",
+      "recommendedRemediation": "Replace the generic Lexis portal URL on each load-bearing Arkansas Code row with a true Tier-1 pinpoint official URL: (a) §§ 6-19-101 through 6-19-128 — use https://dese.ade.arkansas.gov/Files/20210208151716_6-19-101_through_6-19-128.pdf (Arkansas DESE official statutory PDF); (b) § 6-21-304 — use https://dpsaft.ade.arkansas.gov/Files/6-21-304_201020113357.pdf (DPSAFT official PDF); (c) §§ 19-11-202, 203, 206, 238, 249 — use https://sas.arkansas.gov/wp-content/uploads/Procurement-Laws-and-Rules-July-2024.pdf (SAS-DFA official Procurement Laws and Rules July 2024 PDF) with the pinpoint section page noted; (d) § 6-13-620 and §§ 6-21-301, 303, 305, 306 — locate the corresponding DESE/DPSAFT PDF or supplement with the arkleg.state.ar.us Arkansas Code Search portal at https://portal.arkansas.gov/service/arkansas-code-search-laws-and-statutes/ together with the section-level deep link Lexis Public Access can generate. If a true pinpoint URL is genuinely unavailable for a section, label the Lexis portal as 'partial — portal only; section text confirmed via Justia (Tier-2) pathfinder' rather than 'Tier 1.'"
+    },
+    {
+      "id": "AR-C7-01",
+      "dimension": "C7",
+      "severity": "P2",
+      "field": "Statutory Citation (Field 4) — source-tier discipline",
+      "evidence": "Although the cited Lexis portal IS the state-sanctioned official publisher of the Arkansas Code, the URL pinpoints nothing — and the 'Sources Consulted' note candidly admits the verbatim section text was read via Justia, a Tier-2 secondary republication. The source-ledger nonetheless labels every Arkansas Code row 'Tier 1' without flagging that the actual reading source for the text was Tier-2. Per the orchestrator's source-hierarchy rule, secondary summaries may be used as pathfinders, but the LEDGER should disclose that role. As stated, the ledger overstates source-tier discipline for the entire Arkansas Code block.",
+      "recommendedRemediation": "Either (a) move to true Tier-1 pinpoint URLs as in AR-C1-01 (preferred), or (b) split each row's URL column into 'Official Source URL (portal)' = current Lexis hot-topic URL AND 'Reading URL (pathfinder)' = the actual Justia URL used to read the text, retaining Tier-1 label only if the pinpoint section text is independently confirmed on a true Tier-1 source. Update the verification-notes 'SOURCE-VALIDATION REVISIT' line so it no longer claims 'each re-opened one final time and all returned verified' for citations that were not pinpoint-re-opened.",
+    },
+    {
+      "id": "AR-C4-01",
+      "dimension": "C4",
+      "severity": "P2",
+      "field": "Cross-file consistency (research-findings <-> source-ledger <-> verification-notes <-> scratch/arkansas.json)",
+      "evidence": "scratch/arkansas.json sets 'sourceValidationVerdict' = 'verified' and primaryCitation = 'https://www.lexisnexis.com/hottopics/arcode/'. verification-notes claims the eight load-bearing citations 'each re-opened... all returned verified.' But research-findings 'Sources Consulted' note states verbatim text was actually read on a Tier-2 pathfinder (Justia), and the source-ledger reuses the same generic portal URL for all 14 Arkansas Code rows. The JSON and verification-notes therefore overstate the source-validation revisit relative to what the research-findings note candidly discloses.",
+      "recommendedRemediation": "Reconcile the four files. Either lower the 'sourceValidationVerdict' for the Arkansas Code block to 'partially verified — portal-only URL; text read on Tier-2 pathfinder' across scratch/arkansas.json AND verification-notes, or upgrade the ledger URLs to true Tier-1 pinpoint sources as in AR-C1-01."
+    },
+    {
+      "id": "AR-C4-02",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "Cross-file consistency — verification-notes vs scratch/arkansas.json",
+      "evidence": "scratch/arkansas.json says 'ADVERSARIAL CHALLENGES RUN: confirmed (5/5 fields)' (adversarialOverallVerdict). The challenge-matrix actually carries SEVEN Arkansas rows (max term; rebid; renewal; special-ed; district variance; currentness; school-vs-general-procurement-law). verification-notes correctly says 'seven challenges.' The JSON's 5/5 framing is consistent with the five required fields but understates the total challenge count in the matrix.",
+      "recommendedRemediation": "Either reframe the JSON adversarialOverallVerdict to 'confirmed (5/5 required fields; 7/7 challenge rows ran)' or leave as is and note in verification-notes that '5/5' refers to required-field verdicts not total challenge rows. Cosmetic only."
+    },
+    {
+      "id": "AR-C1-02",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "DPSAFT Rules — Transportation and Laws — Transportation URLs",
+      "evidence": "Both https://dpsaft.ade.arkansas.gov/transportation/rules---transportation and https://dpsaft.ade.arkansas.gov/transportation/laws---transportation returned 'unable to verify the first certificate' on live WebFetch during this audit; Firecrawl was unavailable. Google index independently confirms the URLs exist (Search returns them with capital 'T' in 'Transportation'), and 6 CAR pts. 334 and 335 are independently confirmed via codeofarrules.arkansas.gov. Treated as partially verified for this audit, not unreachable. Note that the search index uses '/Transportation/' (capital T) while the deliverables cite '/transportation/' (lowercase). This may be a transient TLS/cert issue rather than a true unreachability.",
+      "recommendedRemediation": "On the next re-verification cycle, retry these DPSAFT URLs from a host that has the relevant intermediate cert chain; if persistent, normalize URL casing to whatever resolves (likely capital 'T' per Google index) and note the cert state in verification-notes."
+    },
+    {
+      "id": "AR-C3-01",
+      "dimension": "C3",
+      "severity": "P3",
+      "field": "Currency / code currency note",
+      "evidence": "verification-notes states 'Justia 2024 Arkansas Code banner confirmed on every cited section.' By the as-of date (2026-06-23), the 2025 General Assembly Regular Session has concluded (the Arkansas House summary covers Acts 16, 17, 117, 209, 322, 327, 528, 604). The deliverables review the 2025 transportation Acts and confirm none amend the relevant sections — good. But the 'current through' banner reading '2024 Arkansas Code' is now a year stale relative to the 2026-06-23 baseline; the deliverables should either note that the 2025 Acts have been independently reviewed via the Arkansas House summary (currently done in verification-notes — adequate) or upgrade to a 2025 Arkansas Code edition if Justia/Lexis publishes one.",
+      "recommendedRemediation": "Add an explicit '2025 session-laws cross-checked through 2025 Regular Session end; 2026 session bills tracked' line to verification-notes if it can be supported, or leave as is — the existing 2025 session-law check is adequate but the explicit 2026 negative is not stated."
+    },
+    {
+      "id": "AR-C5-01",
+      "dimension": "C5",
+      "severity": "P3",
+      "field": "Completeness — challenge-matrix coverage",
+      "evidence": "Required coverage per orchestrator: at least one challenge row per state for max term, rebid, renewal, special-ed, AND district variance. Arkansas challenge-matrix actually carries 7 rows covering ALL five required topics plus two supplementary rows (currentness + school-specific-vs-general-procurement). Coverage is complete.",
+      "recommendedRemediation": "No action — this entry is a positive finding noted for completeness. C5 holds for Arkansas."
+    },
+    {
+      "id": "AR-C8-01",
+      "dimension": "C8",
+      "severity": "P3",
+      "field": "Adversarial robustness — district variance",
+      "evidence": "The district-variance challenge row is a single 5-line entry and only reaches AG Op 2009-213 (county contracts under § 14-22-106 — not on point) and AG Op 98-207 (parochial-school transport — not on point), plus an attempted Little Rock manual fetch and an attempted ASBA fetch. A stronger disconfirming search would have sampled at least one additional large-district policy (e.g., Pulaski County Special School District, Springdale, Bentonville, Fort Smith) and the Arkansas Legislative Audit reports for districts to confirm no documented inter-district interpretive divergence on the underlying statutory silence. The challenge is real but somewhat pro-forma. WebSearch during this audit independently found no documented divergent interpretations either, so the 'Unknown' verdict holds.",
+      "recommendedRemediation": "On the next revision, broaden the district-variance challenge to include at least two large-district transportation procurement policies (Pulaski County Special, Bentonville, Springdale, or Fort Smith) and one Arkansas Legislative Audit report touching district contracting. Even if the result remains 'Unknown,' the negative search path will be stronger."
+    },
+    {
+      "id": "AR-C2-01",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "Verbatim support — § 19-11-238 cap language",
+      "evidence": "Source-ledger row for § 19-11-238 quotes '(a)...not more than seven (7) years...' and '(c)(1) Original terms...shall not exceed four (4) years.' WebFetch on the SAS-DFA Procurement Laws and Rules PDF independently corroborates the operative cap: 'The original term of a multiyear contract shall not exceed four (4) years, and the total term, including all renewals and extensions, shall not exceed seven (7) years.' Substance verified. Minor stylistic note: the ledger's quoting uses ellipses rather than the cleaner consolidated phrasing in the official PDF.",
+      "recommendedRemediation": "Cosmetic — replace the ellipsed extraction with the cleaner verbatim sentence from the SAS-DFA PDF on next revision."
+    }
+  ]
+}

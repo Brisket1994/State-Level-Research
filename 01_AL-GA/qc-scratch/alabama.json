@@ -1,0 +1,196 @@
+{
+  "state": "Alabama",
+  "asOfBaseline": "2026-06-23",
+  "summary": "Stage 2 audit re-opened §§ 16-13B-1 and 16-13B-7 verbatim on the official Alabama Legislature ALISON portal and confirmed each load-bearing claim: the $40,000 competitive-sealed-bidding threshold made by/on behalf of any city or county board of education, the Oct. 1, 2027 CPI adjustment trigger, the public-works carve-out to Title 39, and the 5-year cap on personal property / contractual services contracts plus the 10-year lease-purchase cap; amendment histories (Act 2009-760; Act 2023-203; Act 2016-298) match the deliverable verbatim. Firecrawl became unavailable after the second load-bearing fetch, so the third load-bearing section (§ 16-13B-2) could not be independently re-rendered on the ALISON portal this pass; its (a)(9) sanitation/solid-waste-only carve-out and the absence of any pupil-transportation, school-bus, IEP, McKinney-Vento, or foster-care exception across the full (a)(1)-(15) list was instead corroborated through three independent parallel republications (Justia 2025/2018/2013/2009 versions consistent; FindLaw Title 16 § 16-13B-2; Alabama State Bar Lawyer article) — strong but not directly-from-the-official-portal corroboration; this citation moves from 'verified' to 'partially verified — corroborated via parallel republications.' One previously-undocumented 2026 enactment was located that touches the related (but distinct) Title 41 procurement framework: SB115 (Act 2026-56) adds new Ala. Code § 41-16-52.1 — a vehicle-repair-under-$15,000 exemption from competitive bidding for Title 41 awarding authorities. Per Stage 1's own documented applicability boundary (Act 2009-760 removed Alabama city/county BOEs from Title 41 and placed them under Title 16 Ch. 13B), SB115 does NOT amend Chapter 13B and therefore does NOT change any of Alabama's five field answers. The deliverables' currentness statement (no 2025/2026 enactment alters § 16-13B-1, -2, or -7) holds; the negative-search disclosure is technically complete only when read together with the Notes/Special Provisions paragraph (research-findings.md line 56) that explicitly excludes Title 41 from BOE contracting. The five Alabama fields all hold; District Variance properly remains Unknown with a documented negative search path. All P3 hygiene issues Stage 1 flagged (AL-C1-01, -C1-02, -C4-01, -C4-02, -C4-03) are reconciled and preserved; one new P3 documentation gap is added (SB115 currentness disclosure).",
+  "citationVerifications": [
+    {
+      "citation": "Ala. Code § 16-13B-1 (2025) — Applicability; threshold; competitive sealed bidding",
+      "claimedTierOrUrl": "Tier 1 (codified statute); https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-1",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-opened on ALISON via firecrawl_scrape on 2026-06-24. Verbatim text confirms (a)(1) '$40,000' threshold, 'made by or on behalf of any city or county board of education,' 'free and open competitive bidding, on sealed bids, to the lowest responsible bidder,' the public-works carve-out to Title 39, and the Oct. 1, 2027 CPI-adjustment trigger in (a)(2). Statutory authority footer: '(Act 2009-760, p. 2294, §1; Act 2023-203, §1.)' matches the deliverable's amendment history. No discrepancy between claim and live text."
+    },
+    {
+      "citation": "Ala. Code § 16-13B-2 (2025) — Exceptions to Competitive Bidding",
+      "claimedTierOrUrl": "Tier 1 (codified statute); https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-2",
+      "isLoadBearing": true,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "ALISON re-render not completed in this audit pass: Firecrawl MCP server reported 'requires re-authorization (token expired)' on the second §16-13B-2 fetch attempt; WebFetch returned navigation-only HTML for the JS-rendered ALISON URL; Justia returned HTTP 403 to WebFetch; FindLaw returned HTTP 403 to WebFetch. The (a)(9) verbatim language 'Existing contracts up for renewal for sanitation or solid waste collection, recycling, or disposal and those providing the service' was independently confirmed via WebSearch returning the Justia 2025/2018/2013/2009 versions of the section (consistent across all four), and a separate WebSearch confirmed (a)(13) cooperative-purchasing language and (a)(12) security-related language. No pupil-transportation, school-bus, IEP, McKinney-Vento, foster-care, or special-education exception exists in the (a)(1)-(15) list per parallel-republication corroboration. Verdict downgraded from Stage 1's 'verified' to 'partially verified' because the corroboration is via parallel republications rather than a direct re-open of the official ALISON portal in this pass — even though the underlying language verifies."
+    },
+    {
+      "citation": "Ala. Code § 16-13B-7 (2025) — Defaulting Bidder; Sole Source; Lease-Purchase (PRIMARY citation for Field 1)",
+      "claimedTierOrUrl": "Tier 1 (codified statute); https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-7",
+      "isLoadBearing": true,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "Re-opened on ALISON via firecrawl_scrape on 2026-06-24. Verbatim text confirms (f) 'Contracts for the purchase of personal property or contractual services shall be let for periods not greater than five years. Lease-purchase contracts for capital improvements and repairs to real property shall be let for periods not greater than 10 years and all other lease-purchase contracts shall be let for periods not greater than 10 years.' Subsection (a) second-lowest-bidder substitution language confirmed verbatim. Statutory authority footer: '(Act 2009-760, p. 2294, §1; Act 2016-298, §1.)' matches the deliverable's amendment history."
+    },
+    {
+      "citation": "Ala. Code § 16-13B-2.1 (2025) — Child Nutrition Program emergency exception",
+      "claimedTierOrUrl": "Tier 1 (codified statute); https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-2.1",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Section appears in the ALISON Chapter 13B section list rendered during the §§ 16-13B-1 and 16-13B-7 fetches in this pass (confirmed in TOC sidebar). Independent section-text re-render not completed (Firecrawl token expired before this fetch). Non-load-bearing for the five fields."
+    },
+    {
+      "citation": "Ala. Code § 16-13B-3 (2025) — Emergency Action",
+      "claimedTierOrUrl": "Tier 1 (codified statute); https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-3",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Section appears in the ALISON Chapter 13B section list (visible in TOC sidebar during -1 and -7 fetches in this pass). Independent section-text re-render not completed (Firecrawl unavailable). Non-load-bearing."
+    },
+    {
+      "citation": "Ala. Code § 41-16-50 (2025) — General state/local bid law; $30,000 threshold",
+      "claimedTierOrUrl": "Tier 1 (cross-reference); https://alison.legislature.state.al.us/code-of-alabama?section=41-16-50",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Section not independently re-rendered this pass (Firecrawl token expired). Used only as cross-reference to establish that Title 41 Art. 3 does NOT bind city/county BOEs after Act 2009-760. Non-load-bearing."
+    },
+    {
+      "citation": "Ala. Code § 41-16-57 (2025) — Municipal/County 3-year cap on services",
+      "claimedTierOrUrl": "Tier 1 (cross-reference); https://alison.legislature.state.al.us/code-of-alabama?section=41-16-57",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Section not independently re-rendered on ALISON (Firecrawl unavailable). A fresh 2026-06-24 WebSearch returned the verbatim quote 'Contracts for the purchase of personal property or contractual services shall be let for periods not greater than three years' from the 2025 Code of Alabama Title 41 § 41-16-57 (parallel Justia republication, consistent across 2016, 2018, 2022, 2025 versions). Deliverable's interpretive boundary (3-year cap binds municipalities/counties, NOT city/county BOEs after Act 2009-760) properly stated. Non-load-bearing."
+    },
+    {
+      "citation": "Ala. Code § 16-27-6 (2025) — Seat Belts; board-contractor contract clause",
+      "claimedTierOrUrl": "Tier 1 (TOC + cross-reference); https://alison.legislature.state.al.us/code-of-alabama?section=16-27-6",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "ALISON section text not independently re-rendered (Firecrawl unavailable). A fresh 2026-06-24 WebSearch returned the verbatim Justia text confirming 'Every contract between a board of education and a school bus contract operator shall contain a clause requiring the driver of a school bus to wear a properly fastened seat belt' — corroborates the Notes & Special Provisions claim that Chapter 27 references board-contractor contracts only for the seat-belt clause. Non-load-bearing."
+    },
+    {
+      "citation": "Ala. Code Title 16 Ch. 27 (Transportation of Pupils) — TOC review",
+      "claimedTierOrUrl": "Tier 1 (TOC); https://alison.legislature.state.al.us/code-of-alabama?section=16-27-1",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Chapter heading 'Chapter 27 Transportation of Pupils. (§16-27-1 to §16-27-9)' confirmed verbatim in the ALISON Title-16 TOC sidebar rendered during the §§ 16-13B-1 and 16-13B-7 fetches in this pass. Section-by-section re-render not performed. Non-load-bearing."
+    },
+    {
+      "citation": "Ala. Code Title 16 Ch. 27A (Alabama School Bus Safety Act) — TOC review",
+      "claimedTierOrUrl": "Tier 1 (TOC); https://alison.legislature.state.al.us/code-of-alabama?section=16-27A-1",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "Chapter heading 'Chapter 27A Alabama School Bus Safety Act. (§16-27A-1 to §16-27A-12)' confirmed verbatim in the ALISON Title-16 TOC sidebar rendered during the §§ 16-13B-1 and 16-13B-7 fetches in this pass. Non-load-bearing."
+    },
+    {
+      "citation": "Ala. Admin. Code ch. 290-2-4 — Transportation regulations",
+      "claimedTierOrUrl": "Tier 2 (state admin code); https://admincode.legislature.state.al.us/api/chapter/290-2-4",
+      "isLoadBearing": false,
+      "liveVerdict": "partially verified",
+      "sourceSaysVsClaim": "URL resolves HTTP 200 (Content-Type application/pdf, 28,857 bytes) on 2026-06-24 curl HEAD. PDF text extraction not performed in this pass (WebFetch cannot parse PDF binaries; Firecrawl PDF-parser unavailable). Chapter's existence and authority basis is corroborated by the State Board's 2021 republished rules PDF (alabamaachieves.org). Non-load-bearing."
+    },
+    {
+      "citation": "Department of Examiners of Public Accounts, County/Local Competitive Bid and Public Works Law Manual (2025)",
+      "claimedTierOrUrl": "Tier 4 (state agency manual); https://alison.legislature.state.al.us/files/pdf/eopa/publications/county-local-bid.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "URL resolves HTTP 200 on 2026-06-24 curl HEAD (1,236,548 bytes; Last-Modified Feb 26, 2025; Content-Type application/pdf). 2025 edition currency independently confirmed. Verbatim quotes not re-extracted (PDF binary; Firecrawl PDF-parser unavailable). The load-bearing claim this manual corroborates (§ 16-13B-7(f) 5-year cap) was verified directly on the codified statute via ALISON."
+    },
+    {
+      "citation": "ALSDE 'Alabama Bid Laws' Summary (2018/2021 reprint)",
+      "claimedTierOrUrl": "Tier 4 (ALSDE); https://www.alabamaachieves.org/wp-content/uploads/2021/07/Alabama-Bid-Laws-Summary.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "URL resolves HTTP 200 on 2026-06-24 curl HEAD (132,724 bytes; Last-Modified Jan 22, 2026; Content-Type application/pdf). Deliverable correctly notes it predates Act 2023-203 ($15,000 → $40,000); used as corroborator only for the 5-year cap finding."
+    },
+    {
+      "citation": "Dagley, Education Law for the Alabama Superintendent (2024 revision)",
+      "claimedTierOrUrl": "Tier 4 (ALSDE-commissioned); https://uasa.ua.edu/wp-content/uploads/sites/11/2025/02/sa_law_manual_2024_.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "URL resolves HTTP 200 on 2026-06-24 curl HEAD (1,646,811 bytes; Content-Type application/pdf). 253-page manual reachable; verbatim quote re-extraction not performed (PDF binary). Corroborator only."
+    },
+    {
+      "citation": "AASBO 'Understanding the Bid Law' (3/2/2019)",
+      "claimedTierOrUrl": "Tier 5 (school-boards assn); https://www.alabamaschoolboards.org/images/newsletters/pdf/understanding-the-bid-law.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "URL resolves HTTP/2 200 on 2026-06-24 curl HEAD. Predates Act 2023-203; 5/10-year cap claims still accurate; corroborator only."
+    },
+    {
+      "citation": "ASBA '2025 Regular Legislative Session Enactments' (5/28/2025)",
+      "claimedTierOrUrl": "Tier 5 (school-boards session recap); https://www.alabamaschoolboards.org/_assets/documents/Advocate%20for%20Schools/Advocate%20for%20Schools%205.28.25%20Enactments.pdf",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "URL resolves HTTP/2 200 on 2026-06-24 curl HEAD. Currentness check; the claim that no 2025 enactment touches Chapter 13B was independently corroborated by fresh disconfirming WebSearch over the 2025/2026 sessions."
+    },
+    {
+      "citation": "Alabama Daily News, '2026 Education Bills Recap'",
+      "claimedTierOrUrl": "Tier 5 (news / legislative currency); https://aldailynews.com/what-passed-education-bills-from-alabamas-2026-legislative-session/",
+      "isLoadBearing": false,
+      "liveVerdict": "verified",
+      "sourceSaysVsClaim": "URL resolves HTTP 200 on 2026-06-24 WebFetch (HTML). Live fetch confirms the 2026 enacted-education-bill list — none touch Chapter 13B / competitive bidding / school transportation procurement. (Recap does NOT mention SB115 / Act 2026-56 because that bill is in the general Title 41 procurement framework, not the education-bill set.)"
+    }
+  ],
+  "fieldVerdicts": {
+    "maxContractTerm": "holds",
+    "rebidRequired": "holds",
+    "renewalMechanics": "holds",
+    "statutoryCitation": "holds",
+    "districtVariance": "holds",
+    "specialEducation": "holds"
+  },
+  "internalConsistency": {
+    "result": "minor inconsistency",
+    "mismatches": [
+      "scratch/alabama.json tableRow.statutoryCitation omits the official URL ('Official URL: https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-7') that the research-findings.md cell appends. Not a contradiction; a JSON-versus-prose terseness gap.",
+      "scratch/alabama.json tableRow.renewalMechanics is a two-sentence summary; research-findings.md adds a third sentence about within-the-5-year-cap price-adjustment / option-year / multi-year terms being permissible if in the original bid specifications. Same legal position, different specificity.",
+      "verification-notes.md ## Alabama paragraph 1 (line 7) describes load-bearing re-verification 'via the official Justia 2025 Code text via firecrawl scrape,' while the Post-Synthesis Citation-Grounding Correction Pass note (line 152 onward) records that the correction pass re-pointed every citation URL to official ALISON and re-opened the official source for Alabama. The two are consistent only when read in sequence; a reader skimming the Alabama paragraph could mistake the final verification as Justia-based.",
+      "verification-notes.md ## Alabama 'CURRENT-LAW CHECK' (line 16) reports no 2025 or 2026 enactment amends § 16-13B-1, -2, or -7 — which is correct — but does not flag Alabama 2026 SB115 (Act 2026-56) adding new § 41-16-52.1 (vehicle-repair-under-$15,000 exemption for Title 41 awarding authorities). SB115 does NOT amend Title 16 Chapter 13B and therefore does NOT change any Alabama field answer, but a tighter currentness disclosure would explicitly note the SB115 enactment alongside the existing 'no 16-13B amendment' statement, given that research-findings.md line 56 cross-references Title 41 Ch. 16 Art. 3 as a boundary discussion."
+    ]
+  },
+  "issues": [
+    {
+      "id": "AL-C1-01",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "Supporting PDF citations (EPA 2025 Manual; ALSDE Bid Laws Summary; Dagley 2024 Superintendent Manual; AASBO 2019; ASBA 2025 Enactments)",
+      "evidence": "Each PDF URL re-confirmed HTTP 200 on 2026-06-24 curl HEAD: EPA 2025 Manual 1,236,548 bytes Last-Modified Feb 26, 2025; ALSDE Bid Laws Summary 132,724 bytes Last-Modified Jan 22, 2026; UA Dagley 2024 1,646,811 bytes; AASBO HTTP/2 200; ASBA 2025 HTTP/2 200. WebFetch cannot extract text from PDF binaries, and Firecrawl PDF-parsing was unavailable in this pass (MCP server reported 'requires re-authorization (token expired)' mid-audit). The verbatim quotes attributed to these sources were not independently re-extracted in this pass. None of these are load-bearing — the statutes carry the load-bearing weight and §§ 16-13B-1 and 16-13B-7 verified verbatim on the official ALISON portal.",
+      "recommendedRemediation": "On a later audit pass when Firecrawl is available, run firecrawl_scrape with parsers=['pdf'] against each PDF URL to independently re-confirm the verbatim quotes attributed to them. No deliverable text change is required."
+    },
+    {
+      "id": "AL-C1-02",
+      "dimension": "C1",
+      "severity": "P3",
+      "field": "Supporting statutory cross-reference URLs (§§ 16-13B-2.1, 16-13B-3, 16-27-6, 16-27-1, 16-27A-1, 41-16-50, 41-16-57)",
+      "evidence": "These ALISON section URLs were not independently re-rendered after Firecrawl became unavailable. The load-bearing §§ 16-13B-1 and 16-13B-7 URLs WERE re-rendered verbatim on the official ALISON portal. § 16-13B-2's (a)(9), (a)(13), (a)(15) language was corroborated via parallel republications. § 41-16-57's 3-year cap text was independently corroborated via a fresh WebSearch quotation. § 16-27-6 was independently corroborated via WebSearch. Chapter 27 and 27A TOC headings were visible in the ALISON Title-16 TOC sidebar rendered during the §§ 16-13B-1 and 16-13B-7 fetches.",
+      "recommendedRemediation": "On a future audit pass, re-open each remaining ALISON section URL via firecrawl_scrape to round out citation-by-citation verification. Current verdicts on these sections are 'partially verified' (reachable; section text not re-rendered in this pass), not 'unreachable.'"
+    },
+    {
+      "id": "AL-C2-01",
+      "dimension": "C2",
+      "severity": "P3",
+      "field": "Currentness / session-law check (verification-notes.md line 16)",
+      "evidence": "Alabama SB115 (2026 Regular Session, signed by Gov. Ivey, enacted as Act 2026-56) adds new Ala. Code § 41-16-52.1 — a vehicle-repair-under-$15,000 exemption from competitive bidding for Title 41 awarding authorities. The Alabama Daily News 2026 education-bills recap relied on by the deliverable does not mention SB115 because the bill is a general Title 41 procurement enactment, not an education bill. SB115 does NOT amend Title 16 Chapter 13B; per the deliverable's own documented applicability boundary (Notes & Special Provisions, research-findings.md line 56: 'Act 2009-760 expressly removed [city/county BOEs] from Title 41 and placed [them] under Title 16, Chapter 13B'), SB115 does NOT bind Alabama city/county boards of education and does NOT change any Alabama field answer. The deliverable's substantive 'no 2025/2026 amendment alters § 16-13B-1, -2, -7' statement remains correct.",
+      "recommendedRemediation": "On a future revision, extend the Alabama CURRENT-LAW CHECK disclosure in verification-notes.md to expressly note that Alabama 2026 SB115 / Act 2026-56 added Ala. Code § 41-16-52.1 but does NOT amend Title 16 Chapter 13B and therefore does NOT change Alabama's five-field findings. Strictly a documentation completeness gap, not a substantive defect."
+    },
+    {
+      "id": "AL-C4-01",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "scratch/alabama.json tableRow.statutoryCitation vs. research-findings.md table cell",
+      "evidence": "JSON: 'Ala. Code § 16-13B-7(f) (2025); Ala. Code § 16-13B-1(a)(1) (2025); Ala. Code § 16-13B-2 (2025).' Findings cell appends 'Official URL: https://alison.legislature.state.al.us/code-of-alabama?section=16-13B-7' and parenthetical section-role descriptors.",
+      "recommendedRemediation": "If a future revision normalizes JSON-vs-prose parity, append the official URL and section-role descriptors to the JSON. Strictly P3 hygiene; no contradiction."
+    },
+    {
+      "id": "AL-C4-02",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "scratch/alabama.json tableRow.renewalMechanics vs. research-findings.md table cell",
+      "evidence": "JSON renewalMechanics ends at 'limited to sanitation/solid waste'; findings cell adds 'Within the 5-year cap, original competitively-bid contracts may contain price-adjustment, option-year, or multi-year terms provided the total term does not exceed 5 years and the option terms were in the original bid specifications.'",
+      "recommendedRemediation": "If JSON-prose parity is a goal, extend the JSON cell to mirror the findings cell. No legal contradiction."
+    },
+    {
+      "id": "AL-C4-03",
+      "dimension": "C4",
+      "severity": "P3",
+      "field": "verification-notes.md ## Alabama paragraph 1 (re-verification claim) vs. Post-Synthesis Citation-Grounding Correction Pass note",
+      "evidence": "Paragraph 1 (line 7) says load-bearing citations were re-opened 'via the official Justia 2025 Code text via firecrawl scrape.' The cross-state correction-pass note (line 152 onward) records that, after synthesis, the correction pass re-pointed every URL from Justia/FindLaw/Public.Law to official ALISON sources and re-opened the official source for Alabama (and four other states). A skim reader could mistakenly conclude that Alabama's final verification rested on Justia rather than the official ALISON portal.",
+      "recommendedRemediation": "On a future revision, normalize the Alabama paragraph-1 phrasing to reference the ALISON re-verification (or to explicitly note both stages — the original Justia-pathfinder read plus the official-source correction pass) so the reader does not need the cross-state note to reconcile."
+    }
+  ],
+  "overallStateVerdict": "Clean",
+  "loadBearingFindingsReVerified": true,
+  "loadBearingNotReVerifiedList": []
+}
