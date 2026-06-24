@@ -1,0 +1,289 @@
+{
+  "state": "Oklahoma",
+  "finalConfidence": "Medium",
+  "laneStatus": "closed",
+  "fields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found for a numeric cap. However, Oklahoma law effectively limits school-district transportation-services contracts to a one-year primary fiscal-year obligation, with multi-year structures permitted only when each subsequent year requires affirmative mutual ratification of renewal. The primary school-transportation statute, 70 O.S. § 9-103, authorizes a board of education to 'purchase and maintain suitable vehicles . . . and/or . . . contract with responsible individuals or another school district to furnish all or part of said transportation,' but is silent on contract term or duration. The Oklahoma Constitution, art. X, § 26(a), prohibits a school district from becoming 'indebted, in any manner, or for any purpose, to an amount exceeding, in any year, the income and revenue provided for such year' without voter approval; the Oklahoma Attorney General, in 2005 OK AG 14 (Opinion No. 05-14), held that this constitutional limit means 'the Legislature has not authorized school districts to enter into multi-year contracts containing non-appropriation clauses' and that 'a school district contract extending beyond the fiscal year cannot be automatically renewed pursuant to the operation of a non-appropriation clause. A school district contract must contain a provision for mutual ratification of renewal.' Accordingly: there is no fixed numeric cap, but every multi-year award is functionally structured as a one-year primary term with mutual-ratification renewal each subsequent fiscal year.",
+      "citation": "70 O.S. § 9-103 (Purchase or Contract for Use of Vehicles — silent on term); Okla. Const. art. X, § 26(a) (school-district fiscal-year debt limitation); 2005 OK AG 14 (Opinion No. 05-14) (mutual ratification of renewal required for school-district multi-year contracts; non-appropriation clauses not authorized for school districts).",
+      "sourceTier": "1 (codified statute) + constitutional + 3 (Attorney General opinion)",
+      "officialUrl": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=90097"
+    },
+    "rebidRequired": {
+      "value": "Not required as a matter of state law for student-transportation services contracts. The Oklahoma Public Competitive Bidding Act of 1974, 61 O.S. §§ 101-138, reaches only 'public construction contracts' — defined as contracts 'exceeding One Hundred Thousand Dollars ($100,000.00) in amount . . . awarded by any public agency for the purpose of making any public improvements or constructing any public building or making repairs to or performing maintenance on the same' (61 O.S. § 102(6)). 'Public improvement' expressly 'does not include the direct purchase of materials, equipment or supplies by a public agency, or any personal property' (61 O.S. § 102(7)). Student-transportation services do not fall within these categories, so the Act does not require competitive bidding or a rebid at term-end of a school-district transportation services contract. The Oklahoma Central Purchasing Act, 74 O.S. §§ 85.1 et seq., applies to 'state agencies'; school districts are not state agencies for purposes of that Act and are not subject to its competitive-bidding requirements for their own procurements. Title 70, Article IX (70 O.S. §§ 9-101 to 9-119) contains no competitive-bidding requirement for transportation services. Because school-district multi-year contracts must contain a mutual-ratification renewal provision (per 2005 OK AG 14), the district and contractor must affirmatively re-approve continuation each fiscal year — but that is a continuation/renewal mechanic, not a statewide mandate to run a fresh competitive procurement at term-end. Note: Oklahoma law (70 O.S. § 9-104; Department of Public Safety guidance) requires the purchase of school buses to use the State contract or sealed-bid method, but this is a vehicle-purchase requirement, not a services-contract requirement.",
+      "citation": "61 O.S. § 102 (definitions of 'public agency,' 'public construction contract' (>$100,000), and 'public improvement' — excludes personal property/services); 61 O.S. § 103 (Public Competitive Bidding Act applies to construction contracts only); 70 O.S. § 9-103 (no bidding requirement for transportation services); 74 O.S. §§ 85.1-85.2 (Central Purchasing Act applies to state agencies; school districts not covered). No Oklahoma statute requires competitive rebid at term-end of student-transportation services contracts.",
+      "sourceTier": "1 (codified statute)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=438647"
+    },
+    "renewalMechanics": {
+      "value": "Mutual ratification of renewal each fiscal year. The Oklahoma Attorney General in 2005 OK AG 14 (Opinion No. 05-14) held that 'a school district contract must contain a provision for mutual ratification of renewal, allowing the school and supplier to consider if they want to continue the contract for another year or terminate the contract at the end of a fiscal year.' This rule rests on Okla. Const. art. X, § 26(a) (school-district fiscal-year debt limit) and on the AG's reading that — unlike state agencies under 2004 OK AG 18 (Opinion No. 04-18) — 'the Legislature has not authorized school districts to enter into multi-year contracts containing non-appropriation clauses.' Practical mechanics: school-district transportation services contracts are typically structured as a one-year primary term with one or more renewal options requiring affirmative mutual ratification by the board of education and the contractor for each subsequent fiscal year. A separate provision, 62 O.S. § 430.1, codifies the mutual-ratification rule specifically for school-district lease and rental contracts for real and personal property that extend beyond June 30 of the fiscal year; this provision is closely aligned with the AG's broader rule for school-district services contracts but, by its terms, governs property rentals (the AG opinion 2005 OK AG 12 (Garrison) construed § 430.1 in the context of lease-purchase of retrofit metal roofs). Oklahoma's transportation statutes (70 O.S. § 9-103 et seq.) do not prescribe CPI or fuel-escalator mechanics, do not authorize automatic evergreen rollover, and do not require state-board pre-approval of the contract or its renewal (state-board approval is required for transportation-area boundary determinations under 70 O.S. § 9-105, not for the contract).",
+      "citation": "Okla. Const. art. X, § 26(a) (school-district fiscal-year debt limit); 2005 OK AG 14 (Opinion No. 05-14) (mutual ratification of renewal required for school-district multi-year contracts; non-appropriation clauses not authorized); 62 O.S. § 430.1 (school-district rental of real or personal property extending beyond June 30 must contain provisions for mutual ratification of renewal); 2005 OK AG 12 (Garrison; construing § 430.1 for lease-purchase of property); 70 O.S. § 9-103 (silent on renewal mechanics for transportation services contracts).",
+      "sourceTier": "1 (codified statute) + constitutional + 3 (Attorney General opinions)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=438909"
+    },
+    "statutoryCitation": {
+      "value": "Primary school-transportation contracting authority: 70 O.S. § 9-103 (Oklahoma Schools Code, Article IX — Transportation; Purchase or Contract for Use of Vehicles). Text: 'The board of education of any school district authorized to furnish transportation to school children may purchase and maintain suitable vehicles for such use and/or may contract with responsible individuals or another school district to furnish all or part of said transportation. All such contractors, however, shall be subject to statutory provisions relating to the transportation of school children.' Supporting / framework authority: 70 O.S. § 9-101 (transportation provided; school districts 'may provide transportation'); 70 O.S. § 9-104 (transportation equipment construction/safety); 70 O.S. § 5-117 (powers and duties of board of education; general contracting authority); 62 O.S. § 430.1 (school district rental of real or personal property; mutual ratification of renewal beyond June 30); 61 O.S. §§ 101-138 (Public Competitive Bidding Act of 1974 — construction contracts only, not transportation services); 74 O.S. §§ 85.1 et seq. (Central Purchasing Act — state agencies only); Okla. Const. art. X, § 26(a) (school-district fiscal-year debt limit). Interpretive authority: 2005 OK AG 14 (Opinion No. 05-14) (mutual ratification of renewal required for school-district multi-year contracts); 2004 OK AG 18 (Opinion No. 04-18) (state-agency multi-year contract framework; informs the constitutional analysis applied to school districts); 2005 OK AG 12 (Garrison; construes 62 O.S. § 430.1).",
+      "citation": "70 O.S. § 9-103 (primary); 70 O.S. §§ 9-101, 9-104, 9-105; 70 O.S. § 5-117; 62 O.S. § 430.1; 61 O.S. §§ 101-138 (Public Competitive Bidding Act); 74 O.S. §§ 85.1 et seq.; Okla. Const. art. X, § 26(a); 2005 OK AG 14 (Op. No. 05-14); 2004 OK AG 18 (Op. No. 04-18); 2005 OK AG 12 (Garrison).",
+      "sourceTier": "1 (codified statute) + constitutional + 3 (AG opinions)",
+      "officialUrl": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=90097"
+    },
+    "districtVariance": {
+      "value": "Unknown. No official Oklahoma statewide guidance, attorney-general opinion, state-auditor report, or Oklahoma State School Boards Association (OSSBA) publication located in this research expressly addresses whether the same provisions (70 O.S. § 9-103; Okla. Const. art. X, § 26(a); the 2005 OK AG 14 mutual-ratification framework) are interpreted differently across Oklahoma districts in the context of student-transportation services contracts. Because the underlying state law is largely silent on transportation-services contract term and bidding, individual school district policy manuals and procurement procedures determine local practice — and observed district RFPs vary considerably in primary term, renewal-option structure, and bid-threshold approach. No state-level evidence of disuniform interpretation of the cited statutes themselves was located; the observable variance is in district-level policy choices made in the gaps left by silent state law, not in conflicting interpretations of binding state authority.",
+      "citation": "No official source located either confirming uniformity or documenting interpretive variance of 70 O.S. § 9-103 across Oklahoma districts. Searches included OSDE accreditation standards manual, OSSBA School Law Book, Oklahoma State Auditor reports, AG opinions database (OSCN), and OSDE student-transportation FAQs.",
+      "sourceTier": "Negative search result",
+      "officialUrl": "https://oklahoma.gov/education/about/administration/office-of-legal-services/education-law-book.html"
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No — Oklahoma does not set different term limits, rebid requirements, or procurement rules for special-education transportation services contracts.",
+    "explanation": "OAC 210:30-5-3(d) provides that 'the local school district is responsible for providing transportation for those students with disabilities identified under the Individuals with Disabilities Education Act (IDEA) for whom transportation has been identified as a related service necessary to enable the students to receive the educational services outlined in their Individualized Education Programs (IEPs).' This is a duty-to-transport rule derived from federal IDEA; it does not modify the procurement or contracting framework for transportation contracts with private vendors. No separate Oklahoma statute or administrative-code provision establishing different contract term limits, rebid requirements, or renewal mechanics for special-education, IEP-mandated, McKinney-Vento, foster-care, alternative, or disability-related student transportation was located. The same 70 O.S. § 9-103 contracting authority, Okla. Const. art. X, § 26(a) one-year fiscal-year limit, 2005 OK AG 14 mutual-ratification renewal rule, and 61 O.S. Public Competitive Bidding Act non-applicability appear to apply equally to regular-route and special-needs transportation services. Federal IDEA imposes the duty to transport but does not change Oklahoma's state contract or procurement rules.",
+    "citation": "OAC 210:30-5-3(d) (transportation as IDEA related service); 70 O.S. § 9-103 (general transportation contracting authority); no separate Oklahoma special-education transportation procurement statute located."
+  },
+  "verdicts": {
+    "maxContractTerm": {
+      "verdict": "confirmed",
+      "note": "Stage 1 correctly identified that 70 O.S. § 9-103 contains no numeric cap. Re-verification confirms the statute text and confirms that 2005 OK AG 14 (Opinion No. 05-14, OSCN CiteID=442359) and Okla. Const. art. X, § 26(a) together impose a functional one-year fiscal-year limit with mutual-ratification renewal. Refinement: Stage 1 cited Okla. Const. art. X, § 23, but the school-district debt limit is in art. X, § 26(a) (Section 23 applies to the State; Section 26 applies to political subdivisions including school districts). The 2004 OK AG 18 opinion (state-agency PC contract) discusses this distinction explicitly. Substance of the rule is unchanged."
+    },
+    "rebidRequired": {
+      "verdict": "confirmed",
+      "note": "Stage 1 correctly identified that the Public Competitive Bidding Act of 1974 does not apply to transportation services contracts and that no statewide rebid mandate exists. Re-verification of 61 O.S. § 102 confirmed: (i) 'public construction contract' threshold is now $100,000 (not $25,000 as Stage 1 implied in some places — Stage 1 did not state the threshold but cited the Act broadly), and (ii) 'public improvement' expressly excludes personal property and supplies. The Act reaches school districts only as 'public agencies' for construction contracts, not for transportation services."
+    },
+    "renewalMechanics": {
+      "verdict": "confirmed",
+      "note": "Stage 1's core claim — mutual ratification of renewal required — is confirmed by 2005 OK AG 14 (Opinion No. 05-14), which directly addresses school-district contracts (verified via the official OMES Procurement-Related Attorney General Opinions reference guide at oklahoma.gov/omes). Refinement: Stage 1 cited 62 O.S. § 430.1 as the operative codified rule, but § 430.1 by its terms governs only school-district lease/rental of real or personal property — not services contracts. The actual operative rule for transportation services contracts is the AG-articulated rule under Okla. Const. art. X, § 26(a) (school-district debt limit), of which § 430.1 is one statutory expression (for property rentals). Substance of the rule is unchanged."
+    },
+    "statutoryCitation": {
+      "verdict": "confirmed",
+      "note": "Primary statutory citation (70 O.S. § 9-103) re-verified on OSCN. AG opinion citations 2005 OK AG 14 and 2004 OK AG 18 re-verified as real, officially published opinions accessible through OSCN and the OMES procurement reference guide. Refinement: Stage 1 referenced Okla. Const. art. X, § 23 (state debt) where § 26(a) (political-subdivision debt) is the more accurate companion for school districts; both have been included in the reconciled citation set."
+    },
+    "districtVariance": {
+      "verdict": "unresolved",
+      "note": "Stage 1 left this Unknown and the adversarial pass located no additional official statewide guidance documenting either uniform or disuniform interpretation across Oklahoma districts. Observed practice variance exists at the district-policy level (different RFPs by Tulsa, OKC, Union, etc. show different primary term lengths and renewal-option counts), but this is variance in district policy choices filling statutory gaps — not in interpretation of binding state authority. The negative-search path is documented."
+    },
+    "specialEducation": {
+      "verdict": "confirmed",
+      "note": "OAC 210:30-5-3(d) re-verified via Cornell LII and OK rules portal. The duty-to-transport rule derives from federal IDEA and does not alter the state contracting/procurement framework. No separate Oklahoma special-education transportation procurement statute located."
+    }
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term — Stage 1 said 'No statutory maximum found' and described a one-year-with-renewal structure as effectively required.",
+      "disconfirmingHypothesis": "Some Oklahoma statute or AG opinion sets a numeric maximum (e.g., 3, 5, 10 years), authorizes multi-year transportation contracts notwithstanding the constitutional fiscal-year limit, or permits an evergreen rollover for school-district services contracts.",
+      "challengeSearches": "Searched Title 70 Article IX (transportation §§ 9-101 to 9-119) for 'term,' 'years,' 'not exceed,' 'multi-year,' 'extension,' 'option,' 'notwithstanding'; searched OSCN AG opinions database for 'school district transportation contract' and 'multi-year contract school'; searched OMES Procurement-Related Attorney General Opinions reference guide.",
+      "result": "No numeric cap found. The OMES guide (citing 2005 OK AG 14 / Opinion No. 05-14) confirms that the Legislature has NOT authorized school districts to use non-appropriation clauses for automatic continuation; instead, mutual ratification of renewal is required. No evergreen rollover authority located.",
+      "confidenceImpact": "Confirmed Stage 1. Confidence held."
+    },
+    {
+      "findingChallenged": "Rebid Required — Stage 1 said 'Not required' for transportation services because the Public Competitive Bidding Act of 1974 reaches only construction.",
+      "disconfirmingHypothesis": "Title 70, OAC 210:30 (Transportation), or another statute imposes a competitive-bidding / RFP / rebid-at-term-end requirement on school-district transportation services contracts.",
+      "challengeSearches": "Searched 61 O.S. § 102 definitions (verified text: 'public construction contract' >$100,000 for improvements/buildings/repairs; 'public improvement' excludes personal property/services); searched 70 O.S. Art. IX; searched OAC 210:30-5 (rules focus on safety, equipment, driver certification); searched OSDE Student Transportation FAQs and Standards for Accreditation manual.",
+      "result": "No statewide rebid mandate located for transportation services. The Public Competitive Bidding Act applies to public construction contracts only; transportation services fall outside its scope. School-bus vehicle purchases must use the State contract or sealed-bid method (per 70 O.S. § 9-104 and DPS guidance), but that is a vehicle-purchase rule, not a services-contract rule.",
+      "confidenceImpact": "Confirmed Stage 1. Confidence held."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics — Stage 1 said 'mutual ratification of renewal' is required annually for school-district transportation services contracts.",
+      "disconfirmingHypothesis": "62 O.S. § 430.1's mutual-ratification rule is limited to property rentals and does not extend to transportation services contracts; school districts may use non-appropriation clauses; or CPI/fuel-escalator authority exists elsewhere.",
+      "challengeSearches": "Re-verified 62 O.S. § 430.1 text (covers 'real or personal property' rentals; mutual ratification for rentals beyond June 30); located 2005 OK AG 14 (Opinion No. 05-14) via OMES Procurement-Related AG Opinions reference guide; confirmed AG ruling extends the mutual-ratification requirement to school-district contracts generally (not just rentals).",
+      "result": "Stage 1's core conclusion holds, but the operative authority is 2005 OK AG 14 + Okla. Const. art. X, § 26(a), not § 430.1 standing alone. § 430.1 itself governs property rentals; the AG opinion articulates the broader rule for school-district services contracts derived from the constitutional debt limit. No CPI/fuel-escalator authority located in Title 70.",
+      "confidenceImpact": "Confirmed Stage 1 substance; refined the citation chain. Confidence held."
+    },
+    {
+      "findingChallenged": "Special-Education Differentiation — Stage 1 said 'No' (same rules apply).",
+      "disconfirmingHypothesis": "A separate Oklahoma statute, OAC provision, or AG opinion sets different contract term, renewal, or procurement rules for IEP / McKinney-Vento / special-education transportation.",
+      "challengeSearches": "Re-verified OAC 210:30-5-3(d) (IDEA duty-to-transport — does not modify contracting rules); searched Oklahoma Special Education Policies & Procedures; searched OSDE McKinney-Vento guidance; searched OAC 210:30 and 210:15 for separate special-ed procurement rules.",
+      "result": "No separate state-law procurement rule for special-education transportation contracts located. The OAC 210:30-5-3(d) rule is a duty-to-transport rule derived from federal IDEA; it does not modify the state contracting/procurement framework.",
+      "confidenceImpact": "Confirmed Stage 1. Confidence held."
+    },
+    {
+      "findingChallenged": "District Variance — Stage 1 said 'Unknown' and noted observed RFP variance is policy choice, not statutory-interpretation variance.",
+      "disconfirmingHypothesis": "OSSBA, OSDE, state auditor, or AG opinion has officially documented disuniform interpretation of 70 O.S. § 9-103 / Okla. Const. art. X, § 26(a) / 2005 OK AG 14 across Oklahoma districts.",
+      "challengeSearches": "Searched OSSBA School Law Book index, OSDE Education Law Book, Oklahoma State Auditor school-district audit reports, OSCN AG opinions database, OSDE Standards for Accreditation manual, OSDE Student Transportation FAQs.",
+      "result": "No official source either confirming uniformity or documenting interpretive variance located. Practice variance exists at the district level (different RFPs by Tulsa, OKC, Union show different primary terms and renewal counts) but this is gap-filling, not statutory-interpretation variance.",
+      "confidenceImpact": "Left unresolved (per the verdict ladder, no sourced credible counterweight was located that would itself survive as official/authoritative; defaults to unresolved given the explicit negative search result, not confirmed)."
+    },
+    {
+      "findingChallenged": "Currentness of cited statutes — Stage 1 said OSCN is current through 2025 session; HB1244 (2025) addresses seatbelts only.",
+      "disconfirmingHypothesis": "A 2025 or 2026 Oklahoma session law amended 70 O.S. § 9-103, 62 O.S. § 430.1, or the Public Competitive Bidding Act in a way that affects transportation services contracts.",
+      "challengeSearches": "Searched LegiScan and Oklahoma Legislature site for 'school bus,' 'pupil transportation,' 'student transportation,' 'transportation contract' in 2025-26 session; re-verified historical-data block on OSCN for §§ 9-103, 430.1, and 61 O.S. § 102.",
+      "result": "70 O.S. § 9-103: last amended 1973 (Laws 1973, SB 217, c. 112, § 4) — no recent amendments. 62 O.S. § 430.1: last amended 2005 (Laws 2005, SB 668, c. 472, § 3). 61 O.S. § 102: last amended 2022 (Laws 2022, HB 4080, c. 238, § 13). HB1244 (2025) addresses seatbelts and does not modify the contracting framework.",
+      "confidenceImpact": "Confirmed Stage 1's currentness assessment."
+    },
+    {
+      "findingChallenged": "AG opinion citation accuracy — Stage 1 cited '2004 OK AG 18' and '2005 OK AG 14.'",
+      "disconfirmingHypothesis": "These AG opinion citations are hallucinated or misnumbered; the actual opinions are not officially published.",
+      "challengeSearches": "Re-verified 2004 OK AG 18 directly on OSCN (CiteID=439782) — opinion exists, decided 06/21/2004, by Att'y Gen. Edmondson on State Purchasing Director authority for mandatory single-vendor PC contracts (state agencies, with companion-section analysis of school-district debt limit under art. X § 26). Re-verified 2005 OK AG 14 (Opinion No. 05-14) via OMES Procurement-Related Attorney General Opinions reference guide at oklahoma.gov, which directly summarizes the opinion (OSCN CiteID=442359). Also verified 2005 OK AG 12 (Garrison — construes 62 O.S. § 430.1 for retrofit metal roofs).",
+      "result": "Both AG opinion citations cited by Stage 1 are real, officially published opinions. Stage 1's substantive reading of them is essentially correct — though the cleaner version is that 2005 OK AG 14 is the direct school-district authority and 2004 OK AG 18 is the state-agency analog whose constitutional analysis the AG applied to school districts.",
+      "confidenceImpact": "Confirmed Stage 1's AG opinion citations exist and say what Stage 1 said."
+    }
+  ],
+  "sourcesReverified": [
+    {
+      "citation": "70 O.S. § 9-103 (Purchase or Contract for Use of Vehicles)",
+      "officialUrl": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=90097",
+      "status": "re-verified",
+      "note": "Text verified verbatim on OSCN; last amended 1973. Statute is silent on contract term, renewal mechanics, or competitive bidding for transportation services."
+    },
+    {
+      "citation": "62 O.S. § 430.1 (Counties, Cities, Towns, and School Districts Authorized to Rent Equipment)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=438909",
+      "status": "re-verified",
+      "note": "Text verified verbatim on OSCN; last amended 2005. Confirms mutual-ratification rule for school-district rental contracts (real or personal property) extending beyond June 30. By its terms governs property rentals, not services contracts."
+    },
+    {
+      "citation": "61 O.S. § 102 (Public Competitive Bidding Act of 1974 — Definitions)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=438647",
+      "status": "re-verified",
+      "note": "Text verified verbatim on OSCN; last amended 2022. 'Public construction contract' threshold is $100,000; 'public improvement' expressly excludes personal property/supplies. Confirms Act reaches only construction contracts, not transportation services."
+    },
+    {
+      "citation": "2005 OK AG 12 (Garrison — construes 62 O.S. § 430.1)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=442033",
+      "status": "re-verified",
+      "note": "Text verified verbatim on OSCN; decided 03/31/2005. Confirms § 430.1 governs lease-purchase of real or personal property (specifically retrofit metal roofs in this opinion)."
+    },
+    {
+      "citation": "2004 OK AG 18 (State Purchasing Director — multi-year contracts; Article X §§ 23 and 26 framework)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=439782",
+      "status": "re-verified",
+      "note": "Text verified verbatim on OSCN; decided 06/21/2004 (Edmondson). Primary subject is state-agency PC contracts under the Central Purchasing Act, but expressly applies the constitutional debt-limit reasoning of art. X § 26 (political subdivisions / school districts) alongside § 23. Held that state agencies can use non-appropriation clauses; the school-district analog is in 2005 OK AG 14."
+    },
+    {
+      "citation": "2005 OK AG 14 (Opinion No. 05-14) — school district multi-year contracts; mutual ratification of renewal required",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=442359",
+      "status": "re-verified",
+      "note": "OSCN deep link cited in OMES Procurement-Related Attorney General Opinions reference guide at https://oklahoma.gov/omes/services/purchasing/reference-guide/attorney-general-opinions.html. OMES guide quotes the key holding verbatim: 'The Legislature has authorized state agencies to enter into a multi-year lease-purchase contract so long as the contract contains a valid non-appropriation clause. However, the Legislature has not authorized school districts to enter into multi-year contracts containing non-appropriation clauses. A school district contract extending beyond the fiscal year cannot be automatically renewed pursuant to the operation of a non-appropriation clause. A school district contract must contain a provision for mutual ratification of renewal.' OSCN direct fetch of the opinion text was blocked by Cloudflare challenge during this session; the OMES official summary serves as the authoritative re-verification source."
+    },
+    {
+      "citation": "OAC 210:30-5-3 (Transportation of students)",
+      "officialUrl": "https://www.law.cornell.edu/regulations/oklahoma/OAC-210-30-5-3",
+      "status": "re-verified",
+      "note": "Re-verified via Cornell LII mirror of Oklahoma Administrative Code; subsection (d) confirms IDEA duty-to-transport rule. Does not modify the state contracting/procurement framework."
+    },
+    {
+      "citation": "HB1244 (2025 Regular Session) — seat belts on new school buses",
+      "officialUrl": "https://www3.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1244%20INT.PDF",
+      "status": "re-verified",
+      "note": "Bill text re-verified on Oklahoma Legislature site; addresses passenger-bus seat-belt requirements only. Does not affect contract term, rebid, renewal, or bidding rules for transportation services contracts."
+    }
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 (codified statute)",
+      "citation": "70 O.S. § 9-103 — Purchase or Contract for Use of Vehicles",
+      "officialUrl": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=90097",
+      "codeCurrency": "OSCN, current through 2025 legislative session",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Renewal Mechanics; Statutory Citation; Special Education",
+      "relevantText": "'The board of education of any school district authorized to furnish transportation to school children may purchase and maintain suitable vehicles for such use and/or may contract with responsible individuals or another school district to furnish all or part of said transportation. All such contractors, however, shall be subject to statutory provisions relating to the transportation of school children.' Statute is silent on contract term, renewal, and bidding.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified statute)",
+      "citation": "62 O.S. § 430.1 — Counties, Cities, Towns, and School Districts Authorized to Rent Equipment",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=438909",
+      "codeCurrency": "OSCN, last amended 2005",
+      "fieldsSupported": "Renewal Mechanics; Statutory Citation",
+      "relevantText": "'Any such rental contract extending beyond June 30 of the fiscal year shall contain provisions for mutual ratification of renewal under the conditions provided in this section.' Governs school-district lease/rental of real or personal property; not services contracts directly.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified statute)",
+      "citation": "61 O.S. § 102 — Public Competitive Bidding Act of 1974, Definitions",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=438647",
+      "codeCurrency": "OSCN, last amended 2022",
+      "fieldsSupported": "Rebid Required; Statutory Citation",
+      "relevantText": "'Public agency' includes school districts. 'Public construction contract' means 'any contract, exceeding One Hundred Thousand Dollars ($100,000.00) in amount . . . awarded by any public agency for the purpose of making any public improvements or constructing any public building or making repairs to or performing maintenance on the same.' 'Public improvement' does not include personal property or supplies. Confirms Act reaches only construction contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "Constitutional",
+      "citation": "Okla. Const. art. X, § 26(a)",
+      "officialUrl": "https://law.justia.com/constitution/oklahoma/X-26.html",
+      "codeCurrency": "Current",
+      "fieldsSupported": "Max Contract Term; Renewal Mechanics",
+      "relevantText": "Prohibits a school district from becoming 'indebted, in any manner, or for any purpose, to an amount exceeding, in any year, the income and revenue provided for such year' without voter approval. Operates as the fiscal-year limit on school-district contractual obligations.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "3 (Attorney General opinion)",
+      "citation": "2005 OK AG 14 (Opinion No. 05-14)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=442359",
+      "codeCurrency": "Decided 2005",
+      "fieldsSupported": "Max Contract Term; Renewal Mechanics; Statutory Citation",
+      "relevantText": "'The Legislature has authorized state agencies to enter into a multi-year lease-purchase contract so long as the contract contains a valid non-appropriation clause. However, the Legislature has not authorized school districts to enter into multi-year contracts containing non-appropriation clauses. A school district contract extending beyond the fiscal year cannot be automatically renewed pursuant to the operation of a non-appropriation clause. A school district contract must contain a provision for mutual ratification of renewal, allowing the school and supplier to consider if they want to continue the contract for another year or terminate the contract at the end of a fiscal year.' (As quoted in the OMES Procurement-Related Attorney General Opinions reference guide.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "3 (Attorney General opinion)",
+      "citation": "2004 OK AG 18 (Opinion No. 04-18)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=439782",
+      "codeCurrency": "Decided 2004",
+      "fieldsSupported": "Statutory Citation; Renewal Mechanics (analog)",
+      "relevantText": "Discusses Oklahoma Constitution art. X §§ 23 and 26 (state debt + school-district / political-subdivision companion). Holds that 'Multi-year contracts in and of themselves are not invalid so long as they do not purport to bind the State to an agreement to appropriate funds for any subsequent fiscal year. An agreement between a vendor and DCS with a primary term of one year which permits an option in favor of renewal from year to year is not inherently prohibited by the Constitution. . . . a contract which is conditioned upon continued funding on a fiscal year basis by the Legislature continuing to appropriate funds to satisfy the obligation does not violate the constitutional debit limitation provision.' The school-district analog rule is articulated in 2005 OK AG 14.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "3 (Attorney General opinion)",
+      "citation": "2005 OK AG 12 (Garrison)",
+      "officialUrl": "https://www.oscn.net/applications/OCISWeb/DeliverDocument.asp?CiteID=442033",
+      "codeCurrency": "Decided 2005",
+      "fieldsSupported": "Statutory Citation; Rebid Required (construes 62 O.S. § 430.1 and 61 O.S. § 102 with respect to school districts)",
+      "relevantText": "Holds that 62 O.S. § 430.1 governs school-district lease-purchase of real or personal property (including retrofit metal roofs); a school district lease-purchase of a retrofit metal roof must use competitive bidding above $25,000 but is not required to follow all the procedures of the Public Competitive Bidding Act. A purchase contract for a retrofit metal roof exceeding the Act's threshold must comply with the Act. Confirms school districts are 'public agencies' under the Act for construction contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 (administrative code)",
+      "citation": "OAC 210:30-5-3 — Transportation of students",
+      "officialUrl": "https://www.law.cornell.edu/regulations/oklahoma/OAC-210-30-5-3",
+      "codeCurrency": "Current",
+      "fieldsSupported": "Special Education",
+      "relevantText": "Subsection (d): 'the local school district is responsible for providing transportation for those students with disabilities identified under the Individuals with Disabilities Education Act (IDEA) for whom transportation has been identified as a related service necessary to enable the students to receive the educational services outlined in their Individualized Education Programs (IEPs).' Duty-to-transport rule only; does not modify the contracting framework.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 (official agency guidance)",
+      "citation": "OMES Procurement-Related Attorney General Opinions reference guide",
+      "officialUrl": "https://oklahoma.gov/omes/services/purchasing/reference-guide/attorney-general-opinions.html",
+      "codeCurrency": "Current",
+      "fieldsSupported": "Max Contract Term; Renewal Mechanics (confirms 2005 OK AG 14 holding)",
+      "relevantText": "Official Oklahoma Office of Management and Enterprise Services guide that summarizes Opinion No. 05-14 (2005 OK AG 14) and Opinion No. 04-18 (2004 OK AG 18) verbatim. Provides the authoritative bridge confirming school-district mutual-ratification rule.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (session law / bill text)",
+      "citation": "Oklahoma HB1244 (2025) — School bus seat-belt requirements",
+      "officialUrl": "https://www3.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1244%20INT.PDF",
+      "codeCurrency": "2025 session",
+      "fieldsSupported": "Currentness check (negative — does not affect contract/renewal/bidding)",
+      "relevantText": "Bill addresses passenger-bus seat-belt requirements for school buses purchased or contracted for use after July 1, 2025. Does not modify contract term, renewal, rebid, or bidding framework for transportation services contracts.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Re-opened every cited official source. Used firecrawl_scrape (with stealth proxy where Cloudflare challenges fired) to access OSCN statute and AG opinion pages directly. Used WebSearch and direct WebFetch of the OMES Procurement-Related Attorney General Opinions reference guide to bridge OSCN access challenges for the 2005 OK AG 14 opinion. Treated Justia, FindLaw, and Cornell LII as pathfinders only; recorded official OSCN URLs and oklahoma.gov URLs as the citation source.",
+    "queriesThatMattered": [
+      "Oklahoma 70 O.S. 9-103 school district transportation contract private contractor",
+      "62 O.S. 430.1 Oklahoma school district lease rental mutual ratification",
+      "2005 OK AG 14 Oklahoma school district multi-year contract mutual ratification",
+      "2004 OK AG 18 Oklahoma Attorney General opinion multi-year contracts",
+      "OMES procurement-related attorney general opinions Oklahoma",
+      "Oklahoma Constitution Article X Section 26 school district debt",
+      "Oklahoma HB1244 2025 school bus seat belt",
+      "OAC 210:30-5-3 Oklahoma transportation students IDEA related service"
+    ],
+    "codeCurrency": "Oklahoma Statutes (OSCN database) current through 2025 legislative session as of accessed date 2026-06-24. Title 70 (Schools), Article IX (Transportation) §§ 9-101 to 9-119 re-verified via OSCN. Title 62 (Public Finance) § 430.1 re-verified via OSCN (last amended 2005). Title 61 (Public Buildings and Public Works) § 102 re-verified via OSCN (last amended 2022).",
+    "adminCodeCurrency": "Oklahoma Administrative Code Title 210 (State Department of Education), Chapter 30 (School Facilities and Transportation), Subchapter 5 (Transportation) verified via Cornell LII mirror and Oklahoma Rules portal.",
+    "sessionLawCheck": "Reviewed Oklahoma 2025-26 legislative session for amendments touching pupil transportation contracts. HB1244 (2025) addresses new-passenger-bus seat-belt requirements only. No other 2025 enactment found that modifies 70 O.S. § 9-103, 62 O.S. § 430.1, or the Public Competitive Bidding Act with respect to student transportation services contracting.",
+    "negativeSearchPaths": [
+      "Searched Title 70 Article IX (Transportation) §§ 9-101 through 9-119 — no statutory maximum contract term, no competitive-bid requirement, and no automatic renewal mechanic found for student transportation services contracts; statute is silent on these questions.",
+      "Searched Title 61 (Public Competitive Bidding Act) §§ 101-138 — definitions limit Act to 'public construction contracts' for improvements/buildings/repairs at >$100,000; transportation services contracts fall outside the Act's scope; no rebid requirement applies.",
+      "Searched Title 74 § 85 (Central Purchasing Act) — confirmed school districts are not state agencies and are not subject to Central Purchasing Act competitive procurement for their own purchases.",
+      "Searched OAC 210:30 (Transportation) — administrative regulations focus on safety, equipment, inspections, and driver certification; no rule on private-contractor contract term, renewal, or bidding.",
+      "Searched OSDE Education Law Book and OSSBA School Law Book — no contradicting authority surfaced.",
+      "Searched Oklahoma State Auditor reports and OSSBA bulletins for district-level interpretation variance — no official statewide guidance documenting either uniform application or interpretive variance of 70 O.S. § 9-103 across districts."
+    ],
+    "conflictChecks": "No conflict between cited authorities. The interpretive bridge from 62 O.S. § 430.1 (property rentals — codified mutual-ratification rule) to school-district services contracts generally is supplied by 2005 OK AG 14 (officially summarized by the Oklahoma Office of Management and Enterprise Services), which extends the constitutional fiscal-year limit and mutual-ratification requirement to school-district contracts broadly. Stage 1's citation of art. X § 23 (state debt) was refined to art. X § 26(a) (political-subdivision debt — the correct school-district companion); 2004 OK AG 18 expressly discusses both sections together."
+  },
+  "unresolvedFields": [
+    "districtVariance — verdict 'unresolved.' No official Oklahoma statewide guidance, AG opinion, auditor report, or OSSBA publication located that expressly addresses whether 70 O.S. § 9-103 / Okla. Const. art. X, § 26(a) / 2005 OK AG 14 mutual-ratification framework is interpreted disuniformly across districts. Observed practice variance exists at the district-policy level (RFP structures, primary term lengths, renewal-option counts) because state statute is largely silent on transportation-services contract specifics, but that is a function of statutory silence rather than disuniform statutory interpretation."
+  ]
+}

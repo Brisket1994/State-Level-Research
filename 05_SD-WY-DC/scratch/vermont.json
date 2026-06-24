@@ -1,0 +1,181 @@
+{
+  "jurisdiction": "Vermont",
+  "finalFields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found. 16 V.S.A. § 559 (the school-district public-bid statute that controls 'a contract for transportation, maintenance, or repair services' when cost exceeds $40,000) sets bidding thresholds and renewal conditions but does not cap the term of the initial award. 16 V.S.A. § 1222 (the pupil-transportation-eligibility statute) and § 563 (school board powers/contracting authority) are likewise silent on a maximum term. As a practical limit, § 559(e)(7) caps cumulative renewal pricing at 30% over the original contract amount, which operates as a functional ceiling on how long a contract may be extended at indexed prices, but it is not an express term-of-years cap.",
+      "citation": "16 V.S.A. § 559 (silent on maximum term); 16 V.S.A. § 1222; 16 V.S.A. § 563. Official URL: https://legislature.vermont.gov/statutes/section/16/009/00559"
+    },
+    "rebidRequired": {
+      "label": "Conditional",
+      "rule": "16 V.S.A. § 559(a) requires the school board (or supervisory union board) to publicly advertise or invite three or more bids when cost exceeds $40,000.00 for, among other things, '(2) the purchase or lease of any item or items required for supply, equipment, maintenance, repair, or transportation of students; or (3) a contract for transportation, maintenance, or repair services.' At term-end, a rebid is NOT required if the board renews the existing contract under § 559(e)(7) (which allows renewal without re-bidding when three cumulative conditions are met — see Renewal Mechanics). If those renewal conditions are not satisfied, a new competitive process under § 559(a) is required. § 559(e) also exempts emergency repairs (e)(3), nonprofit food-service contracts (e)(4), joint bidding among districts/supervisory unions (e)(5), and purchases made through the Commissioner of Buildings and General Services under 29 V.S.A. ch. 49 (e)(6); § 559(f) permits the Secretary of Education to grant individual waivers where the board demonstrates inability to comply through no fault of its own and proposes an alternative fair-and-public method. Under § 559(g), the State Board may deny State aid for projects proceeding in violation of the section.",
+      "citation": "16 V.S.A. § 559(a)(2)-(3), § 559(c)(1), § 559(e)(1)-(7), § 559(f), § 559(g). Official URL: https://legislature.vermont.gov/statutes/section/16/009/00559"
+    },
+    "renewalMechanics": {
+      "value": "Renewal without competitive rebidding is permitted under 16 V.S.A. § 559(e)(7), but only when ALL THREE conditions are satisfied: (i) 'annual costs will not increase more than the most recent New England Economic Project Cumulative Price Index, as of November 15, for State and local government purchases of goods and services'; (ii) 'the total amount of the contract does not exceed an increase of 30 percent more than the original contract'; and (iii) 'the contract for the renewal period allows termination by the board following an annual review of performance.' The statute does not specify a numerical cap on the number of renewal periods, but the 30% lifetime price-escalation cap operates as a functional limit on how long a contract may be renewed at indexed prices. Renewal also requires that the board retain the annual-termination-after-performance-review right in the renewed contract. The statute does not provide for fuel escalators, automatic/evergreen rollover, or sole-source extensions beyond these limits; an individual waiver may be granted by the Secretary of Education under § 559(f) where the board demonstrates an inability to comply through no fault of its own and proposes an alternative fair-and-public method.",
+      "citation": "16 V.S.A. § 559(e)(7); see also § 559(f) (waivers). Official URL: https://legislature.vermont.gov/statutes/section/16/009/00559"
+    },
+    "statutoryCitation": "16 V.S.A. § 559 (Public bids) — primary controlling authority for school-district / supervisory-union contracts for transportation services. Subsections specifically engaged: § 559(a)(2)-(3) (scope — student-transportation supplies/equipment and 'a contract for transportation, maintenance, or repair services' subject to $40,000 bidding threshold); § 559(c)(1) (award standard — selection from three or fewer lowest responsible bids conforming to specifications); § 559(e)(7) (renewal-without-rebid conditions: NEEP CPI annual cap, 30% total-contract cap, annual-termination-following-review requirement); § 559(e)(1)-(6) (exemptions including instructional materials, emergency repairs, nonprofit school food, joint bidding, BGS purchases under 29 V.S.A. ch. 49); § 559(f) (Secretary's waiver authority); § 559(g) (violation: State Board may deny State aid). Supplemental authority: 16 V.S.A. § 1222 (each school board shall adopt a transportation policy; pupils 'may be furnished with total or partial transportation' as 'reasonable and necessary'); 16 V.S.A. § 563(16) (school board powers, including authority to 'execute contracts on behalf of the school district'); 16 V.S.A. § 4016 (state transportation reimbursement grants — 50% of allowable transportation expenditures, not a contract-term provision). Statute as amended through 2025, No. 72, § 4, effective June 27, 2025. Official URL: https://legislature.vermont.gov/statutes/section/16/009/00559",
+    "districtVariance": {
+      "label": "Unknown",
+      "explanation": "16 V.S.A. § 559 is a single statewide statute. No Vermont Agency of Education bulletin, Attorney General opinion, State Auditor report, or Vermont School Boards Association (VSBA) guidance located that addresses district-level interpretation variance specifically on transportation contract term/renewal. District-level practice does vary in contract length and structure (publicly reported multi-year contracts in different supervisory unions), and a Vermont Public/VTDigger report on Brattleboro/Windham Southeast and Valley News reporting on private-equity-affiliated vendor contracting reflects practical variability, but variation in contract length within a uniform statutory framework is not the same as different statutory interpretations across districts. No definitive evidence of conflicting interpretations of § 559(e)(7)'s renewal conditions across districts was located after searching AOE, VSBA, and Vermont AG sources."
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No",
+    "detail": "Vermont State Board of Education Special Education Rule Series 2360-2369 (effective July 1, 2022) defines 'related services' to include 'transportation' (Rule 2360.2.16(a)) and details that 'Transportation includes: (i) Travel to and from school and between schools; (ii) Travel in and around school buildings; and (iii) Specialized equipment (such as special or adapted buses, lifts, and ramps), if required to provide special transportation for a child with a disability' (Rule 2360.2.16(d)(15)). These rules govern the DUTY to provide transportation as a related service under an IEP — they impose no separate or differentiated procurement, contract-term, rebid, or renewal regime for special-education transportation contracts with private contractors. Vermont's school-district public-bid statute (16 V.S.A. § 559) and its $40,000 threshold and renewal-without-rebid conditions therefore apply equally to special-education / IEP-mandated / McKinney-Vento transportation procured by school districts or supervisory unions. Federal IDEA (20 U.S.C. § 1401(26)) and the EDGAR/2 CFR Part 200 uniform-guidance procurement rules also apply when federal funds are used, but they govern federal-funds procurement standards generally and do not impose state-law contract-term limits. The Vermont AOE federal-fiscal services page confirms that sole-source (non-competitive) procurement of federally funded services requires prior AOE approval per 2 CFR § 200.320(c)(4), but this is a federal-funds procedural overlay, not a state contract-term rule."
+  },
+  "perFieldVerdicts": [
+    {
+      "field": "Max Contract Term",
+      "verdict": "confirmed",
+      "note": "Statute § 559 re-opened and read verbatim; no express term-of-years cap appears in § 559, § 563, § 1222, or § 4016. Disconfirming searches for 'not exceed,' 'years,' 'duration,' 'multi-year,' 'successive,' 'option' in Title 16 surfaced no general term cap. The 30% cumulative-pricing cap in § 559(e)(7) is preserved as a functional (not nominal-years) limit on renewals."
+    },
+    {
+      "field": "Rebid Required",
+      "verdict": "confirmed",
+      "note": "§ 559(a) bidding requirement and § 559(e)(7) renewal exception both confirmed verbatim. Other exemptions in § 559(e)(1)-(6) and waiver authority in § 559(f) confirmed verbatim. 'Conditional' label is supported because rebid turns on whether the § 559(e)(7) renewal conditions are met."
+    },
+    {
+      "field": "Renewal Mechanics",
+      "verdict": "confirmed",
+      "note": "§ 559(e)(7) quoted verbatim from official legislature.vermont.gov page; three cumulative conditions (NEEP CPI annual cap, 30% total cap, annual termination after performance review) confirmed. No fuel escalator, no evergreen/auto rollover, no sole-source extension in the statutory text."
+    },
+    {
+      "field": "Statutory Citation",
+      "verdict": "confirmed",
+      "note": "Primary citation 16 V.S.A. § 559 verified at official URL. Amendment history (2025, No. 72, § 4, effective June 27, 2025) confirmed. Supplemental citations § 1222, § 563(16), § 4016 all re-opened and confirmed."
+    },
+    {
+      "field": "District Variance",
+      "verdict": "confirmed",
+      "note": "Targeted searches of AOE, VSBA, and Vermont AG produced no document interpreting § 559(e)(7) differently across districts. Reported practice variation (contract length differences across districts; Brattleboro/Windham Southeast and other districts) reflects contracting practice, not divergent statutory interpretation, so 'Unknown' is preserved verbatim — a negative result, not an inferred 'No.'"
+    }
+  ],
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term — 'No statutory maximum found'",
+      "disconfirmingHypothesis": "A term-of-years cap exists elsewhere in Title 16 (e.g., chapter on transportation, board powers) or in Title 24 municipal contracting that reaches school districts via the definition of public agency / political subdivision.",
+      "challengeSearches": "Re-read § 559 verbatim; read § 563(16), § 1222, § 4016; ran WebSearch queries for 'Vermont 16 V.S.A. transportation contract not exceed years renewal,' 'Vermont pupil transportation contract multi-year term limit school district statute'; consulted Title 16 chapter index and Title 24 municipal procurement.",
+      "result": "No express term-of-years cap located. § 559(e)(7) imposes a 30% cumulative-price cap on renewals, which functions as a practical ceiling on duration at indexed prices but is not a nominal-years maximum.",
+      "confidenceImpact": "Confirms 'No statutory maximum found'; preserves the renewal 30% functional cap in the answer text. Confidence held."
+    },
+    {
+      "findingChallenged": "Rebid Required — 'Conditional'",
+      "disconfirmingHypothesis": "Either (a) rebid is always required (no renewal carve-out) or (b) rebid is never required (some sole-source / piggyback / cooperative purchasing pathway eliminates it).",
+      "challengeSearches": "Re-read § 559(a), (e)(1)-(7), (f), (g) verbatim; searched for 'sole source,' 'piggyback,' 'cooperative purchasing,' 'interlocal agreement,' 'emergency procurement,' 'board waiver' in school-procurement context; searched AGO opinions and AOE federal-fiscal-services for procurement carve-outs.",
+      "result": "§ 559(a) mandates competitive bidding above $40,000; § 559(e)(7) is the only general renewal carve-out for transportation services; § 559(e)(3) is a narrow emergency-repairs carve-out; § 559(e)(5) permits joint bidding (not rebid avoidance); § 559(e)(6) permits BGS purchases under 29 V.S.A. ch. 49 (a Vermont state-purchasing carve-out, not unlimited sole-source); § 559(f) permits individual Secretary waivers on a fair-and-public method. 'Conditional' best captures this.",
+      "confidenceImpact": "Confirms 'Conditional' label; rule text expanded to add (e)(3)-(e)(6) exemptions and § 559(g) consequence for violation. Confidence held."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics — three conditions in § 559(e)(7)",
+      "disconfirmingHypothesis": "Statutory text includes additional renewal levers (fuel escalator, automatic/evergreen rollover, sole-source extension) or imposes additional limits (max number of renewals, board public-hearing requirement, state approval) not reflected in the pack.",
+      "challengeSearches": "Re-read § 559(e)(7) verbatim from official legislature.vermont.gov; searched § 559 in full plus § 1222, § 563, § 4016 for 'fuel,' 'CPI,' 'NEEP,' 'rollover,' 'evergreen,' 'extension,' 'option,' 'successive,' 'public hearing,' 'state approval' terms; checked 2025 session law Act 72.",
+      "result": "Three cumulative conditions confirmed verbatim. No additional renewal levers and no additional procedural limits beyond the three conditions and § 559(f) waiver path located in the statutory text.",
+      "confidenceImpact": "Confirms renewal mechanics text. Confidence held."
+    },
+    {
+      "findingChallenged": "Special-Education Differentiation — 'No' (no separate SPED procurement regime)",
+      "disconfirmingHypothesis": "Vermont State Board Rule Series 2360 or AOE guidance imposes a separate procurement / contract-term rule for IEP-mandated, McKinney-Vento, foster-care, or alternative-student transportation distinct from § 559.",
+      "challengeSearches": "Read Rule Series 2360 (effective July 1, 2022) definition of related services; searched for 'special education transportation procurement contract' under Vermont and AOE; searched 2 CFR Part 200 / EDGAR / IDEA contract-term overlays.",
+      "result": "Rule 2360.2.16(a), (d)(15) define 'transportation' as a related service — i.e., a duty-to-provide rule. No state-law procurement carve-out for SPED transportation located. Federal 2 CFR § 200.320(c)(4) sole-source prior-approval requirement applies to federal-funds procurement generally but does not alter state contract-term law.",
+      "confidenceImpact": "Confirms 'No.' Confidence held."
+    },
+    {
+      "findingChallenged": "District Variance — 'Unknown'",
+      "disconfirmingHypothesis": "Either (a) divergent statutory interpretations across districts are documented (would push to 'Yes') or (b) statewide guidance documents uniform application (would push to 'No').",
+      "challengeSearches": "Searched AOE bulletins, VSBA guidance, Vermont AG opinions, Vermont State Auditor reports for interpretive variance on § 559(e)(7); reviewed VTDigger / Vermont Public reporting on Brattleboro/Windham Southeast, Winooski, and Valley News reporting on private-equity-affiliated vendor contracting to see whether reported variance is in statutory interpretation or in contract practice.",
+      "result": "No authoritative document found documenting either uniform statewide interpretation or divergent district-level interpretation of § 559(e)(7). Reported practice differences reflect contracting choices within a uniform statutory framework, not divergent interpretations.",
+      "confidenceImpact": "Confirms 'Unknown' as a documented negative result, not an inferred 'No.' Confidence held."
+    },
+    {
+      "findingChallenged": "Currentness of § 559 citation",
+      "disconfirmingHypothesis": "§ 559 was amended, repealed, renumbered, or superseded after the Stage 1 currency check (2025 No. 72, effective June 27, 2025).",
+      "challengeSearches": "Re-fetched the official legislature.vermont.gov § 559 page; checked the Vermont legislature 2025-2026 session bill database for further § 559 amendments; checked Act 73 of 2025 for any Chapter 9 or transportation-procurement amendment.",
+      "result": "§ 559 most recent amendment remains 2025, No. 72, § 4, effective June 27, 2025. Act 73 of 2025 enacted broader education reforms (including a transportation-reimbursement study) but did not alter § 559's bidding/renewal text.",
+      "confidenceImpact": "Confirms currentness. Confidence held."
+    }
+  ],
+  "sourcesReverified": [
+    "16 V.S.A. § 559 (Public bids) — https://legislature.vermont.gov/statutes/section/16/009/00559 — re-fetched; subsections (a), (b), (c), (e)(1)-(7), (f), (g) all confirmed verbatim",
+    "16 V.S.A. § 1222 (Students who may be furnished transportation) — https://legislature.vermont.gov/statutes/section/16/027/01222 — re-fetched; subsections (a), (b), (c) confirmed; no contract-term/rebid/renewal language",
+    "16 V.S.A. § 563 (Powers of school board) — https://legislature.vermont.gov/statutes/section/16/009/00563 — re-fetched; subdivision (16) confirmed verbatim; no transportation-contract-specific provisions",
+    "16 V.S.A. § 4016 (Reimbursement for transportation expenditures) — https://legislature.vermont.gov/statutes/section/16/133/04016 — re-fetched; confirmed as a reimbursement-grant rule (50% of allowable expenditures), not a contract-term rule"
+  ],
+  "sourcesUnreachable": [
+    "Vermont AOE Federal Fiscal Services page (HTTP 403 to direct WebFetch on prior pass; corroborated via search snippets) — https://education.vermont.gov/vermont-schools/school-finance/federal-fiscal-services — content used only to confirm the federal-funds 2 CFR § 200.320(c)(4) sole-source procedural overlay, not as authority for any state contract-term claim"
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 — Codified statute",
+      "citation": "16 V.S.A. § 559 (Public bids)",
+      "officialUrl": "https://legislature.vermont.gov/statutes/section/16/009/00559",
+      "codeCurrency": "Vermont Statutes Online, 2025–2026 session; includes actions of 2025 session; most recent amendment to § 559: 2025, No. 72, § 4, effective June 27, 2025",
+      "fieldsSupported": "Fields 1, 2, 3, 4 (max term — silent; rebid — conditional; renewal mechanics; primary statutory citation)",
+      "relevantText": "§ 559(a): 'When the cost exceeds $40,000.00, a school board or supervisory union board shall publicly advertise or invite three or more bids from persons deemed capable of providing items or services... for any of the following: (1) the construction, purchase, lease, or improvement of any school building; (2) the purchase or lease of any item or items required for supply, equipment, maintenance, repair, or transportation of students; or (3) a contract for transportation, maintenance, or repair services.' § 559(c)(1): contract selected 'from among the three or fewer lowest responsible bids conforming to specifications.' § 559(e)(7) (verbatim): 'Nothing in this section shall require a school board or supervisory union board to invite or advertise for bids if it is renewing a contract entered into pursuant to subsection (a) of this section, provided that annual costs will not increase more than the most recent New England Economic Project Cumulative Price Index, as of November 15, for State and local government purchases of goods and services, the total amount of the contract does not exceed an increase of 30 percent more than the original contract, and the contract for the renewal period allows termination by the board following an annual review of performance.' § 559(e)(1) (no application to instructional materials), (e)(3) (no application to emergency repairs), (e)(4) (no application to nonprofit school food), (e)(5) (joint bidding permitted), (e)(6) (BGS purchases under 29 V.S.A. ch. 49). § 559(f): Secretary waiver authority — board must demonstrate inability to comply through no fault of its own and propose an alternative fair-and-public method. § 559(g): State Board may deny State aid for projects proceeding in violation of this section.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 — Codified statute",
+      "citation": "16 V.S.A. § 1222 (Students who may be furnished transportation)",
+      "officialUrl": "https://legislature.vermont.gov/statutes/section/16/027/01222",
+      "codeCurrency": "Vermont Statutes Online, 2025–2026 session; last amended 2013, No. 92 (Adj. Sess.), § 128, eff. Feb. 14, 2014",
+      "fieldsSupported": "Background / duty (does not address contract term, rebid, or renewal)",
+      "relevantText": "§ 1222(a): 'Each legal pupil, as defined in section 1073 of this title, who is entitled or required to attend an elementary school or a secondary school may be furnished with total or partial transportation to school, or board, as in the opinion of the school board is reasonable and necessary to enable the student to attend school. Each school board shall adopt a transportation policy for students required to attend school in accordance with the procedure specified in subdivision 563(1) of this title. The policy shall consider the transportation needs of students, including such factors as the age and health of a student, distance to be travelled, and condition and type of highway.' § 1222(b): incorporates 23 V.S.A. § 376 (motor vehicles for municipal purpose). § 1222(c): expenditures included in current school expenses under Chapter 123. Silent on contract term, rebid, or renewal mechanics.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 — Codified statute",
+      "citation": "16 V.S.A. § 563 (Powers of school board), subdivision (16)",
+      "officialUrl": "https://legislature.vermont.gov/statutes/section/16/009/00563",
+      "codeCurrency": "Vermont Statutes Online, 2025–2026 session; subdivision (16) substantively unchanged; most recent amendment 2025, No. 73, § 41 with contingent effective date July 1, 2028 (affects other subdivisions)",
+      "fieldsSupported": "Background — confirms school board contracting authority",
+      "relevantText": "Subdivision (16): School boards 'May execute contracts on behalf of the school district, including contracts providing for binding arbitration, by its chair or any person designated whose appointment is recorded in the minutes of the board.' No transportation-specific or term-specific provisions.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 — Codified statute",
+      "citation": "16 V.S.A. § 4016 (Reimbursement for transportation expenditures)",
+      "officialUrl": "https://legislature.vermont.gov/statutes/section/16/133/04016",
+      "codeCurrency": "Vermont Statutes Online, 2025–2026 session",
+      "fieldsSupported": "Background — state reimbursement grant; not a contract-term provision",
+      "relevantText": "'A school district or supervisory union that incurs allowable transportation expenditures shall receive a transportation reimbursement grant each year. The grant shall be equal to 50 percent of allowable transportation expenditures...' Silent on contract length / rebid / renewal.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 — Administrative code",
+      "citation": "Vermont State Board of Education Special Education Rule Series 2360, Rule 2360.2.16(a) and 2360.2.16(d)(15) (effective July 1, 2022)",
+      "officialUrl": "https://education.vermont.gov/sites/aoe/files/documents/edu-vt-state-board-of-education-rule-series-2360-revised-5-13-2021.pdf",
+      "codeCurrency": "Effective July 1, 2022 (revised 5-13-2021 version per AOE)",
+      "fieldsSupported": "Special-education differentiation",
+      "relevantText": "Rule 2360.2.16(a): ''related services' means transportation and such developmental, corrective, and other supportive services as are required to assist a child who requires special education services to benefit from his or her special education.' Rule 2360.2.16(d)(15): 'Transportation includes: (i) Travel to and from school and between schools; (ii) Travel in and around school buildings; and (iii) Specialized equipment (such as special or adapted buses, lifts, and ramps), if required to provide special transportation for a child with a disability.' No different procurement / contract-term / renewal rule for SPED transportation.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 — Official agency guidance",
+      "citation": "Vermont Agency of Education, Federal Fiscal Services / Procurement guidance (referencing 2 CFR § 200.320(c)(4) sole-source approval)",
+      "officialUrl": "https://education.vermont.gov/vermont-schools/school-finance/federal-fiscal-services",
+      "codeCurrency": "Current AOE guidance page (HTTP 403 to WebFetch; described via web-search snippets)",
+      "fieldsSupported": "Notes / federal-funds overlay",
+      "relevantText": "AOE confirms that non-competitive (sole-source) procurement of federally funded school services requires AOE prior approval per 2 CFR § 200.320(c)(4); this is a federal procedural overlay on top of state law § 559, not an independent state contract-term rule.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 — Official agency document",
+      "citation": "Vermont Agency of Education, Act 73 Transportation Reimbursement Guidelines Report (2025)",
+      "officialUrl": "https://legislature.vermont.gov/assets/Legislative-Reports/edu-act-73-transportation-report-2025.pdf",
+      "codeCurrency": "2025 legislative report responding to Act 73 of 2025",
+      "fieldsSupported": "Background / variance context",
+      "relevantText": "Report flags driver shortages, fuel volatility, and 'limited vendor competition' as drivers of unsustainable transportation funding; characterizes Vermont's transportation system as 'irregular.' Confirms statute itself remains the controlling framework — recommendations are forward-looking, not in force as binding law.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Stage 2 re-fetched each official statutory citation (§ 559, § 563, § 1222, § 4016) directly from legislature.vermont.gov via WebFetch and confirmed verbatim text. Disconfirming searches ran against (a) Title 16 chapter and section index for any express term-of-years cap; (b) Vermont AG opinions and State Auditor reports for divergent interpretation of § 559(e)(7); (c) AOE and VSBA guidance documents; (d) Vermont 2025-2026 session bills and acts for post-currency-date amendments to § 559.",
+    "currentLawCheck": "Vermont Statutes Online masthead reads 'Searching 2025-2026 Session' and 'The Statutes below include the actions of the 2025 session of the General Assembly.' § 559 amendment history confirmed through 2025, No. 72, § 4, effective June 27, 2025. § 563 has a 2025, No. 73, § 41 contingent amendment with effective date July 1, 2028 (not yet in force; does not affect subdivision (16) contract-execution authority). Vermont State Board Special Education Rule Series 2360 effective July 1, 2022 (revised 5-13-2021 version). No 2026-session bill amending § 559's transportation/procurement provisions identified through legislature.vermont.gov bill-status searches as of 2026-06-24.",
+    "unresolvedIssues": "Field 5 (District Variance) remains 'Unknown' as a documented negative result — no Vermont AOE bulletin, AG opinion, State Auditor report, or VSBA guidance located that addresses district-by-district interpretive variance specifically on § 559(e)(7) transportation-contract renewal conditions. Reported district contracting practice variation is not the same as divergent statutory interpretation, so it does not push the answer to 'Yes' or 'No.'",
+    "conflictChecks": "No conflict between the four codified statutory citations relied upon. No conflict between § 559 and federal IDEA / 2 CFR Part 200 procurement overlays — federal rules govern federal-funds procurement procedure but do not impose a state-law contract-term limit. No conflict between § 559 (school-district public-bid statute) and Title 24 municipal procurement (which does not reach school-district transportation contracts), and no conflict between § 559 and Bulletin 3.5 (which governs state-agency procurement, not school-district procurement)."
+  },
+  "notesSpecialProvisions": "Vermont school-district transportation contracting is controlled by a single statewide public-bid statute (16 V.S.A. § 559) that interlocks with several practical carve-outs. Small-purchase / dollar-threshold exemption: § 559(a) is triggered only when cost exceeds $40,000; transportation contracts below that threshold do not require the formal three-bid process. Emergency procurement: § 559(e)(3) exempts emergency repairs entirely. Cooperative purchasing / piggyback: § 559(e)(5) permits supervisory unions and school districts to enter into joint-bidding agreements consistent with § 559; § 559(e)(6) permits purchases through the Commissioner of Buildings and General Services under 29 V.S.A. ch. 49. Board waiver / state-agency approval: § 559(f) permits the Secretary of Education to grant individual waivers where the board shows it cannot comply through no fault of its own and proposes a fair and public alternative method. Charter-school rules: Vermont charter authorization is narrow and the Stage 2 record contains no charter-specific procurement carve-out from § 559. Special-education differences: none — Rule Series 2360 imposes a duty to provide transportation as a related service, but no separate procurement / contract-term regime applies to IEP, McKinney-Vento, or alternative-student transportation contracts procured by districts (federal 2 CFR § 200.320(c)(4) sole-source prior-approval applies only to federally funded procurement). Consequence of violation: any contract entered into in violation of § 559 carries the risk of denial of state aid under § 559(g). The renewal mechanism in § 559(e)(7) is the single statewide rebid-avoidance lever for ordinary transportation contracts — its NEEP-CPI annual cap and 30% cumulative-price cap operate as practical limits on how long a renewal chain can run before a fresh § 559(a) competitive process is required.",
+  "exceptionsUnresolved": "Field 5 — District-Level Interpretation Variance: recorded as 'Unknown' rather than 'No' or 'Yes' because, while 16 V.S.A. § 559 is a single statewide statute, no Vermont Agency of Education bulletin, Attorney General opinion, State Auditor report, or VSBA guidance document was located that documents either uniform statewide interpretation or divergent district-level interpretation of § 559(e)(7)'s three renewal conditions specifically for transportation contracts. Searches consulted AOE (education.vermont.gov), VSBA (vtvsba.org), Vermont AG (ago.vermont.gov) and Vermont State Auditor sources, plus VTDigger/Vermont Public/Valley News reporting on supervisory-union contracting practice. Reported district-level practice variation (multi-year contracts of differing lengths across supervisory unions; private-equity-affiliated vendor consolidation) is evidence of contracting practice variation, not of divergent statutory interpretation, and so does not resolve Field 5 in either direction. Fields 1, 2, 3, and 4 are resolved.",
+  "finalConfidence": "High"
+}

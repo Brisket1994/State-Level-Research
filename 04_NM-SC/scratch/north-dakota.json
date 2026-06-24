@@ -1,0 +1,257 @@
+{
+  "state": "North Dakota",
+  "finalConfidence": "High",
+  "laneStatus": "closed",
+  "unresolvedFields": [
+    "districtVariance (resolved as 'Unknown' after documented negative search; no authoritative counter-evidence found)"
+  ],
+  "fields": {
+    "maxContractTerm": {
+      "value": "7 years (hard statutory cap when the transportation vehicle is privately owned). N.D.C.C. § 15.1-30-06(2): \"If the transportation vehicle is privately owned, the duration of the contract may not exceed seven years.\" The cap governs bus contracts let by a school district to a private contractor; § 15.1-30-06(3) makes the section inapplicable to a school district that owns its own buses and employs its own busdrivers. No longer-term carve-out, grandfathering clause, or \"notwithstanding\" exception to the 7-year cap was located in chapter 15.1-30, in § 15.1-09-34 (general school-district bidding), or in the 2025 (69th Assembly) session laws.",
+      "citation": "N.D.C.C. § 15.1-30-06(2) (\"If the transportation vehicle is privately owned, the duration of the contract may not exceed seven years.\"); § 15.1-30-06(3) (section inapplicable to a district that owns its own buses and employs its own busdrivers).",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.pdf"
+    },
+    "rebidRequired": {
+      "value": "Conditional. The default rule is a competitive sealed-bid process under N.D.C.C. § 15.1-30-06(1) (\"Before the beginning of each school year, the board of a school district that provides transportation shall contract for the provision of transportation services during the school year. Except as provided in section 15.1-30-11, the board shall provide notice of its intent to contract by publishing the time and place for submission of sealed bids in the official newspaper of the school district at least ten days prior to the required date of submission\") and the lowest-responsible-bidder rule in § 15.1-30-12(1). However, § 15.1-30-11(1) expressly permits an originally-bid contract to be renewed at term-end without a full sealed-bid rebid — by direct negotiation with the existing contractor (subject to procedural safeguards in § 15.1-30-11(2)–(4)) OR by sealed bids. School transportation services purchased under § 15.1-30-11 are also expressly exempt from the general $50,000 school-district sealed-bid statute (§ 15.1-09-34(1)(g)). Thus full competitive rebidding is required for an initial contract and whenever the board does not invoke the direct-negotiation renewal mechanism in § 15.1-30-11.",
+      "citation": "N.D.C.C. §§ 15.1-30-06(1) (sealed-bid default; ten-day publication); 15.1-30-11(1) (renewal by direct negotiation OR sealed bids); 15.1-30-12(1) (\"The board of a school district shall let the contract, except as otherwise provided in section 15.1-30-11, to the lowest responsible bidder…\"); 15.1-09-34(1)(g) (general school-district bidding statute does not apply to \"School transportation services purchased under section 15.1-30-11\").",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.pdf"
+    },
+    "renewalMechanics": {
+      "value": "Renewal without a full sealed-bid rebid is expressly permitted under N.D.C.C. § 15.1-30-11(1): a contract \"originally bid by and let to a contractor, may be renewed: a. Through direct negotiation between the board of a school district and the contractor; or b. Upon sealed bids.\" Procedural prerequisites for direct-negotiation renewal (§ 15.1-30-11(2)–(4)): (i) the school board must publish notice in the official newspaper of the district at least 30 days before the date of renewal; (ii) the board must make a good-faith effort to obtain at least two written quotations for the contract (quotations retained on file for at least one year and are public information); and (iii) if any written quotations are received, the board may directly negotiate the contract provided it (a) conducts a public meeting regarding the contract, (b) gives at least 7 days' notice of the public meeting by publication in the official newspaper of the district, and (c) provides the public an opportunity to appear and comment at the public meeting. \"All terms of the contract must be negotiated and agreed to in the public meeting.\" If the renewal is made upon receipt of sealed bids instead, the board follows the § 15.1-30-06 procedure (§ 15.1-30-11(5)). The statute does NOT set a CPI/index adjustment, fuel escalator, automatic rollover/evergreen renewal, or maximum-number-of-renewals; § 15.1-30-08(5) requires the contract itself to describe the process for an equitable adjustment of compensation when established routes change. The 7-year cap in § 15.1-30-06(2) limits the duration of any single contract with a private contractor (a renewal is a new contract subject to the same 7-year cap).",
+      "citation": "N.D.C.C. § 15.1-30-11 (renewal by direct negotiation or sealed bids; 30-day published notice; good-faith effort to obtain at least two written quotations; public meeting with 7-day notice; all terms negotiated in public meeting); cf. §§ 15.1-30-06, 15.1-30-08(5), 15.1-30-10 (assignment requires written board authorization).",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.pdf"
+    },
+    "statutoryCitation": {
+      "value": "Primary: North Dakota Century Code Title 15.1 (Elementary and Secondary Education), Chapter 15.1-30 (Transportation of Students), specifically §§ 15.1-30-06 (Transportation – Bids, contracts, bonds; 7-year cap on privately owned vehicle contracts), 15.1-30-07 (standard contract form drafted by the superintendent of public instruction), 15.1-30-08 (required contract provisions), 15.1-30-10 (assignment requires written board authorization), 15.1-30-11 (renewal by direct negotiation or sealed bids), and 15.1-30-12 (Contract for transportation – Conditions; lowest-responsible-bidder rule; board-member contracting prohibition). General school-board bidding statute exempting school transportation services: N.D.C.C. § 15.1-09-34(1)(g). Special-education transportation: N.D.C.C. § 15.1-32-16 (district must provide IEP-required transportation \"by any reasonably prudent means, including a regularly scheduled schoolbus, public transit, commercial transportation, chartered or other contracted transportation…\"). DPI's standard transportation contract template is referenced at § 15.1-30-07 and posted by the North Dakota Department of Public Instruction.",
+      "citation": "N.D.C.C. ch. 15.1-30 (esp. §§ 15.1-30-06, 15.1-30-07, 15.1-30-08, 15.1-30-10, 15.1-30-11, 15.1-30-12); § 15.1-09-34(1)(g) (general school-district bidding exemption for transportation services); § 15.1-32-16 (special education transportation services).",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.pdf"
+    },
+    "districtVariance": {
+      "value": "Unknown. No state-auditor report, attorney general opinion, ND Department of Public Instruction bulletin, or North Dakota School Boards Association guidance was located showing that ND school districts interpret §§ 15.1-30-06, 15.1-30-11, or 15.1-30-12 differently from one another. DPI publishes a single statewide standard transportation contract template under § 15.1-30-07, which is the only statewide implementation guidance located. A district-level purchasing exhibit (Dickinson Public School District HCAA-E) was located that recites the controlling state statutes (§§ 15.1-30-06, 15.1-30-11, 15.1-30-12) and the § 15.1-09-34(1)(g) exemption verbatim, suggesting uniform statutory recitation at the policy level, but a single district policy does not establish statewide variance or uniformity. The N.D. Attorney General opinions search did not surface an opinion construing chapter 15.1-30. Insufficient evidence either of variance or of uniform application beyond DPI's statewide template.",
+      "citation": "Negative result. Sources searched: N.D. Office of Attorney General opinions search (attorneygeneral.nd.gov); N.D. Department of Public Instruction Transportation page (nd.gov/dpi/districtsschools/finance-operations/transportation); North Dakota School Boards Association references; Dickinson Public School District policy exhibit HCAA-E (purchasing laws for schools); Google site searches restricted to ndlegis.gov and nd.gov. DPI standard contract template referenced at N.D.C.C. § 15.1-30-07.",
+      "sourceTier": "4 - Official agency guidance / negative search",
+      "officialUrl": "https://www.nd.gov/dpi/districtsschools/finance-operations/transportation"
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No",
+    "explanation": "N.D.C.C. § 15.1-32-16 (Special Education – Transportation services) provides that if a student's individualized education program (IEP) or services plan requires transportation services, \"the student's school district of residence shall provide the services by any reasonably prudent means, including a regularly scheduled schoolbus, public transit, commercial transportation, chartered or other contracted transportation, and transportation provided by the student's parent or other responsible party.\" Chapter 15.1-32 does NOT set separate term limits, rebid requirements, renewal mechanics, or procurement rules for special-education, IEP-mandated, McKinney-Vento, foster-care, or alternative student transportation. When a district CONTRACTS with a private provider for special-education transportation, the chapter 15.1-30 contracting rules (including the 7-year cap in § 15.1-30-06(2), the sealed-bid default in § 15.1-30-06(1), and the renewal mechanism in § 15.1-30-11) govern; chapter 15.1-32 supplies the duty to transport and the cost-allocation framework (§§ 15.1-32-14, -18, -19), not separate contracting rules. The § 15.1-09-34(1)(g) exemption is keyed to transportation services purchased under § 15.1-30-11 generally and does not distinguish SPED transportation. Federal IDEA obligations bear on the duty to transport, not on state contract/procurement rules. Multidistrict special-education units may contract with school district boards for SPED services (ch. 15.1-33), but that authority does not displace ch. 15.1-30 when the underlying transportation is procured from a private contractor.",
+    "citation": "N.D.C.C. §§ 15.1-32-16 (special-education transportation services), 15.1-32-08, 15.1-32-18 (cost-liability), ch. 15.1-33 (multidistrict special education); applied through ch. 15.1-30 for any contracted SPED transportation."
+  },
+  "verdicts": {
+    "maxContractTerm": {
+      "verdict": "confirmed",
+      "note": "Re-opened the official ndlegis.gov chapter 15.1-30 PDF; § 15.1-30-06(2) verbatim text confirmed. Adversarial searches for longer-term/notwithstanding/grandfathering authority surfaced no carve-out; the only related amendment-search hit (2025 HB 1214) concerns the transportation-payment funding formula in ch. 15.1-27 and references § 15.1-30-02, not the 7-year cap. No 2023 (68th) or 2025 (69th) Assembly amendment to § 15.1-30-06 was located."
+    },
+    "rebidRequired": {
+      "verdict": "confirmed",
+      "note": "Re-opened the official chapter PDF and confirmed § 15.1-30-06(1), § 15.1-30-11(1), and § 15.1-30-12(1) verbatim. Adversarial search located a corroborating exemption in § 15.1-09-34(1)(g), confirmed by direct fetch of the official ch. 15.1-09 PDF, which strengthens (does not undermine) the conditional framing: school transportation services purchased under § 15.1-30-11 are expressly excluded from the general $50,000 school-district sealed-bid rule, leaving ch. 15.1-30 as the exclusive contracting framework. State procurement code (ch. 54-44.4) applies to executive-branch state agencies and institutions, not to school districts; the 2025 HB 1269 amendments to §§ 54-44.4-02 and 54-44.6-02 do not reach school transportation."
+    },
+    "renewalMechanics": {
+      "verdict": "confirmed",
+      "note": "Re-opened the official chapter PDF; § 15.1-30-11(1)–(5) verbatim text confirmed (renewal by direct negotiation or sealed bids; 30-day publication; good-faith effort for two written quotations; public meeting with 7-day notice; terms negotiated in public meeting). No statutory CPI cap, fuel escalator, automatic rollover, or maximum number of renewals located. The 7-year cap in § 15.1-30-06(2) operates as the outer bound on any single renewed contract."
+    },
+    "statutoryCitation": {
+      "verdict": "confirmed",
+      "note": "All cited sections (§§ 15.1-30-06, -07, -08, -10, -11, -12; § 15.1-32-16) re-verified verbatim against the official ndlegis.gov chapter PDFs. Citation expanded to include § 15.1-09-34(1)(g) (general school-district bidding exemption for transportation services), corroborated by direct fetch of the official ch. 15.1-09 PDF."
+    },
+    "districtVariance": {
+      "verdict": "confirmed",
+      "note": "Documented negative search stands. One district policy exhibit (Dickinson Public School District HCAA-E) located through adversarial search recites the controlling state statutes verbatim and confirms the § 15.1-09-34(1)(g) exemption, suggesting uniform statutory recitation at the policy level, but a single district policy does not establish statewide variance or uniformity. No AG opinion, auditor report, or DPI bulletin construing §§ 15.1-30-06/-11/-12 in conflicting ways across districts was located. 'Unknown' is the correct verdict on the available record."
+    },
+    "specialEducation": {
+      "verdict": "confirmed",
+      "note": "Re-opened ndlegis.gov chapter 15.1-32 PDF; § 15.1-32-16 verbatim text confirmed. No separate term/rebid/renewal/procurement rule for IEP, McKinney-Vento, foster-care, or other alternative student transportation located in ch. 15.1-32. Chapter 15.1-30 contracting rules govern when the district contracts SPED transportation from a private provider."
+    }
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max contract term: 7 years (§ 15.1-30-06(2))",
+      "disconfirmingHypothesis": "A longer term, renewal-option, multi-year extension, or grandfathering carve-out exists somewhere in ch. 15.1-30, in the general school-district statutes (ch. 15.1-09), in the state procurement code (ch. 54-44.4), or in 2023/2025 session laws.",
+      "challengeSearches": "Re-read official ch. 15.1-30 PDF (ndlegis.gov/cencode/t15-1c30.pdf) end-to-end; searched 'notwithstanding,' 'may renew,' 'extension,' 'option,' 'successive,' 'multi-year,' 'not exceed,' 'annual termination' in the chapter text; reviewed ch. 15.1-09 (school boards), ch. 54-44.4 (state purchasing), ch. 48-01.2 (public improvements); ran firecrawl_search for '\"15.1-30-06\" OR \"15.1-30-11\" OR \"15.1-30-12\" amendment 2025' on ndlegis.gov; reviewed 69th (2025) Assembly bills HB 1214 (transportation-funding formula amendment), HB 1269 (54-44.4-02/54-44.6-02 procurement exemptions), HB 1122 (54-44.4 state-contract purchases).",
+      "result": "No disconfirming authority located. The only 2025 bill touching ch. 15.1-30 was HB 1214, which amends the transportation-payment funding formula in ch. 15.1-27 and references § 15.1-30-02 (family transportation reimbursement) — not the 7-year cap or renewal/rebid mechanics. Chapter 15.1-09 contains no longer-term authority for transportation; § 15.1-09-34(1)(g) instead reinforces that ch. 15.1-30 controls.",
+      "confidenceImpact": "Maintain High confidence."
+    },
+    {
+      "findingChallenged": "Rebid required at term-end: Conditional (sealed-bid default under § 15.1-30-06(1) / § 15.1-30-12(1); renewal-without-rebid option under § 15.1-30-11).",
+      "disconfirmingHypothesis": "Either (a) a generally applicable procurement statute (e.g., ch. 54-44.4 state purchasing, ch. 48-01.2 public improvements, ch. 44-08 political-subdivision bidding) ALSO applies and overrides or supplements ch. 15.1-30 with additional mandatory rebidding rules; or (b) ch. 15.1-30 contains a sole-source/emergency/cooperative-purchasing/piggyback/board-waiver carve-out that lets a district bypass both rebidding AND direct-negotiation renewal.",
+      "challengeSearches": "Re-fetched official ch. 54-44.4 PDF (state purchasing): scope is 'all state agencies and institutions in the executive branch of state government' — does not reach school districts. Re-fetched official ch. 15.1-09 PDF: § 15.1-09-34(1)(g) expressly exempts 'School transportation services purchased under section 15.1-30-11' from the general $50,000 school-district sealed-bid rule. Reviewed ch. 48-01.2 (public improvements/construction — inapplicable to transportation services). Searched ch. 15.1-30 for 'sole source,' 'emergency,' 'cooperative,' 'piggyback,' 'waiver': no such carve-out present; § 15.1-30-09 permits limited emergency-vehicle/operator substitutions but does not waive bidding or renewal procedure.",
+      "result": "No disconfirming authority located. State procurement code does not apply to school districts; general school-district bidding code expressly defers to § 15.1-30-11 for transportation services; no additional sole-source/emergency/piggyback carve-out exists in ch. 15.1-30. The conditional framing in Stage 1 is confirmed and strengthened.",
+      "confidenceImpact": "Maintain High confidence; expanded citation to include § 15.1-09-34(1)(g)."
+    },
+    {
+      "findingChallenged": "Renewal mechanics under § 15.1-30-11 (direct negotiation OR sealed bids; 30-day notice; two-quotation good-faith effort; public meeting with 7-day notice; all terms negotiated in public meeting).",
+      "disconfirmingHypothesis": "The statute might impose limits or conditions not captured by Stage 1 — e.g., CPI cap, fuel-adjustment limits, board/state approval, annual-appropriation contingency, termination-notice requirement, maximum number of renewals, or automatic-rollover language.",
+      "challengeSearches": "Re-read §§ 15.1-30-06 through 15.1-30-15 verbatim from official ndlegis.gov PDF; searched 'CPI,' 'consumer price index,' 'fuel,' 'escalator,' 'rollover,' 'evergreen,' 'maximum,' 'number of renewals,' 'appropriations,' 'termination' in the chapter text. Reviewed § 15.1-30-08 (required contract provisions) and § 15.1-30-10 (assignment requires written board authorization).",
+      "result": "No CPI cap, fuel-escalator cap, automatic-rollover, evergreen-renewal language, or maximum-number-of-renewals located in ch. 15.1-30. § 15.1-30-08(5) requires the contract itself to describe the process for equitable adjustment of compensation when routes change, but does not cap the adjustment. The 7-year cap in § 15.1-30-06(2) is the only outer bound, and it applies per contract (a renewed contract is itself bounded). DPI publishes a standard contract template under § 15.1-30-07 but the template is suggestive, not mandatory.",
+      "confidenceImpact": "Maintain High confidence."
+    },
+    {
+      "findingChallenged": "Special-education differentiation: No — ch. 15.1-30 rules govern any contracted SPED transportation.",
+      "disconfirmingHypothesis": "Chapter 15.1-32 or another title sets separate term limits, rebid requirements, renewal mechanics, or procurement rules for special-education, IEP-mandated, McKinney-Vento, foster-care, homeless-student, or alternative student transportation — or carves SPED transportation out of §§ 15.1-30-06/-11/-12.",
+      "challengeSearches": "Re-fetched official ch. 15.1-32 PDF (special education) end-to-end and verified § 15.1-32-16 verbatim; reviewed §§ 15.1-32-08 (district responsibility), -14 (high-cost students), -18 (cost liability), -19 (boarding care). Searched for 'McKinney-Vento,' 'foster care,' 'homeless,' 'IEP transportation,' 'alternative transportation' in chapter text and on DPI special-education and foster-care pages. Reviewed N.D. Allowable Costs under IDEA B Entitlement Grants guidance.",
+      "result": "No SPED-specific contracting rule located. § 15.1-32-16 specifies the means available (regular bus, public transit, commercial transportation, contracted transportation, parent-provided) but does not set term/rebid/renewal/procurement rules. The DPI IDEA-cost guidance and foster-care guidance describe duty/cost allocation only, not contract procurement. Federal IDEA obligations bear on the duty to transport, not on state contract/procurement rules. Ch. 15.1-33 multidistrict special-education units may contract with district boards for services, but that authority does not displace ch. 15.1-30 when the underlying transportation is procured from a private contractor.",
+      "confidenceImpact": "Maintain High confidence."
+    },
+    {
+      "findingChallenged": "District-level interpretation variance: Unknown (negative search).",
+      "disconfirmingHypothesis": "Either (a) statewide guidance (AG opinion, state auditor report, DPI bulletin, NDSBA model policy) actually exists and shows uniform application, supporting a 'No' answer; or (b) district policy manuals, board minutes, or RFPs show districts applying §§ 15.1-30-06/-11/-12 inconsistently (e.g., shorter de facto terms, mandatory rebidding despite the renewal option), supporting a 'Yes' answer.",
+      "challengeSearches": "Re-searched N.D. Office of Attorney General opinions site for ch. 15.1-30 opinions (no opinion construing the chapter located); reviewed DPI Transportation page and confirmed the statewide Student Transportation Sample Agreement; reviewed the Dickinson Public School District HCAA-E (a large district policy exhibit) which recites the statutes verbatim. Attempted small/rural district policy manuals via Google but no second, contrasting district policy manual was located on the open web at a public official URL.",
+      "result": "One district policy (Dickinson PSD HCAA-E) located, reciting the controlling statutes verbatim; consistent with the DPI statewide template but a single example is insufficient to establish either statewide uniformity or variance. No AG opinion or DPI bulletin documenting variance located. 'Unknown' verdict stands.",
+      "confidenceImpact": "No change — confidence on Field 5 remains 'documented Unknown.'"
+    },
+    {
+      "findingChallenged": "Currentness of cited sections (no post-currency amendments).",
+      "disconfirmingHypothesis": "The 69th Legislative Assembly (2025) or any subsequent enactment amended, repealed, renumbered, or superseded §§ 15.1-30-06, 15.1-30-11, 15.1-30-12, 15.1-32-16, or 15.1-09-34 after the code-currency date.",
+      "challengeSearches": "Searched the 69-2025 bill index on ndlegis.gov and sos.nd.gov for amendments referencing §§ 15.1-30-06, 15.1-30-11, 15.1-30-12, 15.1-32-16, 15.1-09-34. Reviewed 69-2025 session-laws Elementary and Secondary Education compilation (ELEMN.pdf). Confirmed chapter index pages at ndlegis.gov match the chapter PDFs.",
+      "result": "No 2023 (68th) or 2025 (69th) session law amending §§ 15.1-30-06, 15.1-30-11, 15.1-30-12, 15.1-32-16, or 15.1-09-34 was located. HB 1214 (2025) and HB 1269 (2025) touched related but distinct statutes (transportation-funding formula in ch. 15.1-27 referencing § 15.1-30-02; and state-agency procurement exemptions in ch. 54-44.4) — not the contracting rules at issue.",
+      "confidenceImpact": "Maintain High confidence on currentness."
+    }
+  ],
+  "sourcesReverified": [
+    {
+      "citation": "N.D.C.C. ch. 15.1-30 – Transportation of Students (full chapter PDF)",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.pdf",
+      "status": "re-verified",
+      "note": "Fetched via firecrawl_scrape PDF parse; §§ 15.1-30-06(1)–(3), 15.1-30-07, 15.1-30-08, 15.1-30-10, 15.1-30-11(1)–(5), 15.1-30-12(1)–(3), 15.1-30-13, 15.1-30-14, 15.1-30-15 all verified verbatim against Stage 1 quotations."
+    },
+    {
+      "citation": "N.D.C.C. ch. 15.1-30 – chapter index (HTML)",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.html",
+      "status": "re-verified",
+      "note": "Section listing 15.1-30-01 through 15.1-30-15 matches the PDF chapter; no section added or repealed."
+    },
+    {
+      "citation": "N.D.C.C. ch. 15.1-32 – Special Education (full chapter PDF), incl. § 15.1-32-16",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c32.pdf",
+      "status": "re-verified",
+      "note": "§ 15.1-32-16 verbatim text confirmed; chapter scope confirmed not to set separate transportation contracting rules. Repealer notations through S.L. 2023 visible."
+    },
+    {
+      "citation": "N.D. Department of Public Instruction – Transportation page (DPI Sample Agreement under N.D.C.C. § 15.1-30-07)",
+      "officialUrl": "https://www.nd.gov/dpi/districtsschools/finance-operations/transportation",
+      "status": "re-verified",
+      "note": "Confirms the statewide standard transportation contract template; verbatim quotation of the template description matches Stage 1."
+    },
+    {
+      "citation": "N.D.C.C. ch. 54-44.4 – State Purchasing Practices (full chapter PDF)",
+      "officialUrl": "https://ndlegis.gov/cencode/t54c44-4.pdf",
+      "status": "re-verified",
+      "note": "Newly fetched in Stage 2 to test whether state procurement code reaches school districts. Scope is 'all state agencies and institutions in the executive branch of state government' — does not apply to school districts."
+    },
+    {
+      "citation": "N.D.C.C. ch. 15.1-09 – School Boards (full chapter PDF), incl. § 15.1-09-34",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c09.pdf",
+      "status": "re-verified",
+      "note": "Newly fetched in Stage 2. § 15.1-09-34(1)(g) confirmed verbatim: general $50,000 school-district sealed-bid rule does NOT apply to 'School transportation services purchased under section 15.1-30-11.'"
+    },
+    {
+      "citation": "Dickinson Public School District policy exhibit HCAA-E – Purchasing Laws for Schools (district-level recitation of controlling state statutes)",
+      "officialUrl": "https://campussuite-storage.s3.amazonaws.com/prod/1559052/0c0088e8-2359-11eb-967e-0a78a2f94121/2339477/6912c854-3cc4-11ec-a24d-0e0c4f519a2d/file/HCAA-E-Purchasing-Laws-for-Schools1.pdf",
+      "status": "re-verified",
+      "note": "District policy exhibit (Dickinson PSD, adopted 03/30/2021) recites the controlling state statutes verbatim, including § 15.1-09-34 exemption (g) for school transportation services purchased under § 15.1-30-11."
+    }
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "N.D. Cent. Code ch. 15.1-30 – Transportation of Students (full chapter PDF; §§ 15.1-30-01 through 15.1-30-15)",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.pdf",
+      "codeCurrency": "Official North Dakota Legislative Branch online Century Code publication. Chapter PDF posted by ndlegis.gov as the current code; no internal currency stamp visible on the chapter PDF; the official chapter index page (https://ndlegis.gov/cencode/t15-1c30.html) lists the same fifteen sections.",
+      "fieldsSupported": "Max Contract Term (§ 15.1-30-06(2)); Rebid Required (§§ 15.1-30-06(1), 15.1-30-12(1)); Renewal Mechanics (§ 15.1-30-11); Statutory Citation; baseline for SPED contracting analysis",
+      "relevantText": "§ 15.1-30-06(1): \"Before the beginning of each school year, the board of a school district that provides transportation shall contract for the provision of transportation services during the school year. Except as provided in section 15.1-30-11, the board shall provide notice of its intent to contract by publishing the time and place for submission of sealed bids in the official newspaper of the school district at least ten days prior to the required date of submission.\" § 15.1-30-06(2): \"If the transportation vehicle is privately owned, the duration of the contract may not exceed seven years.\" § 15.1-30-06(3): \"This section does not apply to a school district that owns its own buses and employs its own busdrivers.\" § 15.1-30-11(1): \"Notwithstanding sections 15.1-30-06 and 15.1-30-12, a contract for the transportation of students, originally bid by and let to a contractor, may be renewed: a. Through direct negotiation between the board of a school district and the contractor; or b. Upon sealed bids.\" § 15.1-30-11(2)–(4): 30-day published notice; good-faith effort to obtain at least two written quotations; public meeting with 7-day notice; all terms negotiated in public meeting. § 15.1-30-12(1): \"The board of a school district shall let the contract, except as otherwise provided in section 15.1-30-11, to the lowest responsible bidder…\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "N.D. Cent. Code ch. 15.1-32 – Special Education (full chapter PDF), incl. § 15.1-32-16 (Transportation services)",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c32.pdf",
+      "codeCurrency": "Official North Dakota Legislative Branch online Century Code publication. Repealer notations include S.L. 2023, ch. 169, § 4 (§ 15.1-32-25) and S.L. 2015, ch. 137, § 38 (§ 15.1-32-20), indicating the file reflects at least post-68th-Assembly compilation.",
+      "fieldsSupported": "Special-education differentiation",
+      "relevantText": "§ 15.1-32-16: \"If a student's individualized education program or services plan requires the provision of transportation services, the student's school district of residence shall provide the services by any reasonably prudent means, including a regularly scheduled schoolbus, public transit, commercial transportation, chartered or other contracted transportation, and transportation provided by the student's parent or other responsible party.\" § 15.1-32-01(3): \"'Related services' means transportation and developmental and corrective or supportive services required to assist a student with disabilities to benefit from special education.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "N.D. Cent. Code ch. 15.1-09 – School Boards (full chapter PDF), incl. § 15.1-09-34 (Contracts by school boards – Bids – Penalty)",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c09.pdf",
+      "codeCurrency": "Official North Dakota Legislative Branch online Century Code publication; chapter PDF as currently posted.",
+      "fieldsSupported": "Rebid Required (corroborates that the general $50,000 school-district sealed-bid rule does NOT apply to school transportation services purchased under § 15.1-30-11); Statutory Citation (general bidding exemption)",
+      "relevantText": "§ 15.1-09-34(1): \"Except as provided in this section, the board of a school district may not enter a contract involving the expenditure of an aggregate amount greater than fifty thousand dollars unless the school board has given ten days' notice by publication… received sealed bids, and accepted the bid of the lowest responsible bidder. This section does not apply to contracts for: … g. School transportation services purchased under section 15.1-30-11. …\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute (chapter index)",
+      "citation": "N.D. Cent. Code Chapter 15.1-30 – official chapter index (HTML)",
+      "officialUrl": "https://ndlegis.gov/cencode/t15-1c30.html",
+      "codeCurrency": "Section listing matches the PDF chapter (§§ 15.1-30-01 through 15.1-30-15); used to confirm no section has been added or repealed beyond what the PDF shows.",
+      "fieldsSupported": "Code currency / structural confirmation for Fields 1–4",
+      "relevantText": "Lists sections 15.1-30-01 (Transportation or meals and lodging – Options of school board) through 15.1-30-15 (Transportation services to nonpublic students – Joint provision of transportation services), exactly matching the PDF.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute (state procurement code; out of scope but examined)",
+      "citation": "N.D. Cent. Code ch. 54-44.4 – State Purchasing Practices (full chapter PDF)",
+      "officialUrl": "https://ndlegis.gov/cencode/t54c44-4.pdf",
+      "codeCurrency": "Official North Dakota Legislative Branch online Century Code publication.",
+      "fieldsSupported": "Rebid Required (negative result: chapter applies to state executive-branch agencies and institutions, not to school districts; does not reach school transportation contracts)",
+      "relevantText": "§ 54-44.4-01: \"It is state policy to provide comprehensive purchasing services… wherein, through full competition with fair and equal opportunity to all qualified persons to sell to the state, each state agency and institution shall obtain its necessary commodities and services…\" § 54-44.4-02(1): \"The office of management and budget shall purchase or lease or otherwise arrange for the procurement, for all state agencies and institutions in the executive branch of state government, all materials, furniture, fixtures, printing, insurance, services, and other commodities.…\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Official state-education-department guidance",
+      "citation": "North Dakota Department of Public Instruction – Transportation page (Student Transportation Sample Agreement implementing N.D.C.C. § 15.1-30-07)",
+      "officialUrl": "https://www.nd.gov/dpi/districtsschools/finance-operations/transportation",
+      "codeCurrency": "Statewide template page maintained by DPI; references N.D.C.C. § 15.1-30-07 and a Sample Agreement docx download.",
+      "fieldsSupported": "District-Level Interpretation Variance (uniform statewide template suggests but does not establish uniform application); Statutory Citation supporting authority",
+      "relevantText": "\"Transportation Sample Agreement – In accordance with NDCC 15.1-30-07, the agency drafted a standard transportation contract. This is meant to be a template with suggested areas and language, not an all-inclusive final contract.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - District policy manual citing controlling state statutes",
+      "citation": "Dickinson Public School District policy exhibit HCAA-E – Purchasing Laws for Schools (adopted 03/30/2021)",
+      "officialUrl": "https://campussuite-storage.s3.amazonaws.com/prod/1559052/0c0088e8-2359-11eb-967e-0a78a2f94121/2339477/6912c854-3cc4-11ec-a24d-0e0c4f519a2d/file/HCAA-E-Purchasing-Laws-for-Schools1.pdf",
+      "codeCurrency": "District policy exhibit referencing then-current state statutes; not authority itself, but a district-level recitation of the controlling state framework.",
+      "fieldsSupported": "District-Level Interpretation Variance (single data point; uniform recitation consistent with the statewide framework, but a single district does not establish statewide uniformity).",
+      "relevantText": "Recites § 15.1-09-34 verbatim, including exemption (g) for 'School transportation services purchased under section 15.1-30-11,' and identifies the controlling transportation-services authority as '15.1-30-06, 15.1-30-11, and 15.1-30-12.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 - Secondary pathfinder used only to locate official text",
+      "citation": "Justia: N.D. Cent. Code Title 15.1, Chapter 15.1-30 (2024) – Transportation of Students",
+      "officialUrl": "https://law.justia.com/codes/north-dakota/title-15-1/chapter-15-1-30/",
+      "codeCurrency": "Labeled '2024 North Dakota Century Code' by Justia; used only to confirm the same section content currently posted by the official ND Legislative Branch site.",
+      "fieldsSupported": "Cross-check / pathfinder only; NOT cited as authority.",
+      "relevantText": "Mirrors the official chapter text including the 7-year cap in § 15.1-30-06(2) and the renewal-by-direct-negotiation mechanism in § 15.1-30-11.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Stage 2 began by re-opening every Stage 1 official URL (chs. 15.1-30, 15.1-32 PDFs and the chapter index HTML; the DPI Transportation page) to confirm verbatim text. Adversarial challenges then expanded the search to (i) the state procurement code (ch. 54-44.4) to test whether it reaches school districts; (ii) the general school-board contracting statute (ch. 15.1-09, esp. § 15.1-09-34) to test whether a general procurement statute imposes additional bidding rules on transportation; (iii) the 69th (2025) Legislative Assembly bill index and Elementary and Secondary Education session-laws compilation for amendments to §§ 15.1-30-06, -11, -12, 15.1-32-16, 15.1-09-34; (iv) the N.D. Attorney General opinions and DPI bulletins for any opinion construing ch. 15.1-30; and (v) at least one district policy manual (Dickinson PSD HCAA-E) for variance evidence.",
+    "queriesThatMattered": [
+      "firecrawl_scrape https://ndlegis.gov/cencode/t15-1c30.pdf (full chapter re-read)",
+      "firecrawl_scrape https://ndlegis.gov/cencode/t15-1c32.pdf (full chapter re-read; § 15.1-32-16 verbatim)",
+      "firecrawl_scrape https://ndlegis.gov/cencode/t54c44-4.pdf (state procurement scope check)",
+      "firecrawl_scrape https://ndlegis.gov/cencode/t15-1c09.pdf (§ 15.1-09-34 verbatim)",
+      "firecrawl_scrape https://www.nd.gov/dpi/districtsschools/finance-operations/transportation",
+      "firecrawl_search '15.1-30-06 OR 15.1-30-11 OR 15.1-30-12 amendment 2025 North Dakota Legislative Assembly bill' (site:ndlegis.gov)",
+      "firecrawl_search 'North Dakota Century Code Title 54 chapter 44.4 procurement school district transportation contract'",
+      "firecrawl_search 'North Dakota attorney general opinion school bus transportation contract bidding renewal'",
+      "firecrawl_search '15.1-30 North Dakota 2025 or 2023 session law amendment school transportation contract' (site:ndlegis.gov, sos.nd.gov)",
+      "firecrawl_search '48-01.2 North Dakota public improvement school district transportation services'"
+    ],
+    "codeCurrency": "Primary citation source is the North Dakota Legislative Branch's official Century Code PDFs (chs. 15.1-30, 15.1-32, 15.1-09, 54-44.4 at ndlegis.gov/cencode). No internal 'current through' stamp is displayed on the chapter PDFs, but (i) the official chapter index pages list the same section structure as the PDFs; (ii) ch. 15.1-32 shows repealer notations through S.L. 2023, indicating at least post-68th-Assembly compilation; and (iii) targeted searches for 2025 (69th Assembly) amendments to §§ 15.1-30-06, -11, -12, 15.1-32-16, 15.1-09-34 returned no hits.",
+    "adminCodeCurrency": "Administrative provisions relevant to school buses appear at N.D. Admin. Code art. 67-12 (Standards for Schoolbuses) and 67-23 (Special Education funding); neither sets contract-term, rebid, or renewal rules separate from N.D.C.C. ch. 15.1-30. No conflicting administrative-code provision located.",
+    "sessionLawCheck": "Searched the 69th Legislative Assembly (2025) bill index and the Elementary and Secondary Education session-laws compilation (ndlegis.gov/assembly/69-2025/session-laws/documents/ELEMN.pdf) for any bill amending N.D.C.C. §§ 15.1-30-06, 15.1-30-11, 15.1-30-12, 15.1-32-16, or 15.1-09-34. No amendment to these sections was located. HB 1214 (2025) was identified as relating to the transportation-payment weighting/funding formula in ch. 15.1-27 (references § 15.1-30-02) — a funding-payment matter, not a contracting/term/rebid amendment. HB 1269 (2025) amended §§ 54-44.4-02 and 54-44.6-02 (state-agency procurement exemptions) — outside school-district scope. No 2023 (68th) or 2025 (69th) session law was found altering the 7-year cap or the § 15.1-30-11 renewal mechanism.",
+    "conflictChecks": "Tested potential conflicts with (a) ch. 54-44.4 (state purchasing): chapter scope is state executive-branch agencies and institutions; does not reach school districts. (b) Ch. 15.1-09 (school boards) § 15.1-09-34: general $50,000 sealed-bid rule for school-district contracts is EXPRESSLY INAPPLICABLE to 'School transportation services purchased under section 15.1-30-11' — reinforcing, not contradicting, ch. 15.1-30 as the exclusive contracting framework. (c) Ch. 48-01.2 (public improvements): governs construction, not transportation services; inapplicable. (d) Ch. 15.1-32 (special education): does not set separate contracting rules — supplies duty/cost framework only. No authoritative conflict located.",
+    "negativeSearchPaths": [
+      "District-Level Interpretation Variance: searched the N.D. Office of Attorney General opinions search (attorneygeneral.nd.gov), N.D. Department of Public Instruction Transportation page (nd.gov/dpi/districtsschools/finance-operations/transportation), Dickinson Public School District policy HCAA-E, and Google site searches restricted to ndlegis.gov / nd.gov for 'school bus contract bidding renewal'; no AG opinion or DPI bulletin construing §§ 15.1-30-06/-11/-12 in conflicting ways across districts was located. A second contrasting district policy manual was not located on the open web at a public official URL.",
+      "Session-law amendments: 69th (2025) and 68th (2023) ND Legislative Assembly bill indexes searched for amendments to §§ 15.1-30-06, 15.1-30-11, 15.1-30-12, 15.1-32-16, 15.1-09-34; none located.",
+      "Statutory carve-outs: searched ch. 15.1-30 for 'sole source,' 'emergency,' 'cooperative,' 'piggyback,' 'waiver,' 'notwithstanding,' 'extension,' 'option,' 'evergreen,' 'CPI,' 'fuel escalator,' 'maximum,' 'number of renewals'; only § 15.1-30-09 (limited emergency vehicle/operator substitution) and § 15.1-30-11 (renewal-by-direct-negotiation) located. No other carve-out."
+    ]
+  }
+}

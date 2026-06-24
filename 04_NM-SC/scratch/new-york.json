@@ -1,0 +1,382 @@
+{
+  "state": "New York",
+  "fields": {
+    "maxContractTerm": {
+      "value": "5 years (single award term) with extensions permitted up to a 10-year practical ceiling. Education Law § 1709(27) (UFSD boards of education), § 1604(23) (common-school-district trustees), and § 2503(12) (city school districts under 125,000) each authorize a transportation contract for a period 'not exceeding five years' when authorized by district voters. Education Law § 305(14)(a) then permits annual, biennial, triennial, quadrennial, or quinquennial extensions of a competitively-bid or RFP-awarded transportation contract without re-bidding, but vests the commissioner with statutory authority 'to reject any extension of a contract after ten years from the date transportation or maintenance service commenced thereunder.' Net effect documented by NYSED P-12 guidance: an initial competitive-award term of up to 5 years followed by extensions, with the 10-year-from-commencement point marking the statutory threshold at which the commissioner is empowered (and may, in his or her discretion, decline) to reject further extensions. (Note: the separate '5 years from the date cafeteria and restaurant service commenced' clause within § 305(14)(a) is a cafeteria/restaurant-services constraint and is not the operative limit for pupil-transportation contracts.)",
+      "citation": "N.Y. Education Law § 305(14)(a) (extension authority and commissioner power to reject any extension after 10 years from commencement of transportation or maintenance service); § 1709(27) (UFSD boards: 'every such contract of transportation may be made for a period not exceeding five years'); § 1604(23) (common-school-district trustees, same five-year cap with voter approval); § 2503(12) (city school districts under 125,000: 'Any such contract may be made for a period of not exceeding five years, notwithstanding any provision of any charter or other provision of law inconsistent herewith').",
+      "sourceTier": "1 (codified state statute)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/305"
+    },
+    "rebidRequired": {
+      "value": "Conditional. At the end of the initial competitively-awarded term (up to 5 years), a full competitive rebid is NOT required if the district elects to take an annual/biennial/triennial/quadrennial/quinquennial extension of a contract originally let by competitive bid or RFP, per Education Law § 305(14)(a) ('The requirement for competitive bidding shall not apply to annual, biennial, or triennial extensions of a contract nor shall the requirement for competitive bidding apply to quadrennial or quinquennial year extensions of a contract involving transportation of pupils ... when such extensions are made by the board of education or the trustee of a district, under rules and regulations prescribed by the commissioner'). 8 NYCRR § 156.5(b) corollary: 'Only contracts awarded in accordance with the competitive bidding requirements of subdivision 14 of section 305 of the Education Law may be extended.' Once 10 years have passed from commencement of service the commissioner may reject any further extension and 'order the board of education or trustee of the district to seek, obtain and consider bids' (§ 305(14)(a)); when the contract is let to expire the district must run a new competitive process - either sealed competitive bidding to the lowest responsible bidder under § 305(14)(a) or an RFP evaluated under § 305(14)(e)-(f) and 8 NYCRR § 156.12 - for any contract whose annual expenditure exceeds the General Municipal Law § 103 purchase-contract threshold ($20,000). Multi-year (2-5 year) initial awards additionally require voter approval (Ed. Law §§ 1709(27), 1604(23), 2503(12); NYSED Paperless Pupil Transportation guidance specifies '2/3/4/5 YEAR TERM - Must be bid and have voter approval').",
+      "citation": "N.Y. Education Law § 305(14)(a), (e), (f); 8 NYCRR § 156.5(b); 8 NYCRR § 156.12; N.Y. Education Law §§ 1709(27), 1604(23), 2503(12); N.Y. General Municipal Law § 103 (purchase-contract bidding threshold).",
+      "sourceTier": "1 (codified state statute) and 2 (administrative regulation)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/305"
+    },
+    "renewalMechanics": {
+      "value": "Renewal without rebid permitted in 1-, 2-, 3-, 4-, or 5-year extension increments of a contract originally let by competitive bid or RFP, with the following statutory/regulatory mechanics: (i) Each extension is filed on a commissioner-prescribed form and is subject to commissioner approval (8 NYCRR § 156.5(a); Ed. Law § 305(14)(a)). (ii) The commissioner may reject any extension if the proposed annual payment fails to reflect any decrease in the regional CPI-U for the N.Y., N.Y.-Northeastern, N.J. area during the preceding 12-month period, and may reject any extension after 10 years from commencement of service (Ed. Law § 305(14)(a)). (iii) The board 'may, in its discretion, increase the amount to be paid in each year of the contract extension by an amount not to exceed the regional consumer price index increase' for the same area, provided the contractor satisfactorily establishes at least an equivalent increase in cost of operation (Ed. Law § 305(14)(a)); 8 NYCRR § 156.5(c) caps the CPI window at the 12-month period ending May 31 immediately preceding commencement of the extension. (iv) Above-CPI increases are permitted only for documented actual costs of: criminal-history/driver-licensing testing fees under Vehicle and Traffic Law arts. 19 & 19-A; for districts in cities of 1M+, clean-air-technology filters and GPS; school-bus-attendant costs (NYC, FY 2005-06 onward); and equipment, vehicle-modification, or training costs required by state or local law on or after June 1, 2005 (Ed. Law § 305(14)(c)). (v) Emergency interim contracts up to one month are allowed without bidding for 'any emergency arising out of an accident or other unforeseen occurrence' (Ed. Law § 305(14)(b)). (vi) Piggyback contracts with another district's existing private-contractor contract are permitted notwithstanding GML § 103, where the board adopts a resolution finding the contract cost appropriate and that the piggyback will result in cost savings (Ed. Law § 305(14)(g); NYSED Piggyback Contract Guidance (Revised 2023)). (vii) Safety-/legal-compliance amendments to active contracts permitted under Ed. Law § 305(14)(d) subject to commissioner approval (provision scheduled for repeal January 1, 2028 per § 305(14)(d) sunset). No automatic-rollover/evergreen authority exists; each extension is a discretionary act by the board on a commissioner-prescribed form, with commissioner approval as the gate.",
+      "citation": "N.Y. Education Law § 305(14)(a)-(d), (g); 8 NYCRR § 156.5(a)-(e); NYSED 'Pupil Transportation Piggyback Contract Guidance' (Revised 2023).",
+      "sourceTier": "1 (codified state statute), 2 (administrative regulation), and 4 (official SED guidance citing the statute)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/305"
+    },
+    "statutoryCitation": {
+      "value": "Primary transportation-specific procurement statute: N.Y. Education Law § 305(14), subdivisions (a)-(g). Term-length statutes: § 1709(27) (UFSD boards), § 1604(23) (common school districts), § 2503(12) (city school districts under 125,000). Contract-form statute: § 3625 (transportation contracts must be in writing on commissioner-prescribed form and filed within 120 days of commencement of service). Implementing regulations: 8 NYCRR Part 156, especially §§ 156.1 (application/filing deadlines), 156.5 (annual extensions), 156.11 (cost determinations), and 156.12 (RFP awards). Cross-referenced procurement statute: General Municipal Law § 103 (purchase-contract bid threshold currently $20,000, cross-referenced inside § 305(14)(a) to determine when competitive bidding is required).",
+      "citation": "N.Y. Education Law § 305(14); § 1709(27); § 1604(23); § 2503(12); § 3625; 8 NYCRR §§ 156.1, 156.5, 156.11, 156.12; N.Y. General Municipal Law § 103.",
+      "sourceTier": "1 (codified state statute) and 2 (administrative regulation)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/305"
+    },
+    "districtVariance": {
+      "value": "Yes. The same § 305(14) framework is applied very differently in New York City than in the rest of the state. NYC Department of Education school-bus contracts (transporting ~145,000-150,000 students) have not been competitively rebid since the 1970s; the City has instead negotiated successive extensions of the original 1979-era contracts containing Employee Protection Provisions (EPPs). In Matter of L&M Bus Corp. v. New York City Dept. of Educ., 17 N.Y.3d 149 (N.Y. Court of Appeals 2011), the Court of Appeals held that the EPPs in a NYC DOE bid solicitation could not survive heightened scrutiny under the competitive-bidding regime implicated by Education Law § 305(14) (and parallel public-bidding law) because DOE had not proven the EPPs were designed to save the public money, encourage robust competition, or prevent favoritism - effectively preventing the City from issuing new bids that retain the EPPs and creating the procurement deadlock that has driven continuous extension since. In October-November 2025 the contracts were extended on a 30-day emergency basis under Ed. Law § 305(14)(b) and then, on November 19, 2025, the Panel for Educational Policy approved an extension of approximately three years (terminating June 30, 2028); the City had sought a five-year extension but the Panel rejected it. By contrast, outside NYC, NYSED's 'Paperless Pupil Transportation' guidance and SED contract-form workflow assume the standard cycle (initial bid/RFP for up to 5 years with voter approval, followed by annual/multi-year extensions subject to the 10-year commissioner-rejection threshold), and SED's Pupil Transportation Unit reviews and approves each contract and extension. The NYC pattern (Court-of-Appeals-litigated EPP barrier plus continuous emergency/long-term extensions) is sui generis to the City; other districts operate within the § 305(14) framework.",
+      "citation": "Matter of L&M Bus Corp. v. New York City Dept. of Educ., 17 N.Y.3d 149 (2011); NYC Comptroller, 'Letter to Mayor Eric Adams Re: Long term extensions for NYC school bus contracts' (2025); Chalkbeat NY, 'NYC ends school busing saga, education panel votes to extend three-year contract' (Nov. 20, 2025); NYSED Pupil Transportation Unit guidance (Paperless Pupil Transportation, April 19, 2023).",
+      "sourceTier": "Mixed - Court of Appeals decision (binding judicial authority) plus contemporaneous public-record reporting and NYSED guidance",
+      "officialUrl": "https://www.nycourts.gov/Reporter/3dseries/2011/2011_05114.htm"
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No (same procurement framework). Yes (one procedural deadline differs).",
+    "explanation": "Special-education / IEP-mandated / McKinney-Vento pupil transportation contracts are awarded under the SAME statutory framework as regular pupil transportation: Education Law § 305(14) competitive bidding or RFP, the same five-year initial-term cap and extension regime, and the same 8 NYCRR Part 156 approval and CPI-extension rules. NYSED's contract-type taxonomy in the 'Paperless Pupil Transportation' guidance (April 19, 2023) lists 'Special Education Only' (SPC) and 'Regular & Special Education Pupils Combined' (RSC) as contract subtypes under the standard TC / TCE / TCS / CES forms - not under a separate statutory regime. Education Law § 4402(2)(4) (duties of school boards for children with disabilities) empowers boards to contract with municipalities, BOCES, public authorities, or private contractors meeting § 3623 standards, but it does not establish any distinct procurement rule, contract-term cap, or rebid mechanism - it defers to the general § 305(14) / § 3623 framework. The one documented procedural difference: under 8 NYCRR §§ 156.1 and 156.12, the advertisement-for-bids deadline (and RFP-solicitation deadline) for general pupil transportation is June 1 for the following school year, but is extended to July 1 for 'transportation of children with disabilities.' Federal IDEA and McKinney-Vento mandate the duty to provide transportation as a related service and the eligibility of certain students; they do not alter the New York state contract/procurement rules, which remain Ed. Law § 305(14) and Part 156.",
+    "citation": "8 NYCRR § 156.1; 8 NYCRR § 156.12; NYSED 'Paperless Pupil Transportation' (April 19, 2023); N.Y. Ed. Law § 4402(2)(4); N.Y. Ed. Law § 3623."
+  },
+  "verdicts": {
+    "maxContractTerm": {
+      "verdict": "confirmed",
+      "note": "Re-verified on NYS Senate Open Legislation: § 1709(27), § 1604(23), § 2503(12) each contain the 'not exceeding five years' cap with voter authorization. § 305(14)(a) re-verified on the NYS Senate text and on NYSED's official EL305.14 page: it authorizes annual-quinquennial extensions of a competitively bid/RFP contract and explicitly empowers the commissioner 'to reject any extension of a contract after ten years from the date transportation or maintenance service commenced thereunder.' The companion 'five years from the date cafeteria and restaurant service commenced' clause in § 305(14)(a) is a cafeteria/restaurant-services constraint (not pupil transportation); the 10-year-from-commencement language is the operative ceiling for transportation extensions and is consistent with NYSED's contract-cycle guidance."
+    },
+    "rebidRequired": {
+      "verdict": "confirmed",
+      "note": "Re-verified. § 305(14)(a)'s exemption from competitive bidding for annual/biennial/triennial/quadrennial/quinquennial extensions of a competitively-bid or RFP-awarded transportation contract is express; 8 NYCRR § 156.5(b) (confirmed on NYSED P-12) limits eligibility for extension to contracts awarded under § 305(14). GML § 103 re-verified on NYS Senate at $20,000 purchase-contract threshold. NYSED 'Paperless Pupil Transportation' (April 19, 2023) PDF text was extracted and verifies: '2/3/4/5 YEAR TERM - Must be bid and have voter approval.' No disconfirming exception authority surfaced (sole-source/emergency procurement, cooperative purchasing, board waiver, etc., are addressed in or consistent with § 305(14) or do not override the bidding-or-RFP requirement)."
+    },
+    "renewalMechanics": {
+      "verdict": "confirmed",
+      "note": "Each mechanic re-verified against original source: (a) commissioner-prescribed-form filing and commissioner approval per 8 NYCRR § 156.5(a); (b) CPI-U ceiling and May 31 trailing-12-month window per § 305(14)(a) and 8 NYCRR § 156.5(c); (c) above-CPI carve-outs per § 305(14)(c); (d) emergency one-month interim contracts per § 305(14)(b) (re-verified on NYSED EdLaw30514b page); (e) piggyback authority per § 305(14)(g) and NYSED Piggyback Contract Guidance (revised 2023, PDF text extracted and verified verbatim); (f) safety/legal-compliance amendments per § 305(14)(d) (re-verified - provision scheduled for repeal January 1, 2028). No automatic-rollover/evergreen authority identified."
+    },
+    "statutoryCitation": {
+      "verdict": "confirmed",
+      "note": "Every primary citation re-opened and confirmed on official sources (NYS Senate Open Legislation for the Education Law and General Municipal Law sections; NYSED P-12 for 8 NYCRR Part 156 sections). Cross-reference between § 305(14)(a) and GML § 103 confirmed."
+    },
+    "districtVariance": {
+      "verdict": "confirmed",
+      "note": "L&M Bus Corp. holding re-verified: the New York Court of Appeals held EPPs in NYC bus solicitations were subject to heightened scrutiny and that DOE failed to prove they served the public-bidding purposes - the case is binding and is the contemporaneously-cited reason NYC has not competitively rebid. November 19, 2025 PEP approval of a ~3-year extension (after rejecting a 5-year request) re-verified via Chalkbeat (Nov 20, 2025) and NYC Comptroller materials. NYC pattern is sui generis; rest of state operates within § 305(14). Stage 1 had cited an outdated 2008 Justia URL for the Court of Appeals decision; replaced with the official NY Courts Reporter URL (https://www.nycourts.gov/Reporter/3dseries/2011/2011_05114.htm) for the 2011 Court of Appeals decision."
+    },
+    "specialEducation": {
+      "verdict": "confirmed",
+      "note": "§ 4402(2)(4) re-verified on NYS Senate: it empowers boards to contract for children-with-disabilities transportation but defers to § 3623 standards and does not create a separate procurement regime. The June 1 (general) / July 1 (children with disabilities) advertisement-and-RFP-solicitation deadlines re-verified on both 8 NYCRR § 156.1 and § 156.12 official NYSED pages. NYSED Paperless guidance confirms SPC and RSC contract subtypes use the same TC / TCE / TCS / CES forms as REG, supporting the 'same framework' conclusion."
+    }
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term: 5 years initial + extensions to 10-year practical ceiling",
+      "disconfirmingHypothesis": "(a) The '5 years from the date cafeteria and restaurant service commenced thereunder' clause inside § 305(14)(a) is in fact the operative ceiling for transportation contracts; or (b) some other Education Law provision authorizes longer initial transportation contracts; or (c) the 10-year clause does not function as a practical ceiling because the commissioner's rejection is purely discretionary.",
+      "challengeSearches": "Re-read § 305(14)(a) on NYS Senate and on NYSED's EL305.14 official page; cross-checked § 1709(27), § 1604(23), § 2503(12); searched 'New York transportation contract more than five years longer term exception'; searched NYSED Paperless PDF for any '10 years' or longer-ceiling language.",
+      "result": "Hypothesis (a) rejected: the cafeteria/restaurant language is a separate sub-clause distinct from the transportation/maintenance extension regime; (b) rejected: no Education Law provision extends initial transportation contract terms beyond 5 years (voter-authorized); (c) partially supported in principle but not in practice - the rejection power is discretionary, but the 10-year-from-commencement marker is the statutory hinge, and NYSED guidance treats the cycle as 'initial up to 5 + extensions through 10.'",
+      "confidenceImpact": "No downgrade. Finding stands as confirmed with explicit notation that the 10-year ceiling is a discretionary-rejection trigger, not a hard cap."
+    },
+    {
+      "findingChallenged": "Rebid Required at Term-End: Conditional (no rebid for in-scope extensions; required at expiration when extension is not taken)",
+      "disconfirmingHypothesis": "An exception (sole-source, emergency, cooperative purchasing, board waiver, small-purchase threshold, negotiated procurement) permits the district to skip the rebid even when no statutory extension is taken; or, alternatively, competitive bidding is in fact mandatory at the end of the initial term notwithstanding § 305(14)(a)'s extension exemption.",
+      "challengeSearches": "Searched 'school bus contract renewal without bidding exception sole source New York'; reviewed § 305(14)(b) emergency contracts (capped at one month); reviewed § 305(14)(g) piggyback (only for transportation to a location outside the district's residence where another district already provides); reviewed GML § 103 small-purchase threshold ($20,000); searched 8 NYCRR § 156.5(b) for any waiver path.",
+      "result": "Hypothesis rejected. The only departures from competitive bidding are: (i) the § 305(14)(a) extension regime; (ii) the § 305(14)(b) 1-month emergency contract; (iii) the § 305(14)(g) piggyback channel; and (iv) below-GML-§ 103-threshold contracts (<= $20,000 annual). No general sole-source or evergreen exception exists.",
+      "confidenceImpact": "No downgrade."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics: CPI-U cap, commissioner approval, no automatic rollover",
+      "disconfirmingHypothesis": "Automatic rollover or evergreen renewal is authorized somewhere in Ed. Law or 8 NYCRR Part 156; or CPI cap can be exceeded outside the § 305(14)(c) carve-outs; or board approval (not commissioner approval) is the controlling gate; or there is a numeric limit on the number of successive extensions short of 10 years.",
+      "challengeSearches": "Re-read § 305(14)(a)-(d) and 8 NYCRR § 156.5(a)-(e); searched 'evergreen renewal pupil transportation New York'; checked NYSED P-12 contracts page for rollover language; reviewed NYSED Piggyback guidance for renewal interplay.",
+      "result": "No automatic-rollover authority found. CPI cap stands except for the four enumerated carve-outs in § 305(14)(c). Commissioner approval is statutory and regulatory (Ed. Law § 305(14)(a); 8 NYCRR § 156.5(a)). No numeric cap on successive extensions below the 10-year mark - the 10-year-from-commencement statutory hinge is the gate.",
+      "confidenceImpact": "No downgrade."
+    },
+    {
+      "findingChallenged": "Statutory Citation: § 305(14), § 1709(27), § 1604(23), § 2503(12), § 3625, 8 NYCRR Part 156, GML § 103",
+      "disconfirmingHypothesis": "A 2024-2026 amendment to § 305(14) or Part 156 changes the citation or substance; or a different / additional statute (e.g., State Finance Law) controls; or one of the citations was misnumbered or repealed.",
+      "challengeSearches": "Searched NYS Senate / Assembly bill databases for 2025-26 session amendments to Ed. Law § 305 and Part 156; searched NYSED Office of Counsel for Part 156 rule revisions 2024-2025; ran 'Education Law 305(14) amendments 2024 2025 session law transportation contract chapter'; confirmed § 305(14) currency on NYS Senate display.",
+      "result": "Bill S9289 (2025-26 session) proposes adding paragraph (h) on piggyback variants but was not enacted as of 2026-06-24 and does not alter the existing (a)-(g) framework. No other amendments to § 305(14) or Part 156 since the July 14, 2020 Part 156 revision. Sunset of § 305(14)(d) (safety/legal-compliance amendments) remains scheduled for repeal January 1, 2028.",
+      "confidenceImpact": "No downgrade."
+    },
+    {
+      "findingChallenged": "District Variance: Yes - NYC is sui generis under L&M Bus Corp.",
+      "disconfirmingHypothesis": "(a) L&M Bus Corp. did not in fact restrict NYC from rebidding; (b) the November 2025 extension was a 5-year extension (not 3-year); (c) the 1979-origin / EPP narrative is overstated and other districts also avoid competitive rebid by similar mechanisms.",
+      "challengeSearches": "Re-opened Court of Appeals reporter URL (NY Courts Reporter and FindLaw description); cross-checked NYC Comptroller letter and Chalkbeat (Nov 20, 2025); searched for analogous extension patterns outside NYC ('school district transportation contract not rebid since 1979 New York non-NYC').",
+      "result": "(a) Rejected - the Court of Appeals held the EPPs in DOE's solicitation failed heightened scrutiny under public-bidding standards. (b) Rejected - both Chalkbeat and Comptroller materials confirm the PEP approved a ~3-year extension on Nov 19, 2025 after rejecting a 5-year request, terminating June 30, 2028. (c) Rejected - no comparable non-NYC pattern of continuous extension under EPP barriers identified; districts in the rest of the state operate within the § 305(14) cycle and SED P-12 review.",
+      "confidenceImpact": "No downgrade."
+    },
+    {
+      "findingChallenged": "Special-Education differentiation: Same procurement framework; only procedural difference is the July 1 RFP-solicitation deadline",
+      "disconfirmingHypothesis": "(a) § 4402, § 4405, or a McKinney-Vento implementing rule establishes a separate procurement regime for SPED transportation contracts; (b) a different max term, renewal mechanism, or rebid rule applies to SPED contracts.",
+      "challengeSearches": "Re-read § 4402 on NYS Senate; cross-checked NYSED Paperless guidance (SPC/RSC contract-type listing); searched '4402 4405 special education transportation contract procurement separate'; reviewed § 156.1 and § 156.12 for any additional SPED carve-out beyond July 1 deadline.",
+      "result": "Hypothesis rejected. § 4402(2)(4) empowers boards to contract with municipalities, BOCES, public authorities, or private contractors meeting § 3623 standards but defers to the general procurement framework. The only documented procedural difference is the July 1 advertisement-for-bids / RFP-solicitation deadline for contracts serving children with disabilities (8 NYCRR § 156.1 and § 156.12).",
+      "confidenceImpact": "No downgrade."
+    }
+  ],
+  "sourcesReverified": [
+    {
+      "citation": "N.Y. Education Law § 305(14)(a)-(g)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/305",
+      "status": "re-verified",
+      "note": "NYS Senate Open Legislation display re-opened; statutory text on competitive bidding, annual/biennial/triennial/quadrennial/quinquennial extensions, 10-year commissioner rejection power, CPI-U mechanics, emergency 1-month interim contracts, RFP alternative, and piggyback contracts all present as Stage 1 cited."
+    },
+    {
+      "citation": "N.Y. Education Law § 1709(27)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/1709",
+      "status": "re-verified",
+      "note": "'every such contract of transportation may be made for a period not exceeding five years' confirmed."
+    },
+    {
+      "citation": "N.Y. Education Law § 1604(23)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/1604",
+      "status": "re-verified",
+      "note": "Same five-year cap with voter-authorization requirement confirmed."
+    },
+    {
+      "citation": "N.Y. Education Law § 2503(12)",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/2503",
+      "status": "re-verified",
+      "note": "'Any such contract may be made for a period of not exceeding five years, notwithstanding any provision of any charter or other provision of law inconsistent herewith' confirmed."
+    },
+    {
+      "citation": "N.Y. Education Law § 3625",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/3625",
+      "status": "re-verified",
+      "note": "Written-form, commissioner-prescribed-form, 120-day filing requirement confirmed."
+    },
+    {
+      "citation": "8 NYCRR § 156.5 (Annual extensions of transportation contracts)",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/regulations/html/section156.5_annual_extensions_of_transportation_contracts.html",
+      "status": "re-verified",
+      "note": "Subdivisions (a) form/filing, (b) competitive-bidding eligibility, (c) CPI-U cap with May 31 12-month window, and (d) recordkeeping confirmed."
+    },
+    {
+      "citation": "8 NYCRR § 156.12 (Transportation contracts awarded through an RFP)",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/regulations/html/section156.12_transportation_contracts_awarded_through_a_request_for_proposals.html",
+      "status": "re-verified",
+      "note": "June 1 / July 1 (children with disabilities) RFP solicitation deadlines, 10 evaluation criteria, 50% single-criterion weight cap confirmed."
+    },
+    {
+      "citation": "8 NYCRR § 156.1 (Applications, contracts and other information to be filed)",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/regulations/html/section156.1_applications_contracts_and_other_information_to_be_filed.html",
+      "status": "re-verified",
+      "note": "June 1 / July 1 (children with disabilities) advertisement-for-bids deadlines and 120-day filing window confirmed. Cornell LII mirror used only as a pathfinder; the NYSED P-12 page is the official authority and is recorded as the citation URL."
+    },
+    {
+      "citation": "N.Y. General Municipal Law § 103",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/GMU/103",
+      "status": "re-verified",
+      "note": "$20,000 purchase-contract bidding threshold confirmed; two-version structure (current through June 1, 2028 and post-June-1-2028) confirmed."
+    },
+    {
+      "citation": "N.Y. Education Law § 4402",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/4402",
+      "status": "re-verified",
+      "note": "§ 4402(2)(4) empowers boards to contract for children-with-disabilities transportation but defers to § 3623 standards; no distinct procurement regime."
+    },
+    {
+      "citation": "NYSED 'Paperless Pupil Transportation' (April 19, 2023)",
+      "officialUrl": "https://www.nysed.gov/sites/default/files/programs/pupil-transportation/sed-paperless-pupil-transportation-4.19.23.pdf",
+      "status": "re-verified",
+      "note": "PDF downloaded and text-extracted via pdftotext: '2 YEAR TERM Must be bid and have voter approval. 3 YEAR TERM Must be bid and have voter approval. 4 YEAR TERM Must be bid and have voter approval. 5 YEAR TERM Must be bid and have voter approval.' Contract-type taxonomy (REG, SPC, RSC, PGC, ATC, FTC, EM*, etc.) confirmed; TC/TCE/TCS/CES forms and naming conventions confirmed."
+    },
+    {
+      "citation": "NYSED 'Pupil Transportation Piggyback Contract Guidance' (Revised 2023)",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/contracts/pdf/piggyback-contract-guidance-revised-2023.pdf",
+      "status": "re-verified",
+      "note": "PDF downloaded and text-extracted via pdftotext: confirms three-prong eligibility under § 305(14)(g), and the statement 'A piggyback contract differs in that it is not subject to the $20,000 aggregate threshold or bidding requirements pursuant to General Municipal Law §103.'"
+    },
+    {
+      "citation": "Matter of L&M Bus Corp. v. New York City Dept. of Educ., 17 N.Y.3d 149 (2011)",
+      "officialUrl": "https://www.nycourts.gov/Reporter/3dseries/2011/2011_05114.htm",
+      "status": "replaced",
+      "note": "Stage 1 cited an outdated Justia 2008 mirror URL (other-courts). Replaced with the official New York Courts Reporter URL for the 2011 NY Court of Appeals decision (2011 NY Slip Op 05114). Holding re-confirmed via WebSearch summaries and FindLaw: EPPs subject to heightened scrutiny; DOE failed to prove they serve public-bidding purposes."
+    },
+    {
+      "citation": "NYC Comptroller, 'Letter to Mayor Eric Adams Re: Long term extensions for NYC school bus contracts' (2025)",
+      "officialUrl": "https://comptroller.nyc.gov/reports/letter-to-mayor-eric-adams-re-long-term-extensions-for-nyc-school-bus-contracts/",
+      "status": "re-verified",
+      "note": "Confirms 46-year-old (1979-era) contracts, L&M Bus Corp. as the EPP barrier, and Comptroller's call to limit extensions to 1-3 years pending legislative reform."
+    },
+    {
+      "citation": "Chalkbeat NY, 'NYC ends school busing saga, education panel votes to extend three-year contract' (Nov. 20, 2025)",
+      "officialUrl": "https://www.chalkbeat.org/newyork/2025/11/20/panel-for-educational-policy-approves-three-year-school-bus-contract/",
+      "status": "re-verified",
+      "note": "Confirms unanimous PEP approval of ~3-year extension on Nov. 19, 2025, rejection of a 5-year deal, and end-of-extension date June 30, 2028. References 2011 state court decision blocking EPP-bearing rebids."
+    },
+    {
+      "citation": "NYSED P-12 'Pupil Transportation Services: Contracts'",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/contracts.html",
+      "status": "re-verified",
+      "note": "Annual vs. multi-year extension framework, three award methods (RFB / Negotiated / RFP), and voter-approval requirement for multi-year contracts confirmed."
+    }
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 (codified state statute)",
+      "citation": "N.Y. Education Law § 305(14)(a)-(g) - General powers and duties of the commissioner; transportation-contract procurement, extension regime, CPI-U mechanics, 10-year commissioner-rejection power, emergency 1-month contracts, RFP alternative, evaluation, and piggyback authority.",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/305",
+      "codeCurrency": "Current through laws posted on NYS Senate Open Legislation as of 2026-06-24.",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Renewal Mechanics; Statutory Citation; Special Education differentiation",
+      "relevantText": "Competitive bidding to lowest responsible bidder for contracts over the GML § 103 threshold; exemption from competitive bidding for annual/biennial/triennial/quadrennial/quinquennial extensions of a competitively bid or RFP contract; commissioner may reject any extension 'after ten years from the date transportation or maintenance service commenced thereunder' and order the district to seek bids; CPI-U cap; § 305(14)(b) 1-month emergency contracts; § 305(14)(g) piggyback authority; § 305(14)(d) safety/legal-compliance amendments (repealed Jan. 1, 2028).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified state statute)",
+      "citation": "N.Y. Education Law § 1709(27) - Powers and duties of UFSD boards; transportation contract may be made 'for a period not exceeding five years' when authorized by district vote.",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/1709",
+      "codeCurrency": "Current as of NYS Senate display, 2026-06-24",
+      "fieldsSupported": "Max Contract Term; Rebid Required",
+      "relevantText": "'To contract with any person, corporation or other school district for the conveyance of pupils ... every such contract of transportation may be made for a period not exceeding five years.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified state statute)",
+      "citation": "N.Y. Education Law § 1604(23) - Powers and duties of common school district trustees; same five-year cap with voter approval.",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/1604",
+      "codeCurrency": "Current as of NYS Senate display, 2026-06-24",
+      "fieldsSupported": "Max Contract Term",
+      "relevantText": "'every such contract of transportation may be made for a period not exceeding five years, notwithstanding any provision of any other law inconsistent herewith.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified state statute)",
+      "citation": "N.Y. Education Law § 2503(12) - Powers and duties of boards of education of city school districts with less than 125,000 inhabitants.",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/2503",
+      "codeCurrency": "Current as of NYS Senate display, 2026-06-24",
+      "fieldsSupported": "Max Contract Term",
+      "relevantText": "'Any such contract may be made for a period of not exceeding five years, notwithstanding any provision of any charter or other provision of law inconsistent herewith.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified state statute)",
+      "citation": "N.Y. Education Law § 3625 - Transportation contracts; form, signature, filing requirements.",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/3625",
+      "codeCurrency": "Current as of NYS Senate display, 2026-06-24",
+      "fieldsSupported": "Renewal Mechanics (form/filing); Statutory Citation",
+      "relevantText": "'Every contract for transportation of school children shall be in writing or in an electronic form approved by the commissioner when available, and shall be filed with the department within one hundred twenty days of the commencement of service.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified state statute, cross-reference)",
+      "citation": "N.Y. General Municipal Law § 103 - Purchase-contract bidding threshold ($20,000) cross-referenced by Ed. Law § 305(14)(a).",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/GMU/103",
+      "codeCurrency": "Current as of NYS Senate display, 2026-06-24",
+      "fieldsSupported": "Rebid Required; Statutory Citation",
+      "relevantText": "'all purchase contracts involving an expenditure of more than twenty thousand dollars ... shall be awarded ... to the lowest responsible bidder.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 (codified state statute)",
+      "citation": "N.Y. Education Law § 4402(2)(4) - Duties of school districts re children with disabilities; transportation-contracting authority.",
+      "officialUrl": "https://www.nysenate.gov/legislation/laws/EDN/4402",
+      "codeCurrency": "Current as of NYS Senate display, 2026-06-24",
+      "fieldsSupported": "Special Education differentiation",
+      "relevantText": "Boards 'empowered to contract for transportation services ... with any municipality, Board of Cooperative Educational Services, public authority or private contractor meeting the school bus provisions outlined in section thirty-six hundred twenty-three of this chapter...'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 (state administrative code)",
+      "citation": "8 NYCRR § 156.5 - Annual extensions of transportation contracts.",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/regulations/html/section156.5_annual_extensions_of_transportation_contracts.html",
+      "codeCurrency": "Last amended effective July 14, 2020 (NYS Register, July 29, 2020 / Vol. XLII, Iss. 30); no subsequent amendment found through 2026-06-24.",
+      "fieldsSupported": "Rebid Required; Renewal Mechanics",
+      "relevantText": "(a) form prescribed by commissioner, filed and approved; (b) only § 305(14)-compliant contracts may be extended; (c) CPI-U cap with May 31 trailing-12-month window; (d) records retained for six years.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 (state administrative code)",
+      "citation": "8 NYCRR § 156.1 - Applications, contracts, and other information to be filed.",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/regulations/html/section156.1_applications_contracts_and_other_information_to_be_filed.html",
+      "codeCurrency": "Last comprehensive amendment effective July 14, 2020",
+      "fieldsSupported": "Rebid Required; Special Education differentiation",
+      "relevantText": "Advertisement for bids by June 1 for general transportation; by July 1 for children-with-disabilities transportation; 120-day post-approval filing window.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 (state administrative code)",
+      "citation": "8 NYCRR § 156.12 - Transportation contracts awarded through a request for proposals.",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/regulations/html/section156.12_transportation_contracts_awarded_through_a_request_for_proposals.html",
+      "codeCurrency": "Last comprehensive amendment effective July 14, 2020",
+      "fieldsSupported": "Rebid Required; Renewal Mechanics; Special Education differentiation",
+      "relevantText": "10 evaluation criteria; no single criterion may exceed 50% of total weight; June 1 / July 1 (children with disabilities) RFP solicitation deadlines.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 (official state-education-department guidance citing binding authority)",
+      "citation": "NYSED 'Paperless Pupil Transportation' (April 19, 2023). Contract durations and contract-type taxonomy.",
+      "officialUrl": "https://www.nysed.gov/sites/default/files/programs/pupil-transportation/sed-paperless-pupil-transportation-4.19.23.pdf",
+      "codeCurrency": "Dated April 19, 2023; remains posted on the NYSED Pupil Transportation Unit site.",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Special Education differentiation",
+      "relevantText": "'2/3/4/5 YEAR TERM - Must be bid and have voter approval'; contract-type taxonomy (REG, SPC, RSC, PGC, ATC, FTC, EM1/EM2/EMR); TC / TCE / TCS / CES naming conventions.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 (official state-education-department guidance citing binding authority)",
+      "citation": "NYSED 'Pupil Transportation Piggyback Contract Guidance' (Revised 2023). Implementation of Ed. Law § 305(14)(g).",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/contracts/pdf/piggyback-contract-guidance-revised-2023.pdf",
+      "codeCurrency": "Revised November 2023; current SED guidance",
+      "fieldsSupported": "Renewal Mechanics (piggyback path)",
+      "relevantText": "'A piggyback contract differs in that it is not subject to the $20,000 aggregate threshold or bidding requirements pursuant to General Municipal Law §103.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 (official state-education-department guidance citing binding authority)",
+      "citation": "NYSED P-12 'Pupil Transportation Services: Contracts' page.",
+      "officialUrl": "https://www.p12.nysed.gov/schoolbus/contracts.html",
+      "codeCurrency": "Active SED guidance page",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Renewal Mechanics",
+      "relevantText": "'Two Types of Extensions: Annual Extensions = year-to-year renewal of a competitively bid contract' and 'Multi-Year Extensions = 2-5 year term contract/extension that requires voter prior approval.' '3 Ways to Award a Contract: Competitive Bid (RFB), Negotiate (Emergency/Partial/Shared Services), Request For Proposal (RFP).'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "3 (judicial decision interpreting the relevant statute)",
+      "citation": "Matter of L&M Bus Corp. v. New York City Dept. of Educ., 17 N.Y.3d 149 (2011) - Court of Appeals held that the Employee Protection Provisions in NYC DOE's bid solicitation were subject to heightened scrutiny under public-bidding standards and that DOE had not proven the EPPs serve to save the public money, encourage robust competition, or prevent favoritism.",
+      "officialUrl": "https://www.nycourts.gov/Reporter/3dseries/2011/2011_05114.htm",
+      "codeCurrency": "Decided 2011; binding precedent (verified June 2026).",
+      "fieldsSupported": "District Variance",
+      "relevantText": "EPPs analogized to Project Labor Agreements; failed heightened-scrutiny test under public-bidding-law jurisprudence implicating Ed. Law § 305(14).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 (public-record contemporaneous source documenting variance)",
+      "citation": "Office of the NYC Comptroller, 'Letter to Mayor Eric Adams Re: Long term extensions for NYC school bus contracts' (2025).",
+      "officialUrl": "https://comptroller.nyc.gov/reports/letter-to-mayor-eric-adams-re-long-term-extensions-for-nyc-school-bus-contracts/",
+      "codeCurrency": "2025",
+      "fieldsSupported": "District Variance",
+      "relevantText": "References 46-year-old (1979) NYC school-bus contracts; identifies L&M Bus Corp. as the EPP barrier to competitive rebid; urges limiting extensions to 1-3 years pending legislative reform.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 (public-record contemporaneous source documenting variance)",
+      "citation": "Chalkbeat NY, 'NYC ends school busing saga, education panel votes to extend three-year contract' (Nov. 20, 2025).",
+      "officialUrl": "https://www.chalkbeat.org/newyork/2025/11/20/panel-for-educational-policy-approves-three-year-school-bus-contract/",
+      "codeCurrency": "2025",
+      "fieldsSupported": "District Variance",
+      "relevantText": "PEP unanimously approved ~3-year extension on Nov. 19, 2025 after rejecting 5-year proposal; extension terminates June 30, 2028; cites 2011 state court decision blocking EPP-bearing rebids.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Begin with the NYS Senate Open Legislation display for the Education Law and General Municipal Law sections cited; cross-verify on NYSED's P-12 Pupil Transportation Unit pages (which host both the EL 305.14 statutory text and the Part 156 regulatory text); download and pdftotext-extract the two key NYSED PDFs (Paperless Pupil Transportation 4/19/23; Piggyback Contract Guidance Revised 2023); confirm the L&M Bus Corp. holding via NYS Court of Appeals reporter URL and case-law summaries; confirm NYC variance via NYC Comptroller and Chalkbeat. Treat all secondary sources as pathfinders only; record official NYSED / NYS Senate / NYS Courts URLs.",
+    "queriesThatMattered": [
+      "NYS Senate Open Legislation EDN/305 - full text of § 305(14)(a) including 10-year rejection clause",
+      "NYS Senate Open Legislation EDN/1709, EDN/1604, EDN/2503 - 5-year transportation-contract caps and voter authorization",
+      "NYS Senate Open Legislation EDN/3625 - 120-day filing window",
+      "NYSED P-12 Section 156.5 Annual Extensions - CPI mechanics and § 305(14) eligibility limit",
+      "NYSED P-12 Section 156.12 RFP - 10 evaluation criteria, 50% weight cap, June 1 / July 1 deadlines",
+      "NYSED Paperless Pupil Transportation 4/19/23 PDF (text-extracted) - '2/3/4/5 YEAR TERM Must be bid and have voter approval' and contract-type taxonomy",
+      "NYSED Piggyback Contract Guidance Revised 2023 PDF (text-extracted) - 'not subject to the $20,000 aggregate threshold or bidding requirements pursuant to General Municipal Law §103'",
+      "L&M Bus Corp. holding - heightened scrutiny / EPPs failed",
+      "Chalkbeat Nov 20, 2025 - PEP ~3-year extension approved",
+      "NYC Comptroller letter - 1979-era contracts, L&M Bus Corp. as the rebid barrier"
+    ],
+    "codeCurrency": "N.Y. Education Law: NYS Senate Open Legislation display shows § 305, § 1604, § 1709, § 2503, § 3625, § 4402 as current as of access on 2026-06-24. NYS Legislature is the official publisher; LexisNexis publishes the official compiled code under contract.",
+    "adminCodeCurrency": "8 NYCRR Part 156: Last comprehensive amendment effective July 14, 2020 (NYS Register, July 29, 2020 / Vol. XLII, Iss. 30). No subsequent amendments to §§ 156.1, 156.5, or 156.12 identified through NYS Register / NYSED Office of Counsel rules pages as of 2026-06-24.",
+    "sessionLawCheck": "Searched NYS Senate / Assembly bill databases (2025-26 session) for amendments to Ed. Law § 305 and 8 NYCRR Part 156. Pending bill S9289 (2025-26) was found proposing to add paragraph (h) to § 305(14) (piggyback variant) and definitions for 'school transportation logistics vehicle' - not enacted as of 2026-06-24 and does not alter the existing (a)-(g) framework or the five-fields findings. § 305(14)(d) (safety/legal-compliance amendments) remains scheduled for repeal January 1, 2028.",
+    "negativeSearchPaths": [
+      "Searched NYS Office of the Attorney General opinions database and NYS Comptroller legal opinions database for school-transportation procurement opinions; confirmed that Ed. Law § 305(14) controls school-transportation procurement, while incorporating GML § 103's monetary threshold. No AG or OSC opinion overturning or superseding the § 305(14) regime found.",
+      "Searched for any New York-specific statutory carve-out for special-education / IEP / McKinney-Vento transportation procurement: no separate procurement statute identified. Ed. Law § 4402 empowers contracting but defers to § 3623 standards; § 4405 addresses state-aid for transportation of students with disabilities, not procurement. The only documented difference is the July 1 (vs. June 1) advertisement-and-RFP deadline under 8 NYCRR § 156.1 and § 156.12.",
+      "Searched for any automatic-rollover / evergreen-renewal authority for NY school-transportation contracts: none identified. Each extension under § 305(14)(a) is discretionary, on a commissioner-prescribed form, with commissioner approval.",
+      "Searched for any 2024-2026 amendment to § 305(14) or Part 156 that would change the five-field findings: none identified. S9289 (2025-26) is pending and proposes only piggyback-variant additions."
+    ],
+    "conflictChecks": "No authoritative conflict identified across NYS Senate, NYSED P-12, NYSED Office of Counsel, NYC Court of Appeals (L&M Bus Corp.), NYC Comptroller, and Chalkbeat sources. The NYC pattern of continuous extension since 1979 is consistent with the L&M Bus Corp. holding and is described by NYSED guidance and the Comptroller as a NYC-specific procurement deadlock; it does not contradict the § 305(14) framework, which remains the controlling state-law regime."
+  },
+  "finalConfidence": "High",
+  "laneStatus": "closed",
+  "unresolvedFields": []
+}

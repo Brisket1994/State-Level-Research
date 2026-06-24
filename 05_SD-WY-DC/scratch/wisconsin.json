@@ -1,0 +1,263 @@
+{
+  "jurisdiction": "Wisconsin",
+  "finalFields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found. Wis. Stat. 121.55(1) authorizes school district boards to provide pupil transportation by (a) contract with a common carrier, taxi company, or other parties; (b) contract with a parent or guardian; (c) contract with another school board, a CESA board of control, or a private school's proper officials; (d) contract between two or more school boards and an individual or common carrier; or (e) purchase and operation of a motor vehicle - but the statute is silent on the maximum duration of any such contract. No provision in Wis. Stat. ch. 121 (school finance / pupil transportation), Wis. Stat. ch. 120 (school district government), or Wis. Admin. Code ch. PI 7 (pupil transportation) imposes a term limit on a school district's contract with a private student-transportation contractor. Wis. Stat. 121.52(2)(b)-(c) requires that owners or lessees of privately owned motor vehicles transporting pupils for compensation operate under a written contract on a DPI-prescribed form, but does not set a duration.",
+      "citation": "Wis. Stat. 121.55(1) (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/55) (current through 2025 Wis. Act 247 and Supreme Court Orders filed before June 19, 2026; published 6-19-26); Wis. Stat. 121.52(2)(b)-(c) (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/52) (written contract on DPI-prescribed form; silent as to term); Wis. Admin. Code ch. PI 7 (https://docs.legis.wisconsin.gov/code/admin_code/pi/7) (silent as to contract duration for common-carrier or taxi-company contracts under 121.55(1)(a))."
+    },
+    "rebidRequired": {
+      "label": "Not required",
+      "rule": "Wisconsin has no statute, administrative rule, or DPI regulation that requires a public school district to run a competitive process (sealed bid, RFP, RFQ, or competitive negotiation) to retain or re-award a pupil-transportation contract at the end of an awarded term. Wis. Stat. 66.0901 (public works; contracts; bids) defines 'municipality' to include school districts, but the statute governs only 'public contracts' for construction, repair, remodeling, or improvement of a public work or building, or for the furnishing of supplies or material 'proposals for which are required to be advertised for by law' - school-district transportation service procurement is not among the contracts required to be advertised by law, so school districts are not statutorily required to use 66.0901 for transportation services (see von Briesen & Roper analysis, citing the absence of any statute mandating that school districts award contracts in a certain manner). Wis. Stat. 120.12 (school board duties) and 120.13 (school board powers) do not contain a general competitive-bidding mandate for service contracts; the only competitive sealed-bid provision in 120.12 is 120.12(24)(a), and it applies solely to the selection of a group health-care benefits provider, not to transportation. The 2023 Wis. SB 688 legislative analysis confirms that under current Wisconsin law, school districts are not subject to a statewide competitive-bidding mandate; the bill (and the related 2025 SB 699 / similar proposals) would have created such a rule for school construction/supply contracts had it been enacted, but it did not become law and would not have reached transportation services in any event.",
+      "citation": "Wis. Stat. 121.55(1) (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/55); Wis. Stat. 120.12 (https://docs.legis.wisconsin.gov/statutes/statutes/120/i/12) (sealed bid mandate at 120.12(24)(a) is limited to group health-care benefits; no general bidding mandate for service contracts); Wis. Stat. 120.13 (https://docs.legis.wisconsin.gov/statutes/statutes/120/i/13); Wis. Stat. 66.0901 (https://docs.legis.wisconsin.gov/statutes/statutes/66/IX/0901) (school districts within the definition of 'municipality' but not required to use this statute for transportation service procurement, because such service contracts are not 'required to be advertised for by law'); 2023 Wis. Senate Bill 688 (https://docs.legis.wisconsin.gov/2023/related/proposals/sb688) (legislative bill-drafter analysis stating school boards are not currently subject to competitive-bidding thresholds for construction/supply procurement)."
+    },
+    "renewalMechanics": {
+      "value": "N/A. Wisconsin statutes and Wis. Admin. Code ch. PI 7 do not prescribe a renewal mechanism for school district transportation contracts with common carriers, taxi companies, or other private contractors under Wis. Stat. 121.55(1)(a). Because no statutory maximum term and no statutory rebid requirement exist, renewal, extension, CPI/fuel adjustment, evergreen rollover, board approval, and any termination-notice provisions are left to the parties' negotiated contract under the general authority of Wis. Stat. 121.55(1) and the school board's general contracting powers in Wis. Stat. ch. 120. The only statutory renewal-related provisions in ch. 121 govern parent contracts for transporting public-school or private-school pupils (Wis. Stat. 121.55(3); Wis. Admin. Code PI 7.04, PI 7.05) - those provisions are not the rule for common-carrier or private-contractor route contracts under 121.55(1)(a).",
+      "citation": "Wis. Stat. 121.55(1), (3) (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/55); Wis. Stat. 121.52 (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/52); Wis. Admin. Code ch. PI 7 (https://docs.legis.wisconsin.gov/code/admin_code/pi/7) (renewal mechanics in PI 7.04 / PI 7.05 apply only to parent-guardian and certain private-school transportation contracts, not common-carrier contracts)."
+    },
+    "statutoryCitation": "Wis. Stat. 121.55(1) (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/55) (methods of providing pupil transportation - including (1)(a) contract with a common carrier, taxi company, or other parties); Wis. Stat. 121.54 (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/54) (transportation duties of school boards; 2+ mile rule; transportation for children with disabilities regardless of distance); Wis. Stat. 121.52(2)(b)-(c) (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/52) (written contract on DPI-prescribed form for privately owned vehicles transporting pupils for compensation); Wis. Stat. 121.555 (https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/555) (alternative-vehicle pupil transportation); Wis. Admin. Code ch. PI 7 (https://docs.legis.wisconsin.gov/code/admin_code/pi/7) (parent contracts at PI 7.04, PI 7.05; unusual-hazards designations); Wis. Stat. 120.12 (https://docs.legis.wisconsin.gov/statutes/statutes/120/i/12) and Wis. Stat. 120.13 (https://docs.legis.wisconsin.gov/statutes/statutes/120/i/13) (school board duties and powers - no competitive-bid mandate for service contracts; sealed-bid mandate at 120.12(24)(a) is for group health-care benefits only); Wis. Stat. 66.0901 (https://docs.legis.wisconsin.gov/statutes/statutes/66/IX/0901) (general municipal public-contracts statute; school districts within the definition of 'municipality' but transportation service procurement is not a contract 'required to be advertised for by law' under this section). All four substantive cells are anchored on legislative silence: Wisconsin has no transportation-specific or general school-district statute fixing a maximum term, requiring rebidding at term-end, or prescribing renewal mechanics for common-carrier student transportation contracts.",
+    "districtVariance": {
+      "label": "Yes",
+      "explanation": "Because state law is silent on contract term, rebid, and renewal, individual Wisconsin school districts set their own procurement practices. The Appleton Area School District's Policy 672 (Purchasing Policy), Rule 1, Section 4, expressly provides that contracts for services 'such as legal, banking, insurance, pupil transportation, food service auditing, and cleaning may be let for terms not to exceed five (5) years and may be renewed or extended for (1) year terms at the discretion of the Executive Director of Finance' - a self-imposed 5-year cap with annual renewal authority. Milwaukee Public Schools, by contrast, runs formal RFPs for busing services (e.g., MPS RFP 1147 for Busing Services for Students with Orthopedic / Specialty / Small-Vehicle Needs, posted Feb. 4, 2025) under its own Bids & RFPs framework. DPI and WASB do not impose uniform statewide procurement practice; district policy manuals govern. This reflects district-level variance in practice and self-imposed policy, not differing interpretations of a statute (because no statute speaks to contract term, rebid, or renewal for transportation contracts with common carriers under 121.55(1)(a))."
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No",
+    "detail": "Wisconsin's special-education statutes (Wis. Stat. ch. 115, subch. V, incorporating IDEA Part B at 20 U.S.C. 1400-1482 via Wis. Stat. 115.758) and DPI Information Update Bulletin 18.01 require districts to provide transportation as a related service when the IEP team determines it is necessary, and address logistics (pick-up/drop-off, parent reimbursement, safety) - but they do not impose different contract-term limits, rebid requirements, renewal mechanics, or procurement rules for special-education transportation than for regular routes. The contracting authority remains Wis. Stat. 121.55(1) for both, and IDEA federal law speaks to the duty to transport, not to state contract/procurement rules. McKinney-Vento and foster-care transportation duties (federal) likewise do not impose Wisconsin-law contracting rules. Districts (notably MPS RFP 1147) do procure special-education transportation through separate RFPs as a matter of practice, but that practice is not state-law-mandated."
+  },
+  "perFieldVerdicts": [
+    {
+      "field": "maxContractTerm",
+      "verdict": "confirmed",
+      "note": "Re-opened Wis. Stat. 121.55, 121.52, 121.54, 121.555, and Wis. Admin. Code ch. PI 7 on the official Wisconsin Legislature portal (docs.legis.wisconsin.gov); each is current through 2025 Wis. Act 247 (published 6-19-26). None imposes a term cap on common-carrier or private-contractor transportation contracts. Negative searches for 'term,' 'duration,' 'years,' 'not exceed,' 'renewal,' 'extension' across ch. 121 and ch. 120 returned no statutory maximum."
+    },
+    {
+      "field": "rebidRequired",
+      "verdict": "confirmed",
+      "note": "Re-opened Wis. Stat. 120.12 and confirmed the only sealed-bid mandate is at 120.12(24)(a) for group health-care benefits (Stage 1 incorrectly cited 120.12(12), which is sanitary facilities). Re-opened Wis. Stat. 66.0901 and confirmed that, although 'municipality' includes school districts, the statute reaches only 'public contracts' for construction or for furnishing supplies/material 'required to be advertised for by law' - transportation services are not among such contracts. Confirmed via von Briesen & Roper analysis that 'there are no statutes that mandate that school districts award contracts in a certain manner.' 2023 SB 688 legislative analysis confirms there is currently no statewide bidding mandate on school districts. Substantive conclusion stands; underlying citation corrected from 120.12(12) to 120.12(24)(a)."
+    },
+    {
+      "field": "renewalMechanics",
+      "verdict": "confirmed",
+      "note": "Re-opened ch. 121 and Wis. Admin. Code ch. PI 7. PI 7.04 and PI 7.05 address only parent-guardian transportation contracts (and certain private-school cost-based contracts). No renewal mechanics are prescribed for common-carrier or private-contractor contracts under 121.55(1)(a). Disconfirming searches for evergreen, CPI, fuel escalator, board approval, and termination-notice rules in ch. 121 and PI 7 returned nothing applicable to 121.55(1)(a) contracts."
+    },
+    {
+      "field": "statutoryCitation",
+      "verdict": "confirmed",
+      "note": "All cited primary sources re-opened on the official Wisconsin Legislature portal and confirmed to exist and be current through 2025 Wis. Act 247 (published 6-19-26). Stage 1's 120.12(12) reference for the group-health-care sealed-bid provision is corrected to 120.12(24)(a). Wis. Stat. 66.0901 inclusion of school districts within 'municipality' is now made explicit in the citation block."
+    },
+    {
+      "field": "districtVariance",
+      "verdict": "confirmed",
+      "note": "Verified two distinct district practices: (i) Appleton Area School District Policy 672, Rule 1, Section 4, caps service contracts (including pupil transportation) at 5 years with 1-year renewal extensions at the Executive Director of Finance's discretion; (ii) Milwaukee Public Schools uses a formal RFP framework (RFP 1147 for specialty / small-vehicle busing, posted Feb. 4, 2025). Variance is in practice and self-imposed policy, not in statutory interpretation, because no statute speaks to term/rebid/renewal for 121.55(1)(a) contracts."
+    }
+  ],
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max Contract Term: 'No statutory maximum found.'",
+      "disconfirmingHypothesis": "A maximum or limitation may be set somewhere in ch. 121 (pupil transportation / school finance), ch. 120 (school board duties/powers), Wis. Admin. Code ch. PI 7, or a general procurement statute. Look for 'term,' 'duration,' 'years,' 'not exceed,' 'contract period,' 'multi-year,' 'annual termination,' 'extension.'",
+      "challengeSearches": "Direct fetch of official statute pages for 121.51-121.555, 120.12, 120.13, Wis. Admin. Code ch. PI 7, and Wis. Stat. 66.0901 on docs.legis.wisconsin.gov; targeted searches for 'Wis. Stat. 121.55 contract term limit,' '121.55 duration,' 'PI 7 contract years.' Reviewed DPI pupil transportation guidance.",
+      "result": "Confirmed - no statutory provision sets a maximum term for school district transportation contracts with common carriers, taxi companies, or other private contractors under 121.55(1)(a).",
+      "confidenceImpact": "None - finding holds; confidence remains High."
+    },
+    {
+      "findingChallenged": "Rebid Required at Term-End: 'Not required.'",
+      "disconfirmingHypothesis": "A mandatory bidding requirement may exist via 120.12, 120.13, 66.0901 (whose definition of 'municipality' includes school districts), or special procurement provisions. Test whether 66.0901 reaches services as well as supplies/material; whether 120.12(12) actually mandates sealed bids for service contracts; whether a recent session law imposed a bidding mandate.",
+      "challengeSearches": "Re-opened official text of Wis. Stat. 120.12 (confirmed 120.12(12) is sanitary facilities, not sealed bids; 120.12(24)(a) is the group health-care sealed-bid provision); re-opened Wis. Stat. 66.0901 (definition of 'municipality' includes school districts but governs 'public contracts' for construction or supplies/material required by law to be advertised - not transportation services); reviewed von Briesen & Roper procurement analysis stating 'no statutes...mandate that school districts award contracts in a certain manner'; reviewed 2023 SB 688 legislative analysis (school districts not currently subject to a statewide competitive-bidding mandate; bill did not become law).",
+      "result": "Confirmed substantively - no statewide rebid mandate. Stage 1 citation error (referenced 120.12(12) instead of 120.12(24)(a) for the group health-care sealed-bid provision) corrected. Stage 1 also said school districts 'are not subject to' 66.0901; correct framing is that school districts are within the definition of 'municipality' but transportation service procurement is not 'required to be advertised for by law' under 66.0901, so the statute does not impose a bidding mandate on transportation contracts.",
+      "confidenceImpact": "Citation precision improved; substantive conclusion unchanged; confidence remains High."
+    },
+    {
+      "findingChallenged": "Renewal Mechanics: 'N/A.'",
+      "disconfirmingHypothesis": "Statutes or PI 7 may prescribe a renewal mechanism (CPI cap, fuel escalator, multi-year approval, evergreen) for school district transportation contracts under 121.55(1)(a).",
+      "challengeSearches": "Re-read PI 7.04 and PI 7.05 - these are confined to parent-guardian contracts and the 1.5x cost trigger for private-school contracts; they do not reach common-carrier contracts. Reviewed Wis. Stat. 121.55(3) - addresses cost-based parent contracts, not common-carrier renewals.",
+      "result": "Confirmed - no statutory renewal mechanism for 121.55(1)(a) common-carrier contracts.",
+      "confidenceImpact": "None - finding holds; confidence remains High."
+    },
+    {
+      "findingChallenged": "Special Education Differentiation: 'No - same rule as regular routes.'",
+      "disconfirmingHypothesis": "Wis. Stat. ch. 115 subch. V or DPI guidance may impose separate procurement, term, rebid, or renewal rules for special-education / IEP / McKinney-Vento / foster-care transportation.",
+      "challengeSearches": "Re-opened Wis. Stat. ch. 115 subch. V (incorporating IDEA Part B via 115.758); re-read DPI Information Update Bulletin 18.01 (logistics and IEP-team determinations only, no contracting rules); searched for 'special education transportation contract Wisconsin procurement'; reviewed DPI Pupil Transportation guidance pages.",
+      "result": "Confirmed - state law treats special-education transportation contracting under the same authority (121.55(1)) as regular routes. Federal IDEA / McKinney-Vento speak to the duty to transport, not to state contract or procurement rules.",
+      "confidenceImpact": "None - finding holds; confidence remains High."
+    },
+    {
+      "findingChallenged": "District Variance: 'Yes - districts adopt their own procurement practices.'",
+      "disconfirmingHypothesis": "Districts may in fact follow uniform statewide practice (e.g., a uniform WASB-recommended cap or a DPI-mandated rebid cycle).",
+      "challengeSearches": "Reviewed Appleton Area School District Policy 672 (5-year cap with 1-year renewals); reviewed Milwaukee Public Schools RFP 1147 (formal RFP framework); reviewed DPI Pupil Transportation pages and DPI Bulletin 18.01 (no uniform mandate). Searched WASB materials - no uniform statewide procurement policy.",
+      "result": "Confirmed - at least two different district practices exist (5-year-cap-plus-1-year-renewal at AASD vs. formal RFP cycle at MPS); DPI does not impose uniformity.",
+      "confidenceImpact": "None - finding holds; confidence remains High."
+    },
+    {
+      "findingChallenged": "Currentness: cited sources current as of execution date (June 24, 2026).",
+      "disconfirmingHypothesis": "A 2025 or 2026 session law may have amended 121.55, 121.52, 120.12, or PI 7 in a way that changes the answer to any of the five fields after the code-currency date.",
+      "challengeSearches": "Confirmed all official statute pages are 'updated through 2025 Wis. Act 247' and Supreme Court Orders filed before June 19, 2026; searched for 2025 / 2026 amendments to 121.55 - none materially change term/rebid/renewal; 2025 SB 699 (alternative-vehicle rules in 121.555) does not address term, rebid, or renewal.",
+      "result": "Confirmed - no post-code-currency-date amendment changes the substantive findings.",
+      "confidenceImpact": "None - finding holds; confidence remains High."
+    }
+  ],
+  "sourcesReverified": [
+    "Wis. Stat. 121.55 - https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/55 (current through 2025 Wis. Act 247; published 6-19-26)",
+    "Wis. Stat. 121.52 - https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/52",
+    "Wis. Stat. 121.54 - https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/54",
+    "Wis. Stat. 121.555 - https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/555",
+    "Wis. Stat. 120.12 - https://docs.legis.wisconsin.gov/statutes/statutes/120/i/12 (sealed-bid mandate at 120.12(24)(a) for group health-care benefits only; 120.12(12) is sanitary facilities, not sealed bids - Stage 1 citation corrected)",
+    "Wis. Stat. 120.13 - https://docs.legis.wisconsin.gov/statutes/statutes/120/i/13",
+    "Wis. Stat. 66.0901 - https://docs.legis.wisconsin.gov/statutes/statutes/66/IX/0901 (definition of 'municipality' explicitly includes school districts; statute reaches 'public contracts' for construction or supplies/material 'required to be advertised for by law' - service contracts including transportation are not within that scope, so no bidding mandate is imposed)",
+    "Wis. Admin. Code ch. PI 7 - https://docs.legis.wisconsin.gov/code/admin_code/pi/7",
+    "Wis. Stat. ch. 115 subch. V - https://docs.legis.wisconsin.gov/statutes/statutes/115/V (incorporates IDEA Part B; no separate transportation procurement rules)",
+    "DPI Pupil Transportation - Public Schools - https://dpi.wi.gov/sfs/support/school-operations/pupil-transportation/public",
+    "DPI Information Update Bulletin 18.01 - https://dpi.wi.gov/sped/laws-procedures-bulletins/bulletins/18-01",
+    "2023 Wis. Senate Bill 688 - https://docs.legis.wisconsin.gov/2023/related/proposals/sb688",
+    "Appleton Area School District Policy 672 (Purchasing Policy) - https://www.aasd.k12.wi.us/district/leadership/board-of-education/district-school-policies/policy-details/~board/policies/post/672",
+    "von Briesen & Roper, Local Government & School District Procurement Process - https://www.vonbriesen.com/legal-news/3550/local-government-and-school-district-procurement-process"
+  ],
+  "sourcesUnreachable": [
+    "Boardman & Clark / Wisconsin Towns Association 'Public Bidding Laws' PDF - https://www.wisctowns.com/documents/PublicBiddingLaws.pdf (binary PDF content did not render usable text via WebFetch; corroborating analysis obtained from the von Briesen & Roper article instead)"
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 121.55 - Methods of providing transportation",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/55",
+      "codeCurrency": "Current through 2025 Wis. Act 247 and all Supreme Court Orders filed before and in effect on June 19, 2026 (published 6-19-26)",
+      "fieldsSupported": "Max Contract Term; Rebid Required; Renewal Mechanics; Statutory Citation",
+      "relevantText": "'A school district board may provide transportation by any of the following methods: (a) By contract with a common carrier, a taxi company or other parties... (b) By contract with the parent or guardian of the pupil to be transported... (c) By contract with another school board, board of control of a cooperative educational service agency or the proper officials of any private school or private school association. (d) By contract between 2 or more school boards and an individual or a common carrier. (e) By the purchase and operation of a motor vehicle.' Subsection (3) addresses cost-based contracting with parents when transportation expenses exceed 1.5 times the district's average per-pupil bus cost. Statute is silent as to contract duration, rebid at term-end, and renewal mechanics for paragraph (1)(a) common-carrier/private-contractor contracts.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 121.52 - Vehicle, operator and driver requirements",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/52",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Statutory Citation; Max Contract Term (negative)",
+      "relevantText": "Section 121.52(2)(b): 'The owner or lessee of all privately owned motor vehicles transporting pupils for compensation shall be under written contract with the school board of the district for which such transportation is provided.' Section 121.52(2)(c): 'The form of contract shall be prescribed by the department and shall provide that all parties to the contract are subject at all times to rules adopted by the secretary of transportation under s. 110.06(2) and by the department.' No term-limit, rebid, or renewal provisions.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 121.54 - Transportation by school districts",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/54",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Statutory Citation; Special Education",
+      "relevantText": "Section 121.54(2)(a): 'every school board shall provide transportation to and from public school for all pupils who reside in the school district 2 miles or more from the nearest public school.' Section 121.54(3): every school board 'shall provide transportation for children with disabilities... regardless of distance, if the request for such transportation is approved by the state superintendent.' Contains no contract-term, rebid, or renewal language.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 121.555 - Alternative methods of providing transportation",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/121/iv/555",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Statutory Citation",
+      "relevantText": "Authorizes alternative-vehicle pupil transportation: '(1)(a) A motor vehicle transporting 9 or less passengers in addition to the operator.' Specifies vehicle, insurance, operator-license, medical, and background-check standards. No contract-term, rebid, or renewal provisions.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 120.12 - School board duties",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/120/i/12",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Rebid Required (negative)",
+      "relevantText": "Lists 29 duties of school boards. Subsection (12) addresses sanitary facilities (not sealed bids). The competitive sealed-bid mandate is at 120.12(24)(a) and applies only to selecting a group health-care benefits provider for school district employees; it does not reach transportation. No general competitive-bid mandate for service contracts. (Stage 1 incorrectly cited 120.12(12) for the health-care benefits sealed-bid provision - corrected in Stage 2.)",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 120.13 - School board powers",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/120/i/13",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Rebid Required (negative)",
+      "relevantText": "Opens with broad language: 'The school board of a common or union high school district may do all things reasonable to promote the cause of education, including establishing, providing and improving school district programs, functions and activities for the benefit of pupils.' Catalogs the school board's general contracting and management powers; no general competitive-bid requirement attached to service procurement.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. 66.0901 - Public works; contracts; bids",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/66/IX/0901",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Rebid Required (negative)",
+      "relevantText": "Defines 'Municipality' to include 'the state or a town, city, village, school district, board of school directors, sewer district, drainage district, technical college district or other public or quasi-public corporation' (so school districts are within the definitional scope). Defines 'public contract' as a contract for 'construction, execution, repair, remodeling or improvement of a public work or building or for the furnishing of supplies or material of any kind, proposals for which are required to be advertised for by law.' School-district transportation service procurement is not within a contract 'required to be advertised for by law,' so the statute does not impose a competitive-bidding mandate on school district transportation contracts (corroborated by von Briesen & Roper analysis: 'There are no statutes that mandate that school districts award contracts in a certain manner.').",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 - Administrative code",
+      "citation": "Wis. Admin. Code ch. PI 7 - Pupil transportation",
+      "officialUrl": "https://docs.legis.wisconsin.gov/code/admin_code/pi/7",
+      "codeCurrency": "Wisconsin Administrative Code as posted on the official Wisconsin Legislature register (current through the 2026 register; verified via the official legislature portal)",
+      "fieldsSupported": "Renewal Mechanics (negative); Statutory Citation",
+      "relevantText": "Subchapter I covers unusual hazards (safety plans for walking pupils). Subchapter II covers parent contracts: PI 7.04 permits contracts with parents/guardians to transport pupils to public or private schools, with compensation 'mutually agreed upon by the school board and the parent or guardian'; PI 7.05 addresses private school transportation contracts when estimated costs exceed 1.5 times the district's average per-pupil bus cost (compensation 'not less than $5 times the distance in miles' or the district's average cost, whichever is greater). Contains no contract-term, rebid, or renewal rules for common-carrier or private-contractor route contracts under 121.55(1)(a).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "Wis. Stat. ch. 115, subch. V - Children with Disabilities",
+      "officialUrl": "https://docs.legis.wisconsin.gov/statutes/statutes/115/V",
+      "codeCurrency": "Current through 2025 Wis. Act 247 (published 6-19-26)",
+      "fieldsSupported": "Special Education",
+      "relevantText": "Defines 'related services' to include 'transportation and such developmental, corrective, and other supportive services' needed to assist children with disabilities. Section 115.758 requires the subchapter to be 'construed in a manner that is consistent with 20 USC 1400 to 1482' (IDEA). Does not differentiate procurement, contract term, rebid, or renewal rules for special-education transportation versus regular routes.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Official agency guidance",
+      "citation": "Wisconsin DPI, Pupil Transportation - Transportation to Public Schools",
+      "officialUrl": "https://dpi.wi.gov/sfs/support/school-operations/pupil-transportation/public",
+      "codeCurrency": "DPI guidance page maintained by the Wisconsin Department of Public Instruction; accessed 2026-06-24",
+      "fieldsSupported": "Statutory Citation; District Variance",
+      "relevantText": "Restates that 'a school district may provide transportation by [the five methods] under sec. 121.55(1), Wis. Stats.' Does not specify contract terms, rebid, or renewal - confirming statutory silence and reliance on district discretion.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Official agency guidance",
+      "citation": "Wisconsin DPI, Information Update Bulletin 18.01 (Pupil Transportation for Students with Disabilities)",
+      "officialUrl": "https://dpi.wi.gov/sped/laws-procedures-bulletins/bulletins/18-01",
+      "codeCurrency": "DPI bulletin issued by the Special Education Team; currently posted on dpi.wi.gov; accessed 2026-06-24",
+      "fieldsSupported": "Special Education",
+      "relevantText": "Addresses IEP-team determinations, logistics, parent reimbursement, and communication for transportation of students with disabilities. Replaces Bulletin 03.06. Imposes no separate procurement, contract-term, rebid, or renewal regime for special-education transportation.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Official agency guidance",
+      "citation": "2023 Wisconsin Senate Bill 688 - Legislative Reference Bureau analysis",
+      "officialUrl": "https://docs.legis.wisconsin.gov/2023/related/proposals/sb688",
+      "codeCurrency": "Bill text and analysis posted on the official Wisconsin Legislature site",
+      "fieldsSupported": "Rebid Required (negative)",
+      "relevantText": "Bill would have increased competitive bidding thresholds for local government public works projects and extended bidding requirements to school districts (at a $150,000 threshold for construction/repair/remodeling/improvement). Analysis confirms that under current Wisconsin law, school districts are not subject to a statewide competitive-bidding mandate. The bill did not become law and would not have reached transportation services in any event.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - District policy / RFP",
+      "citation": "Appleton Area School District Policy 672 (Purchasing Policy), Rule 1, Section 4 (Additional Procurement Items)",
+      "officialUrl": "https://www.aasd.k12.wi.us/district/leadership/board-of-education/district-school-policies/policy-details/~board/policies/post/672",
+      "codeCurrency": "AASD policy as currently posted; accessed 2026-06-24",
+      "fieldsSupported": "District Variance",
+      "relevantText": "'Contracts for services such as legal, banking, insurance, pupil transportation, food service auditing, and cleaning may be let for terms not to exceed five (5) years and may be renewed or extended for (1) year terms at the discretion of the Executive Director of Finance.' Evidence of self-imposed district-level cap and renewal regime - not state law.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - District policy / RFP",
+      "citation": "Milwaukee Public Schools - RFP 1147 for Busing Services (Orthopedically Impaired, Specialty Programs, and Small Vehicle Needs)",
+      "officialUrl": "https://www.milwaukeepublicschools.org/about/directory/finance/procurement-risk-management/vendors/bids-rfps",
+      "codeCurrency": "RFP issued Feb. 4, 2025; response deadline Mar. 4, 2025",
+      "fieldsSupported": "District Variance",
+      "relevantText": "Evidence of district-level practice variance: MPS uses a formal RFP process and incorporated Terms & Conditions for student transportation procurement. Used here only as evidence of district variance, not as authority for the statewide rule.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - Legal analysis (pathfinder; corroborative)",
+      "citation": "von Briesen & Roper, s.c., 'Local Government & School District Procurement Process'",
+      "officialUrl": "https://www.vonbriesen.com/legal-news/3550/local-government-and-school-district-procurement-process",
+      "codeCurrency": "Article as currently posted; accessed 2026-06-24",
+      "fieldsSupported": "Rebid Required (corroborative)",
+      "relevantText": "'There are no statutes that mandate that school districts award contracts in a certain manner.' Used as a corroborating pathfinder for the substantive conclusion that school districts are not statutorily required to use 66.0901 for transportation service procurement.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Re-opened each cited primary source on the official Wisconsin Legislature portal (docs.legis.wisconsin.gov) and the Wisconsin DPI site (dpi.wi.gov) via WebFetch. Confirmed each section's exact text, currency notation, and absence of contract-term, rebid, or renewal language. Cross-checked Stage 1's interpretation of 120.12 against the official statute text (caught and corrected a citation error: Stage 1 referenced 120.12(12) for sealed bids on group health-care benefits, but 120.12(12) is sanitary facilities; the sealed-bid mandate is at 120.12(24)(a)). Verified Wis. Stat. 66.0901's definition of 'municipality' on the official portal; corroborated school-district carve-out by reading the von Briesen & Roper procurement analysis. Verified district variance with direct fetches of (i) AASD Policy 672 and (ii) MPS RFP framework references.",
+    "currentLawCheck": "All cited statutes are 'current through 2025 Wis. Act 247 and all Supreme Court Orders filed before and in effect on June 19, 2026' (published 6-19-26 per the official legislature portal's publication notice). Wis. Admin. Code ch. PI 7 is current through the 2026 administrative register. 2025 SB 699 (amending alternative-vehicle rules in 121.555) does not address term, rebid, or renewal. No 2025 Wis. Act through Act 247 alters 121.55, 121.52, or PI 7 in any way that would impose a term limit, rebid mandate, or renewal mechanism on common-carrier student transportation contracts.",
+    "unresolvedIssues": "None. All five fields are definitively resolved (silence is documented, not inferred).",
+    "conflictChecks": "Tested whether Wis. Stat. 66.0901 imposes a bidding mandate on school districts notwithstanding their inclusion in 'municipality' - resolved by reading the definition of 'public contract' (limited to construction or supplies/material 'required to be advertised for by law') and corroborated by the von Briesen analysis. Tested whether 2023 SB 688 or 2025 SB 699 changed any rule - confirmed neither created a transportation-services bidding mandate (SB 688 did not pass; SB 699 addresses alternative-vehicle rules only). Tested whether Wis. Admin. Code PI 7 provisions on parent contracts (PI 7.04, PI 7.05) might be read to apply to common-carrier renewals - text confirms they do not."
+  },
+  "notesSpecialProvisions": "Wisconsin imposes no statewide statutory maximum term, no rebid requirement, and no renewal mechanics on a public school district's contract with a private student-transportation contractor under Wis. Stat. 121.55(1)(a). Practical considerations for the five fields include: (i) Wis. Stat. 121.52(2)(b)-(c) requires that any contract with a private vehicle owner or lessee transporting pupils for compensation be in writing on a DPI-prescribed form; (ii) Wis. Stat. 66.0901 (general municipal public-contracts bidding statute) includes school districts in the definition of 'municipality' but reaches only 'public contracts' for construction or supplies/material 'required to be advertised for by law' - school district transportation service procurement is not within that scope, so no statewide bidding mandate is imposed; (iii) Wis. Stat. 120.12(24)(a) is the only sealed-bid mandate in the school-board-duties statute and applies solely to group health-care benefits, not transportation; (iv) Wis. Stat. 16.73(1) and Wis. Stat. 66.0301(2) authorize school districts to engage in cooperative purchasing / cooperative service arrangements with other municipalities (permissive, not mandatory, and not a term limit); (v) Wis. Admin. Code ch. PI 7 sets minimum compensation rules for parent-guardian and certain private-school transportation contracts (PI 7.04, PI 7.05) - those rules do not apply to common-carrier contracts under 121.55(1)(a); (vi) charter schools chartered under Wisconsin law operate under a charter contract with the sponsoring school board or other chartering authority and are largely freed from state procurement rules; transportation arrangements remain governed by the chartering authority's own contracting practices; (vii) special-education transportation is governed by IDEA-aligned ch. 115 subch. V and DPI Bulletin 18.01, neither of which imposes contracting rules different from regular routes; (viii) DPI does not require state-agency approval of common-carrier transportation contracts (state-superintendent approval is required only for the duty to transport children with disabilities regardless of distance under 121.54(3)); and (ix) district policies vary materially in practice - Appleton Area School District Policy 672 caps service contracts (including pupil transportation) at five years with 1-year renewals, while Milwaukee Public Schools uses a formal RFP framework.",
+  "exceptionsUnresolved": "All five fields resolved for Wisconsin. The 'No statutory maximum found,' 'Not required,' and 'N/A' answers are not gaps in research but documented legislative silence: ch. 121 (pupil transportation / school finance), ch. 120 (school district government), and Wis. Admin. Code ch. PI 7 were each searched for the terms 'term,' 'duration,' 'years,' 'not exceed,' 'contract period,' 'renewal,' 'extension,' 'multi-year,' and 'annual termination,' and no provision was located. Wis. Stat. 66.0901 was examined and confirmed to impose no statewide bidding mandate on school district transportation service contracts (school districts within the definition of 'municipality' but transportation services not 'required to be advertised for by law' under the statute's scope of 'public contracts'). 2023 SB 688 (did not pass) and 2025 SB 699 (alternative-vehicle rules only) were reviewed and confirmed not to change the answer.",
+  "finalConfidence": "High"
+}

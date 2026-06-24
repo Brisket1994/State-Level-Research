@@ -1,0 +1,275 @@
+{
+  "jurisdiction": "District of Columbia",
+  "finalFields": {
+    "maxContractTerm": {
+      "value": "5 years (1-year base period + 4 one-year options, by regulation). Contracts that span more than one fiscal year (multiyear contracts) additionally require Council approval, and any contract \"involving expenditures out of an appropriation which is available for more than 1 year\" may not exceed 5 years unless extended by a two-thirds Council vote. Multiyear contracts are independently capped at 12 months absent authorization in an appropriations act or approval under D.C. Code § 1-204.51. Public charter LEAs are subject to D.C. Code § 38-1802.04 procurement-notice rules administered by the DC Public Charter School Board (DC PCSB), and not to the PPRA / 27 DCMR option-period cap.",
+      "citation": "27 DCMR § 2005.2 (combined base + option periods \"shall not exceed five (5) years\" absent a written Director determination); D.C. Official Code § 1-204.51(a)(1) (5-year cap on contracts paid from appropriations available for more than 1 year, extendable only by two-thirds Council vote) — https://code.dccouncil.gov/us/dc/council/code/sections/1-204.51; D.C. Official Code § 2-355.04(a) (12-month default ceiling for multiyear contracts unless authorized in an appropriations act or under § 1-204.51) — https://code.dccouncil.gov/us/dc/council/code/sections/2-355.04; D.C. Official Code § 38-174(c)(8)(B) (DCPS Chancellor procurement authority \"consistent with Unit A of Chapter 3 of Title 2\") — https://code.dccouncil.gov/us/dc/council/code/sections/38-174."
+    },
+    "rebidRequired": {
+      "label": "Conditional",
+      "rule": "At expiration of the awarded term, the District must use one of the twelve source-selection methods listed in D.C. Code § 2-354.01(a)(1) for any new award. Contracts exceeding $100,000 \"shall be awarded by competitive sealed bidding\" unless the Chief Procurement Officer issues a written determination that competitive sealed bidding is not practicable or not in the District's best interest (D.C. Code § 2-354.02(a)). The 27 DCMR § 2005.2 five-year cap on the base + option total means that, in the ordinary case, after the option-year run is exhausted the District must re-compete (or invoke sole source under D.C. Code § 2-354.04 with a written D&F and a posted notice of intent under 27 DCMR § 1304.1, as DGS did to extend on-call janitorial services beyond five years). For charter LEAs, D.C. Code § 38-1802.04(c)(1)(A) requires a published RFP notice in the D.C. Register and newspapers of general circulation at least 7 days before award for any procurement contract ≥ $25,000 (with exceptions for emergencies, real-property, employment, and charter-designated management contracts).",
+      "citation": "D.C. Official Code § 2-354.01 (https://code.dccouncil.gov/us/dc/council/code/sections/2-354.01); D.C. Official Code § 2-354.02 (https://code.dccouncil.gov/us/dc/council/code/sections/2-354.02); D.C. Official Code § 2-354.04 (https://code.dccouncil.gov/us/dc/council/code/sections/2-354.04); 27 DCMR § 1304.1 (http://dcrules.elaws.us/dcmr/27-1304); 27 DCMR § 2005.2 (http://dcrules.elaws.us/dcmr/27-2005); D.C. Official Code § 38-1802.04(c)(1)(A) (https://code.dccouncil.gov/us/dc/council/code/sections/38-1802.04)."
+    },
+    "renewalMechanics": {
+      "value": "Renewal without a full re-competition is permitted only through the option-period mechanism built into the original solicitation. DCPS implements 27 DCMR § 2005 in its private-transportation IFBs/RFPs as a one-year base period plus an \"OPTION TO EXTEND THE TERM OF THE CONTRACT\" providing that \"The District may extend the term of this contract for a period of four one-year option periods, or successive fractions thereof, by written notice to the Contractor before the expiration of the contract; provided that the District will give the Contractor preliminary written notice of its intent to extend at least thirty (30) days before the contract expires\" (DCPS IFB GAGA-2020-I-0022 § F.2.1). Each option exercise is \"subject to the availability of funds\" and prices for each option period must be \"readily discernible from the contract provisions\" (27 DCMR § 2005.3). Beyond the base + four-option (5-year) ceiling, a contract may be extended only by sole-source modification supported by a written determination by the Director of OCP, with the contracting officer providing sole-source justification under Chapter 17 of Title 27 DCMR (27 DCMR § 2005.2(b); DGS Class D&F DCAM-18-NC-0028 extending beyond five years using D.C. Code § 2-354.04 and 27 DCMR §§ 1304.1, 1700, 1701, 2005.2(b)). Multiyear contracts further require advance Council approval (D.C. Code §§ 1-204.51(c), 2-352.02). DCPS transportation contracts also typically incorporate Service Contract Act wage redeterminations at each option exercise, with equitable adjustment when the contracting officer obtains a revised wage determination. No CPI escalator, fuel escalator, automatic rollover, or evergreen-renewal provision is supplied by D.C. statute or 27 DCMR; any such mechanism must be priced into and disclosed in the original solicitation under 27 DCMR § 2005.3.",
+      "citation": "27 DCMR § 2005.1–2005.3 (http://dcrules.elaws.us/dcmr/27-2005); D.C. Official Code § 1-204.51(a), (c) (https://code.dccouncil.gov/us/dc/council/code/sections/1-204.51); D.C. Official Code § 2-352.02 (https://code.dccouncil.gov/us/dc/council/code/sections/2-352.02); D.C. Official Code § 2-354.04 (https://code.dccouncil.gov/us/dc/council/code/sections/2-354.04); D.C. Official Code § 2-355.04 (https://code.dccouncil.gov/us/dc/council/code/sections/2-355.04); DCPS IFB GAGA-2020-I-0022 § F.2.1 (https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/IFB_GAGA-2020-I-0022.pdf); DGS Class D&F DCAM-18-NC-0028 (https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-18-NC-0028%20D&F%20SS%20Extension%20Beyond%205YEARS.pdf)."
+    },
+    "statutoryCitation": "D.C. Official Code § 1-204.51(a)(1), (c) (Special rules regarding certain contracts — 5-year cap and Council multiyear approval) — https://code.dccouncil.gov/us/dc/council/code/sections/1-204.51; D.C. Official Code § 2-352.02 (Criteria for Council review of multiyear contracts and contracts in excess of $1 million) — https://code.dccouncil.gov/us/dc/council/code/sections/2-352.02; D.C. Official Code § 2-354.01 (Source selection methods) — https://code.dccouncil.gov/us/dc/council/code/sections/2-354.01; D.C. Official Code § 2-354.02 (Competitive sealed bids — contracts > $100,000 \"shall be awarded by competitive sealed bidding\" absent CPO D&F) — https://code.dccouncil.gov/us/dc/council/code/sections/2-354.02; D.C. Official Code § 2-354.04 (Sole source procurements) — https://code.dccouncil.gov/us/dc/council/code/sections/2-354.04; D.C. Official Code § 2-355.04 (Multiyear contracts — 12-month default ceiling absent appropriations-act or § 1-204.51 authorization) — https://code.dccouncil.gov/us/dc/council/code/sections/2-355.04; 27 DCMR § 2005.1–2005.3 (Use of Options — five-year combined base + option cap, Director D&F to exceed) — http://dcrules.elaws.us/dcmr/27-2005; 27 DCMR §§ 1304.1, 1700, 1701 (sole-source procedure used to extend beyond five years) — http://dcrules.elaws.us/dcmr/27-1304, http://dcrules.elaws.us/dcmr/27-1700; D.C. Official Code § 38-174(c)(8)(B) (DCPS Chancellor procurement authority \"consistent with Unit A of Chapter 3 of Title 2\") — https://code.dccouncil.gov/us/dc/council/code/sections/38-174; D.C. Official Code § 38-1802.04(c)(1)(A) (public charter school procurement — RFP notice in D.C. Register and newspapers 7 days before award for contracts ≥ $25,000) — https://code.dccouncil.gov/us/dc/council/code/sections/38-1802.04.",
+    "districtVariance": {
+      "label": "No",
+      "explanation": "The District of Columbia is a single jurisdiction with two operative LEA structures: (1) DCPS, a single subordinate agency under the Mayor whose Chancellor's procurement authority is required to be \"consistent with Unit A of Chapter 3 of Title 2\" (D.C. Code § 38-174(c)(8)(B)); and (2) the public charter LEAs, each individually subject to D.C. Code § 38-1802.04. DCPS, OSSE (when it contracts for supplemental private transportation capacity), and other subordinate District agencies follow the same statewide procurement framework (PPRA at D.C. Code Title 2, Chapter 3A; 27 DCMR), and DCPS's own published transportation IFBs/RFPs implement the same 1-year base + four 1-year options structure required by 27 DCMR § 2005.2. Public charter LEAs operate under a separate but District-wide statute (§ 38-1802.04) administered uniformly by the DC PCSB through the Procurement Contract Submission Policy. Within each LEA family the rules are uniform; there is no inter-district variance to assess because there is only one DCPS and a single PCSB-administered charter-LEA framework. No D.C. Auditor or OIG report located identifies a contrary district-by-district interpretation of these contracting rules."
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No",
+    "detail": "D.C. law does not set a separate term-limit, rebid, procurement, or renewal regime for special-education / IEP-mandated student transportation. The OSSE Division of Student Transportation (OSSE DOT) directly operates the District's special-education transportation under federal court oversight that ended in 2012 (Petties v. District of Columbia, 1:95-cv-00148 (D.D.C.)), and primarily uses government-employee bus operators rather than long-term private route contracts; when OSSE supplements capacity through private transportation contracts (see OSSE DOT Internal Strategic Roadmap FY25-26 expansion of private-contractor capacity beginning FY23), those contracts are procured under the same PPRA / Chapter 3A and 27 DCMR framework as other District contracts (D.C. Code § 2-351.05(a); §§ 2-354.01–.04, 2-355.04; 27 DCMR § 2005). McKinney-Vento and foster-care transportation are administered as services arranged by the LEAs (DCPS and charter LEAs) under their general procurement authorities; no D.C. statute or regulation establishes a different term/rebid/renewal rule for those route types. Federal IDEA, McKinney-Vento, and ESSA obligations create the duty to transport but do not alter the District's contracting / procurement rules."
+  },
+  "perFieldVerdicts": [
+    {
+      "field": "maxContractTerm",
+      "verdict": "confirmed",
+      "note": "Re-verified at code.dccouncil.gov: § 1-204.51(a)(1) text confirms the 5-year cap and two-thirds Council vote; § 2-355.04(a) confirms the 12-month multiyear default with § 1-204.51 exception; 27 DCMR § 2005.2 confirmed via dcrules.elaws.us. Reg currency through Sept. 13, 2017 on the republisher banner; no post-2017 OCP rulemaking located that amends § 2005, and the regulation is independently cited as live authority in DGS DCAM-18-NC-0028 (2022) and DCPS GAGA-2026-E-0021 (2025). Statutory 5-year cap is independently controlling."
+    },
+    {
+      "field": "rebidRequired",
+      "verdict": "confirmed",
+      "note": "Re-verified: § 2-354.01 lists 12 source-selection methods; § 2-354.02 imposes the $100,000 IFB threshold with CPO D&F exception; § 2-354.04 governs sole-source procurements (CPO D&F, posted notice). Charter LEA notice rule re-verified at § 38-1802.04 — see citation-correction note below."
+    },
+    {
+      "field": "renewalMechanics",
+      "verdict": "confirmed",
+      "note": "Re-verified: 27 DCMR § 2005.1–.3 governs options, 5-year combined cap, and pricing-discernibility requirement; Director's D&F authorized to exceed; § 2005.2(b) supports sole-source modification beyond the cap. DGS Class D&F DCAM-18-NC-0028 located via WebSearch confirms the 5-year ceiling and the sole-source procedure used to exceed it. § 1-204.51(c) Council multiyear approval and § 2-352.02 review criteria re-verified."
+    },
+    {
+      "field": "statutoryCitation",
+      "verdict": "refuted",
+      "note": "REFUTED ON CITATION FORM (not substance): Stage 1 cited the public charter school procurement notice rule as \"§ 38-1802.04(c)(1)(C),\" but the rule is actually located at § 38-1802.04(c)(1)(A) per the official code (subsection (c)(1) has only subparagraphs (A) and (B); the $25,000 / 7-day RFP notice rule is at (A)). Adopted corrected citation to (c)(1)(A) in finalFields. All other statutory citations re-verified verbatim against code.dccouncil.gov and dcrules.elaws.us."
+    },
+    {
+      "field": "districtVariance",
+      "verdict": "confirmed",
+      "note": "Re-verified: DCPS is a single subordinate agency; charter LEAs operate under a District-wide § 38-1802.04 framework administered by DC PCSB. Re-checked the DC PCSB Procurement Contract Submission Policy — confirms uniform $25,000 bidding threshold and contract-submission requirements across charter LEAs. No D.C. Auditor / OIG / AG opinion located identifying inter-LEA interpretive variance on contract term, rebid, or renewal rules."
+    },
+    {
+      "field": "specialEducation",
+      "verdict": "confirmed",
+      "note": "Re-verified: OSSE DOT operates an in-house bus fleet for special-education transportation under post-Petties (2012) state control, supplemented by private-contractor capacity beginning FY23; those supplemental contracts run through PPRA / Chapter 3A / 27 DCMR. No Title 38 or 5-E DCMR provision establishes a separate term/rebid/renewal rule for special-education, McKinney-Vento, foster-care, or alternative transportation. Federal IDEA / McKinney-Vento / ESSA duties to transport are not contracting rules."
+    }
+  ],
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max contract term = 5 years (1-year base + 4 one-year options, plus parallel § 1-204.51 5-year statutory ceiling)",
+      "disconfirmingHypothesis": "A longer term is permitted by a school-transportation-specific carve-out, by a multiyear authorization in an appropriations act, or by post-2017 OCP rulemaking that loosened 27 DCMR § 2005.2.",
+      "challengeSearches": "Re-opened § 1-204.51 and § 2-355.04 at code.dccouncil.gov and confirmed text; re-opened 27 DCMR § 2005 at dcrules.elaws.us; searched DC Register / OCP for post-2017 amendments to 27 DCMR Chapter 20 (no amending rulemaking located); searched Title 38 for school-bus-specific term provisions (none located); searched 2024–2025 D.C. session laws for amendments to § 1-204.51 or § 2-355.04 affecting school transportation (located only D.C. Act 25-385 — Term Clarification Emergency, dealing with board-member terms, not contract terms; FY24 BSA (D.C. Law 25-50) and FY25 BSA (D.C. Law 25-217) do not amend the 5-year cap as applied to school transportation).",
+      "result": "Confirmed. No carve-out and no amendment located. Director's-D&F exception under § 2005.2(a)/(b) is the only mechanism to exceed 5 years.",
+      "confidenceImpact": "No change — High."
+    },
+    {
+      "findingChallenged": "Rebid is conditional — 12 source-selection methods, IFB required > $100,000, sole-source extension permitted with CPO D&F",
+      "disconfirmingHypothesis": "School-transportation contracts have a separate mandatory-bidding regime, or are entirely exempt under D.C. Code § 2-351.05(c), or charter LEA rule is different from what Stage 1 claimed.",
+      "challengeSearches": "Re-opened § 2-351.05(a) — PPRA applies to all subordinate agencies, instrumentalities, independent agencies, boards, and commissions, with DCPS / OSSE not on the exemption list; re-opened § 2-354.01 and § 2-354.02 to verify source-selection methods and $100,000 IFB threshold; re-opened § 38-1802.04(c)(1) and confirmed subsection lettering — charter LEA notice rule is at (c)(1)(A), not (c)(1)(C) as Stage 1 wrote; checked DC PCSB Procurement Contract Submission Policy (eff. July 1, 2019) confirming the $25,000 public-bidding threshold for charter LEAs.",
+      "result": "Substance confirmed; ONE citation correction adopted (Stage 1's \"(c)(1)(C)\" replaced with \"(c)(1)(A)\" throughout).",
+      "confidenceImpact": "No change in substance — High; citation correction adopted in finalFields."
+    },
+    {
+      "findingChallenged": "Renewal mechanics — option-period mechanism only, no CPI/fuel escalator, no evergreen, sole-source modification beyond 5 years",
+      "disconfirmingHypothesis": "An automatic-rollover or CPI-escalator provision exists in D.C. statute, 27 DCMR, or DCPS / OSSE policy.",
+      "challengeSearches": "Re-opened 27 DCMR § 2005.1–.3 and verified pricing-discernibility rule (§ 2005.3) leaves no room for off-contract automatic escalators; re-opened § 2-354.04 (sole source) and confirmed CPO D&F + posted notice procedure; searched DC Register for any DCPS / OSSE notice creating a CPI or fuel-adjustment standing clause for transportation contracts — none located; verified DGS Class D&F DCAM-18-NC-0028 via WebSearch as the mechanism used to extend beyond five years.",
+      "result": "Confirmed. No automatic-renewal, evergreen, CPI, or fuel-escalator authority located in D.C. statute or 27 DCMR.",
+      "confidenceImpact": "No change — High."
+    },
+    {
+      "findingChallenged": "Statutory citations (load-bearing primary authorities)",
+      "disconfirmingHypothesis": "One or more primary citations are wrong, mis-numbered, or no longer in force.",
+      "challengeSearches": "Re-opened each primary citation at code.dccouncil.gov: § 1-204.51 (verbatim text confirmed), § 2-351.05(a) (verbatim text confirmed), § 2-352.02 (verbatim text confirmed), § 2-354.01 (12 methods confirmed), § 2-354.02 ($100,000 + CPO D&F confirmed), § 2-354.04 (sole source procedure confirmed), § 2-355.04 (12-month default + § 1-204.51 exception confirmed), § 38-174(c)(8)(B) (Chancellor procurement authority confirmed), § 38-1802.04 (charter procurement notice rule located at (c)(1)(A), NOT (c)(1)(C) as Stage 1 cited). Re-opened 27 DCMR § 2005 at dcrules.elaws.us — verbatim text confirmed.",
+      "result": "Refuted on citation form (not substance) for the § 38-1802.04 subparagraph designation only. Adopted corrected citation (c)(1)(A).",
+      "confidenceImpact": "No change to substantive confidence — High; citation corrected on the record."
+    },
+    {
+      "findingChallenged": "Special-education differentiation — No separate procurement / term-limit regime; OSSE DOT runs in-house with supplemental private contractors under PPRA",
+      "disconfirmingHypothesis": "Title 38, 5-E DCMR, or an OSSE rulemaking establishes a separate special-education contract term or rebid regime; the post-Petties operational shift created a separate procurement track.",
+      "challengeSearches": "Searched Title 38 for special-education transportation procurement provisions — none locating a separate contracting regime (located § 38-2901 definitions and § 38-2602 OSSE duties, neither establishing separate contract term or rebid rules); searched OSSE's Division of Student Transportation public materials and the OSSE DOT Internal Strategic Roadmap FY25-26 — confirms in-house operating model with private-contractor capacity beginning FY23 and references definitive contract requiring Council approval (i.e., § 1-204.51(b) / § 2-352.02 review applied); searched 5-E DCMR for any special-ed contracting carve-out — none located; re-checked Petties v. D.C. (1:95-cv-00148) background showing return of control to OSSE in 2012.",
+      "result": "Confirmed. No separate special-education contracting regime; OSSE supplemental private contracts run through PPRA / Chapter 3A / 27 DCMR.",
+      "confidenceImpact": "No change — High."
+    },
+    {
+      "findingChallenged": "District-level variance = No (uniform DCPS framework + uniform DC PCSB-administered charter LEA framework)",
+      "disconfirmingHypothesis": "Individual charter LEAs interpret § 38-1802.04 differently in transportation procurements, or DCPS implements 27 DCMR § 2005 differently across schools / cluster offices.",
+      "challengeSearches": "Re-checked the DC PCSB Procurement Contract Submission Policy (eff. July 1, 2019) — same $25,000 bidding threshold, same documentation requirements applied across all charter LEAs; reviewed DCPS published transportation IFBs (GAGA-2020-I-0022, GAGA-2020-R-0086, GAGA-2017-I-0057, GAGA-2023-C-0042B) — all use the same 1-year base + four 1-year options structure consistent with 27 DCMR § 2005; reviewed DC PCSB policy notice on charter procurement policy revisions — no LEA-by-LEA variance noted.",
+      "result": "Confirmed. Uniform within each LEA family; no inter-district interpretive variance documented.",
+      "confidenceImpact": "No change — High."
+    },
+    {
+      "findingChallenged": "Currentness — 27 DCMR § 2005 republisher currency only through Sept. 13, 2017",
+      "disconfirmingHypothesis": "Post-2017 OCP rulemaking has amended the 5-year option cap or the Director's-D&F mechanism.",
+      "challengeSearches": "Searched DC Register / OCP for post-2017 final rulemakings amending 27 DCMR Chapter 20 — none located that change § 2005; verified continued reliance on § 2005 as live authority in DGS Class D&F DCAM-18-NC-0028 (2022) and DCPS GAGA-2026-E-0021 (executed Oct. 2025); the statutory 5-year ceiling at D.C. Code § 1-204.51(a)(1) independently controls and was re-verified verbatim.",
+      "result": "Confirmed at statutory level (§ 1-204.51 independently caps 5 years). Regulatory currency partially mitigated but not refuted.",
+      "confidenceImpact": "No change to substantive confidence — High; regulatory currency caveat preserved in unresolvedIssues."
+    }
+  ],
+  "sourcesReverified": [
+    "https://code.dccouncil.gov/us/dc/council/code/sections/1-204.51",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/2-351.05",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/2-352.02",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/2-354.01",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/2-354.02",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/2-354.04",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/2-355.04",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/38-174",
+    "https://code.dccouncil.gov/us/dc/council/code/sections/38-1802.04",
+    "http://dcrules.elaws.us/dcmr/27-2005",
+    "https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-18-NC-0028%20D&F%20SS%20Extension%20Beyond%205YEARS.pdf (verified via WebSearch result snippet identifying the document and confirming authorizing authorities D.C. Code § 2-354.04, 27 DCMR §§ 1304.1, 1700, 1701, 2005.2(b))",
+    "https://www.dcpcsb.org/policy/procurement-contract-submission-policy-0"
+  ],
+  "sourcesUnreachable": [
+    "https://ocp.dc.gov/sites/default/files/dc/sites/ocp/publication/attachments/dcmr27All.pdf (OCP consolidated 27 DCMR PDF — binary content not parseable via WebFetch; regulatory text re-verified at dcrules.elaws.us republisher and via cross-reference in 2022 DGS D&F and 2025 DCPS contract)",
+    "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/IFB_GAGA-2020-I-0022.pdf (binary content not parseable via WebFetch; confirmed via WebSearch snippet quoting the four 1-year option periods clause and 30-day preliminary notice requirement)",
+    "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/OSSE%20DOT%20Policies%20and%20Procedures%20Manual.pdf (binary content not parseable via WebFetch; OSSE DOT operating model and private-contractor supplementation confirmed via OSSE DOT FY25-26 Internal Strategic Roadmap and DC Council oversight materials)"
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 1-204.51 (Special rules regarding certain contracts)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/1-204.51",
+      "codeCurrency": "Original enactment Dec. 24, 1973; latest amendments through Aug. 5, 1997 per section page on code.dccouncil.gov; no later amendments displayed",
+      "fieldsSupported": "Max contract term (5-year cap; two-thirds Council vote to extend); Council approval for multiyear contracts (subsec. (c))",
+      "relevantText": "(a)(1): \"No contract involving expenditures out of an appropriation which is available for more than 1 year shall be made for a period of more than 5 years unless ... the Council, by a two-thirds vote of its members present and voting, authorizes the extension ...\" (b) requires Mayor submission for contracts > $1M in any 12 months. (c) multiyear contract authority + Council review.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 2-351.05 (Application; exemptions)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/2-351.05",
+      "codeCurrency": "Current through D.C. Law 25-50 (Sept. 6, 2023)",
+      "fieldsSupported": "Applicability of PPRA to DCPS, OSSE, charter LEAs (district variance / statutory framework)",
+      "relevantText": "(a): \"Except as provided in this section, this chapter, except for § 2-352.02, shall apply to all subordinate agencies, instrumentalities, and employees of the District government, independent agencies, boards, and commissions.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 2-352.02 (Criteria for Council review of multiyear contracts and contracts in excess of $1 million)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/2-352.02",
+      "codeCurrency": "Most recent amendment shown March 13, 2019 (D.C. Law 22-250); applicability notes through Nov. 9, 2022",
+      "fieldsSupported": "Council review/approval of multiyear and high-value contracts",
+      "relevantText": "Multiyear contracts deemed disapproved unless Council resolution adopted within 45 calendar days; $1M+ contracts approved unless disapproval resolution introduced within 10 days; required submission summaries enumerated.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 2-354.01 (Source selection methods)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/2-354.01",
+      "codeCurrency": "Most recent amendment July 3, 2018 (D.C. Law 22-121, § 3(a), 65 DCR 5083)",
+      "fieldsSupported": "Rebid (lists the 12 lawful source-selection methods)",
+      "relevantText": "Twelve source-selection methods at (a)(1)(A)–(L): competitive sealed bidding; competitive sealed proposals; sole source; emergency; human care; small purchase; special pilot; reverse auctions; GSA schedules; cooperative agreements; D.C. Supply Schedule; infrastructure facilities and services.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 2-354.02 (Competitive sealed bids)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/2-354.02",
+      "codeCurrency": "Apr. 8, 2011 (D.C. Law 18-371, § 402, 58 DCR 1185); no later amendment displayed",
+      "fieldsSupported": "Rebid (mandatory IFB > $100,000, CPO D&F exception)",
+      "relevantText": "\"Contracts exceeding $100,000 shall be awarded by competitive sealed bidding unless the CPO issues a determination and findings that use of competitive sealed bidding is not practicable or not in the best interests of the District.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 2-354.04 (Sole source procurements)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/2-354.04",
+      "codeCurrency": "Apr. 8, 2011 (D.C. Law 18-371, § 404, 58 DCR 1185); no later amendment displayed",
+      "fieldsSupported": "Renewal mechanics (sole-source extension beyond cap)",
+      "relevantText": "(a) sole source when only one source available; (b) CPO D&F required; (c) notice of intent posted online 10 days before award; (d) executed contract posted within 7 days of award.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 2-355.04 (Multiyear contracts)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/2-355.04",
+      "codeCurrency": "Apr. 8, 2011 (D.C. Law 18-371, § 504, 58 DCR 1185); no later amendment displayed",
+      "fieldsSupported": "Max contract term; Renewal mechanics (funds-availability termination)",
+      "relevantText": "(a) \"Unless otherwise provided in an appropriations act, or approved pursuant to § 1-204.51, a contract for goods or services shall not be entered into for periods which extend beyond 12 months.\" (b) CPO D&F required pre-award. (c) contract terminates if subsequent-year funds not appropriated; contractor receives reasonable value of unamortized nonrecurring costs.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 38-174(c)(8)(B) (Chancellor; appointment; duties)",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/38-174",
+      "codeCurrency": "Last amended Sept. 6, 2023 (D.C. Law 25-50, § 4162(b))",
+      "fieldsSupported": "District variance (DCPS Chancellor procurement authority); applicability of Title 2 Chapter 3 to DCPS",
+      "relevantText": "Chancellor possesses \"Procurement authority independent of the Office of Contracting and Procurement, consistent with Unit A of Chapter 3 of Title 2.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "D.C. Official Code § 38-1802.04(c)(1)(A) (Duties, powers, and other requirements of public charter schools — procurement contract notice requirement) [CORRECTED FROM Stage 1's (c)(1)(C)]",
+      "officialUrl": "https://code.dccouncil.gov/us/dc/council/code/sections/38-1802.04",
+      "codeCurrency": "Current through D.C. Law 24-86 (March 2, 2022)",
+      "fieldsSupported": "Rebid for charter LEAs; District variance (charter-LEA framework)",
+      "relevantText": "(c)(1)(A)(i): \"Except in the case of an emergency (as determined by the eligible chartering authority of a public charter school), with respect to any procurement contract proposed to be awarded by the public charter school and having a value equal to or exceeding $25,000, the school shall publish a notice of a request for proposals in the District of Columbia Register and newspapers of general circulation not less than 7 days prior to the award of the contract.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 - Administrative code",
+      "citation": "27 DCMR § 2005 (Use of Options)",
+      "officialUrl": "http://dcrules.elaws.us/dcmr/27-2005",
+      "codeCurrency": "Republisher banner: current through September 13, 2017; consolidated authority dcmr27All.pdf hosted at ocp.dc.gov is cited as live regulatory authority in 2022 DGS D&F (DCAM-18-NC-0028) and 2025 DCPS contract (GAGA-2026-E-0021)",
+      "fieldsSupported": "Max contract term (5-year base + option cap); Renewal mechanics",
+      "relevantText": "2005.1: \"The period within which an option may be exercised may extend beyond the date specified for completion of the services in a contract for services, but in no event shall the option be exercised after the contract term has expired.\" 2005.2: \"The base period in a contract for services or goods shall not exceed one (1) year, unless the contract is funded from an appropriation that is available for more than one (1) year or is a multiyear contract. The total of the base and option periods in a contract for services or goods shall not exceed five (5) years unless: (a) Prior to solicitation, the Director determines in writing that it is in the best interest of the District ... ; or (b) Prior to the expiration of a contract, the Director determines in writing that it is in the best interest of the District to extend the term beyond the total term specified in the contract and the contracting officer provides justification for using a sole source modification in accordance with Chapter 17 of this title.\" 2005.3: \"The price of each option shall be readily discernible from the contract provisions.\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 - Administrative code",
+      "citation": "27 DCMR § 1304 (Publicizing Sole Source Procurement)",
+      "officialUrl": "http://dcrules.elaws.us/dcmr/27-1304",
+      "codeCurrency": "Current through September 13, 2017 per dcrules.elaws.us",
+      "fieldsSupported": "Renewal mechanics (sole-source extension beyond 5-year cap)",
+      "relevantText": "1304.1: \"A notice of intent to award a sole source contract shall be published on the OCP Internet for at least ten (10) days prior to contract award if the estimated price is over ten-thousand dollars ($10,000).\"",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Agency procurement instrument",
+      "citation": "DCPS IFB GAGA-2020-I-0022 (Athletic Student Transportation)",
+      "officialUrl": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/IFB_GAGA-2020-I-0022.pdf",
+      "codeCurrency": "Executed Oct. 1, 2020 base period; F.2.1 four 1-year option-period clause re-verified via WebSearch snippet",
+      "fieldsSupported": "Max contract term; Renewal mechanics; District variance (uniform DCPS implementation of § 2005)",
+      "relevantText": "§ F.1: 1-year base period. § F.2.1: \"The District may extend the term of this contract for a period of four one-year option periods, or successive fractions thereof, by written notice to the Contractor before the expiration of the contract; provided that the District will give the Contractor preliminary written notice of its intent to extend at least thirty (30) days before the contract expires.\" \"The exercise of this option is subject to the availability of funds.\" Pricing schedule provides separate Option Year 1–Option Year 4 line items.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Agency procurement instrument",
+      "citation": "DGS Class Determination and Findings, Sole Source Extension of a Competitively Awarded Contract Beyond Five Years, DCAM-18-NC-0028 A-P (On-Call Janitorial Services)",
+      "officialUrl": "https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/DCAM-18-NC-0028%20D&F%20SS%20Extension%20Beyond%205YEARS.pdf",
+      "codeCurrency": "D&F dated 2022; authorities cited D.C. Code § 2-354.04, 27 DCMR §§ 1304.1, 1700, 1701, 2005.2(b)",
+      "fieldsSupported": "Max contract term (confirms 5-year ceiling); Renewal mechanics beyond cap",
+      "relevantText": "Underlying contract awarded April 30, 2018 with a 7-month base year period and four 1-year option periods. The District extended via sole-source modification because the base + four option periods had reached the five-year ceiling.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Agency guidance / official report",
+      "citation": "OSSE Division of Student Transportation Internal Strategic Roadmap FY25-26",
+      "officialUrl": "https://www.aje-dc.org/wp-content/uploads/2025/12/OSSE-DOT-Internal-Strategic-Roadmap-FY25-26-002.pdf",
+      "codeCurrency": "Updated November 2025",
+      "fieldsSupported": "Special education differentiation; District variance (OSSE DOT operating model)",
+      "relevantText": "OSSE DOT primarily operates an in-house bus fleet for special-education transportation; expanded contracts with private transportation companies beginning FY23; references Council approval requirements for definitive contracts (consistent with § 1-204.51(b) / § 2-352.02).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - Authoritative agency policy",
+      "citation": "DC PCSB Procurement Contract Submission Policy",
+      "officialUrl": "https://www.dcpcsb.org/policy/procurement-contract-submission-policy-0",
+      "codeCurrency": "Effective July 1, 2019",
+      "fieldsSupported": "District variance (uniform charter-LEA procurement framework)",
+      "relevantText": "All procurement contracts over $25,000 must be publicly bid; documentation submitted to DC PCSB within 3 business days of award; executed contracts within 30 calendar days. Applied uniformly across charter LEAs.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Re-opened every primary citation from Stage 1's pack at code.dccouncil.gov and dcrules.elaws.us; verbatim quoted text matched against Stage 1's claims. Cross-checked the consolidated OCP dcmr27All.pdf (binary not parseable, so used the republisher and 2022/2025 D&F cross-references). Ran targeted disconfirming searches for: (1) post-2017 amendments to 27 DCMR § 2005; (2) school-transportation-specific carve-outs in Title 38 and 5-E DCMR; (3) automatic-renewal / CPI / fuel-escalator authority in D.C. statute or 27 DCMR; (4) post-2023 D.C. Council session laws amending § 1-204.51, § 2-355.04, or § 38-1802.04; (5) OSSE DOT private-contractor procurement track; (6) inter-LEA interpretive variance.",
+    "currentLawCheck": "D.C. Official Code: code.dccouncil.gov shows § 38-174 last amended September 6, 2023; § 2-351.05 current through September 6, 2023; § 2-352.02 most recent shown amendment March 13, 2019; §§ 2-354.01, 2-354.02, 2-355.04, 1-204.51 reflect their PPRA enactment dates with no later amendments displayed; § 38-1802.04 current through D.C. Law 24-86 (March 2, 2022). Session-law check: spot-checked D.C. Acts 25-385 and Council legislation 2024–2025 — located no amendments touching § 1-204.51 5-year cap or § 2-355.04 multiyear default as applied to school transportation; FY24 BSA (D.C. Law 25-50) and FY25 BSA (D.C. Law 25-217) do not alter the relevant provisions; D.C. Act 25-385 (Term Clarification Emergency Amendment Act of 2024) addresses board-member terms, not contract terms. 27 DCMR: republisher currency Sept. 13, 2017 — no post-2017 final rulemaking amending § 2005 located. Regulatory text cited as live authority in 2022 DGS Class D&F and 2025 DCPS contract.",
+    "unresolvedIssues": "Regulatory currency: 27 DCMR § 2005 republisher currency is dated September 13, 2017. No post-2017 OCP rulemaking amending § 2005 was located, and the regulation is independently cited as live authority in 2022 DGS DCAM-18-NC-0028 and 2025 DCPS GAGA-2026-E-0021. Even if a regulatory amendment were later identified, the statutory 5-year ceiling at D.C. Code § 1-204.51(a)(1) is independently controlling and was re-verified verbatim. Caveat preserved — substance unaffected.",
+    "conflictChecks": "No conflict between school-specific authority (Title 38) and the general procurement framework (Title 2 Chapter 3A): Title 38 contains no school-transportation-specific term/rebid/renewal carve-out; § 2-351.05(a) makes Chapter 3A applicable to DCPS and OSSE, and § 38-174(c)(8)(B) ties the DCPS Chancellor's procurement authority back to Chapter 3A. Charter LEAs operate under § 38-1802.04 (notice rules) plus DC PCSB policy; this is a parallel framework, not a conflicting one. ONE CITATION ERROR detected and corrected: Stage 1 cited the charter-LEA RFP notice rule at § 38-1802.04(c)(1)(C); the official code locates that rule at (c)(1)(A) and Stage 2 has adopted the corrected citation throughout finalFields and sourceLedger."
+  },
+  "notesSpecialProvisions": "For the District of Columbia, several provisions affect the practical application of the five fields beyond the core 5-year ceiling. Small-purchase / dollar-threshold exemptions: D.C. Code § 2-354.02 sets the competitive-sealed-bidding threshold at contracts > $100,000; smaller procurements may proceed under § 2-354.07's small-purchase methods, and charter LEAs apply a $25,000 public-bidding threshold under § 38-1802.04(c)(1)(A) and DC PCSB policy. Sole-source / emergency procurement: § 2-354.04 (sole source, CPO D&F + 10-day posted notice of intent) and § 2-354.05 (emergency procurements) operate as exceptions; the sole-source procedure under § 2-354.04 with 27 DCMR §§ 1304.1, 1700, 1701, and 2005.2(b) is the documented mechanism the District has used (see DGS Class D&F DCAM-18-NC-0028) to extend a competitively awarded contract beyond the 5-year base + option ceiling. Emergency procurement under § 2-354.05 was used by DCPS for short-term transportation needs (see GAGA-2026-E-0021). Cooperative-purchasing / piggyback authority: § 2-354.10 authorizes cooperative purchasing through GSA schedules, the D.C. Supply Schedule, and cooperative agreements, which can substitute for a fresh competitive procurement at the end of a contract term. Charter-school rules: § 38-1802.04(c)(1)(A) requires a published RFP notice in the D.C. Register and newspapers of general circulation at least 7 days before award for any procurement contract ≥ $25,000 (with exceptions for emergencies, real-property leases, employment, and charter-designated management contracts); DC PCSB administers this uniformly through the Procurement Contract Submission Policy (eff. July 1, 2019). Special-education differences: D.C. law does not establish a separate procurement / term / rebid regime for special-education transportation; OSSE DOT runs an in-house bus fleet for IEP transportation under post-Petties operational arrangements, and supplements through private-contractor capacity (beginning FY23) procured under the same PPRA / Chapter 3A framework. State-approval requirements: multiyear contracts and any contract > $1M in a 12-month period require Council review (deemed-approval or deemed-disapproval rules in § 1-204.51(b)–(c) and § 2-352.02); the Director of OCP must issue a written D&F to permit a base + option term to exceed 5 years (27 DCMR § 2005.2(a)–(b)).",
+  "exceptionsUnresolved": "All five fields resolved for District of Columbia. The only outstanding caveat is regulatory currency of 27 DCMR § 2005 (republisher currency through Sept. 13, 2017). No post-2017 OCP rulemaking amending the 5-year base + option cap was located in the DC Register or via OCP guidance. The statutory 5-year ceiling at D.C. Code § 1-204.51(a)(1) is independently controlling and was re-verified verbatim, so even if the regulation were later amended, the statutory cap is not. The regulation continues to be cited as live authority in 2022 DGS Class D&F DCAM-18-NC-0028 and 2025 DCPS contract GAGA-2026-E-0021. Caveat preserved without changing the substantive answer.",
+  "finalConfidence": "High"
+}

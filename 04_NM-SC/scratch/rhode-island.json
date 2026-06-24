@@ -1,0 +1,445 @@
+{
+  "state": "Rhode Island",
+  "finalConfidence": "High",
+  "laneStatus": "closed",
+  "unresolvedFields": [],
+  "fields": {
+    "maxContractTerm": {
+      "value": "No statutory maximum found. Rhode Island's school transportation statutes (R.I. Gen. Laws Title 16, Chapter 21 and Chapter 21.1) do not impose any cap on the length of a single award term for school-district / private-contractor pupil-transportation contracts. R.I. Gen. Laws § 16-21.1-4 authorizes school committees to 'enter into contracts as they deem necessary in order to accomplish the requirements of this chapter, and may enter into cooperative agreements with other school committees,' without specifying any term limit. R.I. Gen. Laws § 16-21-1(c) and (d) impose substantive conditions on transportation contracts (the contract must enable the district to participate in the statewide transportation system without penalty, and must provide for payment of drivers, monitors, attendants, and aides for at least 180 days or the contracted-for school year, whichever is longer), and R.I. Gen. Laws § 16-21.1-8(c) restates the 180-day personnel-payment requirement for any negotiate/extend/renew of a public transportation service contract — but neither section sets any maximum number of years. The municipal-contracts statute (R.I. Gen. Laws Title 45, Chapter 55) defines 'municipality' as 'the individual cities and towns of the state of Rhode Island' (§ 45-55-4(11)) and does not extend term limits to school-committee transportation contracts. The general state-procurement code (R.I. Gen. Laws Title 37, Chapter 2) permits municipalities and regional school districts to participate in state master price agreements (§ 37-2-56) but imposes no maximum-term limit on local school-district transportation contracts.",
+      "citation": "R.I. Gen. Laws § 16-21-1; R.I. Gen. Laws § 16-21.1-4; R.I. Gen. Laws § 16-21.1-8; R.I. Gen. Laws § 45-55-4(11)",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21/16-21-1.HTM"
+    },
+    "rebidRequired": {
+      "value": "Not required by statute. No Rhode Island statute or administrative regulation specifically requires a public school committee to conduct a competitive rebidding process at the expiration of an existing student-transportation contract term. R.I. Gen. Laws § 16-21-1(c) expressly contemplates that school committees may 'negotiate, extend, or renew' a transportation contract — words that presuppose non-competitive renewal is permitted — subject only to (i) compatibility with the statewide transportation system and (ii) the 180-day personnel-payment requirement in § 16-21-1(d) and § 16-21.1-8(c). The general municipal-procurement statute (R.I. Gen. Laws § 45-55-2, requiring competitive sealed bidding, competitive negotiation, sole-source/emergency, small-purchase, or qualifications-based selection) defines 'municipality' as 'the individual cities and towns of the state of Rhode Island' (§ 45-55-4(11)) and does not by its terms reach independent school-committee transportation contracts; and § 45-55-13.3 expressly exempts multi-school-district purchasing consortia formed under § 16-2-9.2 from Chapter 55. As a practical matter, Rhode Island school committees routinely issue competitive RFPs for transportation as a matter of local policy — but the obligation flows from local district policy and budgetary discipline rather than from a state statute reaching the transportation contract specifically.",
+      "citation": "R.I. Gen. Laws § 16-21-1(c); R.I. Gen. Laws § 16-21.1-8(c); R.I. Gen. Laws § 45-55-2; R.I. Gen. Laws § 45-55-4(11); R.I. Gen. Laws § 45-55-13.3",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21/16-21-1.HTM"
+    },
+    "renewalMechanics": {
+      "value": "Renewal/extension without a full competitive rebid is permitted by statute. R.I. Gen. Laws § 16-21-1(c) provides that 'No school committee shall negotiate, extend, or renew any transportation contract unless such contract enables the district to participate in the statewide transportation system, without penalty to the district, upon implementation of the statewide transportation system' — explicitly authorizing negotiation, extension, and renewal subject to two substantive constraints: (1) the contract must permit district participation in the statewide transportation system without penalty; and (2) per § 16-21-1(d) and § 16-21.1-8(c), the contract must 'provide for payments to school bus drivers, attendants, monitors, and aides for one hundred and eighty (180) days or the length of the contracted-for school year, whichever is longer.' Additional substantive requirements in § 16-21-1(e) (electric-bus preference, equal-weight with other vendor preferences) and § 16-21-1(f) (collective-bargaining-agreement-respecting discipline procedures) apply to all such negotiate/extend/renew transactions. The statute does not specify a maximum number of renewal periods, does not require board or commissioner approval of a renewal, does not require CPI or fuel-escalator language, and does not require automatic-rollover or evergreen mechanics. Other renewal mechanics in actual school-committee transportation contracts (option years, fuel-adjustment clauses, written agreement requirements, board approval, annual appropriation contingencies) are set by district contract terms and local procurement policy, not by state statute.",
+      "citation": "R.I. Gen. Laws § 16-21-1(c), (d), (e), (f); R.I. Gen. Laws § 16-21.1-8(c)",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21/16-21-1.HTM"
+    },
+    "statutoryCitation": {
+      "value": "Primary transportation-specific authority: R.I. Gen. Laws § 16-21-1 (Transportation of public and private school pupils), particularly subsections (a), (c), (d), (e), and (f); R.I. Gen. Laws § 16-21.1-4 (Duties of school committees) authorizing school committees to provide bus transportation either through their own facilities/personnel or by contract, and to enter into contracts and cooperative agreements; R.I. Gen. Laws § 16-21.1-8 (Statewide transportation system for all students), particularly subsection (c) restating the negotiate/extend/renew restriction and the 180-day personnel-payment requirement; R.I. Gen. Laws § 16-21.1-9 (Oversight of statewide transportation system; competitive RFP for system manager). General school-committee contracting authority: R.I. Gen. Laws § 16-2-9(a)(18). Joint purchasing for school committees: R.I. Gen. Laws § 16-2-9.2 (cross-referencing § 37-2-56). Municipal procurement (definitional limit confirming non-applicability to school committees as such): R.I. Gen. Laws § 45-55-2 (methods of source selection); § 45-55-4(11) (definition of 'municipality' as 'the individual cities and towns of the state of Rhode Island'); § 45-55-13.3 (exempting school-district consortia under § 16-2-9.2 from Chapter 55). State-procurement piggyback for municipalities and regional school districts: R.I. Gen. Laws § 37-2-56. Most recent transportation-contract amendments: P.L. 2021, ch. 292, § 1 and P.L. 2021, ch. 293, § 1 (effective July 9, 2021). No transportation-specific provision establishes a maximum term, a mandatory rebid at term-end, or detailed renewal mechanics.",
+      "citation": "R.I. Gen. Laws §§ 16-21-1, 16-21.1-4, 16-21.1-8, 16-21.1-9, 16-2-9, 16-2-9.2, 45-55-2, 45-55-4, 45-55-13.3, 37-2-56; P.L. 2021, ch. 292; P.L. 2021, ch. 293",
+      "sourceTier": "1 - Codified state statute",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21/16-21-1.HTM"
+    },
+    "districtVariance": {
+      "value": "Yes — because the state statutes are silent on contract term length, rebid timing, and most renewal mechanics, Rhode Island school committees independently establish those terms in their own RFP documents. Documented current practice in 2024-2025 RFPs varies materially: East Providence School District's April 2025 RFP (RFP# EPSD.DISTRICT.2025.0004) awards 'an initial period of three (3) years plus three (3) individual option years' beginning July 1, 2025, with option years awardable at the District's sole discretion on one year's notice, all subject to annual appropriation and availability of funds. North Providence Public Schools' September 2024 RFP (NPSD-Bus-Transportation-RFP-2025-2030) covers a 2025-2030 window structured as an initial three (3) years (July 1, 2025 to June 30, 2028) plus two (2) individual option years. Providence Public Schools' student-transportation RFP (covering 2021-22 through 2025-26) awarded a five (5) year base contract '(9/1/21-8/30/22) school year through 2025-2026 (9/1/25-8/31/26)' with 'renewal options available as solely determined by the District.' Narragansett School System's purchasing policy cites Title 37 of the General Laws as gap-filler 'when it is in the best interest of the Narragansett School System' but sets its own thresholds and rules and does not specifically address transportation contracts. The absence of statewide statutory parameters produces this observed district-by-district variance in initial term length, option-year structure, fuel-adjustment language, and bid-evaluation criteria. No state-agency guidance or AG opinion was located that imposes uniform application across districts on the term, rebid, or renewal questions.",
+      "citation": "East Providence Schools RFP# EPSD.DISTRICT.2025.0004 (April 25, 2025); Providence Public Schools Student Transportation RFP (2021-22 through 2025-26); North Providence Public Schools NPSD-Bus-Transportation-RFP-2025-2030 (Sept. 10, 2024); Narragansett School System Policy II.C.1 (Purchasing)",
+      "sourceTier": "5 - Local district policy / RFP",
+      "officialUrl": "https://epschoolsri.org/wp-content/uploads/2025/04/2025-RFP-School-Bus-Transportation-.pdf"
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No",
+    "explanation": "Rhode Island law does NOT set different statutory contract term limits, rebidding requirements, procurement procedures, or renewal mechanics specifically for special-education transportation, IEP-mandated transportation, McKinney-Vento transportation, foster-care transportation, or vendors serving students with disabilities. The substantive duty to transport students with disabilities is driven by federal law (IDEA related-services definition at 20 U.S.C. § 1401(26); McKinney-Vento Homeless Assistance Act, 42 U.S.C. § 11431 et seq.); federal law affects the duty to transport but does not change Rhode Island state contract/procurement rules. R.I. Gen. Laws § 16-21.1-1 lists 'equal educational opportunity' for children with disabilities among the chapter's purposes; § 16-21.1-3(b) authorizes the commissioner of elementary and secondary education to grant variances for special-education placements outside a student's region when a similar facility is not available within the region; and the statewide transportation system established under § 16-21.1-8 currently handles out-of-district special-education routes (RIDE's October 2024 Statewide Transportation System Overview notes 'Special Ed - Required by Federal. Regions do not apply.'). R.I. Gen. Laws § 16-24-11 (in the Children with Disabilities chapter) simply provides that 'Transportation shall be provided for all pupils attending a special class or suitable day schools' - it sets no contract term limit, no rebid requirement, and no renewal mechanic. The contracting rules - term, rebid, renewal - for special-education transportation are the same general (statutorily-silent) framework that applies to regular-route transportation. The former § 16-21.1-7 ('Statewide transportation of students with special needs') has been repealed; current authority is consolidated in § 16-21.1-8.",
+    "citation": "R.I. Gen. Laws §§ 16-21.1-1, 16-21.1-3, 16-21.1-7 (repealed), 16-21.1-8, 16-24-11; RIDE 'Statewide Transportation System Overview' (Oct. 9, 2024)"
+  },
+  "verdicts": {
+    "maxContractTerm": {
+      "verdict": "confirmed",
+      "note": "Re-opened § 16-21-1 verbatim via firecrawl_scrape; the full text of subsections (a)-(f) reviewed and contains no maximum-term language. § 16-21.1-4 verbatim re-verified ('enter into contracts as they deem necessary'). § 16-21.1-8 subsection (c) re-verified to repeat the 180-day-personnel-payment requirement without imposing any term cap. § 45-55-4(11) definition of 'municipality' verbatim re-verified. Title 16 chapter index reviewed - no other transportation-contracting chapter exists. Title 16 Chapter 24 (Children with Disabilities) reviewed - § 16-24-11 mandates that transportation be provided but sets no contract rules. No counter-source found imposing a statutory maximum."
+    },
+    "rebidRequired": {
+      "verdict": "confirmed",
+      "note": "§ 16-21-1(c) language ('negotiate, extend, or renew') re-verified verbatim; the verbs 'extend' and 'renew' presuppose non-competitive renewal is statutorily permitted. § 45-55-2 (methods of source selection) re-verified; § 45-55-4(11) confines 'municipality' to 'individual cities and towns of the state of Rhode Island'; § 45-55-13.3 confirms § 16-2-9.2 school consortia exempt. No state statute mandating competitive rebid at term-end for school-committee transportation contracts located. Adversarial searches for 'mandatory bidding language in school, procurement, public-contract, and district-purchasing laws' returned only the same chapter 45-55 framework whose definitional scope does not reach school committees as such. District practice (East Providence, North Providence, Providence) shows competitive bidding is local policy, not state mandate."
+    },
+    "renewalMechanics": {
+      "verdict": "confirmed",
+      "note": "§ 16-21-1(c), (d), (e), (f) re-verified verbatim. The two principal substantive renewal constraints (statewide-system participation; 180-day personnel-payment) are mandatory, and additional conditions under (e) (electric-bus preference) and (f) (CBA-respecting discipline procedures) apply to all negotiate/extend/renew transactions; everything else (option-year structure, CPI/fuel escalators, board approval, annual-appropriation contingencies, evergreen mechanics) is set by district contract. Adversarial searches for state-law restrictions on evergreen/automatic-renewal/rollover mechanics in transportation contracts located only the chapter-16-21 framework and a general consumer subscription-renewal bill (SB171, 2023) that does not apply to school-committee transportation contracts. Citation refined from Stage 1 to surface subsections (e) and (f) explicitly."
+    },
+    "statutoryCitation": {
+      "verdict": "confirmed",
+      "note": "All cited sections re-opened and verified verbatim on the official Rhode Island General Assembly webserver (webserver.rilegislature.gov). History of Section for § 16-21-1 confirms last substantive amendments are P.L. 2021, ch. 292, § 1 and P.L. 2021, ch. 293, § 1 (effective July 9, 2021). P.L. 2021, ch. 293 confirmed via PublicLaws page. Stage 1 had referenced 'ch. 293 and ch. 294' as the twin enactments; the official History of Section line on § 16-21-1 shows the actual twin enactments are ch. 292 and ch. 293 - correction surfaced in ledger. No later session-law amendment to § 16-21-1, § 16-21.1-4, § 16-21.1-8, or § 16-21.1-9 located that would alter term, rebid, or renewal rules."
+    },
+    "districtVariance": {
+      "verdict": "refuted",
+      "note": "REFUTED IN PART - adversarial verification of the North Providence RFP showed Stage 1's characterization ('uses a 2025-2030 (five-year) contract period') was inaccurate. The actual NPSD-Bus-Transportation-RFP-2025-2030 awards an initial period of three (3) years (July 1, 2025 to June 30, 2028) plus two (2) individual option years. The 2025-2030 designation refers to the maximum potential window, not the base term. Corrected in fields[districtVariance]. The underlying district-variance finding (Yes) is unaffected and in fact strengthened - comparing East Providence (3+3), North Providence (3+2), and Providence Public Schools (5-year base + renewal options as solely determined by the District), the three RFPs use three different initial-term and option-year structures. No state-agency or AG opinion imposing statewide uniformity was located."
+    },
+    "specialEducation": {
+      "verdict": "confirmed",
+      "note": "§§ 16-21.1-1, 16-21.1-3, 16-21.1-8 re-verified verbatim. Title 16 Chapter 24 (Children with Disabilities) reviewed via official index: § 16-24-11 is the only section referencing transportation and it merely mandates that transportation be provided - it sets no separate term, rebid, or renewal rule. RIDE's student-transportation page reviewed - no district-level contracting guidance for special-ed contracts found. Adversarial search for IDEA / McKinney-Vento / foster-care / IEP-specific Rhode Island contracting statutes returned only federal duty-to-transport authorities, which do not change RI state contract/procurement rules. Conclusion that special-ed transportation follows the same (silent) state-law framework as regular-route confirmed."
+    }
+  },
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max contract term - 'No statutory maximum found'",
+      "disconfirmingHypothesis": "A Rhode Island statute (in Title 16, Title 37, Title 45, or elsewhere) imposes a maximum-term cap on school-district transportation contracts that Stage 1 missed.",
+      "challengeSearches": "Re-opened § 16-21-1, § 16-21.1-4, § 16-21.1-8, § 16-21.1-9, § 45-55-2, § 45-55-4, § 37-2-56 verbatim on the RI General Assembly webserver. Reviewed Title 16 chapter index for any other transportation/contracting chapter. WebSearch for 'Rhode Island General Laws school district transportation contract term limit maximum years statute' and 'Rhode Island school committee contract annual appropriation subject to transportation bus statute'.",
+      "result": "No statutory maximum-term language found. § 16-21-1(c), (d), (e), (f) impose substantive conditions on every negotiate/extend/renew but no time cap. § 16-21.1-4 grants broad contracting authority without specifying a term. No Title 45 or Title 37 provision imposes a term cap reaching school-committee transportation contracts.",
+      "confidenceImpact": "Finding confirmed. Confidence remains High."
+    },
+    {
+      "findingChallenged": "Rebid required at term-end - 'Not required by statute'",
+      "disconfirmingHypothesis": "A general municipal-procurement statute (Title 45 Chapter 55) or a general state-procurement statute (Title 37 Chapter 2) does reach school-committee transportation contracts and mandates competitive rebidding at term-end.",
+      "challengeSearches": "Re-verified § 45-55-2 (methods of source selection) verbatim - applies to 'municipal contracts.' Re-verified § 45-55-4(11) definition of 'municipality' - limited to 'individual cities and towns of the state of Rhode Island,' which does not include school committees as a separate category. Re-verified § 45-55-13.3 - affirmatively excludes § 16-2-9.2 school-district consortia. Searched for AG opinions and case law on Chapter 55 applicability to school districts. Reviewed § 37-2-18 (competitive sealed bidding for state) - applies to state purchasing, not to local school transportation.",
+      "result": "No state statute mandates competitive rebidding of school-committee transportation contracts at term-end. § 16-21-1(c) uses the words 'negotiate, extend, or renew,' which presuppose non-competitive renewal is permitted (subject to statewide-system and 180-day-personnel constraints). District competitive RFPs are local-policy practice.",
+      "confidenceImpact": "Finding confirmed. Confidence remains High."
+    },
+    {
+      "findingChallenged": "Renewal mechanics - 'Renewal/extension without a full competitive rebid is permitted by statute ... subject to two substantive constraints'",
+      "disconfirmingHypothesis": "A Rhode Island statute or administrative regulation imposes additional renewal-mechanic limits (CPI caps, fuel-adjustment limits, mandatory board/commissioner approval, public-hearing requirements, restrictions on evergreen/automatic renewal, or a cap on the number of option years) for school-committee transportation contracts.",
+      "challengeSearches": "Re-verified § 16-21-1(c), (d), (e), (f) verbatim - preserves electric-bus preference (e) and CBA-respecting discipline procedures (f) as substantive renewal conditions. WebSearch for 'Rhode Island school district transportation contract evergreen OR automatic renewal OR rollover state law restriction.' Reviewed Title 16 chapter index for any administrative-rule chapter on transportation contracting. Checked RIDE student-transportation guidance page.",
+      "result": "Beyond the four already-identified substantive conditions in § 16-21-1(c), (d), (e), (f) and § 16-21.1-8(c), no Rhode Island statute or regulation imposes renewal-mechanic limits. Stage-1 finding refined to surface subsections (e) and (f) explicitly. Other mechanics are set by district contract.",
+      "confidenceImpact": "Finding confirmed with refinement (subsections (e) and (f) now surfaced in citation). Confidence remains High."
+    },
+    {
+      "findingChallenged": "Special-education transportation follows the same (silent) framework as regular-route - no separate statutory rule",
+      "disconfirmingHypothesis": "Rhode Island sets different statutory contract term limits, rebid requirements, procurement procedures, or renewal mechanics for special-education / IEP / McKinney-Vento / foster-care / disability transportation, either in Title 16 Chapter 24 (Children with Disabilities), in education-department regulations, or in another statute.",
+      "challengeSearches": "Reviewed Title 16 chapter index and Chapter 16-24 section list. Re-verified § 16-24-11 ('Transportation shall be provided for all pupils attending a special class or suitable day schools') verbatim. Re-verified § 16-21.1-1 (purposes including equal educational opportunity for children with disabilities), § 16-21.1-3(b) (commissioner-granted variances for special-ed placements outside a region), and § 16-21.1-8 (statewide system). WebSearch for 'Rhode Island title 16 chapter 24 special education transportation contract' and 'Rhode Island special education transportation contract procurement statute.' Reviewed RIDE's October 2024 Statewide Transportation System Overview.",
+      "result": "No Rhode Island statute, administrative regulation, or AG opinion sets different contract term, rebid, or renewal rules for special-education transportation. § 16-24-11 mandates that transportation be provided but sets no contract rules. The statewide system (§ 16-21.1-8) handles out-of-district special-ed routes operationally, but the contracting rules are the same general (statutorily-silent) framework.",
+      "confidenceImpact": "Finding confirmed. Confidence remains High."
+    },
+    {
+      "findingChallenged": "District variance - 'Yes' (district-by-district variance in term length, option-year structure, fuel-adjustment language, and bid-evaluation criteria); North Providence characterized as 'uses a 2025-2030 (five-year) contract period'",
+      "disconfirmingHypothesis": "Either (a) RIDE, the AG, or another state agency has issued uniform statewide guidance that produces consistent term/rebid/renewal practice across districts, refuting the variance finding; or (b) Stage 1's characterization of the North Providence RFP is inaccurate.",
+      "challengeSearches": "Re-verified East Providence RFP# EPSD.DISTRICT.2025.0004 via the District Purchasing index. WebSearch for 'North Providence school bus transportation RFP 2025-2030 contract term three years OR five years' returned the September 10, 2024 NPSD RFP language. Verified Providence Public Schools 2021-2026 transportation RFP context. Searched for any RIDE uniform guidance on contract term/rebid/renewal - none located. Reviewed Narragansett School System Policy II.C.1.",
+      "result": "REFUTED IN PART - The North Providence RFP is structured as three (3) years (July 1, 2025 to June 30, 2028) plus two (2) individual option years, not a flat five-year contract; Stage 1's description corrected in fields[districtVariance]. The underlying finding that districts vary in their contracting practice is confirmed and actually strengthened: three RFPs reviewed use three different structures (East Providence 3+3, North Providence 3+2, Providence Public Schools 5-year base + renewal options at District discretion). No statewide uniformity guidance located.",
+      "confidenceImpact": "Underlying variance finding confirmed; one source-characterization corrected. Confidence remains High because the corrected finding is more accurate than Stage 1's."
+    },
+    {
+      "findingChallenged": "Currentness - 'Code currency: most recent transportation-contract amendments are P.L. 2021, ch. 293 (and twin P.L. 2021, ch. 294), effective July 9, 2021'",
+      "disconfirmingHypothesis": "A 2022-2026 session law or pending bill has amended, repealed, or renumbered § 16-21-1, § 16-21.1-4, § 16-21.1-8, or § 16-21.1-9 in a manner that changes term/rebid/renewal/special-ed rules.",
+      "challengeSearches": "Reviewed history-of-section line on the official § 16-21-1 page: 'G.L. 1923, ch. 70, § 31; ... P.L. 2021, ch. 292, § 1, effective July 9, 2021; P.L. 2021, ch. 293, § 1, effective July 9, 2021.' Re-verified P.L. 2021, ch. 293 PublicLaws page. Searched for 'It's not 1977 anymore' (2025 study commission article) and for pending bills - a state study commission has been reviewing the school-bus districts framework, but no enacted statute has changed the term/rebid/renewal/special-ed rules.",
+      "result": "Twin enactments are P.L. 2021, ch. 292 and P.L. 2021, ch. 293 (Stage 1 had ch. 293 and ch. 294 - the official History of Section on § 16-21-1 shows ch. 292 and ch. 293; correction surfaced in source ledger). No post-2021 enacted amendment changes the substantive contract rules. A 2025 study commission is reviewing the bus-district framework but has not yet produced legislation.",
+      "confidenceImpact": "Findings confirmed; minor citation correction (ch. 292 + ch. 293, not ch. 293 + ch. 294)."
+    }
+  ],
+  "sourcesReverified": [
+    {
+      "citation": "R.I. Gen. Laws § 16-21-1",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21/16-21-1.HTM",
+      "status": "re-verified",
+      "note": "Full text of subsections (a)-(f) retrieved via firecrawl_scrape; matches Stage 1 claims. History of Section confirms most recent amendments are P.L. 2021, ch. 292, § 1 and ch. 293, § 1 (effective July 9, 2021)."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-21.1-8",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-8.htm",
+      "status": "re-verified",
+      "note": "Subsection (c) verbatim re-verified via WebFetch - 'no school committee shall negotiate, extend, or renew any public transportation service contract unless the contract provides for payments to school bus drivers, attendants, monitors, and aides for one hundred and eighty (180) days.'"
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-21.1-4",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-4.HTM",
+      "status": "re-verified",
+      "note": "'provide the bus transportation required by this chapter, either by the use of its own bus facilities and personnel or by contract' and 'enter into contracts as they deem necessary' confirmed."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-21.1-1",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-1.HTM",
+      "status": "re-verified",
+      "note": "Seven purposes re-verified; includes 'equal educational opportunity' for children with disabilities."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-21.1-3",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-3.HTM",
+      "status": "re-verified",
+      "note": "Subsection (b) on special-education variances confirmed."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-21.1-9",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-9.HTM",
+      "status": "re-verified",
+      "note": "RIDE may delegate statewide-system management to an outside consultant through a competitive RFP; no term limit or contract duration specified."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-21.1-2",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-2.HTM",
+      "status": "re-verified",
+      "note": "Five regional school bus districts confirmed."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-2-9",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-2/16-2-9.HTM",
+      "status": "re-verified",
+      "note": "(a)(18) generic contracting authority for school committees re-verified."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-2-9.2",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-2/16-2-9.2.htm",
+      "status": "re-verified",
+      "note": "Joint-purchasing authority cross-referencing § 37-2-56 confirmed; P.L. 2004, ch. 349/355."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 37-2-56",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE37/37-2/37-2-56.HTM",
+      "status": "re-verified",
+      "note": "Municipality / regional-school-district piggyback on state master price agreements confirmed."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 45-55-2",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-55/45-55-2.HTM",
+      "status": "re-verified",
+      "note": "Five methods of source selection for 'municipal contracts' confirmed; applies to 'municipalities' as defined."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 45-55-4(11)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-55/45-55-4.HTM",
+      "status": "re-verified",
+      "note": "'Municipality means the individual cities and towns of the state of Rhode Island' confirmed verbatim. School committees are not separately listed in the definition."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 45-55-13.3",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-55/45-55-13.3.HTM",
+      "status": "re-verified",
+      "note": "School-district consortia under § 16-2-9.2 affirmatively excluded from Chapter 55."
+    },
+    {
+      "citation": "R.I. Gen. Laws § 16-24-11 (Transportation - Children With Disabilities chapter)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-24/16-24-11.HTM",
+      "status": "re-verified",
+      "note": "Newly verified for adversarial pass: 'Transportation shall be provided for all pupils attending a special class or suitable day schools.' Sets no contract term, rebid, or renewal rule - confirms no separate special-ed contracting framework in Chapter 24."
+    },
+    {
+      "citation": "P.L. 2021, ch. 293",
+      "officialUrl": "https://webserver.rilegislature.gov/PublicLaws/law21/law21293.htm",
+      "status": "re-verified",
+      "note": "Public Law amending §§ 16-21-1, 16-21.1-8, and chapter 37-13 sections re-verified. Twin enactment with P.L. 2021, ch. 292 (correction from Stage 1 which referenced ch. 294)."
+    },
+    {
+      "citation": "RIDE 'Statewide Transportation System Overview' (Oct. 9, 2024)",
+      "officialUrl": "https://www.rilegislature.gov/commissions/sttrco/commdocs/Statewide%20Transportation%20System%20Overview%2010.09.2024.pdf",
+      "status": "re-verified",
+      "note": "Referenced via search; confirmed Transpar Group manages with First Student and Ocean State Transit; Special Ed required by federal law; statewide system handles out-of-district SPED, homeless, foster care."
+    },
+    {
+      "citation": "East Providence School District RFP# EPSD.DISTRICT.2025.0004 (April 25, 2025)",
+      "officialUrl": "https://epschoolsri.org/wp-content/uploads/2025/04/2025-RFP-School-Bus-Transportation-.pdf",
+      "status": "re-verified",
+      "note": "Located on district purchasing page. PDF binary did not render via WebFetch, but search results and prior research consistently confirm the 3-year initial + 3 option-year structure."
+    },
+    {
+      "citation": "North Providence Public Schools NPSD-Bus-Transportation-RFP-2025-2030",
+      "officialUrl": "https://nprovschools.org/wp-content/uploads/2024/09/NPSD-Bus-Transportation-RFP-2025-2030-Final-9-10-24.pdf",
+      "status": "replaced",
+      "note": "Stage 1 characterized this RFP as 'uses a 2025-2030 (five-year) contract period.' Corrected via WebSearch on the official NPSD RFP to: initial three (3) years (July 1, 2025 to June 30, 2028) plus two (2) individual option years. The 2025-2030 designation is the maximum potential window, not the base term."
+    },
+    {
+      "citation": "Providence Public Schools Student Transportation RFP",
+      "officialUrl": "https://resources.finalsite.net/images/v1749069922/providenceschoolsorg/zyfn3u3l02satkldntt4/studenttransportationrfp.pdf",
+      "status": "re-verified",
+      "note": "5-year base contract through 2025-26 with renewal options as solely determined by District."
+    },
+    {
+      "citation": "Narragansett School System Purchasing Policy II.C.1",
+      "officialUrl": "https://www.nssk12.org/school_committee/school_committee_policy_book/purchasing",
+      "status": "re-verified",
+      "note": "'Provisions not included in the policy shall be governed by Title 37 of the General Laws of the State of Rhode Island, when it is in the best interest of the Narragansett School System to do so.' No contract-term provision; no transportation-specific provision."
+    }
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21-1 (Transportation of public and private school pupils)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21/16-21-1.HTM",
+      "codeCurrency": "History of Section: G.L. 1923, ch. 70, § 31; P.L. 1925, ch. 587; P.L. 1937, ch. 2506; G.L. 1938, ch. 178; G.L. 1956, § 16-21-1; P.L. 1971, ch. 270; P.L. 1986, ch. 526; P.L. 2009, ch. 5, art. 12; P.L. 2010, ch. 23, art. 8; P.L. 2017, ch. 479; P.L. 2021, ch. 292, § 1, effective July 9, 2021; P.L. 2021, ch. 293, § 1, effective July 9, 2021. Page hosted on the Rhode Island General Assembly's official webserver.",
+      "fieldsSupported": "Max Term (silence); Rebid (negotiate/extend/renew language in (c)); Renewal Mechanics (substantive conditions in (c), (d), (e), (f)); Statutory Citation",
+      "relevantText": "(c) No school committee shall negotiate, extend, or renew any transportation contract unless such contract enables the district to participate in the statewide transportation system, without penalty to the district, upon implementation of the statewide transportation system... (d) No school committee shall negotiate, extend, or renew any school transportation service contract unless the contract provides for payments to school bus drivers, attendants, monitors, and aides for one hundred and eighty (180) days or the length of the contracted-for school year, whichever is longer. (e) ... shall give a preference in contract and/or subcontract awards to the public transportation provider that uses electric buses to the greatest extent... (f) ... no school committee or local education agency shall take any adverse disciplinary action against any school bus driver, attendant, monitor, or aide covered by a collective bargaining agreement prior to any investigation or action taken by the contracting entity...",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21.1-8 (Statewide transportation system for all students)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-8.htm",
+      "codeCurrency": "Statute last amended P.L. 2021, ch. 292 and P.L. 2021, ch. 293 (effective July 9, 2021).",
+      "fieldsSupported": "Max Term; Rebid; Renewal Mechanics; Special-Ed; Statutory Citation",
+      "relevantText": "(c) No school committee shall negotiate, extend, or renew any public transportation service contract unless the contract provides for payments to school bus drivers, attendants, monitors, and aides for one hundred and eighty (180) days or the length of the contracted-for school year, whichever is longer.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21.1-4 (Duties of school committees)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-4.HTM",
+      "codeCurrency": "Enacted P.L. 1977, ch. 149, § 1.",
+      "fieldsSupported": "Max Term (silence); broad contracting authority",
+      "relevantText": "[School committees shall] provide the bus transportation required by this chapter, either by the use of its own bus facilities and personnel or by contract ... [and may] enter into contracts as they deem necessary in order to accomplish the requirements of this chapter, and may enter into cooperative agreements with other school committees for the purposes of conforming to the requirements of this chapter.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21.1-1 (General purposes)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-1.HTM",
+      "codeCurrency": "P.L. 1977, ch. 149, § 1; amended 1999.",
+      "fieldsSupported": "Special-Ed (purposes); chapter scope",
+      "relevantText": "[Purposes include] equal educational opportunity for children with disabilities; a unified statewide busing service; transportation to approved nonprofit schools; protecting pupil safety.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21.1-3 (Variances permitted)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-3.HTM",
+      "codeCurrency": "Current statute on official RI Legislature webserver.",
+      "fieldsSupported": "Special-Ed (subsection (b))",
+      "relevantText": "(b) Variances to require a city or town to provide bus transportation to a pupil entitled to enrollment in a special education program ... shall be granted by the commissioner of elementary and secondary education if he or she finds that the transportation is necessary in order that the pupil enroll in a special education facility located outside of the region and there is no similar facility within the region.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21.1-9 (Oversight of statewide transportation system)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-9.HTM",
+      "codeCurrency": "P.L. 2009, ch. 5, art. 12, § 3.",
+      "fieldsSupported": "Statewide-system oversight; permits competitive RFP for system manager",
+      "relevantText": "Management of the system may be delegated to an outside consultant through a competitive request for proposals.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-21.1-2 (School bus districts established)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-21.1/16-21.1-2.HTM",
+      "codeCurrency": "P.L. 1977, ch. 149, § 1; P.L. 1988, ch. 84; P.L. 2010, ch. 124; P.L. 2010, ch. 125.",
+      "fieldsSupported": "Statewide-system regions; charter-school transportation cost allocation",
+      "relevantText": "Five regional school bus districts established for grades K-12 attending public, vocational, regional, cooperative, and nonprofit schools.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-2-9 (General powers and duties of school committees)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-2/16-2-9.HTM",
+      "codeCurrency": "Page hosted on the RI General Assembly official Webserver; current statute (no specific currency banner displayed).",
+      "fieldsSupported": "Statutory Citation (general school-committee contracting authority)",
+      "relevantText": "(a)(18) [Authority] to enter into contracts ... [except that] the power and duty to enter into collective bargaining agreements shall be vested in the chief executive officer of the municipality and not in the school committee.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-2-9.2 (Joint purchasing agreements)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-2/16-2-9.2.htm",
+      "codeCurrency": "P.L. 2004, ch. 349, § 1; P.L. 2004, ch. 355, § 1.",
+      "fieldsSupported": "Renewal/procurement (joint purchasing option); cross-reference to § 37-2-56",
+      "relevantText": "Any two (2) or more school committees may establish joint purchasing agreements ... The Rhode Island Association of School Committees and any consortia ... shall be entitled to all the rights and benefits set forth in § 37-2-56.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 37-2-56 (Purchasing for municipalities and regional school districts)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE37/37-2/37-2-56.HTM",
+      "codeCurrency": "Originally enacted 1989; amended 1999 and 2010.",
+      "fieldsSupported": "Procurement piggyback authority; defines that municipalities and regional school districts may participate in state master price agreements",
+      "relevantText": "Municipalities and school districts may participate in state purchasing contracts ... the purchasing agent may solicit offers based upon anticipated master price agreement utilization.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 45-55-2 (Method of source selection)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-55/45-55-2.HTM",
+      "codeCurrency": "Originally enacted 1992; amended 1998 and 2017.",
+      "fieldsSupported": "Rebid (general municipal-procurement framework - methods of source selection)",
+      "relevantText": "Except as otherwise authorized by law, all municipal contracts shall be awarded by [competitive sealed bidding, competitive negotiations, non-competitive negotiations, small purchase procedures, or qualifications-based selection].",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 45-55-4 (Definitions, especially (11) Municipality)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-55/45-55-4.HTM",
+      "codeCurrency": "Current statute on official RI Legislature webserver.",
+      "fieldsSupported": "Rebid (applicability question - definition excludes school committees as a separate category)",
+      "relevantText": "(11) 'Municipality' means the individual cities and towns of the state of Rhode Island.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 45-55-13.3 (Exclusion of multi-school district combined purchasing consortia)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-55/45-55-13.3.HTM",
+      "codeCurrency": "P.L. 2004, ch. 349, § 2; P.L. 2004, ch. 355, § 2.",
+      "fieldsSupported": "Confirms § 16-2-9.2 school consortia exempt from Title 45 Ch 55",
+      "relevantText": "The provisions of this chapter do not apply to purchases and contracts entered into by those consortia established pursuant to § 16-2-9.2, and such entities shall be exempt from all provisions of this chapter.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute",
+      "citation": "R.I. Gen. Laws § 16-24-11 (Transportation - Children With Disabilities chapter)",
+      "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-24/16-24-11.HTM",
+      "codeCurrency": "Current statute on official RI Legislature webserver.",
+      "fieldsSupported": "Special-Ed (confirms no separate contracting framework for special-ed transportation)",
+      "relevantText": "Transportation shall be provided for all pupils attending a special class or suitable day schools.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified state statute (session law)",
+      "citation": "P.L. 2021, ch. 293 (Public Law amending § 16-21-1 and § 16-21.1-8)",
+      "officialUrl": "https://webserver.rilegislature.gov/PublicLaws/law21/law21293.htm",
+      "codeCurrency": "Enacted in the 2021 session, effective July 9, 2021; the most recent substantive amendment to RI school-transportation contract law identified. Twin enactment: P.L. 2021, ch. 292.",
+      "fieldsSupported": "Session-law check confirming most recent transportation-contract amendments (2021)",
+      "relevantText": "[Adds] (c) No school committee shall negotiate, extend, or renew any transportation contract unless such contract enables the district to participate in the statewide transportation system, without penalty to the district [and 180-day personnel payment requirement; electric-bus preference; CBA-respecting discipline procedures].",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Official state-education-department guidance",
+      "citation": "RI Department of Education, 'Statewide Transportation System Overview' (Oct. 9, 2024)",
+      "officialUrl": "https://www.rilegislature.gov/commissions/sttrco/commdocs/Statewide%20Transportation%20System%20Overview%2010.09.2024.pdf",
+      "codeCurrency": "Presentation dated October 9, 2024.",
+      "fieldsSupported": "Special-Ed (statewide system handles out-of-district SPED, homeless, foster care); current operational structure",
+      "relevantText": "Special Ed - Required by Federal. Regions do not apply. Homeless - Required by Federal Law. Foster Care - Required by Federal Law. Currently RIDE's program is managed by Transpar Group with transportation services provided by First Student and Ocean State Transit.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - Local district RFP / policy",
+      "citation": "East Providence School District RFP# EPSD.DISTRICT.2025.0004 (School Bus Transportation, dated April 25, 2025)",
+      "officialUrl": "https://epschoolsri.org/wp-content/uploads/2025/04/2025-RFP-School-Bus-Transportation-.pdf",
+      "codeCurrency": "RFP issued April 25, 2025.",
+      "fieldsSupported": "District Variance (3-year initial + 3 option-year structure)",
+      "relevantText": "The contract shall be for the initial period of three (3) years plus three (3) individual option years, beginning July 1, 2025 and ending June 30, 2028. Option years can be awarded at the sole discretion of the District upon one year's notice. Payment and performance obligations by the East Providence School Committee is subject to annual appropriation and availability of funds.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - Local district RFP / policy",
+      "citation": "North Providence Public Schools NPSD-Bus-Transportation-RFP-2025-2030 (Sept. 10, 2024)",
+      "officialUrl": "https://nprovschools.org/wp-content/uploads/2024/09/NPSD-Bus-Transportation-RFP-2025-2030-Final-9-10-24.pdf",
+      "codeCurrency": "RFP issued September 10, 2024; addendum October 4, 2024.",
+      "fieldsSupported": "District Variance (3-year initial + 2 option-year structure; CORRECTS Stage 1)",
+      "relevantText": "The contract for North Providence school bus transportation shall be for the initial period of three (3) years, beginning July 1, 2025 and ending June 30, 2028, plus two (2) individual option years.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - Local district RFP / policy",
+      "citation": "Providence Public Schools Student Transportation RFP",
+      "officialUrl": "https://resources.finalsite.net/images/v1749069922/providenceschoolsorg/zyfn3u3l02satkldntt4/studenttransportationrfp.pdf",
+      "codeCurrency": "RFP - 2021/2022 through 2025/2026 school years.",
+      "fieldsSupported": "District Variance (5-year base + renewal-option structure)",
+      "relevantText": "The Contract period will be for five (5) years with renewal options available as solely determined by the District. The Contract will be awarded for a period of five (5) years, 2021-2022 (9/1/21-8/30/22) school year through 2025-2026 (9/1/25-8/31/26) school year.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - Local district RFP / policy",
+      "citation": "Narragansett School System Purchasing Policy II.C.1 (cites Title 37 of the General Laws as gap-filler)",
+      "officialUrl": "https://www.nssk12.org/school_committee/school_committee_policy_book/purchasing",
+      "codeCurrency": "School committee policy (date not displayed on page).",
+      "fieldsSupported": "District Variance (cites Title 37 as gap-filler, sets own thresholds)",
+      "relevantText": "Provisions not included in the policy shall be governed by Title 37 of the General Laws of the State of Rhode Island, when it is in the best interest of the Narragansett School System to do so.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "Adversarial Stage-2 verification re-opened every Stage-1 cited official URL using firecrawl_scrape (until daily credit limit hit) and then WebFetch. Confirmed every § 16-21-1, § 16-21.1-x, § 45-55-x, § 37-2-56, § 16-2-9, § 16-2-9.2 citation against the official Rhode Island General Assembly webserver. Added § 16-24-11 (Title 16 Chapter 24 - Children with Disabilities) to confirm no separate special-ed contracting rule. Verified district RFPs through WebSearch where direct PDF fetch returned binary. WebFetch on FindLaw and Justia returned HTTP 403 - used WebSearch result snippets and the official webserver instead, consistent with the orchestrator guidance to never cite secondary summaries as authority.",
+    "queriesThatMattered": [
+      "Rhode Island General Laws school district transportation contract term limit maximum years statute",
+      "Rhode Island school committee transportation contract rebid renewal procurement Title 45 chapter 55 applicability school district",
+      "Rhode Island special education transportation contract procurement statute '16-24' OR 'special education' IEP separate rule",
+      "Rhode Island title 16 chapter 24 children with disabilities transportation section list",
+      "'East Providence' OR 'Providence Public Schools' OR 'North Providence' transportation RFP 'five years' OR 'three years' OR 'option years' 2025",
+      "'North Providence' school bus transportation RFP 2025-2030 contract term 'three years' OR 'five years'",
+      "Rhode Island school district transportation contract 'evergreen' OR 'automatic renewal' OR 'rollover' state law restriction",
+      "Direct fetch of § 16-21-1, § 16-21.1-1 through 16-21.1-9, § 16-24-11, § 16-2-9, § 16-2-9.2, § 45-55-2 through 45-55-13.3, § 37-2-56 on the official RI General Assembly webserver"
+    ],
+    "codeCurrency": "Rhode Island General Laws as published on the General Assembly's official webserver (webserver.rilegislature.gov/Statutes). Individual section pages do not display a 'current through' banner, but the substantive transportation-contract provisions were last amended by P.L. 2021, ch. 292 and P.L. 2021, ch. 293 (effective July 9, 2021), as shown in the History of Section line on § 16-21-1. The October 9, 2024 RIDE Statewide Transportation System Overview confirms the 2021 statutory framework remains operational. No 2022-2026 session-law amendments to § 16-21-1, § 16-21.1-4, § 16-21.1-8, or § 16-21.1-9 establishing a maximum-term, rebid, or renewal-mechanic rule were identified.",
+    "adminCodeCurrency": "Rhode Island Code of Regulations (RICR) - checked via rules.sos.ri.gov; no transportation-contract-specific regulation governing term, rebid, or renewal of school-committee transportation contracts identified. 220-RICR-30-00-5 governs competitive sealed bidding within the state Division of Purchases, not school committees. 280-RICR-30-15-10 (Rules and Regulations for School Bus Transportation) governs vehicle and driver requirements, not contract term or rebid.",
+    "sessionLawCheck": "Re-verified P.L. 2021, ch. 293 PublicLaws page; History of Section for § 16-21-1 shows twin enactments P.L. 2021, ch. 292, § 1 and ch. 293, § 1 (effective July 9, 2021) - Stage 1's reference to ch. 294 corrected to ch. 292. No subsequent 2022-2026 session law altering term, rebid, or renewal rules for school-district transportation contracts located on the General Assembly's PublicLaws site. A 2025 study commission has been reviewing the school-bus districts framework but has not enacted legislation.",
+    "negativeSearchPaths": [
+      "Searched R.I. Gen. Laws Title 16, Chapter 21 (Health and Safety of Pupils) - only § 16-21-1 addresses transportation contracts; no other section in Ch. 21 references contract term, rebid, or renewal.",
+      "Searched R.I. Gen. Laws Title 16, Chapter 21.1 (Transportation of School Pupils Beyond City and Town Limits) - §§ 16-21.1-1 through 16-21.1-9 reviewed; no statutory maximum term, mandatory rebid, or detailed renewal-mechanic rule located.",
+      "Searched R.I. Gen. Laws Title 16, Chapter 24 (Children with Disabilities) - § 16-24-11 mandates transportation be provided but sets no contract term, rebid, or renewal rule. No other section in Ch. 24 sets a contracting rule.",
+      "Searched R.I. Gen. Laws Title 45, Chapter 55 (Award of Municipal Contracts) - definition of 'municipality' at § 45-55-4(11) confines applicability to 'individual cities and towns of the state of Rhode Island'; no language reaching school-committee transportation contracts; § 45-55-13.3 affirmatively excludes school-district consortia.",
+      "Searched R.I. Gen. Laws Title 37, Chapter 2 (State Purchases) - § 37-2-56 permits municipal/regional-school-district piggyback on state master price agreements; § 37-2-18 (state competitive sealed bidding) does not extend to local school transportation contracts; no term, rebid, or renewal cap on local transportation contracts.",
+      "Searched R.I. Gen. Laws § 16-2-9 (school committee general powers) - § 16-2-9(a)(18) grants generic contracting authority; no competitive-bidding or term-limit provision.",
+      "Searched for state-law restrictions on evergreen/automatic-renewal/rollover mechanics - none located for school-committee transportation contracts; SB171 (2023) is a consumer subscription-renewal bill that does not apply.",
+      "Searched RI Attorney General opinions and RIDE Director's Directory - no opinion identified that sets a uniform statewide rule on transportation-contract term, rebid, or renewal mechanics.",
+      "Searched the Rhode Island Auditor General's 'Guidelines for Audit Bids and Specifications for Municipalities and Regional School Districts' - limited to audit-firm selection under § 45-10-4; does not address transportation contracts."
+    ],
+    "conflictChecks": "No conflict between authoritative sources identified. § 16-21-1, § 16-21.1-8, and § 45-55-4(11) align: the school-committee transportation framework is governed by transportation-specific statutes that impose substantive conditions (statewide-system participation; 180-day personnel payment; electric-bus preference; CBA-respecting discipline procedures) but no term limit or competitive-rebid requirement, while the general municipal-procurement statute does not by definition reach school committees as such. One Stage-1 characterization (North Providence RFP as a 'five-year' contract) was refuted by the official RFP language and corrected; the underlying district-variance finding is unaffected. One minor session-law citation (Stage 1 referenced P.L. 2021 ch. 293 + ch. 294 as twin enactments; correct twin pair per official History of Section is ch. 292 + ch. 293) corrected."
+  }
+}

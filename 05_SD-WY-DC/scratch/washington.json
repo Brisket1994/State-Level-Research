@@ -1,0 +1,224 @@
+{
+  "jurisdiction": "Washington",
+  "finalFields": {
+    "maxContractTerm": {
+      "value": "Less than 5 years per single award (district may renew, extend, or terminate within the award), subject to an open competitive process at least once every 5 years. Up to 7 years if the contract uses zero emission school buses. RCW 28A.160.140(1) does not state a numeric maximum total term; it constrains the rebid interval (5 years; 7 for zero-emission-bus contracts) on contracts with private nongovernmental entities.",
+      "citation": "RCW 28A.160.140(1) (\"As a condition of entering into a pupil transportation services contract with a private nongovernmental entity, each school district shall engage in an open competitive process at least once every five years. This requirement shall not prohibit a district from entering into a pupil transportation services contract of less than five years in duration with a district option to renew, extend, or terminate the contract, if the district engages in an open competitive process at least once every five years after July 26, 1987. If a school district enters into a pupil transportation services contract with a private nongovernmental entity that uses zero emission school buses to transport students for the school district, the contract period may be up to seven years in duration.\"). Official URL: https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.140"
+    },
+    "rebidRequired": {
+      "label": "Required",
+      "rule": "Required. RCW 28A.160.140(1) requires that, as a condition of entering into a pupil transportation services contract with a private nongovernmental entity, each school district shall engage in an open competitive process at least once every five years (or once every seven years where the contract uses zero emission school buses). \"Open competitive process\" is defined in RCW 28A.160.140(4)(b) as either: (i) the solicitation of bids or quotations and award of contracts under RCW 28A.335.190 (the school-district bid law); or (ii) the competitive solicitation of proposals and their evaluation consistent with the process and criteria recommended or required by the Office of Financial Management for state-agency acquisition of personal-service contractors. A district may use shorter-term contracts with renewals or extensions within that 5-year (or 7-year zero-emission) window, but a fresh open competitive process must occur at least every 5 (or 7) years.",
+      "citation": "RCW 28A.160.140(1), (4)(b); RCW 28A.335.190 (school district bid law: written/telephonic quotations from at least three sources for purchases of $40,000 up to $75,000; formal newspaper-advertised bidding above $75,000; statutory exception for direct school-bus purchases under RCW 28A.160.195). Official URLs: https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.140 ; https://app.leg.wa.gov/rcw/default.aspx?cite=28A.335.190"
+    },
+    "renewalMechanics": {
+      "value": "Within a single award, RCW 28A.160.140(1) expressly authorizes a contract \"of less than five years in duration with a district option to renew, extend, or terminate the contract,\" so long as the district runs an open competitive process at least once every five years (seven years for contracts using zero-emission school buses). The statute does not prescribe CPI/fuel/index adjustments, automatic evergreen rollover, or state-agency approval as renewal mechanics. For contracts entered into, renewed, or extended after June 6, 2024, RCW 28A.160.140(2)(a)-(b) imposes additional conditions on renewal/extension: the contractor must provide opt-in employees with (i) an employer health benefits contribution equal to the SEBB \"cockle rate\" employer payment dollar amount in effect for the first year of the contract, and (ii) a pension equivalency contribution at the SERS employer normal cost contribution rate; and the contract \"must include a detailed explanation of any contract cost increase by year, expenditure type, and amount.\" RCW 28A.160.140(3) further provides that once total cost of ownership of zero-emission school buses is at or below that of diesel buses, a district may only enter into, renew, or extend a contract with a nongovernmental entity that uses zero-emission school buses, subject to OSPI exceptions under RCW 28A.160.260(3)(a)(ii)-(iv) (route-mileage, technological-capability, and charging-infrastructure exceptions).",
+      "citation": "RCW 28A.160.140(1), (2)(a)-(c), (3); RCW 28A.160.260(3)(a)(ii)-(iv). Official URLs: https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.140 ; https://app.leg.wa.gov/rcw/default.aspx?cite=28A.160.260"
+    },
+    "statutoryCitation": "RCW 28A.160.140 (Contract for pupil transportation services with private nongovernmental entity-Competitive bid procedures-Requirement for health care and pension benefits), most recently amended by 2024 c 345 s 5 and 2024 c 313 s 2 (incorporated under RCW 1.12.025(2) per the reviser's note); prior history 1987 c 141 s 2; 1990 c 33 s 140 (formerly RCW 28A.58.133). Cross-references: RCW 28A.335.190 (school-district bid law incorporated by reference); RCW 28A.160.010 (board-of-directors responsibility for student transportation program); RCW 28A.160.195 (school bus acquisition, exempt from general bid law); RCW 28A.160.260 (zero-emission bus total-cost-of-ownership formula and exceptions). Official URL: https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.140",
+    "districtVariance": {
+      "label": "No",
+      "explanation": "RCW 28A.160.140 is a uniformly applicable statewide requirement on Washington school districts that enter into pupil transportation services contracts with private nongovernmental entities. OSPI (the state education agency) administers reporting requirements added in 2024, and WSSDA Model Policy 6600 (Transportation) directs districts that the transportation program \"shall comply in all ways with State law and regulation,\" indicating uniform statewide application. No AG opinion, state-auditor report, or OSPI bulletin was located indicating that districts apply the five-year (or seven-year zero-emission) open-competitive-process rule differently across districts. Districts have discretion in (a) the procurement vehicle chosen within the statutory \"open competitive process\" menu (RCW 28A.335.190 bid/quotation track vs. OFM-style personal-services RFP track per RCW 28A.160.140(4)(b)) and (b) the precise contract length within the 5-year (or 7-year zero-emission) ceiling. That discretion is statutorily authorized procedural choice, not interpretive variance among districts."
+    }
+  },
+  "specialEducation": {
+    "differentRules": "No",
+    "detail": "RCW 28A.160.140 applies to \"pupil transportation services contract[s],\" defined in subsection (4)(c) as contracts for the operation of privately owned or school-district-owned school buses and the services of drivers, operators, supervisors, and support personnel \"to provide students with transportation to and from school on a regular basis.\" The definition is not restricted to regular-education routes; no separate Washington statute was located imposing different maximum-term, rebid, or renewal rules for special education, IEP-mandated, McKinney-Vento, foster-care, or alternative student transportation contracts. WAC 392-172A-02095 (Provision of Special Education Services - Transportation) sequences delivery modes for IEP-mandated transportation (school-bus transportation; private-party contracts; in-lieu/parent reimbursement; board-and-room when other options are infeasible) and requires that vehicles and operations comply with chapters 392-143, 392-144, and 392-145 WAC, but does not impose a separate contract-term, rebid, or renewal rule that displaces RCW 28A.160.140. WAC chapter 392-141 likewise defines \"private party contract\" and \"in lieu transportation\" as funding/mode arrangements without imposing different contract-term or rebid rules. Federal IDEA establishes the duty to provide transportation as a related service when written into the IEP but does not displace state contract/procurement rules."
+  },
+  "perFieldVerdicts": [
+    {
+      "field": "maxContractTerm",
+      "verdict": "confirmed",
+      "note": "Verbatim text of RCW 28A.160.140(1) re-opened at the official leg.wa.gov RCW page on access; confirms (i) the open-competitive-process-every-five-years rebid trigger; (ii) authorization for contracts of less than five years with district option to renew/extend/terminate; and (iii) up-to-seven-years for contracts using zero-emission school buses. No statutory provision authorizes a longer single-award term; no grandfathering exception located."
+    },
+    {
+      "field": "rebidRequired",
+      "verdict": "confirmed",
+      "note": "Re-opened RCW 28A.160.140(1), (4)(b) and RCW 28A.335.190. The 5-year (7-year zero-emission) open-competitive-process trigger is mandatory; the only optionality is between the two open-competitive-process methods defined in subsection (4)(b). No sole-source, emergency, cooperative, or board-waiver exception to the 5/7-year rebid interval was located in RCW 28A.160.140; small-purchase thresholds in RCW 28A.335.190 apply only when the district selects the (4)(b)(i) bid-law track. AGO 1984 No. 2 was reviewed and confirmed superseded by the 1987 enactment now codified as RCW 28A.160.140."
+    },
+    {
+      "field": "renewalMechanics",
+      "verdict": "confirmed",
+      "note": "Re-opened RCW 28A.160.140(1) for renewal/extension/termination authority; subsections (2)(a)-(c) for the SEBB-equivalent health-benefits and SERS-equivalent pension conditions and the detailed-cost-explanation requirement applicable to contracts entered into, renewed, or extended after June 6, 2024; and subsection (3) for the zero-emission-bus condition tied to the total-cost-of-ownership formula. RCW 28A.160.260 verified for the OSPI rule-making and the (3)(a)(ii)-(iv) route-mileage, technological-capability, and charging-infrastructure exceptions."
+    },
+    {
+      "field": "statutoryCitation",
+      "verdict": "confirmed",
+      "note": "Official primary citation re-opened at leg.wa.gov. History line on the official RCW page lists 2024 c 345 s 5 and 2024 c 313 s 2 (with reviser's note re: RCW 1.12.025(2) incorporation), 1990 c 33 s 140, and 1987 c 141 s 2 (formerly RCW 28A.58.133). Targeted searches of 2025 and 2026 session laws located amendments to other sections within Chapter 28A.160 RCW (e.g., 28A.160.150/.170/.180/.195/.210/.220 in 2025; 28A.160.130/.200 in 2026) but no amendment to RCW 28A.160.140."
+    },
+    {
+      "field": "districtVariance",
+      "verdict": "confirmed",
+      "note": "WSSDA Model Policy 6600 language re-confirmed (model policy directs districts that transportation programs \"shall comply in all ways with State law and regulation\"). District-level RFPs reviewed (e.g., joint Battle Ground/Hockinson Pupil Transportation Services RFP; Seattle Public Schools procurement framework) operate within the RCW 28A.160.140(4)(b) menu and reflect procedural choice, not interpretive variance from the statute. No state-auditor report or AG opinion located indicating divergent district interpretations of the 5/7-year rebid trigger."
+    }
+  ],
+  "challengeMatrix": [
+    {
+      "findingChallenged": "Max contract term capped at <5 years (single award) and up to 7 years for zero-emission-bus contracts (RCW 28A.160.140(1))",
+      "disconfirmingHypothesis": "A longer single-award term is authorized by an exception, grandfathering clause, or notwithstanding provision elsewhere in Title 28A RCW or Chapter 28A.160 RCW.",
+      "challengeSearches": "Re-opened RCW 28A.160.140 official text for terms such as \"may renew\", \"extension\", \"option\", \"successive\", \"multi-year\", \"not exceed\", \"notwithstanding\", and \"annual termination\"; searched Chapter 28A.160 RCW table of contents on leg.wa.gov for adjacent provisions; ran web search for \"RCW 28A.160.140 amended 2025 2026\".",
+      "result": "No longer-term authority located. Statute permits contracts <5 years with district option to renew/extend/terminate within a 5-year rebid window (7 for zero-emission). No grandfathering or notwithstanding provision authorizes a longer single award.",
+      "confidenceImpact": "Confirmed; high-confidence finding."
+    },
+    {
+      "findingChallenged": "Rebid required at term end via an open competitive process at least once every 5 years (7 for zero-emission)",
+      "disconfirmingHypothesis": "Exceptions exist for renewal without bidding (sole source, emergency, cooperative purchasing, interlocal/piggyback, board waiver, state-agency approval, negotiated procurement, small-purchase thresholds) that would let a district avoid the 5/7-year competitive process.",
+      "challengeSearches": "Re-opened RCW 28A.160.140 and RCW 28A.335.190; reviewed RCW 28A.160.195 (school bus acquisition exemption from general bid law); searched for sole-source/emergency/cooperative-purchasing exceptions tied to pupil transportation contracts.",
+      "result": "RCW 28A.335.190 contains thresholds and emergency/internal-improvement exceptions that operate only inside the (4)(b)(i) bid-law track of the open competitive process; RCW 28A.160.195 exempts direct bus purchases but not pupil transportation services contracts. No exception waives the 5/7-year rebid interval in RCW 28A.160.140.",
+      "confidenceImpact": "Confirmed; rebid requirement intact."
+    },
+    {
+      "findingChallenged": "Renewal mechanics limited to within-award renewals/extensions, subject to 2024 SEBB/SERS-equivalent benefit conditions and zero-emission condition",
+      "disconfirmingHypothesis": "Additional statutory renewal limits or conditions exist (CPI caps, fuel adjustments, mandatory state-agency approval, public-hearing requirement, max number of renewals).",
+      "challengeSearches": "Re-opened RCW 28A.160.140 subsections (2)-(3); reviewed RCW 28A.160.260 for total-cost-of-ownership formula and (3)(a)(ii)-(iv) exceptions; searched OSPI Student Transportation page and 2024 OSPI session impact materials.",
+      "result": "Statutory renewal conditions are exactly those in (2)(a)-(c) (SEBB-equivalent health, SERS-equivalent pension, detailed cost-increase explanation) and (3) (zero-emission contracting once cost parity achieved, subject to OSPI exceptions). No CPI cap, fuel-adjustment limit, public-hearing requirement, or maximum-number-of-renewals provision was located.",
+      "confidenceImpact": "Confirmed."
+    },
+    {
+      "findingChallenged": "Special-education transportation follows the same RCW 28A.160.140 rule (no separate term/rebid/renewal regime)",
+      "disconfirmingHypothesis": "A separate Washington statute or WAC chapter imposes different maximum-term, rebid, or renewal rules for IEP-mandated, McKinney-Vento, foster-care, or alternative student transportation contracts.",
+      "challengeSearches": "Re-opened WAC 392-172A-02095 (Provision of Special Education Services - Transportation); reviewed WAC chapters 392-141 and 392-144; searched \"Washington special education transportation contract competitive bidding RCW\" and \"in lieu transportation contract Washington IEP\".",
+      "result": "WAC 392-172A-02095 sequences delivery modes and references WAC chapters 392-143/144/145 for vehicle operations; WAC 392-141 defines \"private party contract\" and \"in lieu transportation\" as funding/mode mechanisms. None impose a separate contract-term, rebid, or renewal rule displacing RCW 28A.160.140. Federal IDEA imposes the duty but not the state contract-procurement rule.",
+      "confidenceImpact": "Confirmed."
+    },
+    {
+      "findingChallenged": "District variance: No interpretive variance among districts",
+      "disconfirmingHypothesis": "Credible evidence shows districts interpret the 5-year (or 7-year zero-emission) open-competitive-process rule differently in practice, beyond statutorily authorized procedural choice.",
+      "challengeSearches": "Reviewed WSSDA Model Policy 6600; reviewed two district instances (joint Battle Ground/Hockinson 2025-26 Pupil Transportation Services RFP and Seattle Public Schools procurement policy/RFQ for alternative student transportation); searched for state-auditor reports and AG opinions post-1987 indicating non-uniform district interpretation.",
+      "result": "Reviewed district materials operate within the RCW 28A.160.140(4)(b) menu (RCW 28A.335.190 bid/quotation track or OFM-style personal-services RFP track) and within the 5/7-year ceiling. No state-auditor or AG opinion located post-1987 indicating divergent district interpretations.",
+      "confidenceImpact": "Confirmed."
+    },
+    {
+      "findingChallenged": "Currentness: 2024 amendments remain operative text; no 2025 or 2026 amendments to RCW 28A.160.140",
+      "disconfirmingHypothesis": "A 2025 or 2026 session law amended or scheduled amendment to RCW 28A.160.140 that the Stage 1 pack missed.",
+      "challengeSearches": "Re-opened the official RCW 28A.160.140 history line at leg.wa.gov; ran searches for \"'28A.160.140' 2025 session law amendment Washington legislature\" and \"RCW 28A.160.140 amended 2025 2026\". Reviewed E2SSB 5009 (2025) and related transportation-section amendments.",
+      "result": "Official history line on the RCW page shows most-recent amendments as 2024 c 345 s 5 and 2024 c 313 s 2; 2025 session bills amended other Chapter 28A.160 sections (e.g., .150, .170, .180, .195, .210, .220), not .140. No 2026 amendment to .140 located.",
+      "confidenceImpact": "Confirmed; currency documented."
+    }
+  ],
+  "sourcesReverified": [
+    "RCW 28A.160.140 (https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.140) - full text and history line verified.",
+    "RCW 28A.335.190 (https://app.leg.wa.gov/rcw/default.aspx?cite=28A.335.190) - bid thresholds ($40k-$75k written quotations; >$75k formal bidding) and exception for direct school-bus purchases under RCW 28A.160.195 verified.",
+    "RCW 28A.160.010 (https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.010) - board-of-directors responsibility verified.",
+    "RCW 28A.160.195 (https://app.leg.wa.gov/rcw/default.aspx?cite=28A.160.195) - direct school-bus purchase notwithstanding the general bid law verified.",
+    "RCW 28A.160.260 (https://app.leg.wa.gov/rcw/default.aspx?cite=28A.160.260) - total-cost-of-ownership formula and (3)(a)(ii)-(iv) exceptions verified.",
+    "AGO 1984 No. 2 (https://www.atg.wa.gov/ago-opinions/competitive-bidding-school-district-transportation-contracts) - January 30, 1984 date and pre-1987 no-bidding-required conclusion verified; superseded by 1987 enactment.",
+    "WAC 392-172A-02095 - Provision of Special Education Services - Transportation (https://app.leg.wa.gov/wac/default.aspx?cite=392-172a-02095) - sequence of transportation options for special-education students verified; no separate contract-term/rebid/renewal rule.",
+    "WAC chapter 392-141 (https://app.leg.wa.gov/wac/default.aspx?cite=392-141&full=true) - definitions of 'private party contract' and 'in lieu transportation' verified; no separate contract-term/rebid/renewal rule for private contracts."
+  ],
+  "sourcesUnreachable": [
+    "OSPI 2024 session district impacts PDF (https://ospi.k12.wa.us/sites/default/files/2024-04/2024_session_district_impacts.pdf) - fetched but contents returned as binary/unreadable; underlying 2024 amendments separately confirmed via the official RCW 28A.160.140 history line. The renewal-mechanics finding does not rely on the OSPI PDF as primary authority.",
+    "OSPI Student Transportation page (https://ospi.k12.wa.us/policy-funding/student-transportation) - reachable but content focuses on driver training, STARS, and bus specifications; does not narrate RCW 28A.160.140 directly. Cited for OSPI program context, not as primary authority.",
+    "OSPI RCW-WAC Reference for Washington State Student Transportation (https://ospi.k12.wa.us/sites/default/files/2023-08/january2020washingtonstatestudenttransportationrcwsandwacs.pdf) - PDF binary content not text-extractable via WebFetch; not relied on as authority.",
+    "WSSDA Model Policy 6600 full subscription text (https://wssda.org/member-services/policy-services/model-policies/) - WSSDA model library is subscription-restricted; district-adopted instance (e.g., BoardDocs Peninsula SD) used as proxy and re-confirmed via web search."
+  ],
+  "sourceLedger": [
+    {
+      "sourceTier": "1 - Codified statute",
+      "citation": "RCW 28A.160.140 - Contract for pupil transportation services with private nongovernmental entity-Competitive bid procedures-Requirement for health care and pension benefits",
+      "officialUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.140",
+      "codeCurrency": "RCW current through August 15, 2025 (per leg.wa.gov RCW landing page). History: 2024 c 345 s 5; 2024 c 313 s 2; 1990 c 33 s 140; 1987 c 141 s 2. Formerly RCW 28A.58.133. Reviser's note: the 2024 amendments were incorporated under RCW 1.12.025(2).",
+      "fieldsSupported": "Fields 1 (Max term), 2 (Rebid), 3 (Renewal mechanics), 4 (Citation)",
+      "relevantText": "Subsection (1): As a condition of entering into a pupil transportation services contract with a private nongovernmental entity, each school district shall engage in an open competitive process at least once every five years. The requirement does not prohibit contracts of less than five years with a district option to renew, extend, or terminate, if the district engages in an open competitive process at least once every five years after July 26, 1987. Contracts using zero-emission school buses may be up to seven years. Subsection (4)(b) defines 'open competitive process' as (i) solicitation of bids/quotations under RCW 28A.335.190 or (ii) OFM-style personal-services RFP. Subsection (4)(c) defines 'pupil transportation services contract' as a contract for the operation of privately owned or school district owned school buses, and services of drivers/operators/supervisors/support personnel, to provide students with transportation to and from school on a regular basis. Subsections (2)-(3) impose 2024 SEBB-equivalent health-benefits and SERS-equivalent pension contributions for opt-in employees; require detailed explanation of contract cost increases; and impose a zero-emission-bus condition once cost parity is achieved (subject to RCW 28A.160.260(3)(a)(ii)-(iv) exceptions).",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute (cross-reference)",
+      "citation": "RCW 28A.335.190 - Advertising for bids-Competitive bid procedures-Purchases from inmate work programs-Emergencies-Exceptions-Definitions",
+      "officialUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=28A.335.190",
+      "codeCurrency": "RCW current through August 15, 2025",
+      "fieldsSupported": "Field 2 (Rebid) - defines one of the two permissible 'open competitive process' tracks under RCW 28A.160.140(4)(b)(i)",
+      "relevantText": "School-district bid law: written/telephonic quotations from at least three sources for $40,000 up to $75,000; formal newspaper-advertised bidding required above $75,000; contracts awarded to the lowest responsible bidder; exceptions include direct school-bus purchases under RCW 28A.160.195, emergencies, Washington-grown food, internal improvements under $75,000, and the small-works roster process.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute (chapter context)",
+      "citation": "RCW 28A.160.010 - Operation of student transportation program-Responsibility of local district",
+      "officialUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=28a.160.010",
+      "codeCurrency": "RCW current through August 15, 2025",
+      "fieldsSupported": "Context for Field 5 (district variance) - statewide board-of-directors responsibility framework",
+      "relevantText": "'The operation of each local school district's student transportation program is declared to be the responsibility of the respective board of directors, and each board of directors shall determine such matters as which individual students shall be transported and what routes shall be most efficiently utilized except as provided in RCW 28A.160.240.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute (cross-reference)",
+      "citation": "RCW 28A.160.195 - Purchase of school buses-Direct purchase from approved vendors",
+      "officialUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=28A.160.195",
+      "codeCurrency": "RCW current through August 15, 2025",
+      "fieldsSupported": "Field 2 (Rebid) context - direct school-bus purchases are exempt from the general school-district bid law, distinguishing bus acquisition from pupil transportation services contracts",
+      "relevantText": "'Notwithstanding RCW 28A.335.190, school districts and educational service districts may purchase at the quoted price directly from any dealer who is on the list established under subsection (2) of this section.'",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Codified statute (cross-reference)",
+      "citation": "RCW 28A.160.260 - Zero emission school buses-Total cost of ownership formula-Exceptions",
+      "officialUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=28A.160.260",
+      "codeCurrency": "RCW current through August 15, 2025",
+      "fieldsSupported": "Field 3 (Renewal mechanics) - zero-emission contracting condition under RCW 28A.160.140(3) with route-mileage, technological-capability, and charging-infrastructure exceptions",
+      "relevantText": "OSPI, in consultation with the Department of Ecology, adopts rules establishing total-cost-of-ownership formulas (initial cost, maintenance, fueling/charging, battery replacement). Subsection (3)(a)(ii)-(iv) provides exceptions for school districts whose route-mileage needs cannot be met by zero-emission performance under actual Washington conditions, whose other unique needs cannot be met by zero-emission technological capabilities, or that lack appropriate charging infrastructure (unless applied for available federal or state grants). Exceptions are limited to five-year periods and renewable if circumstances persist.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 - Administrative code",
+      "citation": "WAC 392-172A-02095 - Provision of Special Education Services-Transportation",
+      "officialUrl": "https://app.leg.wa.gov/wac/default.aspx?cite=392-172a-02095",
+      "codeCurrency": "WAC chapter 392-172A reviewed via official leg.wa.gov page.",
+      "fieldsSupported": "Special-education differentiation - confirms no separate term/rebid/renewal regime",
+      "relevantText": "Sequences transportation options for IEP-mandated transportation (school-bus service; private-party contracts; parent-provided arrangements; in-lieu board-and-room when other options are infeasible). Vehicles/operations governed by WAC chapters 392-143, 392-144, and 392-145. District is responsible for bus-aide and driver training/supervision. Includes provisions for state residential school student transportation. Does not impose a separate contract-term, rebid, or renewal rule.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "2 - Administrative code",
+      "citation": "WAC chapter 392-141 - Transportation-State allocation for operations (incl. definitions of 'private party contract' and 'in lieu transportation')",
+      "officialUrl": "https://app.leg.wa.gov/wac/default.aspx?cite=392-141&full=true",
+      "codeCurrency": "WAC content reviewed; no max-term, rebid, or renewal provision for private contracts located.",
+      "fieldsSupported": "Negative result for Fields 1-3 (no admin-code term/rebid/renewal rule); supports special-education differentiation analysis (private-party and in-lieu arrangements defined, but not different contracting term rules)",
+      "relevantText": "Defines 'private party contract' as the provision of home-to-school transportation service using a private provider (not in a school bus), with criminal background checks and child-safety-restraint requirements; vehicles with capacity for more than ten passengers must meet WAC 392-143 school-bus specifications. Defines 'in lieu transportation' as a contract to provide home-to-school transportation with a parent, guardian, or adult student, including transportation on rural roads to access a school-bus stop.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "3 - Attorney General opinion (superseded by statute)",
+      "citation": "AGO 1984 No. 2 - Competitive Bidding on School District Transportation Contracts (January 30, 1984)",
+      "officialUrl": "https://www.atg.wa.gov/ago-opinions/competitive-bidding-school-district-transportation-contracts",
+      "codeCurrency": "Issued January 30, 1984; pre-dates 1987 c 141 s 2 (which added the open-competitive-process requirement). Cited for historical context only.",
+      "fieldsSupported": "Field 2 (Rebid) - historical context; the no-bidding-required conclusion is expressly superseded by the 1987 amendment now codified as RCW 28A.160.140(1).",
+      "relevantText": "'The provisions of RCW 28A.58.135 do not require school districts to go through a competitive bidding process prior to entering into a contract for pupil transportation services under RCW 28A.58.131.' Reasoning: pupil transportation services were not listed among categories (furniture, supplies, equipment, building improvements, repairs) requiring competitive bidding; the 1987 Legislature subsequently enacted the open-competitive-process requirement.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "4 - Official state-agency guidance",
+      "citation": "OSPI - Student Transportation program page",
+      "officialUrl": "https://ospi.k12.wa.us/policy-funding/student-transportation",
+      "codeCurrency": "Reviewed June 2026; page focuses on driver training, STARS funding allocation, and state bus-bidding specifications.",
+      "fieldsSupported": "Program context (Field 5 - uniform statewide administration through OSPI); not relied on as primary authority for Fields 1-4.",
+      "relevantText": "OSPI administers driver training/certification, STARS funding allocation, school-bus specifications, and program guidance. Page does not narrate RCW 28A.160.140 directly; cited for program-administration context.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "5 - School-boards-association model policy",
+      "citation": "WSSDA Model Policy 6600 - Transportation (subscription-restricted full text); district-adopted instance (e.g., Peninsula SD via BoardDocs)",
+      "officialUrl": "https://wssda.org/member-services/policy-services/model-policies/ ; https://go.boarddocs.com/wa/psd/Board.nsf/goto?open=&amp=&id=8RXHXZ4AB22F",
+      "codeCurrency": "WSSDA model policies are periodically updated; district-adopted instances vary by adoption date.",
+      "fieldsSupported": "Field 5 (district variance) - supports finding of uniform application",
+      "relevantText": "Model Policy 6600 directs that 'The District's transportation program shall comply in all ways with State law and regulation,' consistent with uniform statewide application of RCW 28A.160.140.",
+      "accessedDate": "2026-06-24"
+    },
+    {
+      "sourceTier": "1 - Session-law currency check",
+      "citation": "Washington State Legislature, RCW Sections Affected - 2025 and 2026 Session Laws (RCW Order)",
+      "officialUrl": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Reports/Reports/RCW%20SL%20Sections%20Affected%202025.pdf ; https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Reports/Reports/RCW%20SL%20Sections%20Affected%202026.pdf",
+      "codeCurrency": "Official session-laws-affected reports for 2025 and 2026 reviewed.",
+      "fieldsSupported": "Currency confirmation for Fields 1-4 (no amendment to RCW 28A.160.140 in 2025 or 2026)",
+      "relevantText": "2025 session amendments affected RCW 28A.160.150, .170, .180, .195, .210, .220 but did NOT affect RCW 28A.160.140. 2026 session amendments affected RCW 28A.160.130 and .200 but did NOT affect 28A.160.140. The 2024 amendments (2024 c 345 s 5; 2024 c 313 s 2, incorporated under RCW 1.12.025(2)) remain the operative current text.",
+      "accessedDate": "2026-06-24"
+    }
+  ],
+  "verificationNotes": {
+    "searchStrategy": "(1) Re-opened RCW 28A.160.140 at app.leg.wa.gov to confirm verbatim text of subsections (1)-(4), the (2) SEBB/SERS-equivalent benefit conditions, the (3) zero-emission contracting condition, and the official history line. (2) Re-opened cross-references RCW 28A.335.190 (school-district bid law), RCW 28A.160.010 (board responsibility), RCW 28A.160.195 (school-bus acquisition exemption), and RCW 28A.160.260 (zero-emission total-cost-of-ownership formula and exceptions). (3) Verified AGO 1984 No. 2 at atg.wa.gov, confirming pre-1987 date and superseded-by-1987-enactment status. (4) Reviewed WAC 392-172A-02095 (special-education transportation provision) and WAC chapter 392-141 for any separate term/rebid/renewal rule (none located). (5) Searched 2025 and 2026 session-law sections-affected reports for amendments to RCW 28A.160.140 (none). (6) Reviewed WSSDA Model Policy 6600 language and district-adopted instances for variance signals.",
+    "currentLawCheck": "Washington RCW current through August 15, 2025 (leg.wa.gov RCW page currency notice). Official history line on RCW 28A.160.140 confirms 2024 c 345 s 5 and 2024 c 313 s 2 as most recent amendments, incorporated under RCW 1.12.025(2). 2025 and 2026 session laws amended other sections within Chapter 28A.160 RCW (e.g., .150, .170, .180, .195, .210, .220 in 2025; .130 and .200 in 2026) but not .140. WAC 392-141 reviewed; no separate contract-term/rebid/renewal rule located. WAC 392-172A-02095 reviewed; no separate special-education contract-term rule.",
+    "unresolvedIssues": "None. All five fields resolved against primary authority.",
+    "conflictChecks": "AGO 1984 No. 2 reviewed and confirmed superseded by 1987 c 141 s 2 (now codified as RCW 28A.160.140(1)); no current AGO conflict located. No state-auditor report or AG opinion located post-1987 indicating non-uniform district interpretation of the 5/7-year rebid trigger."
+  },
+  "notesSpecialProvisions": "Several Washington-specific provisions affect practical application of the five fields. (1) Small-purchase thresholds: RCW 28A.335.190 sets a $40,000 written/telephonic-quotation floor (requiring at least three sources) and a >$75,000 formal-bidding threshold; those thresholds apply only when a district chooses the RCW 28A.160.140(4)(b)(i) bid-law track of the open competitive process. (2) Sole-source/emergency procurement: RCW 28A.335.190 includes board waivers when delay would cause material injury to the district or its property (emergency exception), but no provision in RCW 28A.160.140 waives the 5-year (or 7-year zero-emission) open-competitive-process trigger itself. (3) Cooperative purchasing/piggyback: not addressed by RCW 28A.160.140; districts may still use interlocal cooperative arrangements under Washington's general interlocal cooperation framework, but a private-contractor pupil transportation services contract entered into directly by a district remains subject to the 5/7-year open-competitive-process trigger. (4) Charter-school rules: Washington charter public schools are LEAs operating under RCW 28A.710 and are not covered by the school-district statutory references in RCW 28A.160.140 in the same way; the statute by its terms applies to 'school district' contracts. (5) Special-education differences: none in the contract-term/rebid/renewal regime; WAC 392-172A-02095 governs delivery modes for IEP-mandated transportation, and WAC chapter 392-141 defines 'private party contract' and 'in lieu transportation' as funding/mode mechanisms. (6) State-approval requirements: contracts entered into, renewed, or extended after June 6, 2024 must satisfy the SEBB-equivalent health-benefits and SERS-equivalent pension conditions in RCW 28A.160.140(2) for opt-in employees, include the detailed cost-increase explanation, and (post-cost-parity, per (3) and RCW 28A.160.260) use zero-emission school buses unless an OSPI exception under RCW 28A.160.260(3)(a)(ii)-(iv) applies. (7) Direct bus acquisition: RCW 28A.160.195 exempts direct school-bus purchases from the general school-district bid law, but does not displace the open-competitive-process trigger for services contracts under RCW 28A.160.140.",
+  "exceptionsUnresolved": "All five fields resolved for Washington against primary authority. The official RCW 28A.160.140 history line was re-opened and verified, all cross-referenced sections (RCW 28A.335.190; RCW 28A.160.010; RCW 28A.160.195; RCW 28A.160.260) were re-opened, the 2024 amendments (2024 c 345 s 5; 2024 c 313 s 2, incorporated under RCW 1.12.025(2)) were confirmed as the most-recent operative amendments, and 2025/2026 session-law sections-affected reports were checked and confirmed not to amend RCW 28A.160.140. WAC 392-172A-02095 and WAC chapter 392-141 were reviewed and confirmed not to impose separate term/rebid/renewal rules for special-education or in-lieu/private-party transportation contracts. No unresolved authoritative conflict.",
+  "finalConfidence": "High"
+}
